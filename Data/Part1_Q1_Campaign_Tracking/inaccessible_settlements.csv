@@ -1,0 +1,76 @@
+settlement_id,settlement_name,ward_code,ward_name,lga_name,security_classification,date_classified
+S00955,Datina,W013,Sashako,Gwarin,Inaccessible,2026-02-24
+S00956,Irjiba-Yamma,W013,Sashako,Gwarin,Inaccessible,2026-02-24
+S00960,Kalama,W013,Sashako,Gwarin,Partially accessible,2026-02-24
+S00961,Kajita,W013,Sashako,Gwarin,Inaccessible,2026-02-24
+S00962,Uzsana-Gabas,W013,Sashako,Gwarin,Inaccessible,2026-02-24
+S00964,Uzdusa-Kudu,W013,Sashako,Gwarin,Inaccessible,2026-02-24
+S00966,Adrale,W013,Sashako,Gwarin,Inaccessible,2026-02-24
+S00967,Ekjimi,W013,Sashako,Gwarin,Partially accessible,2026-02-24
+S00971,Agtisa,W013,Sashako,Gwarin,Inaccessible,2026-02-24
+S00975,Kurita,W013,Sashako,Gwarin,Inaccessible,2026-02-24
+S00977,Irzawo,W013,Sashako,Gwarin,Inaccessible,2026-02-24
+S00980,Kudewo-Yamma,W013,Sashako,Gwarin,Partially accessible,2026-02-24
+S00984,Enlawo-Tudun,W013,Sashako,Gwarin,Partially accessible,2026-02-24
+S00985,Salako,W013,Sashako,Gwarin,Inaccessible,2026-02-24
+S00993,Badudu,W013,Sashako,Gwarin,Inaccessible,2026-02-24
+S01555,Haradu,W022,Sudefa,Katsuma,Partially accessible,2026-02-24
+S01556,Jikoru,W022,Sudefa,Katsuma,Partially accessible,2026-02-24
+S01560,Sujiyi-Yamma,W022,Sudefa,Katsuma,Inaccessible,2026-02-24
+S01562,Okyoshi,W022,Sudefa,Katsuma,Inaccessible,2026-02-24
+S01567,Jitiko-Kofar,W022,Sudefa,Katsuma,Inaccessible,2026-02-24
+S01570,Ekrishi,W022,Sudefa,Katsuma,Inaccessible,2026-02-24
+S01572,Kungona,W022,Sudefa,Katsuma,Partially accessible,2026-02-24
+S01575,Tatsiri,W022,Sudefa,Katsuma,Partially accessible,2026-02-24
+S01576,Adkona,W022,Sudefa,Katsuma,Inaccessible,2026-02-24
+S01580,Ringoni,W022,Sudefa,Katsuma,Inaccessible,2026-02-24
+S01584,Rizana,W022,Sudefa,Katsuma,Partially accessible,2026-02-24
+S01587,Ibnasa,W022,Sudefa,Katsuma,Inaccessible,2026-02-24
+S01588,Umtsidu,W022,Sudefa,Katsuma,Partially accessible,2026-02-24
+S01990,Kalawa,W031,Satide,Katsuma,Inaccessible,2026-02-24
+S01991,Zayole-Kofar,W031,Satide,Katsuma,Partially accessible,2026-02-24
+S01992,Ibriwo,W031,Satide,Katsuma,Inaccessible,2026-02-24
+S01994,Agbaba,W031,Satide,Katsuma,Partially accessible,2026-02-24
+S01996,Dararu,W031,Satide,Katsuma,Inaccessible,2026-02-24
+S01998,Hadele,W031,Satide,Katsuma,Inaccessible,2026-02-24
+S02000,Wangoyi,W031,Satide,Katsuma,Partially accessible,2026-02-24
+S02004,Gukoyi,W031,Satide,Katsuma,Partially accessible,2026-02-24
+S02007,Ekngoshi,W031,Satide,Katsuma,Inaccessible,2026-02-24
+S02008,Enlari,W031,Satide,Katsuma,Inaccessible,2026-02-24
+S02011,Adluba-Tsakiya,W031,Satide,Katsuma,Inaccessible,2026-02-24
+S02019,Dobawo,W031,Satide,Katsuma,Inaccessible,2026-02-24
+S02024,Irtiru,W031,Satide,Katsuma,Inaccessible,2026-02-24
+S02030,Uzwawo,W031,Satide,Katsuma,Partially accessible,2026-02-24
+S02031,Ekjishi-Sabo,W031,Satide,Katsuma,Inaccessible,2026-02-24
+S02032,Babena,W031,Satide,Katsuma,Inaccessible,2026-02-24
+S02035,Oldeshi,W031,Satide,Katsuma,Inaccessible,2026-02-24
+S02039,Yengoni,W031,Satide,Katsuma,Inaccessible,2026-02-24
+S02042,Lonata-Kudu,W031,Satide,Katsuma,Inaccessible,2026-02-24
+S02043,Sujide-Gabas,W031,Satide,Katsuma,Partially accessible,2026-02-24
+S02044,Enkota-Kudu,W031,Satide,Katsuma,Partially accessible,2026-02-24
+S02048,Sariri,W031,Satide,Katsuma,Inaccessible,2026-02-24
+S02313,Olluru,W037,Longoma,Katsuma,Inaccessible,2026-02-24
+S02322,Umbede,W037,Longoma,Katsuma,Partially accessible,2026-02-24
+S02327,Bizade-Kofar,W037,Longoma,Katsuma,Inaccessible,2026-02-24
+S02330,Ibderu,W037,Longoma,Katsuma,Partially accessible,2026-02-24
+S02336,Agnade,W037,Longoma,Katsuma,Inaccessible,2026-02-24
+S02339,Umluyi,W037,Longoma,Katsuma,Partially accessible,2026-02-24
+S02340,Lotsishi,W037,Longoma,Katsuma,Inaccessible,2026-02-24
+S02347,Washari,W037,Longoma,Katsuma,Partially accessible,2026-02-24
+S02361,Bizaru,W037,Longoma,Katsuma,Partially accessible,2026-02-24
+S02368,Zabadu,W038,Sashasa,Katsuma,Inaccessible,2026-02-24
+S02371,Enduyi,W038,Sashasa,Katsuma,Partially accessible,2026-02-24
+S02374,Irriwo,W038,Sashasa,Katsuma,Partially accessible,2026-02-24
+S02379,Sushatu-Arewa,W038,Sashasa,Katsuma,Inaccessible,2026-02-24
+S02380,Hangowo,W038,Sashasa,Katsuma,Inaccessible,2026-02-24
+S02386,Zakoma,W038,Sashasa,Katsuma,Inaccessible,2026-02-24
+S02390,Nulatu,W038,Sashasa,Katsuma,Inaccessible,2026-02-24
+S02391,Uzbeja,W038,Sashasa,Katsuma,Inaccessible,2026-02-24
+S02393,Umrawo,W038,Sashasa,Katsuma,Partially accessible,2026-02-24
+S02398,Hazawa,W038,Sashasa,Katsuma,Partially accessible,2026-02-24
+S02403,Agjima-Kudu,W038,Sashasa,Katsuma,Inaccessible,2026-02-24
+S02408,Nurishi,W038,Sashasa,Katsuma,Partially accessible,2026-02-24
+S02410,Makofa,W038,Sashasa,Katsuma,Inaccessible,2026-02-24
+S02414,Nuberu-Yamma,W038,Sashasa,Katsuma,Inaccessible,2026-02-24
+S02416,Yedeja,W038,Sashasa,Katsuma,Inaccessible,2026-02-24
+S02421,Sawatu,W038,Sashasa,Katsuma,Partially accessible,2026-02-24

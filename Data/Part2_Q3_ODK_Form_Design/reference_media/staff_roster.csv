@@ -1,0 +1,121 @@
+name,label,team_code,role,assigned_lga,pin,phlebotomy_certified
+ENU001,Enumerator 001,TM01,Enumerator,Gwarin,9384,yes
+ENU002,Enumerator 002,TM02,Enumerator,Idi-Oro,8753,no
+ENU003,Enumerator 003,TM03,Enumerator,Ilela,9219,no
+ENU004,Enumerator 004,TM04,Enumerator,Katsuma,3333,no
+ENU005,Enumerator 005,TM05,Team supervisor,Gwarin,4703,yes
+ENU006,Enumerator 006,TM06,Enumerator,Idi-Oro,4796,yes
+ENU007,Enumerator 007,TM07,Enumerator,Ilela,8764,yes
+ENU008,Enumerator 008,TM08,Enumerator,Katsuma,5532,no
+ENU009,Enumerator 009,TM09,Enumerator,Gwarin,4939,no
+ENU010,Enumerator 010,TM10,Team supervisor,Idi-Oro,4904,no
+ENU011,Enumerator 011,TM11,Enumerator,Ilela,3383,yes
+ENU012,Enumerator 012,TM12,Enumerator,Katsuma,2800,yes
+ENU013,Enumerator 013,TM13,Enumerator,Gwarin,1697,yes
+ENU014,Enumerator 014,TM14,Enumerator,Idi-Oro,8858,no
+ENU015,Enumerator 015,TM15,Team supervisor,Ilela,7048,no
+ENU016,Enumerator 016,TM16,Enumerator,Katsuma,2887,no
+ENU017,Enumerator 017,TM17,Enumerator,Gwarin,5825,no
+ENU018,Enumerator 018,TM18,Enumerator,Idi-Oro,2895,yes
+ENU019,Enumerator 019,TM19,Enumerator,Ilela,8474,yes
+ENU020,Enumerator 020,TM20,Team supervisor,Katsuma,8492,yes
+ENU021,Enumerator 021,TM21,Enumerator,Gwarin,3500,no
+ENU022,Enumerator 022,TM22,Enumerator,Idi-Oro,2202,yes
+ENU023,Enumerator 023,TM23,Enumerator,Ilela,5665,no
+ENU024,Enumerator 024,TM24,Enumerator,Katsuma,9357,no
+ENU025,Enumerator 025,TM01,Team supervisor,Gwarin,8346,yes
+ENU026,Enumerator 026,TM02,Enumerator,Idi-Oro,3541,yes
+ENU027,Enumerator 027,TM03,Enumerator,Ilela,5652,no
+ENU028,Enumerator 028,TM04,Enumerator,Katsuma,9462,no
+ENU029,Enumerator 029,TM05,Enumerator,Gwarin,8662,yes
+ENU030,Enumerator 030,TM06,Team supervisor,Idi-Oro,9108,yes
+ENU031,Enumerator 031,TM07,Enumerator,Ilela,3467,yes
+ENU032,Enumerator 032,TM08,Enumerator,Katsuma,6975,yes
+ENU033,Enumerator 033,TM09,Enumerator,Gwarin,4770,yes
+ENU034,Enumerator 034,TM10,Enumerator,Idi-Oro,2552,no
+ENU035,Enumerator 035,TM11,Team supervisor,Ilela,5915,no
+ENU036,Enumerator 036,TM12,Enumerator,Katsuma,2133,yes
+ENU037,Enumerator 037,TM13,Enumerator,Gwarin,4353,yes
+ENU038,Enumerator 038,TM14,Enumerator,Idi-Oro,3248,no
+ENU039,Enumerator 039,TM15,Enumerator,Ilela,9276,yes
+ENU040,Enumerator 040,TM16,Team supervisor,Katsuma,8343,no
+ENU041,Enumerator 041,TM17,Enumerator,Gwarin,1300,no
+ENU042,Enumerator 042,TM18,Enumerator,Idi-Oro,1647,no
+ENU043,Enumerator 043,TM19,Enumerator,Ilela,3968,no
+ENU044,Enumerator 044,TM20,Enumerator,Katsuma,3696,yes
+ENU045,Enumerator 045,TM21,Team supervisor,Gwarin,1785,no
+ENU046,Enumerator 046,TM22,Enumerator,Idi-Oro,2646,no
+ENU047,Enumerator 047,TM23,Enumerator,Ilela,6870,no
+ENU048,Enumerator 048,TM24,Enumerator,Katsuma,6979,no
+ENU049,Enumerator 049,TM01,Enumerator,Gwarin,6531,yes
+ENU050,Enumerator 050,TM02,Team supervisor,Idi-Oro,1834,yes
+ENU051,Enumerator 051,TM03,Enumerator,Ilela,4709,no
+ENU052,Enumerator 052,TM04,Enumerator,Katsuma,1412,yes
+ENU053,Enumerator 053,TM05,Enumerator,Gwarin,7159,no
+ENU054,Enumerator 054,TM06,Enumerator,Idi-Oro,4169,yes
+ENU055,Enumerator 055,TM07,Team supervisor,Ilela,4101,yes
+ENU056,Enumerator 056,TM08,Enumerator,Katsuma,6884,yes
+ENU057,Enumerator 057,TM09,Enumerator,Gwarin,7765,yes
+ENU058,Enumerator 058,TM10,Enumerator,Idi-Oro,6544,no
+ENU059,Enumerator 059,TM11,Enumerator,Ilela,2575,yes
+ENU060,Enumerator 060,TM12,Team supervisor,Katsuma,5497,no
+ENU061,Enumerator 061,TM13,Enumerator,Gwarin,6820,yes
+ENU062,Enumerator 062,TM14,Enumerator,Idi-Oro,8594,no
+ENU063,Enumerator 063,TM15,Enumerator,Ilela,1707,no
+ENU064,Enumerator 064,TM16,Enumerator,Katsuma,1065,yes
+ENU065,Enumerator 065,TM17,Team supervisor,Gwarin,8333,no
+ENU066,Enumerator 066,TM18,Enumerator,Idi-Oro,8224,no
+ENU067,Enumerator 067,TM19,Enumerator,Ilela,5304,yes
+ENU068,Enumerator 068,TM20,Enumerator,Katsuma,1210,yes
+ENU069,Enumerator 069,TM21,Enumerator,Gwarin,8214,no
+ENU070,Enumerator 070,TM22,Team supervisor,Idi-Oro,1259,no
+ENU071,Enumerator 071,TM23,Enumerator,Ilela,9623,no
+ENU072,Enumerator 072,TM24,Enumerator,Katsuma,1785,no
+ENU073,Enumerator 073,TM01,Enumerator,Gwarin,7692,no
+ENU074,Enumerator 074,TM02,Enumerator,Idi-Oro,7549,yes
+ENU075,Enumerator 075,TM03,Team supervisor,Ilela,2230,yes
+ENU076,Enumerator 076,TM04,Enumerator,Katsuma,2289,no
+ENU077,Enumerator 077,TM05,Enumerator,Gwarin,3163,yes
+ENU078,Enumerator 078,TM06,Enumerator,Idi-Oro,7049,no
+ENU079,Enumerator 079,TM07,Enumerator,Ilela,8561,no
+ENU080,Enumerator 080,TM08,Team supervisor,Katsuma,7182,yes
+ENU081,Enumerator 081,TM09,Enumerator,Gwarin,7141,no
+ENU082,Enumerator 082,TM10,Enumerator,Idi-Oro,9538,yes
+ENU083,Enumerator 083,TM11,Enumerator,Ilela,2728,no
+ENU084,Enumerator 084,TM12,Enumerator,Katsuma,8137,no
+ENU085,Enumerator 085,TM13,Team supervisor,Gwarin,5528,yes
+ENU086,Enumerator 086,TM14,Enumerator,Idi-Oro,5112,yes
+ENU087,Enumerator 087,TM15,Enumerator,Ilela,8761,no
+ENU088,Enumerator 088,TM16,Enumerator,Katsuma,2588,no
+ENU089,Enumerator 089,TM17,Enumerator,Gwarin,9426,no
+ENU090,Enumerator 090,TM18,Team supervisor,Idi-Oro,8257,yes
+ENU091,Enumerator 091,TM19,Enumerator,Ilela,4642,yes
+ENU092,Enumerator 092,TM20,Enumerator,Katsuma,1665,yes
+ENU093,Enumerator 093,TM21,Enumerator,Gwarin,4550,yes
+ENU094,Enumerator 094,TM22,Enumerator,Idi-Oro,4023,yes
+ENU095,Enumerator 095,TM23,Team supervisor,Ilela,9642,no
+ENU096,Enumerator 096,TM24,Enumerator,Katsuma,7352,no
+ENU097,Enumerator 097,TM01,Enumerator,Gwarin,3655,no
+ENU098,Enumerator 098,TM02,Enumerator,Idi-Oro,7224,no
+ENU099,Enumerator 099,TM03,Enumerator,Ilela,1142,yes
+ENU100,Enumerator 100,TM04,Team supervisor,Katsuma,8485,no
+ENU101,Enumerator 101,TM05,Enumerator,Gwarin,1085,no
+ENU102,Enumerator 102,TM06,Enumerator,Idi-Oro,1920,yes
+ENU103,Enumerator 103,TM07,Enumerator,Ilela,2810,no
+ENU104,Enumerator 104,TM08,Enumerator,Katsuma,7138,yes
+ENU105,Enumerator 105,TM09,Team supervisor,Gwarin,9092,yes
+ENU106,Enumerator 106,TM10,Enumerator,Idi-Oro,3387,no
+ENU107,Enumerator 107,TM11,Enumerator,Ilela,3147,yes
+ENU108,Enumerator 108,TM12,Enumerator,Katsuma,2386,no
+ENU109,Enumerator 109,TM13,Enumerator,Gwarin,7056,yes
+ENU110,Enumerator 110,TM14,Team supervisor,Idi-Oro,5658,yes
+ENU111,Enumerator 111,TM15,Enumerator,Ilela,7998,no
+ENU112,Enumerator 112,TM16,Enumerator,Katsuma,8778,yes
+ENU113,Enumerator 113,TM17,Enumerator,Gwarin,7170,yes
+ENU114,Enumerator 114,TM18,Enumerator,Idi-Oro,5381,yes
+ENU115,Enumerator 115,TM19,Team supervisor,Ilela,8715,yes
+ENU116,Enumerator 116,TM20,Enumerator,Katsuma,9332,no
+ENU117,Enumerator 117,TM21,Enumerator,Gwarin,9283,yes
+ENU118,Enumerator 118,TM22,Enumerator,Idi-Oro,3996,no
+ENU119,Enumerator 119,TM23,Enumerator,Ilela,7782,yes
+ENU120,Enumerator 120,TM24,Team supervisor,Katsuma,1282,yes

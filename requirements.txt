@@ -1,0 +1,9 @@
+pandas>=2.0
+geopandas>=0.14
+duckdb>=1.0
+rapidfuzz>=3.0
+pyproj>=3.6
+shapely>=2.0
+matplotlib>=3.8
+openpyxl>=3.1
+samplics>=0.6
