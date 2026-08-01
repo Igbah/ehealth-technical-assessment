@@ -188,3 +188,38 @@ lon/lat transposition finding was safe to leave as a documented note
 (rather than something requiring a code fix, since it doesn't feed into
 the analysis) were both mine, based on reviewing the actual join logic
 and confirming nothing downstream depends on the affected coordinates.
+
+## 2026-08-01 — Build 04_classify_gaps.py: distinguish facility-absent from understaffed-facility gaps
+
+**Commit:** 7101316
+**Files:** Pipeline/04_classify_gaps.py, Outputs/ward_gap_classification.csv
+
+**What AI assisted with:**
+- The assessment required distinguishing wards underserved because no
+  facility exists nearby from wards underserved because a nearby
+  facility exists but fails minimum staffing norms — these require
+  different interventions (new construction vs. staff deployment).
+  03_compute_access.py's travel-time-to-nearest-adequate-facility number
+  alone can't make this distinction on its own.
+- AI proposed computing a second measure — travel time to the nearest
+  facility of ANY staffing status — and classifying each ward by
+  comparing the two against a documented 60-minute threshold. Built as
+  a separate, self-contained script (rather than modifying the already-
+  tested 03_compute_access.py) at my request, reusing the same road-
+  network graph and cached-Dijkstra routing approach.
+- Verified the classification logic against six synthetic test cases
+  before running it on real data, including both boundary conditions
+  (a ward exactly at the 60-minute threshold, and a ward just over it).
+
+**What I verified independently:**
+- Ran the script against the real dataset: 296 wards (11.6M people)
+  adequately served, 209 wards (7.6M people) with no facility of any
+  kind reasonably nearby, 115 wards (3.7M people) with a nearby facility
+  that fails staffing norms.
+- Reviewed the travel-time distribution (median 61.8 min, right at the
+  chosen 60-min threshold) and noted the threshold-sensitivity caveat
+  for the write-up rather than treating the classification as exact.
+
+**Judgment retained:** the choice of 60 minutes as the underserved
+threshold, and the decision to build this as a separate script rather
+than extending 03_compute_access.py, were both mine.
