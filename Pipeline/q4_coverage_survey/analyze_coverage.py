@@ -28,7 +28,7 @@ Steps:
 import numpy as np
 import pandas as pd
 
-DATA_DIR = "/mnt/user-data/uploads"
+DATA_DIR = r"C:\Users\Administrator\Desktop\e-health_assessment\Data\Part2_Q4_Coverage_Survey"
 
 
 def load_and_dedupe():
@@ -185,7 +185,7 @@ def main():
     print(f"[comparison] design effect on point estimate: "
           f"{(overall_r - unweighted)*100:+.1f} percentage points")
 
-    analysis.to_csv("/mnt/user-data/outputs/q4_analysis_dataset.csv", index=False)
+    analysis.to_csv(r"C:\Users\Administrator\Desktop\e-health_assessment\Outputs\q4_analysis_dataset.csv", index=False)
     print("\nwrote q4_analysis_dataset.csv")
 
 
