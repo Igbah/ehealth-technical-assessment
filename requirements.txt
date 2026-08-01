@@ -1,9 +1,19 @@
+# Core data handling — used across both Q2 and Q4 pipelines
 pandas>=2.0
-geopandas>=0.14
-duckdb>=1.0
-rapidfuzz>=3.0
-pyproj>=3.6
-shapely>=2.0
-matplotlib>=3.8
-openpyxl>=3.1
-samplics>=0.6
+numpy>=1.24
+
+# Q2 (Part 1, Question 2) — facility access analysis
+rapidfuzz>=3.0          # fuzzy LGA name matching in 01_clean.py
+openpyxl>=3.1            # required by pandas.read_excel() to read LGA_SEN_Districts.xlsx in 01_clean.py
+duckdb>=1.0               # analytical database + spatial extension (02-05); spatial extension
+                           # is downloaded automatically on first `LOAD spatial;` call and
+                           # requires internet access at that point only
+networkx>=3.0            # road-network graph + Dijkstra shortest-path routing (03, 04)
+shapely>=2.0              # WKT geometry parsing for road network edges (03, 04)
+
+# No separate package needed for GeoPackage/GeoJSON reading in the delivered pipeline —
+# these are handled by DuckDB's spatial extension (ST_Read, ST_AsText, ST_Centroid, ST_X, ST_Y)
+# rather than a Python GIS library, to keep the dependency footprint minimal.
+
+# Q4 (Part 2, Question 4) — coverage survey analysis
+# No additional packages beyond pandas/numpy above.
