@@ -98,7 +98,25 @@ def normalize_lga_name(name: str) -> str:
     return s.strip().lower()
 
 
-def build_lga_reference(ref_xlsx: str) -> pd.DataFrame:
+def load_spatial_lga_lookup(gpkg_path: str) -> dict:
+    """Load the 'lgas' layer of the spatial boundaries GeoPackage and
+    return {lga_code: sen_district} — used as an independent source to
+    break ties when the tabular reference has duplicate/conflicting
+    lga_code rows. Spatial boundary polygons are treated as more
+    authoritative than a citation string in a spreadsheet's Remarks
+    column, since a citation is unverified text while the boundary file
+    and the facility registry's own self-reports are independent
+    corroborating sources."""
+    import fiona
+    lookup = {}
+    with fiona.open(gpkg_path, layer="lgas") as src:
+        for feat in src:
+            props = feat["properties"]
+            lookup[props["lga_code"]] = props["sen_district"]
+    return lookup
+
+
+def build_lga_reference(ref_xlsx: str, spatial_gpkg: str = None) -> pd.DataFrame:
     """Load the LGA_SEN_Districts reference spreadsheet.
 
     Handles two real quirks of the source file:
@@ -143,18 +161,34 @@ def build_lga_reference(ref_xlsx: str) -> pd.DataFrame:
         print(f"[reconcile] {dupe_codes.nunique()} LGA code(s) have conflicting "
               f"senatorial-district rows in the reference table: "
               f"{sorted(dupe_codes.astype(str).unique())}")
-        # Resolution rule: prefer the row whose Remarks cites a specific
-        # gazette/transfer notice over a plain unremarked row, since that
-        # indicates the more recent authoritative assignment.
-        ref["_has_gazette"] = ref["remarks"].astype(str).str.contains(
-            "gazette", case=False, na=False
+
+        spatial_lookup = load_spatial_lga_lookup(spatial_gpkg) if spatial_gpkg else {}
+
+        def resolve_group(group: pd.DataFrame) -> pd.DataFrame:
+            code = group.name
+            spatial_value = spatial_lookup.get(code)
+            if spatial_value is not None:
+                match = group[group["senatorial_district"] == spatial_value]
+                if len(match) == 1:
+                    return match
+                # spatial file didn't resolve it (no or multiple match) — fall through
+            # Fallback: prefer a row whose Remarks cites a gazette/transfer notice,
+            # used only when the spatial boundary file can't settle the tie.
+            group = group.copy()
+            group["_has_gazette"] = group["remarks"].astype(str).str.contains(
+                "gazette", case=False, na=False
+            )
+            return group.sort_values("_has_gazette", ascending=False).head(1).drop(columns="_has_gazette")
+
+        resolved_dupes = (
+            ref[ref["lga_code"].isin(dupe_codes.unique())]
+            .groupby("lga_code", group_keys=False)
+            .apply(resolve_group)
         )
-        ref = (
-            ref.sort_values("_has_gazette", ascending=False)
-            .drop_duplicates(subset="lga_code", keep="first")
-            .drop(columns="_has_gazette")
-            .reset_index(drop=True)
-        )
+        ref = pd.concat([
+            ref[~ref["lga_code"].isin(dupe_codes.unique())],
+            resolved_dupes,
+        ]).reset_index(drop=True)
 
     return ref
 
@@ -211,9 +245,10 @@ def reconcile_lga(facility_lga: str, facility_sen_district: str, ref: pd.DataFra
 # Driver
 # ---------------------------------------------------------------------------
 
-def clean(facilities_csv: str, lga_ref_xlsx: str, output_csv: str, log_csv: str) -> None:
+def clean(facilities_csv: str, lga_ref_xlsx: str, output_csv: str, log_csv: str,
+          spatial_gpkg: str = None) -> None:
     df = pd.read_csv(facilities_csv, dtype=str)
-    ref = build_lga_reference(lga_ref_xlsx)
+    ref = build_lga_reference(lga_ref_xlsx, spatial_gpkg=spatial_gpkg)
 
     # B. Drop junk placeholder rows
     junk_mask = df["facility_name"].str.strip().str.lower() == "unnamed facility"
@@ -286,4 +321,5 @@ if __name__ == "__main__":
         r"C:\Users\Administrator\Desktop\e-health_assessment\Data\Part1_Q2_Facility_Access\LGA_SEN_Districts.xlsx",
         r"C:\Users\Administrator\Desktop\e-health_assessment\Outputs\facilities_clean.csv",
         r"C:\Users\Administrator\Desktop\e-health_assessment\Outputs\reconciliation_log.csv",
+        spatial_gpkg=r"C:\Users\Administrator\Desktop\e-health_assessment\Data\Part1_Q2_Facility_Access\admin_boundaries.gpkg",
     )
