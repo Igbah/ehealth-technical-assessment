@@ -1,0 +1,1347 @@
+facility_id,facility_type,longitude_clean,latitude_clean,geom,med_officers,nurses_midwives,chews,lab_scientists,pharm_techs,adequacy_status
+HF00260,Primary Health Centre,7.908017,7.950908,\x01\x01\x00\x00\x00\x1F\xD9\x5C5\xCF\xA1\x1F@\xE2\x04\xA6\xD3\xBA\xCD\x1F@,0.0,4.0,4.0,2.0,0.0,adequate
+HF00805,Primary Health Centre,10.148729,8.435272,\x01\x01\x00\x00\x00\xFE\xEE\x1D5&L$@\xA1\xBA\xB9\xF8\xDB\xDE @,0.0,3.0,1.0,2.0,1.0,inadequate
+HF00465,Primary Health Centre,7.805461,9.003807,\x01\x01\x00\x00\x00W\xD0\xB4\xC4\xCA8\x1F@\xE3\xFD\xB8\xFD\xF2\x01\x22@,,,,,,no_personnel_record
+HF01015,Primary Health Centre,10.373417,11.38859,\x01\x01\x00\x00\x00v\x8AU\x830\xBF$@\xF4\x1A\xBBD\xF5\xC6&@,0.0,7.0,6.0,2.0,3.0,adequate
+HF01201,Comprehensive Health Centre,9.177497,9.482001,\x01\x01\x00\x00\x00\xB7F\x04\xE3\xE0Z\x22@RG\xC7\xD5\xC8\xF6\x22@,6.0,3.0,11.0,4.0,3.0,inadequate
+HF00273,Primary Health Centre,7.565845,7.982768,\x01\x01\x00\x00\x00\xA5k&\xDFlC\x1E@\xA88\x0E\xBCZ\xEE\x1F@,0.0,3.0,3.0,2.0,0.0,adequate
+HF00627,Primary Health Centre,7.045256,11.00942,\x01\x01\x00\x00\x00\x86\xCA\xBF\x96W.\x1C@M\xDB\xBF\xB2\xD2\x04&@,2.0,5.0,3.0,1.0,0.0,adequate
+HF00670,Health Post,8.619,11.144178,\x01\x01\x00\x00\x00\xB0rh\x91\xED<!@\xFA\x9A\xE5\xB2\xD1I&@,1.0,2.0,2.0,1.0,1.0,adequate
+HF01243,Comprehensive Health Centre,9.890179,9.661979,"\x01\x01\x00\x00\x00\x06,\xB9\x8A\xC5\xC7#@\x0FGW\xE9\xEER#@",0.0,7.0,2.0,0.0,3.0,inadequate
+HF01067,Primary Health Centre,9.875497,10.846114,"\x01\x01\x00\x00\x00\x02~\x8D$A\xC0#@ `\xAD\xDA5\xB1%@",3.0,8.0,10.0,0.0,1.0,adequate
+HF00948,Primary Health Centre,9.642666666666667,10.93886111111111,"\x01\x01\x00\x00\x00\x16 \xF7\x9A\x0BI#@\xB9jOg\xB2\xE0%@",1.0,1.0,1.0,0.0,0.0,inadequate
+HF00985,Primary Health Centre,10.04905,11.212248,\x01\x01\x00\x00\x00\xD3\xBC\xE3\x14\x1D\x19$@gH\x15\xC5\xABl&@,2.0,4.0,12.0,2.0,1.0,adequate
+HF00573,Primary Health Centre,7.630692,11.172943,\x01\x01\x00\x00\x004e\xA7\x1F\xD4\x85\x1E@\xEE$\x22\xFC\x8BX&@,1.0,4.0,3.0,0.0,0.0,adequate
+HF00512,Primary Health Centre,8.1,10.52,\x01\x01\x00\x00\x00333333 @\x0A\xD7\xA3p=\x0A%@,0.0,0.0,6.0,1.0,1.0,inadequate
+HF00003,Cottage Hospital,6.207094,9.310755,"\x01\x01\x00\x00\x00\x92\xCA\x14s\x10\xD4\x18@\x10#\x84G\x1B\x9F\x22@",4.0,13.0,14.0,5.0,2.0,adequate
+HF00770,Health Post,8.442248,7.967341,\x01\x01\x00\x00\x00\x5CqqTn\xE2 @\xDBQ\x9C\xA3\x8E\xDE\x1F@,0.0,1.0,2.0,0.0,0.0,adequate
+HF00622,Health Post,6.945808,10.924193,"\x01\x01\x00\x00\x00A.q\xE4\x81\xC8\x1B@_b,\xD3/\xD9%@",0.0,2.0,2.0,0.0,0.0,adequate
+HF00892,Health Post,8.376408,9.003115,\x01\x01\x00\x00\x00\xD1\xE7\xA3\x8C\xB8\xC0 @\x0BA\x0EJ\x98\x01\x22@,1.0,0.0,2.0,0.0,0.0,adequate
+HF00611,Health Post,7.713948,10.9272,\x01\x01\x00\x00\x00\xAE-</\x15\xDB\x1E@\xD0\xB3Y\xF5\xB9\xDA%@,0.0,1.0,0.0,0.0,0.0,inadequate
+HF00268,Health Post,8.235656,8.049994,\x01\x01\x00\x00\x00]6:\xE7\xA7x @\x11\xFEE\xD0\x98\x19 @,0.0,2.0,1.0,0.0,0.0,inadequate
+HF00667,Primary Health Centre,8.611593,10.999355,\x01\x01\x00\x00\x00\xD0\xEC\xBA\xB7\x229!@+0du\xAB\xFF%@,0.0,5.0,3.0,0.0,1.0,adequate
+HF00557,Primary Health Centre,7.585153,10.02703,\x01\x01\x00\x00\x00\x0A\xA0\x18Y2W\x1E@\x92\x05L\xE0\xD6\x0D$@,0.0,1.0,3.0,0.0,1.0,inadequate
+HF00890,Cottage Hospital,8.143249,8.751841,\x01\x01\x00\x00\x00\x92^\xD4\xEEWI @y\x95\xB5M\xF1\x80!@,1.0,5.0,9.0,2.0,6.0,inadequate
+HF00762,Health Post,8.397973,7.799525,\x01\x01\x00\x00\x00\xCCa\xF7\x1D\xC3\xCB @mV}\xAE\xB62\x1F@,1.0,2.0,1.0,0.0,0.0,inadequate
+HF01107,Health Post,8.92082,11.504555,\x01\x01\x00\x00\x00e\x01\x13\xB8u\xD7!@\x0A\x11p\x08U\x02\x27@,1.0,1.0,2.0,1.0,0.0,adequate
+HF00856,Primary Health Centre,8.980323,8.545614,\x01\x01\x00\x00\x00\x81\x08q\xE5\xEC\xF5!@\xC0z\xDC\xB7Z\x17!@,3.0,3.0,4.0,1.0,2.0,adequate
+HF00558,Primary Health Centre,7.570048,9.926803,"\x01\x01\x00\x00\x00\xD0\x99\xB4\xA9\xBAG\x1E@\x5C\xAB=\xEC\x85\xDA#@",,,,,,no_personnel_record
+HF00814,Primary Health Centre,9.13,8.13,\x01\x01\x00\x00\x00\xC3\xF5(\x5C\x8FB\x22@\xC3\xF5(\x5C\x8FB @,2.0,1.0,4.0,2.0,0.0,inadequate
+HF00438,Health Post,7.398021,8.406092,\x01\x01\x00\x00\x00 |(\xD1\x92\x97\x1D@\x9FUfJ\xEB\xCF @,0.0,1.0,1.0,0.0,0.0,inadequate
+HF00054,Health Post,6.110032,9.753453,"\x01\x01\x00\x00\x00\xCC\x0D\x86:\xACp\x18@l%t\x97\xC4\x81#@",1.0,2.0,1.0,0.0,0.0,inadequate
+HF00507,Primary Health Centre,7.870121,10.361789,\x01\x01\x00\x00\x00S@\xDA\xFF\x00{\x1F@\xE7\x1Afh<\xB9$@,0.0,1.0,5.0,1.0,1.0,inadequate
+HF01185,Cottage Hospital,9.836989,8.910924,"\x01\x01\x00\x00\x0079|\xD2\x89\xAC#@sHj\xA1d\xD2!@",0.0,1.0,8.0,2.0,2.0,inadequate
+HF01076,Primary Health Centre,9.287224,11.580015,\x01\x01\x00\x00\x00\xAB@-\x06\x0F\x93\x22@\xFE`\xE0\xB9\xF7(\x27@,,,,,,no_personnel_record
+HF00980,Health Post,,,,1.0,2.0,0.0,0.0,0.0,inadequate
+HF00135,Primary Health Centre,6.727273,9.542573,"\x01\x01\x00\x00\x00$\x0E\xD9@\xBA\xE8\x1A@\x9Eb\xD5 \xCC\x15#@",,,,,,no_personnel_record
+HF01196,Primary Health Centre,10.180412,9.060246,\x01\x01\x00\x00\x00\xA6\x9C/\xF6^\x5C$@\xFCmO\x90\xD8\x1E\x22@,1.0,3.0,4.0,0.0,1.0,adequate
+HF00521,Primary Health Centre,8.360091,9.987065,"\x01\x01\x00\x00\x00\xFA*\xF9\xD8]\xB8 @o\x0Dl\x95`\xF9#@",1.0,6.0,0.0,1.0,1.0,inadequate
+HF00109,Primary Health Centre,6.640567,9.831372,"\x01\x01\x00\x00\x00[\x96\xAF\xCB\xF0\x8F\x1A@\xC7\x9E=\x97\xA9\xA9#@",1.0,2.0,4.0,1.0,1.0,adequate
+HF00310,Health Post,,,,1.0,2.0,1.0,0.0,0.0,inadequate
+HF00846,Primary Health Centre,9.272512,8.539446,\x01\x01\x00\x00\x00\xFD\x88_\xB1\x86\x8B\x22@\x81\xEA\x1FD2\x14!@,1.0,4.0,1.0,0.0,1.0,inadequate
+HF00517,Primary Health Centre,8.206622,9.791996,"\x01\x01\x00\x00\x00\xAAD\xD9[\xCAi @) \xED\x7F\x80\x95#@",0.0,3.0,7.0,1.0,0.0,adequate
+HF00322,Primary Health Centre,7.959599,7.670939,\x01\x01\x00\x00\x00\xE3\x18\xC9\x1E\xA1\xD6\x1F@\x9Bq\x1A\xA2\x0A\xAF\x1E@,0.0,2.0,5.0,2.0,0.0,adequate
+HF00123,Health Post,6.821893,9.21825,\x01\x01\x00\x00\x00\xCD>\x8FQ\x9EI\x1B@9\xB4\xC8v\xBEo\x22@,0.0,0.0,1.0,0.0,0.0,inadequate
+HF01155,Primary Health Centre,9.908889,9.521433,"\x01\x01\x00\x00\x00gc%\xE6Y\xD1#@?\x1C$D\xF9\x0A#@",0.0,2.0,3.0,1.0,0.0,adequate
+HF00454,Cottage Hospital,7.583417,8.784474,\x01\x01\x00\x00\x00\xC3\xB8\x1BDkU\x1E@\xE6\x1F}\x93\xA6\x91!@,5.0,3.0,8.0,0.0,4.0,inadequate
+HF00804,Cottage Hospital,10.187914,8.448977,\x01\x01\x00\x00\x00\xCC\xEB\x88C6`$@\xF8O7P\xE0\xE5 @,0.0,0.0,5.0,3.0,0.0,inadequate
+HF00516,Primary Health Centre,8.216741,9.757699,"\x01\x01\x00\x00\x00\x99g%\xAD\xF8n @\x7Fl\x92\x1F\xF1\x83#@",0.0,2.0,4.0,1.0,0.0,adequate
+HF00589,Health Post,7.947185,10.823491,\x01\x01\x00\x00\x00\x0B\x0CY\xDD\xEA\xC9\x1F@\xC6\x19\xC3\x9C\xA0\xA5%@,0.0,3.0,1.0,1.0,0.0,inadequate
+HF00058,Comprehensive Health Centre,6.197444,10.015032,\x01\x01\x00\x00\x00k*\x8B\xC2.\xCA\x18@u\xC98F\xB2\x07$@,5.0,4.0,6.0,2.0,3.0,adequate
+HF01154,Health Post,9.89696,9.515498,"\x01\x01\x00\x00\x00\xEC\xA3SW>\xCB#@\x8BN\x96Z\xEF\x07#@",0.0,0.0,1.0,0.0,0.0,inadequate
+HF00167,Primary Health Centre,7.411483,9.912909,"\x01\x01\x00\x00\x00\x9Bp\xAF\xCC[\xA5\x1D@\xB9r\xF6\xCEh\xD3#@",1.0,1.0,3.0,1.0,1.0,inadequate
+HF00926,Primary Health Centre,8.501021,8.659091,\x01\x01\x00\x00\x00\xEB7\x13\xD3\x85\x00!@\x06-$`tQ!@,2.0,0.0,5.0,1.0,1.0,inadequate
+HF00604,Cottage Hospital,7.371901,10.666623,\x01\x01\x00\x00\x00\x17f\xA1\x9D\xD3|\x1D@\xD7\x85\x1F\x9COU%@,0.0,7.0,9.0,2.0,7.0,inadequate
+HF00285,Primary Health Centre,7.768586,7.92846,\x01\x01\x00\x00\x00a\xA7X5\x08\x13\x1F@\x9F\x93\xDE7\xBE\xB6\x1F@,0.0,2.0,5.0,1.0,0.0,adequate
+HF00637,Health Post,8.683102,11.313295,\x01\x01\x00\x00\x00\x15\xAA\x9B\x8B\xBF]!@*\x00\xC63h\xA0&@,0.0,1.0,1.0,1.0,0.0,inadequate
+HF01021,Primary Health Centre,10.252351,11.264894,\x01\x01\x00\x00\x00\xCE9x&4\x81$@1\xD0\xB5/\xA0\x87&@,,,,,,no_personnel_record
+HF01182,Health Post,9.643656,9.264295,"\x01\x01\x00\x00\x00\x94\xBF{G\x8DI#@\x1E\xFE\x9A\xACQ\x87\x22@",0.0,0.0,1.0,0.0,0.0,inadequate
+HF00325,Health Post,8.059011,7.773748,\x01\x01\x00\x00\x00a5\x96\xB06\x1E @\xB3aMeQ\x18\x1F@,0.0,1.0,2.0,0.0,0.0,adequate
+HF00110,Cottage Hospital,6.969075,9.906772,"\x01\x01\x00\x00\x00\x1C|a2U\xE0\x1B@f\xDBikD\xD0#@",3.0,10.0,6.0,0.0,0.0,inadequate
+HF01031,Primary Health Centre,10.480188,10.41212,\x01\x01\x00\x00\x00\x01\xDD\x973\xDB\xF5$@\x17\x0E\x84d\x01\xD3$@,1.0,6.0,8.0,0.0,3.0,adequate
+HF00132,Primary Health Centre,7.162416,9.831472,"\x01\x01\x00\x00\x00xcAaP\xA6\x1C@U\x14\xAF\xB2\xB6\xA9#@",1.0,4.0,5.0,2.0,1.0,adequate
+HF00618,Health Post,7.536192,10.55022,\x01\x01\x00\x00\x00\xE0\x81\x01\x84\x0F%\x1E@\xD25\x93o\xB6\x19%@,0.0,1.0,2.0,0.0,0.0,adequate
+HF00816,Comprehensive Health Centre,9.012789,8.199683,\x01\x01\x00\x00\x00A\x7F\xA1G\x8C\x06\x22@d\x22\xA5\xD9<f @,2.0,8.0,10.0,4.0,0.0,adequate
+HF00040,Health Post,6.511429,9.595088,"\x01\x01\x00\x00\x00h\xE74\x0B\xB4\x0B\x1A@\xEE{\xD4_\xAF0#@",0.0,1.0,2.0,0.0,0.0,adequate
+HF00760,Primary Health Centre,8.416999,7.909065,\x01\x01\x00\x00\x00\xEE\xED\x96\xE4\x80\xD5 @\xC2\xC0s\xEF\xE1\xA2\x1F@,0.0,0.0,4.0,2.0,0.0,inadequate
+HF01239,General Hospital,9.834394,9.623763,"\x01\x01\x00\x00\x00\x0E\xF5\xBB\xB05\xAB#@\xE2\xE8*\xDD]?#@",4.0,29.0,25.0,0.0,4.0,inadequate
+HF00060,Cottage Hospital,6.192201,9.933669,"\x01\x01\x00\x00\x00\xB3\x08\xC5V\xD0\xC4\x18@\xFB\x93\xF8\xDC\x09\xDE#@",4.0,8.0,4.0,1.0,7.0,adequate
+HF00377,Primary Health Centre,6.944508,7.725776,\x01\x01\x00\x00\x00\xD1=\xEB\x1A-\xC7\x1B@\x04\xE3\xE0\xD21\xE7\x1E@,0.0,2.0,1.0,2.0,0.0,inadequate
+HF00792,Primary Health Centre,8.85898,7.509353,\x01\x01\x00\x00\x00\x0F\xD6\xFF9\xCC\xB7!@[z4\xD5\x93\x09\x1E@,0.0,0.0,5.0,0.0,0.0,inadequate
+HF00954,Primary Health Centre,9.066455,10.724456,\x01\x01\x00\x00\x00\xB5O\xC7c\x06\x22\x22@.\xC8\x96\xE5\xEBr%@,0.0,2.0,3.0,1.0,1.0,adequate
+HF00412,Primary Health Centre,7.093594,8.373692,\x01\x01\x00\x00\x00Eh\x04\x1B\xD7_\x1C@\xBD\x8D\xCD\x8ET\xBF @,1.0,5.0,2.0,0.0,1.0,inadequate
+HF00878,Health Post,8.447777,8.411938,\x01\x01\x00\x00\x00O\xCD\xE5\x06C\xE5 @\x94\xF5\x9B\x89\xE9\xD2 @,0.0,1.0,0.0,0.0,1.0,inadequate
+HF01007,Health Post,10.260593,11.483907,\x01\x01\x00\x00\x00\x10\x22\x19rl\x85$@g\x9C\x86\xA8\xC2\xF7&@,0.0,1.0,0.0,0.0,0.0,inadequate
+HF00612,Comprehensive Health Centre,7.513699,10.715796,\x01\x01\x00\x00\x00\x9D\xF3S\x1C\x07\x0E\x1E@\x1975\xD0|n%@,2.0,7.0,6.0,0.0,2.0,inadequate
+HF00593,Health Post,7.939329,10.562777,\x01\x01\x00\x00\x00\xCF\xBC\x1Cv\xDF\xC1\x1F@\xCA\xE1\x93N$ %@,1.0,1.0,1.0,1.0,0.0,inadequate
+HF00327,Health Post,8.047543,7.748601,\x01\x01\x00\x00\x00\xB5N\x5C\x8EW\x18 @\xF7\x02\xB3B\x91\xFE\x1E@,0.0,2.0,1.0,0.0,0.0,inadequate
+HF00474,Primary Health Centre,7.666383,9.058666,\x01\x01\x00\x00\x00\x04q\x1EN`\xAA\x1E@7\xC6Nx\x09\x1E\x22@,1.0,0.0,6.0,0.0,1.0,inadequate
+HF00171,Primary Health Centre,6.793008,9.99931,"\x01\x01\x00\x00\x00\x90\xDD\x05J\x0A,\x1B@\xAB!q\x8F\xA5\xFF#@",0.0,13.0,5.0,0.0,1.0,adequate
+HF00272,Health Post,7.495428,7.999495,\x01\x01\x00\x00\x00<\x17FzQ\xFB\x1D@\xE4\x0F\x06\x9E{\xFF\x1F@,0.0,2.0,1.0,0.0,0.0,inadequate
+HF00353,Primary Health Centre,6.791232,8.635882,\x01\x01\x00\x00\x00\xD71\xAE\xB88*\x1B@\xEB:TS\x92E!@,1.0,0.0,8.0,1.0,0.0,inadequate
+HF00603,Primary Health Centre,7.444372,10.65135,\x01\x01\x00\x00\x00O\x08\x1Dt\x09\xC7\x1D@\xCC\x7FH\xBF}M%@,1.0,1.0,5.0,1.0,2.0,inadequate
+HF00146,Health Post,7.220868,10.195936,\x01\x01\x00\x00\x00\x85\xEE\x928+\xE2\x1C@\xD670\xB9Qd$@,1.0,1.0,0.0,1.0,0.0,inadequate
+HF01189,Primary Health Centre,9.889611,8.750201,"\x01\x01\x00\x00\x00\xDFR\xCE\x17{\xC7#@^\xDApX\x1A\x80!@",1.0,1.0,3.0,0.0,0.0,inadequate
+HF00872,Health Post,8.11253,8.376772,\x01\x01\x00\x00\x00D\xA3;\x88\x9D9 @\xD7\x18tB\xE8\xC0 @,0.0,0.0,2.0,1.0,0.0,adequate
+HF00590,Primary Health Centre,7.910697,10.762373,\x01\x01\x00\x00\x00\xE1B\x1E\xC1\x8D\xA4\x1F@\xF2\xB4\xFC\xC0U\x86%@,1.0,5.0,7.0,0.0,1.0,adequate
+HF01233,Primary Health Centre,9.707219,9.752334,"\x01\x01\x00\x00\x00;8\xD8\x9B\x18j#@uV\x0B\xEC1\x81#@",0.0,5.0,6.0,1.0,1.0,adequate
+HF01184,Primary Health Centre,9.648737,9.487315,"\x01\x01\x00\x00\x00\x0Ai\x8DA\x27L#@S\xB3\x07Z\x81\xF9\x22@",0.0,2.0,2.0,0.0,1.0,inadequate
+HF00696,Primary Health Centre,8.457193,11.509368,\x01\x01\x00\x00\x00\x96\xEBm3\x15\xEA @\x03B\xEB\xE1\xCB\x04\x27@,0.0,7.0,4.0,2.0,1.0,adequate
+HF00078,Health Post,6.600693,9.210301,\x01\x01\x00\x00\x00\x98\xBE\xD7\x10\x1Cg\x1A@\xD7\xA1\x9A\x92\xACk\x22@,,,,,,no_personnel_record
+HF00430,Comprehensive Health Centre,7.978672,8.463104,\x01\x01\x00\x00\x00-\x0B&\xFE(\xEA\x1F@\x27K\xAD\xF7\x1B\xED @,0.0,0.0,10.0,3.0,0.0,inadequate
+HF00232,Health Post,6.669143,10.501108,\x01\x01\x00\x00\x00\xAAc\x95\xD23\xAD\x1A@\x27\x87O:\x91\x00%@,0.0,0.0,1.0,1.0,1.0,inadequate
+HF00280,Primary Health Centre,7.661241,8.044617,\x01\x01\x00\x00\x00\xEC\x18W\x5C\x1C\xA5\x1E@\xF7\xB0\x17\x0A\xD8\x16 @,1.0,4.0,5.0,0.0,2.0,adequate
+HF00607,Primary Health Centre,7.489896,10.816027,\x01\x01\x00\x00\x00\xCE\xC3\x09L\xA7\xF5\x1D@UN{J\xCE\xA1%@,,,,,,no_personnel_record
+HF00992,Primary Health Centre,10.124003,11.206534,\x01\x01\x00\x00\x0076;R}?$@-\x06\x0F\xD3\xBEi&@,0.0,1.0,3.0,1.0,1.0,inadequate
+HF01291,Health Post,10.596473,10.087195,"\x01\x01\x00\x00\x00\xDE\xE4\xB7\xE8d1%@\xDB\xBF\xB2\xD2\xA4,$@",0.0,1.0,1.0,1.0,0.0,inadequate
+HF01278,Health Post,9.931932,10.015632,"\x01\x01\x00\x00\x00\x161\xEC0&\xDD#@\xCA\x8A\xE1\xEA\x00\x08$@",1.0,4.0,2.0,0.0,0.0,adequate
+HF00881,Primary Health Centre,8.328645,9.375223,\x01\x01\x00\x00\x00\xE3\xFCM(D\xA8 @\xFDi\xA3:\x1D\xC0\x22@,0.0,3.0,7.0,1.0,1.0,adequate
+HF00182,Health Post,6.388055,10.269453,\x01\x01\x00\x00\x00v28J^\x8D\x19@A\x9E]\xBE\xF5\x89$@,0.0,3.0,0.0,0.0,0.0,inadequate
+HF01115,Health Post,9.269803,11.281354,"\x01\x01\x00\x00\x00\xB2\xB9j\x9E#\x8A\x22@\x942\xA9\xA1\x0D\x90&@",0.0,2.0,1.0,0.0,0.0,inadequate
+HF00385,Health Post,6.981476,8.01738,\x01\x01\x00\x00\x00O<g\x0B\x08\xED\x1B@~5\x07\x08\xE6\x08 @,0.0,1.0,2.0,0.0,0.0,adequate
+HF01101,Primary Health Centre,9.068453,11.071724,"\x01\x01\x00\x00\x00M\xA0\x88E\x0C#\x22@6\xAD\x14\x02\xB9$&@",2.0,1.0,4.0,1.0,0.0,inadequate
+HF01049,Primary Health Centre,9.91726,10.623578,"\x01\x01\x00\x00\x00\xA1\xDBK\x1A\xA3\xD5#@\x9B\x02\x99\x9DE?%@",1.0,8.0,5.0,0.0,2.0,adequate
+HF00259,Primary Health Centre,7.846695,7.87948,\x01\x01\x00\x00\x004\xBF\x9A\x03\x04c\x1F@\xBF\xF1\xB5g\x96\x84\x1F@,1.0,1.0,5.0,0.0,1.0,inadequate
+HF01078,Health Post,9.41374,11.561336,\x01\x01\x00\x00\x00\x16\x18\xB2\xBA\xD5\xD3\x22@\x8A\x22\xA4ng\x1F\x27@,,,,,,no_personnel_record
+HF00247,Health Post,7.477367,7.60339,\x01\x01\x00\x00\x00/\xC2\x14\xE5\xD2\xE8\x1D@\x0B\xEFr\x11\xDFi\x1E@,0.0,0.0,1.0,0.0,1.0,inadequate
+HF01179,Comprehensive Health Centre,9.473237,9.069337,"\x01\x01\x00\x00\x00\xA9\x83\xBC\x1EL\xF2\x22@6\xCE\xA6#\x80#\x22@",2.0,0.0,3.0,1.0,1.0,inadequate
+HF01289,Cottage Hospital,10.661686,10.066308,\x01\x01\x00\x00\x00.q\xE4\x81\xC8R%@$\xEDF\x1F\xF3!$@,0.0,4.0,28.0,2.0,1.0,inadequate
+HF00061,Health Post,5.93974,9.277555,\x01\x01\x00\x00\x00\xDF\xF8\xDA3K\xC2\x17@\xBC\xAE_\xB0\x1B\x8E\x22@,0.0,1.0,3.0,0.0,0.0,adequate
+HF00869,Health Post,9.0683,9.029568,"\x01\x01\x00\x00\x004\xA2\xB47\xF8\x22\x22@)\x04r\x89#\x0F\x22@",0.0,2.0,1.0,0.0,0.0,inadequate
+HF00858,Health Post,9.230096,8.697439,\x01\x01\x00\x00\x00~\xE1\x95$\xCFu\x22@\xEE\xE8\x7F\xB9\x16e!@,1.0,2.0,1.0,0.0,0.0,inadequate
+HF00709,Primary Health Centre,9.087694444444445,7.861888888888888,"\x01\x01\x00\x00\x00\x0C\xDCEI\xE6,\x22@\x14A:\x00\x93r\x1F@",0.0,2.0,6.0,0.0,1.0,adequate
+HF00768,Primary Health Centre,8.537452,7.929621,"\x01\x01\x00\x00\x00\xEFV\x96\xE8,\x13!@\x03\xB3B\x91\xEE\xB7\x1F@",2.0,0.0,5.0,0.0,1.0,inadequate
+HF00007,Health Post,6.313554,9.211712,\x01\x01\x00\x00\x00\xB4\x1E\xBEL\x14A\x19@mW\xE8\x83el\x22@,1.0,2.0,0.0,0.0,0.0,inadequate
+HF00224,Health Post,6.609607,10.159319,\x01\x01\x00\x00\x00\x93\xA6A\xD1<p\x1A@JC\x8DB\x92Q$@,1.0,0.0,0.0,0.0,1.0,inadequate
+HF00324,Health Post,7.964362,7.639968,\x01\x01\x00\x00\x00G\x05N\xB6\x81\xDB\x1F@4\xF2y\xC5S\x8F\x1E@,0.0,1.0,2.0,1.0,0.0,adequate
+HF00446,General Hospital,7.25048,8.964745,\x01\x01\x00\x00\x00T5A\xD4}\x00\x1D@\x84\xF5\x7F\x0E\xF3\xED!@,6.0,24.0,32.0,7.0,7.0,adequate
+HF00223,Primary Health Centre,6.489099,10.40638,\x01\x01\x00\x00\x00u\x06F^\xD6\xF4\x19@9\x7F\x13\x0A\x11\xD0$@,1.0,8.0,4.0,0.0,0.0,adequate
+HF00346,Primary Health Centre,6.833786,8.72476,\x01\x01\x00\x00\x00\x5CsG\xFF\xCBU\x1B@\xDE\xE5\x22\xBE\x13s!@,0.0,3.0,6.0,0.0,0.0,adequate
+HF01214,Primary Health Centre,8.927396,9.808456,"\x01\x01\x00\x00\x00\xE7\xE1\x04\xA6\xD3\xDA!@\x8C\x82\xE0\xF1\xED\x9D#@",4.0,6.0,3.0,1.0,2.0,adequate
+HF00426,Health Post,8.00421,8.651609,\x01\x01\x00\x00\x00\xE0\xA1(\xD0\x27\x02 @\xFC\x8E\xE1\xB1\x9FM!@,0.0,2.0,3.0,1.0,1.0,adequate
+HF00338,Health Post,8.176598,7.734437,\x01\x01\x00\x00\x00\xF9\x13\x95\x0DkZ @\xB0\xE3\xBF@\x10\xF0\x1E@,0.0,1.0,2.0,0.0,0.0,adequate
+HF01046,Health Post,10.726164,10.437667,\x01\x01\x00\x00\x00\xAA\x10\x8F\xC4\xCBs%@\xAD\x13\x97\xE3\x15\xE0$@,0.0,0.0,2.0,0.0,1.0,adequate
+HF01164,Primary Health Centre,10.115462,9.28227,\x01\x01\x00\x00\x00\x8C\xDC\xD3\xD5\x1D;$@\xAAH\x85\xB1\x85\x90\x22@,1.0,4.0,1.0,1.0,0.0,inadequate
+HF00434,Health Post,7.083152,8.802791,\x01\x01\x00\x00\x00RcB\xCC%U\x1C@\xD8\x0B\x05l\x07\x9B!@,1.0,1.0,2.0,0.0,0.0,adequate
+HF00924,Health Post,,,,0.0,1.0,2.0,0.0,0.0,adequate
+HF00149,Primary Health Centre,7.086451,10.05271,\x01\x01\x00\x00\x00t\xD3f\x9C\x86X\x1C@%X\x1C\xCE\xFC\x1A$@,0.0,3.0,1.0,1.0,0.0,inadequate
+HF00575,Cottage Hospital,7.646875,11.256142,\x01\x01\x00\x00\x00fffff\x96\x1E@\x9ACR\x0B%\x83&@,,,,,,no_personnel_record
+HF00238,Comprehensive Health Centre,7.113152,7.718199,\x01\x01\x00\x00\x00q\xE8-\x1E\xDEs\x1C@b\x14\x04\x8Fo\xDF\x1E@,2.0,7.0,2.0,0.0,0.0,inadequate
+HF01001,Comprehensive Health Centre,10.550529,10.988309,\x01\x01\x00\x00\x00\xC9\xFF\xE4\xEF\xDE\x19%@W\xAF\x22\xA3\x03\xFA%@,5.0,16.0,7.0,0.0,3.0,inadequate
+HF00089,Primary Health Centre,7.273442,9.610453,"\x01\x01\x00\x00\x00Mi\xFD-\x01\x18\x1D@|}\xADK\x8D8#@",0.0,0.0,5.0,0.0,0.0,inadequate
+HF01088,Comprehensive Health Centre,9.494861,11.60626,\x01\x01\x00\x00\x00\xB8!\xC6k^\xFD\x22@\xF5\xBE\xF1\xB5g6\x27@,0.0,0.0,5.0,2.0,0.0,inadequate
+HF00936,Comprehensive Health Centre,8.593943,8.710386,\x01\x01\x00\x00\x00R`\x01L\x190!@\x90\x12\xBB\xB6\xB7k!@,0.0,0.0,4.0,1.0,2.0,inadequate
+HF00680,Health Post,8.178418,11.053379,\x01\x01\x00\x00\x00\x14\x09\xA6\x9AY[ @\x1C\x96\x06~T\x1B&@,0.0,3.0,2.0,0.0,0.0,adequate
+HF00427,Primary Health Centre,7.909573,8.602078,\x01\x01\x00\x00\x00fL\xC1\x1Ag\xA3\x1F@=HO\x91C4!@,0.0,0.0,5.0,1.0,0.0,inadequate
+HF00228,Health Post,6.596656,10.287104,\x01\x01\x00\x00\x00E\xD9[\xCA\xF9b\x1A@\x00\x1A\xA5K\xFF\x92$@,0.0,2.0,2.0,0.0,1.0,adequate
+HF00314,Primary Health Centre,7.716855,7.619705,\x01\x01\x00\x00\x00u\xE5\xB3<\x0F\xDE\x1E@\xB4\xAB\x90\xF2\x93z\x1E@,,,,,,no_personnel_record
+HF00410,Primary Health Centre,6.637405,8.27629,\x01\x01\x00\x00\x00?:u\xE5\xB3\x8C\x1A@vl\x04\xE2u\x8D @,,,,,,no_personnel_record
+HF00046,Primary Health Centre,5.919656,9.891983,"\x01\x01\x00\x00\x00\xDCGnM\xBA\xAD\x17@\x0A-\xEB\xFE\xB1\xC8#@",1.0,7.0,6.0,0.0,1.0,adequate
+HF00553,General Hospital,7.916049,9.535463,"\x01\x01\x00\x00\x00O\x22\xC2\xBF\x08\xAA\x1F@\xA4o\xD24(\x12#@",0.0,18.0,25.0,1.0,1.0,inadequate
+HF00472,Health Post,7.751864,8.988739,\x01\x01\x00\x00\x00\xB3(\xEC\xA2\xE8\x01\x1F@;\x8F\x8A\xFF;\xFA!@,1.0,1.0,2.0,0.0,0.0,adequate
+HF00864,Health Post,8.768377,8.778616,\x01\x01\x00\x00\x00G\xFF\xCB\xB5h\x89!@\xE0H\xA0\xC1\xA6\x8E!@,0.0,1.0,2.0,0.0,0.0,adequate
+HF00750,Health Post,8.949302,7.995727,\x01\x01\x00\x00\x00\x06\x0Eh\xE9\x0A\xE6!@\x0D\xFA\xD2\xDB\x9F\xFB\x1F@,,,,,,no_personnel_record
+HF00706,Primary Health Centre,,,,1.0,3.0,8.0,1.0,1.0,adequate
+HF00212,Primary Health Centre,7.080229,10.451801,\x01\x01\x00\x00\x00]\xC3\x0C\x8D\x27R\x1C@\xA6\x99\xEEuR\xE7$@,1.0,7.0,5.0,0.0,0.0,adequate
+HF00733,Health Post,8.371076,8.225309,\x01\x01\x00\x00\x007\xA9h\xAC\xFD\xBD @*\xFD\x84\xB3[s @,,,,,,no_personnel_record
+HF00028,Primary Health Centre,6.265556,9.779254,"\x01\x01\x00\x00\x00\xBC\x06}\xE9\xED\x0F\x19@\xEB\x8DZa\xFA\x8E#@",1.0,4.0,8.0,1.0,1.0,adequate
+HF01051,Comprehensive Health Centre,10.163773,10.563865,\x01\x01\x00\x00\x00\x85\xEF\xFD\x0D\xDAS$@\xD4\xB7\xCC\xE9\xB2 %@,1.0,3.0,26.0,5.0,1.0,inadequate
+HF00765,Primary Health Centre,8.380314,7.852321,\x01\x01\x00\x00\x00\x01l@\x84\xB8\xC2 @\xAC\xC6\x12\xD6\xC6h\x1F@,0.0,0.0,3.0,3.0,0.0,inadequate
+HF00371,Primary Health Centre,6.740098,8.862194,\x01\x01\x00\x00\x00\x0CW\x07@\xDC\xF5\x1A@g\x9D\xF1}q\xB9!@,0.0,6.0,2.0,0.0,2.0,inadequate
+HF01165,Cottage Hospital,10.100384,9.588139,"\x01\x01\x00\x00\x00U\x15\x1A\x88e3$@\x19\x01\x15\x8E -#@",0.0,4.0,10.0,5.0,1.0,inadequate
+HF00975,Health Post,9.900395,10.460292,"\x01\x01\x00\x00\x00\xBE\xF6\xCC\x92\x00\xCD#@\x8B8\x9Dd\xAB\xEB$@",,,,,,no_personnel_record
+HF01327,Cottage Hospital,10.588857,9.841031,"\x01\x01\x00\x00\x00\x96\x0A*\xAA~-%@\x27\xD8\x7F\x9D\x9B\xAE#@",3.0,9.0,28.0,5.0,4.0,adequate
+HF00752,Primary Health Centre,8.906137,7.945131,\x01\x01\x00\x00\x00\x1FdY0\xF1\xCF!@<\xBE\xBDk\xD0\xC7\x1F@,0.0,7.0,4.0,4.0,2.0,adequate
+HF00998,Primary Health Centre,10.301712,10.82527,\x01\x01\x00\x00\x00\x1B\x9F\xC9\xFEy\x9A$@f\xBD\x18\xCA\x89\xA6%@,1.0,0.0,11.0,4.0,0.0,inadequate
+HF00931,Health Post,8.529102,8.909557,\x01\x01\x00\x00\x00\x13\x7F\x14u\xE6\x0E!@\x1C\xB2\x81t\xB1\xD1!@,0.0,2.0,2.0,0.0,0.0,adequate
+HF00852,Comprehensive Health Centre,9.565986,8.407596,"\x01\x01\x00\x00\x00\xDB\xFC\xBF\xEA\xC8!#@\xF9\xF5Cl\xB0\xD0 @",4.0,3.0,7.0,2.0,1.0,inadequate
+HF900919,Primary Health Centre,8.711253,8.537559,\x01\x01\x00\x00\x00 ]lZ)l!@GW\xE9\xEE:\x13!@,,,,,,no_personnel_record
+HF00112,Primary Health Centre,6.871133,10.009749,\x01\x01\x00\x00\x00\x90\xDD\x05J\x0A|\x1B@`V(\xD2\xFD\x04$@,1.0,7.0,3.0,0.0,0.0,adequate
+HF00841,Primary Health Centre,9.991681,8.455646,"\x01\x01\x00\x00\x00\x10!\xAE\x9C\xBD\xFB#@?\x1B\xB9nJ\xE9 @",0.0,4.0,1.0,1.0,1.0,inadequate
+HF00352,Health Post,6.913406,8.966096,\x01\x01\x00\x00\x00v\xE1\x07\xE7S\xA7\x1B@\xC4\x97\x89\x22\xA4\xEE!@,1.0,0.0,2.0,1.0,0.0,adequate
+HF00991,Primary Health Centre,,,,2.0,5.0,10.0,0.0,0.0,adequate
+HF00022,Primary Health Centre,6.21987,9.058692,\x01\x01\x00\x00\x00p|\xED\x99%\xE1\x18@\xDC\x12\xB9\xE0\x0C\x1E\x22@,0.0,5.0,6.0,1.0,0.0,adequate
+HF00357,Health Post,6.758515,8.12586,\x01\x01\x00\x00\x00\x0D\x1A\xFA\x27\xB8\x08\x1B@\xC6\xBF\xCF\xB8p@ @,,,,,,no_personnel_record
+HF00261,Primary Health Centre,8.026636,8.192502,\x01\x01\x00\x00\x00\xE2\xCA\xD9;\xA3\x0D @E\xD4D\x9F\x8Fb @,0.0,0.0,5.0,1.0,0.0,inadequate
+HF00829,Primary Health Centre,9.419292,8.688749,\x01\x01\x00\x00\x00\xE9\xF2\xE6p\xAD\xD6\x22@/N|\xB5\xA3`!@,2.0,3.0,3.0,0.0,0.0,adequate
+HF00006,Health Post,6.157591,9.570943,"\x01\x01\x00\x00\x00d\x93\xFC\x88_\xA1\x18@\xA0\xC2\x11\xA4R$#@",0.0,1.0,2.0,0.0,0.0,adequate
+HF00687,Primary Health Centre,7.897815,11.565997,\x01\x01\x00\x00\x00\xD6n\xBB\xD0\x5C\x97\x1F@\xAAD\xD9[\xCA!\x27@,3.0,6.0,7.0,1.0,0.0,adequate
+HF00181,Primary Health Centre,6.279453,10.260356,\x01\x01\x00\x00\x00\x8C\x13_\xED(\x1E\x19@\x7F\xA2\xB2aM\x85$@,0.0,2.0,4.0,1.0,2.0,adequate
+HF00140,Health Post,6.97876,9.337325,\x01\x01\x00\x00\x00\x27\x88\xBA\x0F@\xEA\x1B@\x14?\xC6\xDC\xB5\xAC\x22@,1.0,0.0,1.0,1.0,1.0,inadequate
+HF00432,Comprehensive Health Centre,7.13934,8.866435,\x01\x01\x00\x00\x00;\x19\x1C%\xAF\x8E\x1C@28J^\x9D\xBB!@,4.0,4.0,13.0,2.0,5.0,adequate
+HF00702,Health Post,8.687186,11.588935,\x01\x01\x00\x00\x00\xC2\x89\xE8\xD7\xD6_!@\x84\xF0h\xE3\x88-\x27@,0.0,0.0,3.0,0.0,0.0,adequate
+HF01075,Health Post,10.050456,10.678583,\x01\x01\x00\x00\x00\x22\xC6k^\xD5\x19$@>>!;o[%@,0.0,0.0,3.0,0.0,1.0,adequate
+HF00334,Primary Health Centre,8.202095,7.515021,\x01\x01\x00\x00\x00\xC8^\xEF\xFExg @K\x03?\xAAa\x0F\x1E@,0.0,6.0,3.0,1.0,0.0,adequate
+HF00592,Primary Health Centre,7.962429,10.63916,\x01\x01\x00\x00\x00P\xE3\xDE\xFC\x86\xD9\x1F@\x9E\xD2\xC1\xFA?G%@,3.0,6.0,0.0,1.0,1.0,inadequate
+HF00101,Primary Health Centre,7.493593,9.441952,"\x01\x01\x00\x00\x00[#\x82qp\xF9\x1D@\xB8\xCDT\x88G\xE2\x22@",2.0,4.0,3.0,1.0,0.0,adequate
+HF01306,Health Post,10.376178,9.590761,"\x01\x01\x00\x00\x00\x0A\xF3\x1Eg\x9A\xC0$@(\x81\xCD9x.#@",,,,,,no_personnel_record
+HF00955,Cottage Hospital,9.248863,10.8182,"\x01\x01\x00\x00\x00p^\x9C\xF8j\x7F\x22@\xA5,C\x1C\xEB\xA2%@",3.0,2.0,18.0,2.0,1.0,inadequate
+HF01100,Primary Health Centre,9.014823,11.154474,\x01\x01\x00\x00\x00\x0CuX\xE1\x96\x07\x22@$*T7\x17O&@,0.0,0.0,1.0,1.0,2.0,inadequate
+HF01211,Health Post,8.894472,9.63016,"\x01\x01\x00\x00\x00\x1C`\xE6;\xF8\xC9!@\xA6~\xDET\xA4B#@",0.0,1.0,2.0,0.0,0.0,adequate
+HF01240,Comprehensive Health Centre,9.881908,9.6406,"\x01\x01\x00\x00\x00Z)\x04r\x89\xC3#@\x9C\xA2#\xB9\xFCG#@",2.0,10.0,7.0,0.0,0.0,inadequate
+HF00921,Health Post,8.831699,8.673921,"\x01\x01\x00\x00\x00X;\x8As\xD4\xA9!@\xDC,^,\x0CY!@",1.0,1.0,2.0,1.0,0.0,adequate
+HF00875,Health Post,8.293469,8.532028,\x01\x01\x00\x00\x00\x97\xC7\x9A\x91A\x96 @\xD2\x1CY\xF9e\x10!@,1.0,4.0,0.0,1.0,0.0,inadequate
+HF01326,Primary Health Centre,10.55459,9.870037,"\x01\x01\x00\x00\x00\x95`q8\xF3\x1B%@\xB2\x9EZ}u\xBD#@",0.0,3.0,1.0,1.0,3.0,inadequate
+HF00031,Health Post,6.253184,9.830211,"\x01\x01\x00\x00\x00[{\x9F\xAAB\x03\x19@\x15\x8F\x8Bj\x11\xA9#@",0.0,2.0,2.0,0.0,0.0,adequate
+HF00197,Cottage Hospital,6.661819,10.88988,\x01\x01\x00\x00\x00W|C\xE1\xB3\xA5\x1A@\x9D\xBA\xF2Y\x9E\xC7%@,3.0,8.0,20.0,4.0,0.0,adequate
+HF00685,Primary Health Centre,8.276554,10.800409,\x01\x01\x00\x00\x00\xEE\x27c|\x98\x8D @\x1F\xD9\x5C5\xCF\x99%@,3.0,2.0,2.0,1.0,0.0,inadequate
+HF01319,Cottage Hospital,10.642577,10.033475,"\x01\x01\x00\x00\x00\xD6R@\xDA\xFFH%@\x9Aw\x9C\xA2#\x11$@",8.0,8.0,17.0,0.0,0.0,inadequate
+HF00568,Health Post,10.98254,7.147829,\x01\x01\x00\x00\x00\x10\x06\x9E{\x0F\xF7%@\xFE\x99A|`\x97\x1C@,0.0,0.0,0.0,0.0,0.0,inadequate
+HF00585,Primary Health Centre,7.789818,10.883615,\x01\x01\x00\x00\x00$+\xBF\x0C\xC6(\x1F@\x95\x82n/i\xC4%@,1.0,1.0,8.0,1.0,1.0,inadequate
+HF00443,Comprehensive Health Centre,7.65573,8.430011,"\x01\x01\x00\x00\x00:\x06d\xAFw\x9F\x1E@,\xD7\xDBf*\xDC @",3.0,8.0,4.0,1.0,1.0,adequate
+HF01237,Health Post,9.658971,9.607714,"\x01\x01\x00\x00\x00[\x06\x9C\xA5dQ#@\x87\xA4\x16J&7#@",1.0,2.0,2.0,0.0,0.0,adequate
+HF00754,Primary Health Centre,9.198542,8.028332,\x01\x01\x00\x00\x00\xCE\xC3\x09L\xA7e\x22@M\xDC*\x88\x81\x0E @,0.0,8.0,4.0,0.0,1.0,adequate
+HF01282,Primary Health Centre,10.078286,10.270813,\x01\x01\x00\x00\x00%xC\x1A\x15($@\xCE\xA9d\x00\xA8\x8A$@,1.0,5.0,7.0,2.0,0.0,adequate
+HF00951,Health Post,8.957197,10.87669,\x01\x01\x00\x00\x00\x9C\xA8\xA5\xB9\x15\xEA!@\xE2u\xFD\x82\xDD\xC0%@,0.0,0.0,1.0,0.0,0.0,inadequate
+HF01299,Primary Health Centre,10.826209,10.227893,\x01\x01\x00\x00\x00]R\xB5\xDD\x04\xA7%@\x83\xF9+d\xAEt$@,0.0,1.0,8.0,1.0,0.0,inadequate
+HF00133,Comprehensive Health Centre,6.729949,9.695893,"\x01\x01\x00\x00\x00\xDB\xFD*\xC0w\xEB\x1A@\xD9\x07Y\x16Ld#@",0.0,6.0,4.0,2.0,2.0,inadequate
+HF00786,Primary Health Centre,8.540909,7.439272,\x01\x01\x00\x00\x00`9B\x06\xF2\x14!@\xAD1\xE8\x84\xD0\xC1\x1D@,,,,,,no_personnel_record
+HF01216,Comprehensive Health Centre,8.967089,9.602304,"\x01\x01\x00\x00\x00\x87\xA4\x16J&\xEF!@\xFE\x7F\x9C0a4#@",0.0,16.0,4.0,3.0,2.0,inadequate
+HF00063,Primary Health Centre,5.836909,9.041206,\x01\x01\x00\x00\x00\x8A\xE9B\xAC\xFEX\x17@G\xCC\xEC\xF3\x18\x15\x22@,,,,,,no_personnel_record
+HF00941,Health Post,9.464985,10.629006,\x01\x01\x00\x00\x00\xD9B\x90\x83\x12\xEE\x22@\xBE\xF9\x0D\x13\x0DB%@,0.0,0.0,1.0,0.0,0.0,inadequate
+HF00463,Health Post,8.003522,9.339455,\x01\x01\x00\x00\x00\x0E\xA2\xB5\xA2\xCD\x01 @g\xED\xB6\x0B\xCD\xAD\x22@,1.0,1.0,2.0,0.0,0.0,adequate
+HF00375,Primary Health Centre,6.766095,8.727617,\x01\x01\x00\x00\x008\x84*5{\x10\x1B@\xFB\x06&7\x8At!@,2.0,6.0,1.0,2.0,1.0,inadequate
+HF00103,Primary Health Centre,7.444181,9.87923,"\x01\x01\x00\x00\x00\xB0\x04Rb\xD7\xC6\x1D@\xFCR?o*\xC2#@",0.0,4.0,7.0,0.0,1.0,adequate
+HF00359,Health Post,6.657077,8.081276,\x01\x01\x00\x00\x00\xAF\xD0\x07\xCB\xD8\xA0\x1A@?\xE6\x03\x02\x9D) @,0.0,1.0,2.0,0.0,0.0,adequate
+HF00131,Health Post,7.032331,9.876326,"\x01\x01\x00\x00\x00\x81\x96\xAE`\x1B!\x1C@\xDDD-\xCD\xAD\xC0#@",0.0,1.0,1.0,0.0,0.0,inadequate
+HF00476,Health Post,7.753388,8.960476,\x01\x01\x00\x00\x00\x9F\xCB\xD4$x\x03\x1F@\x90/\xA1\x82\xC3\xEB!@,1.0,1.0,1.0,0.0,1.0,inadequate
+HF00703,Primary Health Centre,8.714223,11.590589,\x01\x01\x00\x00\x00\x1E\x1A\x16\xA3\xAEm!@3\xC1p\xAEa.\x27@,1.0,4.0,2.0,0.0,1.0,inadequate
+HF00497,Health Post,7.978348,9.937524,"\x01\x01\x00\x00\x00\x94m\xE0\x0E\xD4\xE9\x1F@\x22nN%\x03\xE0#@",0.0,2.0,1.0,0.0,0.0,inadequate
+HF01085,Primary Health Centre,9.507048,11.547113,"\x01\x01\x00\x00\x00!\x01\xA3\xCB\x9B\x03#@\xD2n\xF41\x1F\x18\x27@",0.0,5.0,4.0,0.0,0.0,adequate
+HF00569,Primary Health Centre,7.189703,10.771575,\x01\x01\x00\x00\x00\xF6\xCF\xD3\x80A\xC2\x1C@\x89\xD2\xDE\xE0\x0B\x8B%@,1.0,7.0,1.0,1.0,0.0,inadequate
+HF00616,Comprehensive Health Centre,7.62362,10.564237,\x01\x01\x00\x00\x00\xAD\x86\xC4=\x96~\x1E@\xE5b\x0C\xAC\xE3 %@,0.0,0.0,13.0,0.0,2.0,inadequate
+HF00248,Health Post,7.494263,7.59634,\x01\x01\x00\x00\x00\xCC}r\x14 \xFA\x1D@\xC2/\xF5\xF3\xA6b\x1E@,1.0,1.0,2.0,1.0,0.0,adequate
+HF01213,Health Post,9.070264,9.708487,"\x01\x01\x00\x00\x00\x1B,\x9C\xA4\xF9#\x22@EH\xDD\xCE\xBEj#@",1.0,1.0,3.0,0.0,0.0,adequate
+HF900253,Health Post,8.394384,7.88658,\x01\x01\x00\x00\x00\x9F!\x1C\xB3\xEC\xC9 @\x96&\xA5\xA0\xDB\x8B\x1F@,,,,,,no_personnel_record
+HF00490,Primary Health Centre,8.463749,10.277329,\x01\x01\x00\x00\x00\xFC\x1AI\x82p\xED @\xFBv\x12\x11\xFE\x8D$@,2.0,2.0,3.0,0.0,1.0,adequate
+HF00894,Primary Health Centre,8.315355,8.89229,\x01\x01\x00\x00\x00\x9AB\xE75v\xA1 @~\x18!<\xDA\xC8!@,2.0,8.0,2.0,2.0,0.0,inadequate
+HF00743,Primary Health Centre,8.495016,8.147641,\x01\x01\x00\x00\x00T\xFE\xB5\xBCr\xFD @\xF4\x18\xE5\x99\x97K @,1.0,7.0,3.0,3.0,0.0,adequate
+HF00994,Primary Health Centre,10.279417,10.901836,\x01\x01\x00\x00\x00\x93\xE4\xB9\xBE\x0F\x8F$@\xFE\xB5\xBCr\xBD\xCD%@,2.0,4.0,4.0,1.0,3.0,adequate
+HF00459,Primary Health Centre,7.633257,9.456743,\x01\x01\x00\x00\x000\xDA\xE3\x85t\x88\x1E@\x96Z\xEF7\xDA\xE9\x22@,1.0,2.0,0.0,1.0,1.0,inadequate
+HF00638,Comprehensive Health Centre,8.553245,10.719561,\x01\x01\x00\x00\x00\xDEY\xBB\xEDB\x1B!@A\xF4\xA4Ljp%@,0.0,12.0,16.0,4.0,2.0,inadequate
+HF00496,Cottage Hospital,7.973203,9.695171,"\x01\x01\x00\x00\x00\xF2y\xC5S\x8F\xE4\x1F@WA\x0Ct\xEDc#@",0.0,10.0,22.0,0.0,0.0,inadequate
+HF00160,Primary Health Centre,7.277172,9.966112,"\x01\x01\x00\x00\x00\xB8w\x0D\xFA\xD2\x1B\x1D@\xDB\x8Bh;\xA6\xEE#@",1.0,5.0,0.0,0.0,1.0,inadequate
+HF00780,Primary Health Centre,7.409559,8.275578,\x01\x01\x00\x00\x00>!;oc\xA3\x1D@\x82\xFEB\x8F\x18\x8D @,0.0,8.0,0.0,1.0,2.0,inadequate
+HF00256,Comprehensive Health Centre,7.921323,8.365892,\x01\x01\x00\x00\x00\xDF5\xE8Ko\xAF\x1F@o\xBC;2V\xBB @,2.0,9.0,7.0,1.0,2.0,adequate
+HF00630,Health Post,8.390897,11.339983,"\x01\x01\x00\x00\x00\x835\xCE\xA6#\xC8 @Vdt@\x12\xAE&@",1.0,2.0,3.0,0.0,0.0,adequate
+HF01147,Health Post,10.550423,9.439153,\x01\x01\x00\x00\x00\xB3\xEE\x1F\x0B\xD1\x19%@m\xE1y\xA9\xD8\xE0\x22@,,,,,,no_personnel_record
+HF00218,Health Post,6.100463,10.150814,\x01\x01\x00\x00\x00\x0B\xD5\xCD\xC5\xDFf\x18@\xD2\x8E\x1B~7M$@,0.0,1.0,2.0,1.0,1.0,adequate
+HF00707,Health Post,8.955445,7.646671,"\x01\x01\x00\x00\x00\xE1@H\x160\xE9!@#\x161\xEC0\x96\x1E@",0.0,3.0,1.0,0.0,0.0,inadequate
+HF01204,Primary Health Centre,9.339605,9.420845,\x01\x01\x00\x00\x00\xBD\x1D\xE1\xB4\xE0\xAD\x22@\xC8^\xEF\xFEx\xD7\x22@,1.0,4.0,1.0,1.0,0.0,inadequate
+HF00543,Primary Health Centre,8.841955,10.126361,\x01\x01\x00\x00\x00Ih\xCB\xB9\x14\xAF!@\xCE\xFA\x94c\xB2@$@,2.0,3.0,2.0,2.0,0.0,inadequate
+HF00143,Health Post,6.915991,9.185069,\x01\x01\x00\x00\x00\xAA\xB8q\x8B\xF9\xA9\x1B@\xC1\x01-]\xC1^\x22@,0.0,1.0,1.0,0.0,1.0,inadequate
+HF00136,Health Post,6.817994,9.514545,"\x01\x01\x00\x00\x00\x01L\x198\xA0E\x1B@\x01\xA46qr\x07#@",0.0,1.0,1.0,0.0,0.0,inadequate
+HF01098,Primary Health Centre,9.02877,11.115224,\x01\x01\x00\x00\x00;6\x02\xF1\xBA\x0E\x22@\xB9m\xDF\xA3\xFE:&@,,,,,,no_personnel_record
+HF01177,Comprehensive Health Centre,9.497099,9.123282,\x01\x01\x00\x00\x00\xA5\xBF\x97\xC2\x83\xFE\x22@\xF6^|\xD1\x1E?\x22@,1.0,0.0,6.0,0.0,1.0,inadequate
+HF01245,Primary Health Centre,9.154912,9.910187,"\x01\x01\x00\x00\x00\x12\x84+\xA0PO\x22@\x1C}\xCC\x07\x04\xD2#@",1.0,4.0,7.0,1.0,0.0,adequate
+HF00282,Comprehensive Health Centre,7.744936,8.14884,\x01\x01\x00\x00\x00\xC5s\xB6\x80\xD0\xFA\x1E@\x5C\xAC\xA8\xC14L @,0.0,3.0,4.0,0.0,3.0,inadequate
+HF00788,Health Post,8.580784,7.497792,\x01\x01\x00\x00\x00\x83\x14<\x85\x5C)!@{\xD7\xA0/\xBD\xFD\x1D@,0.0,3.0,0.0,0.0,0.0,inadequate
+HF00305,General Hospital,7.501431,7.908779,\x01\x01\x00\x00\x00d\xCD\xC8 w\x01\x1E@\x95*Q\xF6\x96\xA2\x1F@,0.0,4.0,6.0,3.0,1.0,inadequate
+HF01027,Primary Health Centre,10.577629,11.270131,\x01\x01\x00\x00\x00?q\x00\xFD\xBE\x27%@\x84EE\x9CN\x8A&@,4.0,10.0,12.0,4.0,3.0,adequate
+HF00539,Primary Health Centre,8.849711,10.173867,\x01\x01\x00\x00\x00X\x1A\xF8Q\x0D\xB3!@\x0F\xB5m\x18\x05Y$@,1.0,3.0,3.0,0.0,1.0,adequate
+HF00342,Primary Health Centre,6.760362,8.967704,\x01\x01\x00\x00\x00\x0F|\x0CV\x9C\x0A\x1B@\xB1j\x10\xE6v\xEF!@,1.0,6.0,4.0,0.0,0.0,adequate
+HF00662,Health Post,8.516601,11.019014,\x01\x01\x00\x00\x00k) \xED\x7F\x08!@\x11U\xF83\xBC\x09&@,0.0,1.0,2.0,1.0,1.0,adequate
+HF01074,Comprehensive Health Centre,9.975258,10.731835,"\x01\x01\x00\x00\x00\x22S>\x04U\xF3#@\xE6\x22\xBE\x13\xB3v%@",3.0,19.0,23.0,0.0,0.0,inadequate
+HF00258,Primary Health Centre,7.91,7.81,\x01\x01\x00\x00\x00\xA4p=\x0A\xD7\xA3\x1F@=\x0A\xD7\xA3p=\x1F@,1.0,4.0,2.0,1.0,2.0,inadequate
+HF00098,Comprehensive Health Centre,7.339431,9.436547,\x01\x01\x00\x00\x00\x8B\xFE\xD0\xCC\x93[\x1D@uU\xA0\x16\x83\xDF\x22@,0.0,0.0,5.0,3.0,2.0,inadequate
+HF00861,Health Post,9.282455,9.087383,"\x01\x01\x00\x00\x00\xF1.\x17\xF1\x9D\x90\x22@\xE7s\xEEv\xBD,\x22@",0.0,1.0,2.0,0.0,0.0,adequate
+HF00081,Comprehensive Health Centre,5.699544,9.729066,"\x01\x01\x00\x00\x00\xBDs(CU\xCC\x16@F@\x85#Hu#@",4.0,9.0,9.0,3.0,3.0,adequate
+HF01123,Health Post,9.64695,11.091215,"\x01\x01\x00\x00\x00^K\xC8\x07=K#@-\xCF\x83\xBB\xB3.&@",1.0,2.0,2.0,0.0,0.0,adequate
+HF00982,Primary Health Centre,9.910613,11.210663,"\x01\x01\x00\x00\x00\xF9\x9F\xFC\xDD;\xD2#@Z\xF4N\x05\xDCk&@",2.0,5.0,3.0,0.0,0.0,adequate
+HF00099,Health Post,7.5895,9.428368,\x01\x01\x00\x00\x00\xCF\xF7S\xE3\xA5[\x1E@MN\xED\x0CS\xDB\x22@,0.0,0.0,1.0,0.0,0.0,inadequate
+HF00118,Health Post,6.572116,9.523416,"\x01\x01\x00\x00\x00\xC7\x12\xD6\xC6\xD8I\x1A@\x01h\x94.\xFD\x0B#@",1.0,1.0,1.0,0.0,0.0,inadequate
+HF01081,Primary Health Centre,9.488061,11.604106,\x01\x01\x00\x00\x00\xF7\xE7\xA2!\xE3\xF9\x22@\x7F\xA2\xB2aM5\x27@,1.0,4.0,4.0,2.0,1.0,adequate
+HF00056,General Hospital,6.131007,9.973242,"\x01\x01\x00\x00\x0040\xF2\xB2&\x86\x18@\xF1/\x82\xC6L\xF2#@",0.0,25.0,0.0,1.0,5.0,inadequate
+HF01317,Primary Health Centre,10.46656,10.186012,\x01\x01\x00\x00\x00W>\xCB\xF3\xE0\xEE$@\xBDS\x01\xF7<_$@,1.0,1.0,1.0,2.0,1.0,inadequate
+HF01056,General Hospital,10.114072,10.505125,\x01\x01\x00\x00\x00T\xC7*\xA5g:$@\xB4\xC8v\xBE\x9F\x02%@,0.0,24.0,0.0,6.0,5.0,inadequate
+HF00935,Primary Health Centre,8.680263,8.751563,\x01\x01\x00\x00\x00\x92[\x93nK\x5C!@n\xC4\x93\xDD\xCC\x80!@,1.0,1.0,8.0,0.0,1.0,inadequate
+HF00956,Health Post,9.243193,10.648005,\x01\x01\x00\x00\x00u;\xFB\xCA\x83|\x22@\xF9I\xB5O\xC7K%@,0.0,0.0,1.0,0.0,0.0,inadequate
+HF00996,Cottage Hospital,10.246834,10.87804,\x01\x01\x00\x00\x00\xEC\x14\xAB\x06a~$@\xE1(yu\x8E\xC1%@,3.0,10.0,8.0,0.0,0.0,inadequate
+HF01297,Primary Health Centre,10.863171,10.078358,\x01\x01\x00\x00\x00\x13\xB6\x9F\x8C\xF1\xB9%@\x8B\xC2.\x8A\x1E($@,0.0,2.0,4.0,1.0,1.0,adequate
+HF00120,General Hospital,6.704085,9.374498,\x01\x01\x00\x00\x00\xA9j\x82\xA8\xFB\xD0\x1A@\xB7\xD5\xAC3\xBE\xBF\x22@,0.0,0.0,9.0,3.0,0.0,inadequate
+HF01143,Health Post,9.746433,8.988746,"\x01\x01\x00\x00\x00rOWw,~#@\x05\x1Al\xEA<\xFA!@",0.0,0.0,1.0,0.0,0.0,inadequate
+HF00973,Health Post,9.811489,10.578971,"\x01\x01\x00\x00\x00\xA3 x|{\x9F#@2\xAA\x0C\xE3n(%@",0.0,0.0,0.0,0.0,0.0,inadequate
+HF00230,Primary Health Centre,6.527888,10.282229,\x01\x01\x00\x00\x00\xAB\xCD\xFF\xAB\x8E\x1C\x1A@/\xF7\xC9Q\x80\x90$@,0.0,2.0,3.0,1.0,3.0,adequate
+HF01275,Primary Health Centre,9.941365,9.886431,"\x01\x01\x00\x00\x00\xB52\xE1\x97\xFA\xE1#@7R\xB6H\xDA\xC5#@",3.0,6.0,4.0,0.0,0.0,adequate
+HF00065,Comprehensive Health Centre,6.135081,9.231325,\x01\x01\x00\x00\x00p>u\xACR\x8A\x18@\x91~\xFB:pv\x22@,0.0,12.0,6.0,3.0,3.0,inadequate
+HF00772,Comprehensive Health Centre,8.525022,7.911056,\x01\x01\x00\x00\x00l\x5C\xFF\xAE\xCF\x0C!@^L3\xDD\xEB\xA4\x1F@,2.0,16.0,8.0,1.0,4.0,adequate
+HF00544,Comprehensive Health Centre,8.967805,10.154681,"\x01\x01\x00\x00\x00\x81\xCF\x0F#\x84\xEF!@\x0A\xA0\x18Y2O$@",,,,,,no_personnel_record
+HF01284,Health Post,10.045463,10.105296,\x01\x01\x00\x00\x00)[$\xEDF\x17$@\x9A\xCCx[\xE95$@,0.0,2.0,1.0,0.0,0.0,inadequate
+HF00200,Comprehensive Health Centre,6.864166,10.900675,\x01\x01\x00\x00\x00\xB3B\x91\xEE\xE7t\x1B@L\xA6\x0AF%\xCD%@,2.0,18.0,11.0,0.0,4.0,inadequate
+HF00494,Cottage Hospital,7.99,9.78,"\x01\x01\x00\x00\x00\xF6(\x5C\x8F\xC2\xF5\x1F@\x8F\xC2\xF5(\x5C\x8F#@",0.0,0.0,3.0,0.0,2.0,inadequate
+HF00880,Primary Health Centre,8.333424,8.594569,"\x01\x01\x00\x00\x00,g\xEF\x8C\xB6\xAA @Ln\x14Yk0!@",0.0,0.0,2.0,2.0,1.0,inadequate
+HF01131,Primary Health Centre,10.008208,11.477596,\x01\x01\x00\x00\x00\x92!\xC7\xD63\x04$@\x9Df\x81v\x87\xF4&@,2.0,4.0,6.0,0.0,1.0,adequate
+HF00619,Health Post,7.568924,10.550798,\x01\x01\x00\x00\x00U\xA3W\x03\x94F\x1E@\x88g\x092\x02\x1A%@,0.0,2.0,1.0,1.0,0.0,inadequate
+HF00082,Primary Health Centre,5.655149,9.628072,"\x01\x01\x00\x00\x00F\x07$a\xDF\x9E\x16@\x0E\x117\xA7\x92A#@",0.0,0.0,5.0,1.0,1.0,inadequate
+HF00413,Health Post,7.069807,8.492966,\x01\x01\x00\x00\x00\xA3 x|{G\x1C@r\x14 \x0Af\xFC @,0.0,1.0,1.0,0.0,0.0,inadequate
+HF00201,Primary Health Centre,6.738118,10.610027,\x01\x01\x00\x00\x00\x10[z4\xD5\xF3\x1A@\x9FZ}uU8%@,2.0,2.0,13.0,0.0,3.0,adequate
+HF00229,Comprehensive Health Centre,6.495369,10.279602,\x01\x01\x00\x00\x00\x14\xCF\xD9\x02B\xFB\x19@\xDA\xCAK\xFE\x27\x8F$@,1.0,3.0,9.0,8.0,0.0,inadequate
+HF00855,Primary Health Centre,8.954704,8.513525,\x01\x01\x00\x00\x00\x84\xB8r\xF6\xCE\xE8!@W[\xB1\xBF\xEC\x06!@,0.0,6.0,5.0,0.0,0.0,adequate
+HF00344,Health Post,6.95,8.7,\x01\x01\x00\x00\x00\xCD\xCC\xCC\xCC\xCC\xCC\x1B@ffffff!@,0.0,2.0,1.0,0.0,0.0,inadequate
+HF01260,General Hospital,9.508888,10.03343,"\x01\x01\x00\x00\x00Y\xA7\xCA\xF7\x8C\x04#@\x1Ai\xA9\xBC\x1D\x11$@",4.0,26.0,20.0,8.0,1.0,adequate
+HF00784,Health Post,8.317521,7.294495,\x01\x01\x00\x00\x00 \x96\xCD\x1C\x92\xA2 @\x93W\xE7\x18\x90-\x1D@,,,,,,no_personnel_record
+HF00505,Cottage Hospital,7.890172,10.501407,\x01\x01\x00\x00\x00xB\xAF?\x89\x8F\x1F@\x90\xF8\x15k\xB8\x00%@,1.0,21.0,12.0,6.0,1.0,inadequate
+HF01099,Primary Health Centre,9.07046,11.200216,\x01\x01\x00\x00\x002ZGU\x13$\x22@\x99E(\xB6\x82f&@,,,,,,no_personnel_record
+HF01163,Primary Health Centre,10.143697,9.414559,\x01\x01\x00\x00\x00\x0E\x117\xA7\x92I$@b\x86\xC6\x13A\xD4\x22@,1.0,3.0,2.0,0.0,0.0,inadequate
+HF00010,Comprehensive Health Centre,5.701687,9.161474,\x01\x01\x00\x00\x00\x08\x1Dt\x09\x87\xCE\x16@\x01OZ\xB8\xACR\x22@,0.0,11.0,10.0,6.0,3.0,inadequate
+HF00838,Primary Health Centre,9.696847,8.418326,"\x01\x01\x00\x00\x00\xA5\xA1F!\xC9d#@\x0C\x22R\xD3.\xD6 @",0.0,0.0,5.0,0.0,1.0,inadequate
+HF01174,Primary Health Centre,9.4965,9.130317,\x01\x01\x00\x00\x00\x91\xED|?5\xFE\x22@\xC59\xEA\xE8\xB8B\x22@,0.0,0.0,2.0,0.0,1.0,inadequate
+HF01065,Primary Health Centre,9.796443,10.791494,"\x01\x01\x00\x00\x00\x9AA|`\xC7\x97#@\xE0\xF5\x99\xB3>\x95%@",0.0,10.0,11.0,0.0,1.0,adequate
+HF00583,Primary Health Centre,7.702457,10.737229,\x01\x01\x00\x00\x00\x95bG\xE3P\xCF\x1E@XSY\x14vy%@,1.0,1.0,5.0,0.0,0.0,inadequate
+HF00304,Primary Health Centre,7.425182,7.864777,\x01\x01\x00\x00\x009d\x03\xE9b\xB3\x1D@\xFCT\x15\x1A\x88u\x1F@,0.0,6.0,0.0,1.0,1.0,inadequate
+HF00214,Comprehensive Health Centre,7.041731,10.641934,\x01\x01\x00\x00\x00\xE2\xEA\x00\x88\xBB*\x1C@\x84a\xC0\x92\xABH%@,0.0,0.0,10.0,1.0,1.0,inadequate
+HF00911,Cottage Hospital,8.208013,9.211652,"\x01\x01\x00\x00\x00#I\x10\xAE\x80j @\x18D\xA4\xA6]l\x22@",2.0,4.0,17.0,0.0,2.0,inadequate
+HF00088,Cottage Hospital,5.938353,9.729836,"\x01\x01\x00\x00\x00\xF9i\xDC\x9B\xDF\xC0\x17@\x0D\xE3n\x10\xADu#@",0.0,10.0,5.0,0.0,2.0,inadequate
+HF00582,Health Post,7.654234,10.685819,"\x01\x01\x00\x00\x00\x9D\xB9\x87\x84\xEF\x9D\x1E@k\xF3\xFF\xAA#_%@",0.0,2.0,2.0,0.0,0.0,adequate
+HF00672,Primary Health Centre,8.724419,10.909656,\x01\x01\x00\x00\x00\xB93\x13\x0C\xE7r!@i8en\xBE\xD1%@,,,,,,no_personnel_record
+HF01043,Health Post,10.650835,10.628476,\x01\x01\x00\x00\x000/\xC0>:M%@L\xA44\x9B\xC7A%@,0.0,3.0,1.0,1.0,0.0,inadequate
+HF00591,Comprehensive Health Centre,7.87,10.66,\x01\x01\x00\x00\x00{\x14\xAEG\xE1z\x1F@R\xB8\x1E\x85\xEBQ%@,1.0,4.0,17.0,0.0,0.0,inadequate
+HF01285,Health Post,10.203595,10.229631,\x01\x01\x00\x00\x00\x1CB\x95\x9A=h$@\xA9K\xC61\x92u$@,0.0,0.0,4.0,0.0,0.0,adequate
+HF00910,Health Post,8.189422,9.08186,"\x01\x01\x00\x00\x00,I\x9E\xEB\xFB` @}\xB3\xCD\x8D\xE9)\x22@",1.0,1.0,1.0,1.0,0.0,inadequate
+HF00391,Primary Health Centre,7.168547,7.926887,\x01\x01\x00\x00\x00\x0C[\xB3\x95\x97\xAC\x1C@\xA7Y\xA0\xDD!\xB5\x1F@,0.0,5.0,1.0,1.0,1.0,inadequate
+HF00721,Health Post,8.706286,8.311258,\x01\x01\x00\x00\x00\xCD>\x8FQ\x9Ei!@\x9B<e5]\x9F @,0.0,2.0,3.0,0.0,0.0,adequate
+HF01269,Primary Health Centre,9.888763,10.18315,"\x01\x01\x00\x00\x00*\xCA\xA5\xF1\x0B\xC7#@Y\x868\xD6\xC5]$@",0.0,5.0,5.0,0.0,1.0,adequate
+HF00567,Comprehensive Health Centre,7.2,10.91,\x01\x01\x00\x00\x00\xCD\xCC\xCC\xCC\xCC\xCC\x1C@R\xB8\x1E\x85\xEB\xD1%@,5.0,9.0,9.0,0.0,2.0,inadequate
+HF00368,Health Post,6.626039,8.736826,\x01\x01\x00\x00\x00\x09\x15\x1C^\x10\x81\x1A@\x5C\xAF\xE9AAy!@,0.0,1.0,1.0,0.0,0.0,inadequate
+HF00336,Comprehensive Health Centre,8.289558,7.658991,\x01\x01\x00\x00\x00 \x978\xF2@\x94 @\xF0ne\x89\xCE\xA2\x1E@,1.0,5.0,8.0,0.0,1.0,inadequate
+HF00684,Primary Health Centre,8.30342,10.611765,\x01\x01\x00\x00\x00\x96\xE7\xC1\xDDY\x9B @\xC5\xAC\x17C99%@,0.0,3.0,10.0,1.0,0.0,adequate
+HF00608,Primary Health Centre,7.45021,10.762142,\x01\x01\x00\x00\x00\x22T\xA9\xD9\x03\xCD\x1D@\xEA\xD0\xE9y7\x86%@,1.0,4.0,8.0,0.0,0.0,adequate
+HF00793,Primary Health Centre,8.89048,7.503743,\x01\x01\x00\x00\x00\xF2{\x9B\xFE\xEC\xC7!@\x10[z4\xD5\x03\x1E@,1.0,0.0,3.0,0.0,1.0,inadequate
+HF00462,Health Post,7.862228,9.412381,"\x01\x01\x00\x00\x00.\xC8\x96\xE5\xEBr\x1F@\xCA\xFB8\x9A#\xD3\x22@",0.0,1.0,1.0,1.0,0.0,inadequate
+HF00654,Health Post,8.246522,11.477482,\x01\x01\x00\x00\x001}\xAF!8~ @{\xDBL\x85x\xF4&@,,,,,,no_personnel_record
+HF00761,Primary Health Centre,8.464619,7.839465,\x01\x01\x00\x00\x00Q3\xA4\x8A\xE2\xED @\xEB\x8B\x84\xB6\x9C[\x1F@,,,,,,no_personnel_record
+HF00069,Primary Health Centre,5.991622,9.45229,\x01\x01\x00\x00\x00\xF8\xF9\xEF\xC1k\xF7\x17@\x9D\x9D\x0C\x8E\x92\xE7\x22@,1.0,8.0,3.0,1.0,0.0,adequate
+HF00515,Primary Health Centre,8.273164,9.774455,"\x01\x01\x00\x00\x00\x9B\xE3\xDC&\xDC\x8B @\x86r\xA2]\x85\x8C#@",1.0,0.0,5.0,0.0,1.0,inadequate
+HF01102,Primary Health Centre,8.877646,11.39921,\x01\x01\x00\x00\x001\xEE\x06\xD1Z\xC1!@\xEAx\xCC@e\xCC&@,0.0,1.0,6.0,0.0,0.0,inadequate
+HF01152,Cottage Hospital,10.507394,9.386771,\x01\x01\x00\x00\x00\x8D_x%\xC9\x03%@\x1A\x158\xD9\x06\xC6\x22@,0.0,7.0,4.0,1.0,1.0,inadequate
+HF00979,Primary Health Centre,9.8651,11.012778,"\x01\x01\x00\x00\x00\x09\x8A\x1Fc\xEE\xBA#@r7\x88\xD6\x8A\x06&@",3.0,5.0,2.0,2.0,1.0,inadequate
+HF00617,Health Post,,,,1.0,2.0,1.0,0.0,0.0,inadequate
+HF00995,Comprehensive Health Centre,10.160937,10.926222,\x01\x01\x00\x00\x00\xC6n\x9FUfR$@\xE2\xAB\x1D\xC59\xDA%@,0.0,12.0,2.0,7.0,0.0,inadequate
+HF00692,Cottage Hospital,8.057355,11.155358,\x01\x01\x00\x00\x00/\x86r\xA2]\x1D @\x0CXr\x15\x8BO&@,5.0,27.0,9.0,2.0,5.0,adequate
+HF00825,Primary Health Centre,9.230967,8.23195,\x01\x01\x00\x00\x00\x14\xE9~NAv\x22@I\x9D\x80&\xC2v @,1.0,2.0,5.0,1.0,0.0,adequate
+HF00151,Primary Health Centre,7.36,10.14,\x01\x01\x00\x00\x00q=\x0A\xD7\xA3p\x1D@H\xE1z\x14\xAEG$@,0.0,1.0,2.0,0.0,1.0,inadequate
+HF00660,Primary Health Centre,8.503773,10.984919,\x01\x01\x00\x00\x0037\xDF\x88\xEE\x01!@\x05k\x9CMG\xF8%@,0.0,1.0,0.0,3.0,0.0,inadequate
+HF900014,Primary Health Centre,5.698752,9.381432,\x01\x01\x00\x00\x00\xF1\x0E\xF0\xA4\x85\xCB\x16@\xB6K\x1B\x0EK\xC3\x22@,,,,,,no_personnel_record
+HF01129,Primary Health Centre,10.182685,11.552551,\x01\x01\x00\x00\x00\x84\xF0h\xE3\x88]$@\x83\xBE\xF4\xF6\xE7\x1A\x27@,2.0,0.0,2.0,1.0,1.0,inadequate
+HF00281,General Hospital,7.765756,8.140065,\x01\x01\x00\x00\x00\xF4\xDCBW\x22\x10\x1F@\xE4\xA0\x84\x99\xB6G @,3.0,21.0,5.0,2.0,5.0,adequate
+HF00121,General Hospital,,,,1.0,4.0,8.0,6.0,10.0,inadequate
+HF00902,Health Post,8.822596,9.452789,\x01\x01\x00\x00\x00\x0E\xA4\x8BM+\xA5!@\x22\xFA\xB5\xF5\xD3\xE7\x22@,0.0,3.0,3.0,1.0,1.0,adequate
+HF00290,Primary Health Centre,7.788012,7.394021,"\x01\x01\x00\x00\x00\x16l#\x9E\xEC&\x1F@\xB6\xBF\xB3=z\x93\x1D@",0.0,3.0,1.0,0.0,1.0,inadequate
+HF00479,Cottage Hospital,7.657602,9.11469,"\x01\x01\x00\x00\x00\x03#/kb\xA1\x1E@B[\xCE\xA5\xB8:\x22@",0.0,23.0,11.0,1.0,1.0,inadequate
+HF01178,General Hospital,9.544469,9.059718,"\x01\x01\x00\x00\x00$_\x09\xA4\xC4\x16#@\x0E\xF7\x91[\x93\x1E\x22@",0.0,0.0,8.0,2.0,0.0,inadequate
+HF00833,Comprehensive Health Centre,9.539544,8.899281,"\x01\x01\x00\x00\x00\x8C\x81u\x1C?\x14#@\x0F\xD4)\x8Fn\xCC!@",1.0,7.0,11.0,3.0,2.0,adequate
+HF00832,Comprehensive Health Centre,9.579981,8.969575,"\x01\x01\x00\x00\x00N\x9A\x06E\xF3(#@\xD5\x09h\x22l\xF0!@",0.0,6.0,6.0,2.0,0.0,inadequate
+HF00510,Primary Health Centre,8.031191,10.374378,\x01\x01\x00\x00\x00\xEC\xDBID\xF8\x0F @\x0C\xAF$y\xAE\xBF$@,1.0,2.0,7.0,0.0,0.0,adequate
+HF01055,Primary Health Centre,10.012807,10.446536,\x01\x01\x00\x00\x00\xDBQ\x9C\xA3\x8E\x06$@+\xF9\xD8]\xA0\xE4$@,0.0,4.0,5.0,0.0,0.0,adequate
+HF00785,Comprehensive Health Centre,8.533487,7.371664,\x01\x01\x00\x00\x00\xAB\xAEC5%\x11!@\xF5f\xD4|\x95|\x1D@,0.0,11.0,15.0,2.0,5.0,inadequate
+HF00092,Primary Health Centre,7.377988,9.715044,"\x01\x01\x00\x00\x00.\x1FII\x0F\x83\x1D@\xEDfF?\x1An#@",1.0,0.0,2.0,0.0,0.0,inadequate
+HF00835,Primary Health Centre,9.596073,8.626605,"\x01\x01\x00\x00\x00\xA6\x0E\xF2z01#@)\x05\xDD^\xD2@!@",0.0,3.0,7.0,0.0,2.0,adequate
+HF00776,Primary Health Centre,8.748026,7.721966,\x01\x01\x00\x00\x00\x8A\x1D\x8DC\xFD~!@\xB6K\x1B\x0EK\xE3\x1E@,1.0,5.0,3.0,1.0,2.0,adequate
+HF00423,Cottage Hospital,7.959241,8.730055,\x01\x01\x00\x00\x00\xE9\xED\xCFEC\xD6\x1F@\x04\x90\xDA\xC4\xC9u!@,,,,,,no_personnel_record
+HF00615,Comprehensive Health Centre,7.601149,10.788938,\x01\x01\x00\x00\x00\xA9\x17|\x9A\x93g\x1E@\xAF$y\xAE\xEF\x93%@,2.0,6.0,10.0,0.0,0.0,inadequate
+HF00257,Primary Health Centre,8.028324,8.318118,\x01\x01\x00\x00\x00Ab\xBB{\x80\x0E @\xB1\x89\xCC\x5C\xE0\xA2 @,,,,,,no_personnel_record
+HF901326,Primary Health Centre,10.55459,9.870037,"\x01\x01\x00\x00\x00\x95`q8\xF3\x1B%@\xB2\x9EZ}u\xBD#@",,,,,,no_personnel_record
+HF00487,Primary Health Centre,8.416361,10.051751,\x01\x01\x00\x00\x00\xE3\xA8\xDCD-\xD5 @\x12\x12i\x1B\x7F\x1A$@,1.0,1.0,3.0,1.0,1.0,inadequate
+HF900254,Primary Health Centre,7.863119,8.300637,\x01\x01\x00\x00\x00\x939\x96w\xD5s\x1F@c\xEF\xC5\x17\xED\x99 @,,,,,,no_personnel_record
+HF01277,General Hospital,9.906101,9.89263,"\x01\x01\x00\x00\x00\xEC\xBEcx\xEC\xCF#@b\xDB\xA2\xCC\x06\xC9#@",0.0,8.0,25.0,4.0,1.0,inadequate
+HF00450,Health Post,7.399633,8.90719,\x01\x01\x00\x00\x00\x06\x9C\xA5d9\x99\x1D@8\x84*5{\xD0!@,1.0,1.0,1.0,1.0,1.0,inadequate
+HF00335,Primary Health Centre,8.282042,7.689059,\x01\x01\x00\x00\x00f2\x1C\xCFg\x90 @\xD0\x0E\xB8\xAE\x98\xC1\x1E@,0.0,3.0,2.0,1.0,0.0,inadequate
+HF00673,Health Post,8.780939,11.127303,\x01\x01\x00\x00\x00\x86W\x92<\xD7\x8F!@\x89]\xDB\xDB-A&@,0.0,0.0,0.0,0.0,1.0,inadequate
+HF00030,Cottage Hospital,6.2699,9.78267,"\x01\x01\x00\x00\x00\xF8\xC2d\xAA`\x14\x19@\xE2\x1EK\x1F\xBA\x90#@",0.0,17.0,16.0,6.0,1.0,inadequate
+HF01151,Comprehensive Health Centre,10.559593,9.358575,\x01\x01\x00\x00\x00\x1C$D\xF9\x82\x1E%@\x8FSt$\x97\xB7\x22@,1.0,6.0,5.0,1.0,1.0,adequate
+HF00970,Primary Health Centre,9.721687,10.423517,"\x01\x01\x00\x00\x00\x8E\xE5]\xF5\x80q#@\x9E\x99`8\xD7\xD8$@",1.0,2.0,2.0,1.0,0.0,inadequate
+HF00518,Primary Health Centre,8.192224,9.639157,"\x01\x01\x00\x00\x00:\x03#/kb @\xDA\x04\x18\x96?G#@",0.0,0.0,0.0,1.0,1.0,inadequate
+HF900512,Primary Health Centre,8.1,10.52,\x01\x01\x00\x00\x00333333 @\x0A\xD7\xA3p=\x0A%@,,,,,,no_personnel_record
+HF900825,Primary Health Centre,9.230967,8.23195,\x01\x01\x00\x00\x00\x14\xE9~NAv\x22@I\x9D\x80&\xC2v @,,,,,,no_personnel_record
+HF00676,Cottage Hospital,7.898121,10.954963,\x01\x01\x00\x00\x00<g\x0B\x08\xAD\x97\x1F@\xB4\xC7\x0B\xE9\xF0\xE8%@,4.0,0.0,12.0,1.0,6.0,inadequate
+HF00041,Primary Health Centre,6.473236,9.61267,"\x01\x01\x00\x00\x00\xD0(]\xFA\x97\xE4\x19@\x0B{\xDA\xE1\xAF9#@",,,,,,no_personnel_record
+HF00017,Primary Health Centre,5.866775,8.909237,\x01\x01\x00\x00\x00+\xF6\x97\xDD\x93w\x17@U\xA0\x16\x83\x87\xD1!@,2.0,4.0,0.0,0.0,1.0,inadequate
+HF01322,Primary Health Centre,10.481587,9.86026,"\x01\x01\x00\x00\x00\x85[>\x92\x92\xF6$@*\x1D\xAC\xFFs\xB8#@",1.0,3.0,6.0,0.0,0.0,adequate
+HF00990,General Hospital,,,,0.0,23.0,40.0,15.0,5.0,inadequate
+HF01121,Primary Health Centre,9.336942,11.105304,\x01\x01\x00\x00\x004Lm\xA9\x83\xAC\x22@\xA6F\xE8g\xEA5&@,0.0,2.0,6.0,2.0,0.0,adequate
+HF01105,Primary Health Centre,9.026423,11.494417,"\x01\x01\x00\x00\x00s\xB9\xC1P\x87\x0D\x22@A,\x9B9$\xFD&@",1.0,4.0,1.0,1.0,1.0,inadequate
+HF00542,Primary Health Centre,8.907795,10.389694,\x01\x01\x00\x00\x00\xD4\xF1\x98\x81\xCA\xD0!@\x15\xE5\xD2\xF8\x85\xC7$@,1.0,3.0,9.0,1.0,0.0,adequate
+HF00668,Health Post,10.779479,8.691083,\x01\x01\x00\x00\x00k\xD6\x19\xDF\x17\x8F%@\xA5\xA4\x87\xA1\xD5a!@,0.0,2.0,1.0,0.0,0.0,inadequate
+HF00645,General Hospital,8.74827,10.749672,\x01\x01\x00\x00\x00\xE5\x27\xD5>\x1D\x7F!@.t%\x02\xD5\x7F%@,0.0,56.0,26.0,7.0,4.0,inadequate
+HF00541,Health Post,8.758937,10.43891,\x01\x01\x00\x00\x00\xDEr\xF5c\x93\x84!@T\xC6\xBF\xCF\xB8\xE0$@,0.0,2.0,2.0,1.0,0.0,adequate
+HF00545,Primary Health Centre,8.91,10.15,\x01\x01\x00\x00\x00R\xB8\x1E\x85\xEB\xD1!@\xCD\xCC\xCC\xCC\xCCL$@,0.0,3.0,6.0,0.0,2.0,adequate
+HF01061,Health Post,10.26702,10.634883,\x01\x01\x00\x00\x00\x7F\xC1n\xD8\xB6\x88$@\x9F\x92sb\x0FE%@,1.0,1.0,2.0,0.0,0.0,adequate
+HF00897,Primary Health Centre,8.426733,9.025432,\x01\x01\x00\x00\x00y?n\xBF|\xDA @3\x8BPl\x05\x0D\x22@,2.0,4.0,7.0,1.0,3.0,adequate
+HF00451,Health Post,7.470794,8.702362,\x01\x01\x00\x00\x00\xB2\x9C\x84\xD2\x17\xE2\x1D@\x04\xE8\xF7\xFD\x9Bg!@,0.0,3.0,3.0,0.0,0.0,adequate
+HF00250,Health Post,7.82337,8.006812,\x01\x01\x00\x00\x00\xB3\x07Z\x81!K\x1F@\xD2p\xCA\xDC|\x03 @,1.0,1.0,1.0,0.0,0.0,inadequate
+HF01203,General Hospital,9.38731,9.419656,"\x01\x01\x00\x00\x00\xD8\xD3\x0E\x7FM\xC6\x22@\xEE#\xB7&\xDD\xD6\x22@",20.0,56.0,30.0,3.0,0.0,inadequate
+HF00602,Primary Health Centre,7.521693,10.210758,\x01\x01\x00\x00\x00a5\x96\xB06\x16\x1E@\xA1\xBD\xFAx\xE8k$@,0.0,6.0,7.0,2.0,0.0,adequate
+HF00610,Health Post,7.580064,10.90938,\x01\x01\x00\x00\x00\x08Y\x16L\xFCQ\x1E@\xE1E_A\x9A\xD1%@,0.0,0.0,3.0,0.0,0.0,adequate
+HF00011,Health Post,5.648793,9.306261,\x01\x01\x00\x00\x00\xB3~31]\x98\x16@\x9C\x14\xE6=\xCE\x9C\x22@,0.0,2.0,3.0,0.0,1.0,adequate
+HF00757,Health Post,8.312096,7.821255,\x01\x01\x00\x00\x00\xC2l\x02\x0C\xCB\x9F @\xB7\xB4\x1A\x12\xF7H\x1F@,0.0,2.0,2.0,1.0,0.0,adequate
+HF01025,Comprehensive Health Centre,10.495448,11.155514,"\x01\x01\x00\x00\x00\xBA\xBC9\x5C\xAB\xFD$@\xEA#\xF0\x87\x9FO&@",0.0,5.0,20.0,8.0,0.0,inadequate
+HF00891,Health Post,8.19065,8.941948,\x01\x01\x00\x00\x00\xFD\xF6u\xE0\x9Ca @\xB2\x10\x1D\x02G\xE2!@,0.0,3.0,3.0,1.0,0.0,adequate
+HF00066,Health Post,,,,0.0,1.0,1.0,1.0,1.0,inadequate
+HF00999,Health Post,10.431509,10.793258,\x01\x01\x00\x00\x00\xFD\xDBe\xBF\xEE\xDC$@\xAB\x94\x9E\xE9%\x96%@,1.0,2.0,1.0,1.0,1.0,inadequate
+HF01120,Comprehensive Health Centre,9.393041,11.200785,\x01\x01\x00\x00\x00j\xF9\x81\xAB<\xC9\x22@\x02\x0E\xA1J\xCDf&@,1.0,8.0,0.0,0.0,3.0,inadequate
+HF00828,Primary Health Centre,9.572571,8.68425,"\x01\x01\x00\x00\x00\xAAF\xAF\x06(%#@u\x93\x18\x04V^!@",0.0,1.0,3.0,1.0,1.0,inadequate
+HF00783,Health Post,8.428234,7.480305,\x01\x01\x00\x00\x00\x0E\x12\xA2|A\xDB @\xCFk\xEC\x12\xD5\xEB\x1D@,1.0,1.0,2.0,1.0,1.0,adequate
+HF01023,Cottage Hospital,10.360787,11.059269,\x01\x01\x00\x00\x00\xD7\xA4\xDB\x12\xB9\xB8$@PU\xA1\x81X\x1E&@,0.0,25.0,10.0,0.0,6.0,inadequate
+HF00724,Health Post,,,,1.0,3.0,3.0,1.0,0.0,adequate
+HF00169,Comprehensive Health Centre,6.39998,9.862026,"\x01\x01\x00\x00\x00a7l[\x94\x99\x19@x\x9A\xCCx[\xB9#@",7.0,12.0,11.0,0.0,0.0,inadequate
+HF00227,Primary Health Centre,6.591324,10.344154,\x01\x01\x00\x00\x00\x10\x5C\xE5\x09\x84]\x1A@>\x93\xFD\xF34\xB0$@,1.0,10.0,8.0,0.0,0.0,adequate
+HF00914,Comprehensive Health Centre,8.385701,9.11997,\x01\x01\x00\x00\x00\xA9\x11\xFA\x99z\xC5 @\x93\x005\xB5l=\x22@,4.0,4.0,7.0,0.0,0.0,inadequate
+HF00194,Primary Health Centre,6.721752,10.892784,\x01\x01\x00\x00\x00VJ\xCF\xF4\x12\xE3\x1A@\xBD\xC8\x04\xFC\x1A\xC9%@,1.0,4.0,4.0,3.0,1.0,adequate
+HF00372,Comprehensive Health Centre,6.746916,8.790428,\x01\x01\x00\x00\x00\xC1oC\x8C\xD7\xFC\x1A@u\xAF\x93\xFA\xB2\x94!@,,,,,,no_personnel_record
+HF00971,Comprehensive Health Centre,,,,3.0,7.0,5.0,0.0,2.0,inadequate
+HF00509,Comprehensive Health Centre,7.725137,10.236117,"\x01\x01\x00\x00\x00lzPP\x8A\xE6\x1E@,\x0F\xD2S\xE4x$@",1.0,1.0,6.0,1.0,5.0,inadequate
+HF00296,General Hospital,7.808796,7.565334,\x01\x01\x00\x00\x00\xDF\x8A\xC4\x045<\x1F@xD\x85\xEA\xE6B\x1E@,7.0,0.0,27.0,7.0,6.0,inadequate
+HF00666,Primary Health Centre,8.618799,10.905515,\x01\x01\x00\x00\x00R\x98\xF78\xD3<!@+\x13~\xA9\x9F\xCF%@,4.0,4.0,2.0,2.0,1.0,inadequate
+HF00819,Primary Health Centre,9.204815,8.263696,"\x01\x01\x00\x00\x00\xE2u\xFD\x82\xDDh\x22@\x0A,\x80)\x03\x87 @",,,,,,no_personnel_record
+HF00830,Comprehensive Health Centre,9.54,8.81,"\x01\x01\x00\x00\x00\x14\xAEG\xE1z\x14#@\x1F\x85\xEBQ\xB8\x9E!@",0.0,2.0,10.0,0.0,3.0,inadequate
+HF01144,Comprehensive Health Centre,10.396754,9.058442,"\x01\x01\x00\x00\x00G\x1D\x1DW#\xCB$@\xF8l\x1D\x1C\xEC\x1D\x22@",2.0,5.0,8.0,1.0,1.0,adequate
+HF01301,Health Post,10.819718,10.313852,\x01\x01\x00\x00\x00\x93\xE2\xE3\x13\xB2\xA3%@\x82\x91\x975\xB1\xA0$@,1.0,2.0,2.0,1.0,0.0,adequate
+HF01066,Comprehensive Health Centre,9.926922,10.841498,"\x01\x01\x00\x00\x00\xC5\xE27\x85\x95\xDA#@\x7FLk\xD3\xD8\xAE%@",,,,,,no_personnel_record
+HF01141,Primary Health Centre,9.758325,9.207863,"\x01\x01\x00\x00\x00xz\xA5,C\x84#@\xCE\x18\xE6\x04mj\x22@",1.0,1.0,2.0,0.0,1.0,inadequate
+HF01111,Health Post,9.150012,11.448473,"\x01\x01\x00\x00\x00\xDE\x03t_\xCEL\x22@,G\xC8@\x9E\xE5&@",0.0,1.0,3.0,0.0,0.0,adequate
+HF00144,General Hospital,7.110716,10.161562,\x01\x01\x00\x00\x00d\x93\xFC\x88_q\x1C@~\x8D$A\xB8R$@,0.0,21.0,15.0,0.0,12.0,inadequate
+HF01207,Health Post,9.33712,9.26231,\x01\x01\x00\x00\x00\xB1\xA7\x1D\xFE\x9A\xAC\x22@\xD8\xD3\x0E\x7FM\x86\x22@,,,,,,no_personnel_record
+HF00727,Primary Health Centre,8.806673,8.208086,\x01\x01\x00\x00\x00\xE6!S>\x04\x9D!@\xCB\x82\x89?\x8Aj @,0.0,6.0,7.0,1.0,1.0,adequate
+HF00035,Primary Health Centre,6.30289,9.608775,"\x01\x01\x00\x00\x00J$\xD1\xCB(6\x19@\xAB>W[\xB17#@",3.0,0.0,0.0,0.0,0.0,inadequate
+HF00142,Cottage Hospital,6.991348,9.183805,"\x01\x01\x00\x00\x00\xEE\xD1\x1B\xEE#\xF7\x1B@\xBC\xAE_\xB0\x1B^\x22@",1.0,4.0,4.0,0.0,0.0,inadequate
+HF00333,Primary Health Centre,8.194767,7.602103,\x01\x01\x00\x00\x00\x19\xAE\x0E\x80\xB8c @@KW\xB0\x8Dh\x1E@,2.0,0.0,3.0,1.0,1.0,inadequate
+HF01168,Comprehensive Health Centre,10.225214,8.529901,\x01\x01\x00\x00\x00\xE33\xD9?Os$@C<\x12/O\x0F!@,0.0,3.0,3.0,0.0,1.0,inadequate
+HF00419,Primary Health Centre,7.904583,8.697773,\x01\x01\x00\x00\x00\xFD\x11\x86\x01K\x9E\x1F@I\x10\xAE\x80Be!@,0.0,3.0,5.0,2.0,1.0,adequate
+HF01175,Primary Health Centre,9.551555555555556,9.172472222222222,"\x01\x01\x00\x00\x00\x92\x13b}e\x1A#@f\xD3sGNX\x22@",1.0,4.0,2.0,0.0,0.0,inadequate
+HF00399,Primary Health Centre,7.013449,8.422234,\x01\x01\x00\x00\x00\xD6\xA7\x1C\x93\xC5\x0D\x1C@\xBE\x84\x0A\x0E/\xD8 @,0.0,3.0,3.0,0.0,1.0,adequate
+HF00189,Health Post,6.600439,10.953746,\x01\x01\x00\x00\x00\xC6\xF80{\xD9f\x1A@\xB3aMeQ\xE8%@,0.0,0.0,1.0,0.0,0.0,inadequate
+HF01254,Health Post,9.513872,9.954761,"\x01\x01\x00\x00\x00\x04\xA9\x14;\x1A\x07#@\x15\xFE\x0Co\xD6\xE8#@",0.0,1.0,0.0,1.0,0.0,inadequate
+HF00249,Health Post,7.455173,7.636999,\x01\x01\x00\x00\x00\xBE\x16\xF4\xDE\x18\xD2\x1D@\xBDVBwI\x8C\x1E@,0.0,0.0,2.0,0.0,0.0,adequate
+HF900431,Cottage Hospital,7.906886,8.425708,"\x01\x01\x00\x00\x00\x10\xCD<\xB9\xA6\xA0\x1F@\x88J#f\xF6\xD9 @",,,,,,no_personnel_record
+HF01218,Health Post,8.979999,9.5144,"\x01\x01\x00\x00\x00\xB49\xCEm\xC2\xF5!@\xF3\x1F\xD2o_\x07#@",0.0,1.0,2.0,0.0,0.0,adequate
+HF01311,Comprehensive Health Centre,10.334917,10.116757,\x01\x01\x00\x00\x00\xB6\xBF\xB3=z\xAB$@|(\xD1\x92\xC7;$@,2.0,6.0,11.0,1.0,0.0,adequate
+HF00801,Comprehensive Health Centre,9.819443,8.27934,"\x01\x01\x00\x00\x00L\xDFk\x08\x8E\xA3#@\xE5\xED\x08\xA7\x05\x8F @",2.0,6.0,8.0,1.0,3.0,adequate
+HF00984,Primary Health Centre,10.038169,11.125108,\x01\x01\x00\x00\x00*q\x1D\xE3\x8A\x13$@\x9A\xEF\xE0\x27\x0E@&@,1.0,2.0,5.0,2.0,0.0,adequate
+HF01029,Health Post,10.584043,11.178806,\x01\x01\x00\x00\x00[\xEA \xAF\x07+%@;\xA8\xC4u\x8C[&@,1.0,2.0,1.0,1.0,2.0,inadequate
+HF01020,Primary Health Centre,10.271422,11.190023,\x01\x01\x00\x00\x00o\xD4\x0A\xD3\xF7\x8A$@\xC2\xF9\xD4\xB1Ja&@,3.0,8.0,8.0,1.0,0.0,adequate
+HF01106,Health Post,8.994841,11.638533,\x01\x01\x00\x00\x00\x9Bp\xAF\xCC[\xFD!@c\xD5 \xCC\xEDF\x27@,0.0,1.0,2.0,0.0,0.0,adequate
+HF00166,Primary Health Centre,7.448197,9.986495,"\x01\x01\x00\x00\x00H\xA9\x84\x27\xF4\xCA\x1D@\xC5Ue\xDF\x15\xF9#@",2.0,3.0,1.0,0.0,1.0,inadequate
+HF01224,Comprehensive Health Centre,9.260962,9.548068,"\x01\x01\x00\x00\x00\x5C\xFF\xAE\xCF\x9C\x85\x22@\xE0\xF7o^\x9C\x18#@",1.0,9.0,15.0,5.0,3.0,adequate
+HF00952,Primary Health Centre,8.96997,10.806687,\x01\x01\x00\x00\x00\xC63h\xE8\x9F\xF0!@z7\x16\x14\x06\x9D%@,0.0,2.0,3.0,1.0,1.0,adequate
+HF00722,Health Post,8.631305,8.292382,\x01\x01\x00\x00\x00A\x9A\xB1h:C!@\xCE\xE0\xEF\x17\xB3\x95 @,0.0,1.0,2.0,0.0,1.0,adequate
+HF00436,Primary Health Centre,7.357893,8.479517,\x01\x01\x00\x00\x00\x8B\xDE\xA9\x80{n\x1D@\x87\xC0\x91@\x83\xF5 @,0.0,3.0,8.0,1.0,3.0,adequate
+HF00188,Comprehensive Health Centre,6.494048,10.859272,\x01\x01\x00\x00\x00\xE9\x9D\x0A\xB8\xE7\xF9\x19@\xAE\xBC\xE4\x7F\xF2\xB7%@,2.0,13.0,8.0,2.0,0.0,adequate
+HF01232,Health Post,9.47114,9.49912,\x01\x01\x00\x00\x00\xC5\xAC\x17C9\xF1\x22@\x1D\x8F\x19\xA8\x8C\xFF\x22@,1.0,4.0,0.0,1.0,0.0,inadequate
+HF01199,Primary Health Centre,9.295288,9.483579,\x01\x01\x00\x00\x00p\xCD\x1D\xFD/\x97\x22@\x95\x10\xAC\xAA\x97\xF7\x22@,1.0,8.0,7.0,2.0,0.0,adequate
+HF01052,Primary Health Centre,10.095227,10.658858,\x01\x01\x00\x00\x00sd\xE5\x97\xC10$@{j\xF5\xD5UQ%@,0.0,3.0,3.0,2.0,2.0,adequate
+HF00478,Health Post,7.775339,9.250912,\x01\x01\x00\x00\x00\xDD@\x81w\xF2\x19\x1F@\x10Y\xA4\x89w\x80\x22@,0.0,2.0,2.0,0.0,0.0,adequate
+HF00395,Primary Health Centre,6.83,8.31,\x01\x01\x00\x00\x00R\xB8\x1E\x85\xEBQ\x1B@\x1F\x85\xEBQ\xB8\x9E @,0.0,3.0,6.0,0.0,1.0,adequate
+HF00073,Primary Health Centre,6.463764,9.383134,"\x01\x01\x00\x00\x00\xA3?4\xF3\xE4\xDA\x19@\xA9\xF8\xBF#*\xC4\x22@",0.0,5.0,3.0,0.0,1.0,adequate
+HF01122,Primary Health Centre,9.380897,11.124742,\x01\x01\x00\x00\x00\xFDI|\xEE\x04\xC3\x22@\x11\xE0\xF4.\xDE?&@,0.0,5.0,4.0,0.0,0.0,adequate
+HF00345,Primary Health Centre,6.919506,8.771637,\x01\x01\x00\x00\x002\xE7\x19\xFB\x92\xAD\x1B@a\xC4>\x01\x14\x8B!@,0.0,5.0,4.0,1.0,1.0,adequate
+HF00532,Health Post,8.684833,10.030608,\x01\x01\x00\x00\x00qqTn\xA2^!@\xF0\xFD\x0D\xDA\xAB\x0F$@,1.0,2.0,1.0,0.0,0.0,inadequate
+HF01024,Primary Health Centre,10.383265,11.282978,"\x01\x01\x00\x00\x00#gaO;\xC4$@\x98\xF9\x0E~\xE2\x90&@",0.0,7.0,10.0,3.0,0.0,adequate
+HF00565,Health Post,6.95688,10.872176,\x01\x01\x00\x00\x002\xC9\xC8Y\xD8\xD3\x1B@R\xB6H\xDA\x8D\xBE%@,0.0,3.0,1.0,0.0,1.0,inadequate
+HF00165,Health Post,7.463128,9.989509,"\x01\x01\x00\x00\x00\x93r\xF79>\xDA\x1D@\x012t\xEC\xA0\xFA#@",0.0,0.0,0.0,0.0,0.0,inadequate
+HF00563,Primary Health Centre,7.743905,10.059836,\x01\x01\x00\x00\x00\xD2Ry;\xC2\xF9\x1E@6?\xFE\xD2\xA2\x1E$@,0.0,2.0,5.0,1.0,1.0,adequate
+HF00969,Health Post,9.525729,10.561765,"\x01\x01\x00\x00\x00\x19\x1E\xFBY,\x0D#@+\x13~\xA9\x9F\x1F%@",0.0,1.0,1.0,0.0,0.0,inadequate
+HF00705,Primary Health Centre,8.632523,11.445939,\x01\x01\x00\x00\x00\x85\xEF\xFD\x0D\xDAC!@\x9A\x05\xDA\x1DR\xE4&@,0.0,2.0,7.0,2.0,2.0,adequate
+HF00409,Health Post,6.614101,8.260232,\x01\x01\x00\x00\x00z\xC3}\xE4\xD6t\x1A@\xCF\xBE\xF2 =\x85 @,0.0,1.0,2.0,1.0,0.0,adequate
+HF00190,Primary Health Centre,6.64806,10.956638,\x01\x01\x00\x00\x00\x0Fbg\x0A\x9D\x97\x1A@\xC18\xB8t\xCC\xE9%@,1.0,2.0,2.0,2.0,1.0,inadequate
+HF00882,Primary Health Centre,8.311822,9.347545,\x01\x01\x00\x00\x00\xBCX\x18\x22\xA7\x9F @\xD2\xC6\x11k\xF1\xB1\x22@,1.0,4.0,2.0,0.0,0.0,inadequate
+HF00513,Comprehensive Health Centre,8.163622,10.377385,\x01\x01\x00\x00\x00\xEE\xCFEC\xC6S @~\x00R\x9B8\xC1$@,0.0,7.0,12.0,1.0,3.0,inadequate
+HF00596,Health Post,7.389057,11.103716,\x01\x01\x00\x00\x00\x97\x1EM\xF5d\x8E\x1D@\xD5$xC\x1A5&@,0.0,0.0,3.0,0.0,0.0,adequate
+HF01308,Health Post,10.411658,9.913495,"\x01\x01\x00\x00\x00\x06F^\xD6\xC4\xD2$@y\x1E\xDC\x9D\xB5\xD3#@",0.0,3.0,2.0,0.0,0.0,adequate
+HF00809,Health Post,9.301706,7.974502,\x01\x01\x00\x00\x00\x92\x03v5y\x9A\x22@\xDF\x8B/\xDA\xE3\xE5\x1F@,1.0,1.0,0.0,0.0,0.0,inadequate
+HF01181,General Hospital,9.695107,9.237374,"\x01\x01\x00\x00\x00\xFCp\x90\x10\xE5c#@g\xD7\xBD\x15\x89y\x22@",,,,,,no_personnel_record
+HF01126,Health Post,9.573211,11.020342,"\x01\x01\x00\x00\x008j\x85\xE9{%#@pxADj\x0A&@",0.0,2.0,1.0,0.0,0.0,inadequate
+HF00237,Health Post,7.422977,7.414021,\x01\x01\x00\x00\x00=\xD7\xF7\xE1 \xB1\x1D@\xCAm\xFB\x1E\xF5\xA7\x1D@,0.0,1.0,2.0,0.0,0.0,adequate
+HF00351,Health Post,6.815043,9.044583,\x01\x01\x00\x00\x00\xBDU\xD7\xA1\x9AB\x1B@F\xEA=\x95\xD3\x16\x22@,0.0,0.0,1.0,0.0,0.0,inadequate
+HF00959,General Hospital,9.151993,10.279802,\x01\x01\x00\x00\x00\x1Dq\xC8\x06\xD2M\x22@\xF6\xB5.5B\x8F$@,3.0,12.0,0.0,2.0,0.0,inadequate
+HF00741,Primary Health Centre,8.351182,7.952004,\x01\x01\x00\x00\x00C\xE3\x89 \xCE\xB3 @\x0D\xA5\xF6\x22\xDA\xCE\x1F@,1.0,3.0,6.0,0.0,1.0,adequate
+HF01247,Health Post,9.143997,10.083407,\x01\x01\x00\x00\x00\xB9q\x8B\xF9\xB9I\x22@\xD3\x83\x82R\xB4*$@,0.0,2.0,1.0,1.0,0.0,inadequate
+HF00511,Health Post,8.07,10.21,"\x01\x01\x00\x00\x00\xA4p=\x0A\xD7# @\xECQ\xB8\x1E\x85k$@",0.0,1.0,2.0,0.0,0.0,adequate
+HF00347,Primary Health Centre,6.928157,8.671094,\x01\x01\x00\x00\x00\xC16\xE2\xC9n\xB6\x1B@j\x15\xFD\xA1\x99W!@,1.0,4.0,3.0,2.0,0.0,adequate
+HF01231,Comprehensive Health Centre,9.464037,9.545713,"\x01\x01\x00\x00\x00\x95D\xF6A\x96\xED\x22@\x0C\x01\xC0\xB1g\x17#@",0.0,0.0,9.0,0.0,1.0,inadequate
+HF00032,Primary Health Centre,6.254289,9.755742,"\x01\x01\x00\x00\x00 \xEE\xEAUd\x04\x19@am\x8C\x9D\xF0\x82#@",2.0,1.0,3.0,2.0,0.0,inadequate
+HF01053,Health Post,10.132632,10.416126,\x01\x01\x00\x00\x00_\xCElW\xE8C$@\xD5\x07\x92w\x0E\xD5$@,0.0,1.0,2.0,0.0,0.0,adequate
+HF01222,Health Post,9.169447,9.814013,"\x01\x01\x00\x00\x00\x85\xCF\xD6\xC1\xC1V\x22@\xA6\x09\xDBO\xC6\xA0#@",0.0,1.0,3.0,0.0,1.0,adequate
+HF01036,Comprehensive Health Centre,10.36,10.39,\x01\x01\x00\x00\x00\xB8\x1E\x85\xEBQ\xB8$@H\xE1z\x14\xAE\xC7$@,0.0,7.0,27.0,5.0,0.0,inadequate
+HF00449,Primary Health Centre,7.254636,8.735905,\x01\x01\x00\x00\x00z\x89\xB1L\xBF\x04\x1D@\xFF\xECG\x8A\xC8x!@,2.0,1.0,5.0,1.0,0.0,inadequate
+HF00808,Cottage Hospital,9.34822,7.990621,\x01\x01\x00\x00\x00Q\xA0O\xE4I\xB2\x22@[\xEC\xF6Ye\xF6\x1F@,3.0,3.0,16.0,1.0,5.0,inadequate
+HF00457,Health Post,7.271787,9.09629,\x01\x01\x00\x00\x00l\xE9\xD1TO\x16\x1D@\x1A\xDDA\xECL1\x22@,1.0,1.0,1.0,1.0,0.0,inadequate
+HF00076,Primary Health Centre,,,,0.0,3.0,2.0,0.0,0.0,inadequate
+HF01153,Primary Health Centre,,,,0.0,0.0,0.0,1.0,1.0,inadequate
+HF01208,Primary Health Centre,9.295321,9.50515,"\x01\x01\x00\x00\x00\xDF\xA4iP4\x97\x22@\x18&S\x05\xA3\x02#@",2.0,3.0,8.0,0.0,0.0,adequate
+HF01148,Primary Health Centre,10.535799,9.429962,"\x01\x01\x00\x00\x00\x82u\x1C?T\x12%@\xA6\x0B\xB1\xFA#\xDC\x22@",,,,,,no_personnel_record
+HF00725,Primary Health Centre,8.886652,8.207274,\x01\x01\x00\x00\x00\xB1\xDD=@\xF7\xC5!@I\x9FV\xD1\x1Fj @,0.0,6.0,5.0,1.0,0.0,adequate
+HF00562,Primary Health Centre,7.667972,9.844426,"\x01\x01\x00\x00\x00)\x93\x1A\xDA\x00\xAC\x1E@\xC1\xC8\xCB\x9AX\xB0#@",1.0,0.0,4.0,1.0,1.0,inadequate
+HF01103,Primary Health Centre,8.759997,11.433778,\x01\x01\x00\x00\x00\xC1\x1D\xA8S\x1E\x85!@\xD6rg&\x18\xDE&@,0.0,2.0,4.0,1.0,1.0,adequate
+HF01134,Primary Health Centre,10.003927,11.502357,\x01\x01\x00\x00\x00\x8D$A\xB8\x02\x02$@V\xD5\xCB\xEF4\x01\x27@,1.0,1.0,4.0,0.0,1.0,inadequate
+HF00977,Primary Health Centre,9.919522,11.099155,"\x01\x01\x00\x00\x00\xB0\xE7k\x96\xCB\xD6#@Bx\xB4q\xC42&@",0.0,7.0,8.0,1.0,1.0,adequate
+HF00202,Cottage Hospital,6.741082,10.618374,\x01\x01\x00\x00\x00\xF9\x9D&3\xDE\xF6\x1A@\xB6dU\x84\x9B<%@,,,,,,no_personnel_record
+HF00853,Primary Health Centre,8.967566,8.444522,\x01\x01\x00\x00\x00mq\x8D\xCFd\xEF!@|\xB48c\x98\xE3 @,0.0,5.0,2.0,1.0,0.0,inadequate
+HF00481,Cottage Hospital,8.212088,10.281884,\x01\x01\x00\x00\x00\x83\xBF_\xCC\x96l @\x05\x88\x82\x19S\x90$@,,,,,,no_personnel_record
+HF00225,Primary Health Centre,6.499245,10.12354,\x01\x01\x00\x00\x00\x1E\xC4\xCE\x14:\xFF\x19@\xE5~\x87\xA2@?$@,0.0,2.0,4.0,1.0,0.0,adequate
+HF00129,General Hospital,6.832433,9.706995,"\x01\x01\x00\x00\x00\xD6q\xFCPiT\x1B@\xFC\xDE\xA6?\xFBi#@",,,,,,no_personnel_record
+HF00117,Comprehensive Health Centre,6.626353,9.627134,"\x01\x01\x00\x00\x00\x86\x01K\xAEb\x81\x1A@Yk(\xB5\x17A#@",4.0,6.0,9.0,1.0,1.0,adequate
+HF00382,Health Post,7.021155,7.869011,\x01\x01\x00\x00\x00h\x96\x04\xA8\xA9\x15\x1C@\x00u\x03\x05\xDEy\x1F@,0.0,1.0,2.0,1.0,0.0,adequate
+HF00456,Primary Health Centre,7.217766,9.111637,\x01\x01\x00\x00\x00\x13\xB9\xE0\x0C\xFE\xDE\x1C@\x0F\x0C |(9\x22@,0.0,4.0,3.0,2.0,1.0,adequate
+HF00650,Primary Health Centre,8.012237,11.519807,\x01\x01\x00\x00\x001\x9A\x95\xEDC\x06 @\xB8v\xA2$$\x0A\x27@,0.0,6.0,5.0,2.0,2.0,adequate
+HF00220,Primary Health Centre,6.171554,10.277902,\x01\x01\x00\x00\x00\xF0\xFD\x0D\xDA\xAB\xAF\x18@i\xFC\xC2+I\x8E$@,0.0,4.0,5.0,2.0,0.0,adequate
+HF00219,Primary Health Centre,6.11841,10.186953,\x01\x01\x00\x00\x00\xD3\x13\x96x@y\x18@7\xC7\xB9M\xB8_$@,3.0,7.0,9.0,3.0,1.0,adequate
+HF00537,Comprehensive Health Centre,8.709088,10.373727,\x01\x01\x00\x00\x00\xDB\xF8\x13\x95\x0Dk!@\xAFC5%Y\xBF$@,5.0,10.0,8.0,0.0,3.0,inadequate
+HF00777,Health Post,8.716494,7.7319,\x01\x01\x00\x00\x00z\x8F3M\xD8n!@\x05\xC5\x8F1w\xED\x1E@,0.0,3.0,2.0,1.0,0.0,adequate
+HF00867,Health Post,8.891956,8.983104,\x01\x01\x00\x00\x00$\xF1\xF2t\xAE\xC8!@2\x22QhY\xF7!@,1.0,2.0,1.0,0.0,0.0,inadequate
+HF00107,Primary Health Centre,7.459896,9.665336,"\x01\x01\x00\x00\x00\xAF>\x1E\xFA\xEE\xD6\x1D@\xF2\xB3\x91\xEB\xA6T#@",3.0,0.0,5.0,0.0,0.0,inadequate
+HF01190,Comprehensive Health Centre,10.107482,8.911105,\x01\x01\x00\x00\x00=\xD1u\xE1\x077$@\xB4q\xC4Z|\xD2!@,1.0,5.0,5.0,1.0,1.0,adequate
+HF00328,Comprehensive Health Centre,8.069758,7.640847,"\x01\x01\x00\x00\x00\xCCD\x11R\xB7# @w\xF5*2:\x90\x1E@",2.0,1.0,4.0,3.0,1.0,inadequate
+HF00373,Primary Health Centre,6.771099,8.76038,\x01\x01\x00\x00\x00\xC9\xE9\xEB\xF9\x9A\x15\x1B@\xA1\x10\x01\x87P\x85!@,3.0,4.0,4.0,1.0,0.0,adequate
+HF00533,Primary Health Centre,8.710153,9.952871,"\x01\x01\x00\x00\x00\x05P\x8C,\x99k!@\x17\x9D,\xB5\xDE\xE7#@",0.0,4.0,1.0,1.0,1.0,inadequate
+HF01018,Health Post,10.415712,11.400667,"\x01\x01\x00\x00\x00\x08\x1C\x094\xD8\xD4$@A,\x9B9$\xCD&@",0.0,3.0,3.0,1.0,0.0,adequate
+HF00759,Primary Health Centre,8.274203,7.795146,\x01\x01\x00\x00\x00 \xEE\xEAUd\x8C @M.\xC6\xC0:.\x1F@,3.0,3.0,6.0,1.0,0.0,adequate
+HF01110,Primary Health Centre,9.13005,11.488819,\x01\x01\x00\x00\x00\x8A\xB0\xE1\xE9\x95B\x22@\xACS\xE5{F\xFA&@,0.0,0.0,2.0,0.0,2.0,inadequate
+HF01283,Health Post,9.920291,10.294765,"\x01\x01\x00\x00\x005\x9B\xC7a0\xD7#@\xC9\x02&p\xEB\x96$@",0.0,1.0,1.0,1.0,0.0,inadequate
+HF00053,Comprehensive Health Centre,6.135046,9.788586,"\x01\x01\x00\x00\x00\x8D\xD2\xA5\x7FI\x8A\x18@\xBB*P\x8B\xC1\x93#@",1.0,0.0,7.0,0.0,2.0,inadequate
+HF01230,Cottage Hospital,9.561203,9.790795,"\x01\x01\x00\x00\x00\x8D\xD5\xE6\xFFU\x1F#@>\xAE\x0D\x15\xE3\x94#@",4.0,23.0,26.0,3.0,4.0,adequate
+HF00656,Comprehensive Health Centre,8.164714,11.256375,\x01\x01\x00\x00\x00\xFEb\xB6dUT @%\x06\x81\x95C\x83&@,,,,,,no_personnel_record
+HF00713,Primary Health Centre,9.115763,7.689633,"\x01\x01\x00\x00\x00w,\xB6IE;\x22@/\xF84\x27/\xC2\x1E@",1.0,2.0,3.0,1.0,0.0,adequate
+HF01238,Cottage Hospital,9.773458,9.793496,"\x01\x01\x00\x00\x00\xBD\xA8\xDD\xAF\x02\x8C#@}\x03\x93\x1BE\x96#@",1.0,9.0,7.0,0.0,0.0,inadequate
+HF00508,Comprehensive Health Centre,7.801673,10.179489,\x01\x01\x00\x00\x00GXT\xC4\xE94\x1F@\xC6\xFBq\xFB\xE5[$@,2.0,7.0,7.0,4.0,0.0,adequate
+HF00196,Health Post,6.585774,10.841617,"\x01\x01\x00\x00\x00oc\xB3#\xD5W\x1A@\xE8\x83el\xE8\xAE%@",0.0,2.0,2.0,0.0,0.0,adequate
+HF00448,Comprehensive Health Centre,7.229764,8.75965,\x01\x01\x00\x00\x00M1\x07AG\xEB\x1C@\x14\xD0D\xD8\xF0\x84!@,1.0,2.0,4.0,0.0,2.0,inadequate
+HF00442,Primary Health Centre,7.448374,8.456653,\x01\x01\x00\x00\x00\xBF\x81\xC9\x8D\x22\xCB\x1D@\x96=\x09l\xCE\xE9 @,0.0,0.0,4.0,0.0,1.0,inadequate
+HF00300,Health Post,7.459246,7.992608,\x01\x01\x00\x00\x00xF[\x95D\xD6\x1D@\xEB\xFDF;n\xF8\x1F@,0.0,1.0,0.0,0.0,0.0,inadequate
+HF00025,Primary Health Centre,6.170968,8.856011,\x01\x01\x00\x00\x00n\xA6B<\x12\xAF\x18@S\x08\xE4\x12G\xB6!@,0.0,5.0,5.0,0.0,0.0,adequate
+HF01135,General Hospital,9.684933,9.121296,"\x01\x01\x00\x00\x00\xFF\xE6\xC5\x89\xAF^#@oEb\x82\x1A>\x22@",0.0,10.0,12.0,0.0,3.0,inadequate
+HF00486,Health Post,8.405129,10.300582,\x01\x01\x00\x00\x00\x87R{\x11m\xCF @U\x88G\xE2\xE5\x99$@,1.0,2.0,2.0,0.0,0.0,adequate
+HF01248,Primary Health Centre,9.257016,10.040717,\x01\x01\x00\x00\x00\xF4\x18\xE5\x99\x97\x83\x22@P\xC8\xCE\xDB\xD8\x14$@,0.0,4.0,4.0,1.0,0.0,adequate
+HF00942,Primary Health Centre,9.375986,10.579926,\x01\x01\x00\x00\x00\xF9\x81\xAB<\x81\xC0\x22@@3\x88\x0F\xEC(%@,0.0,1.0,3.0,1.0,0.0,inadequate
+HF01004,Comprehensive Health Centre,10.581101,10.885448,\x01\x01\x00\x00\x00\x86X\xFD\x11\x86)%@\x02\x9E\xB4pY\xC5%@,5.0,11.0,22.0,0.0,0.0,inadequate
+HF01060,Health Post,10.256319,10.591651,\x01\x01\x00\x00\x00\xD5\xAFt><\x83$@\x99J?\xE1\xEC.%@,1.0,2.0,0.0,0.0,1.0,inadequate
+HF00677,Cottage Hospital,7.936897,10.99264,"\x01\x01\x00\x00\x00\xCE\xE1Z\xEDa\xBF\x1F@#gaO;\xFC%@",2.0,13.0,5.0,3.0,6.0,adequate
+HF01159,Comprehensive Health Centre,9.945147,9.154065,"\x01\x01\x00\x00\x005\xD3\xBDN\xEA\xE3#@\x9E\xEA\x90\x9B\xE1N\x22@",0.0,3.0,5.0,2.0,2.0,inadequate
+HF00460,Primary Health Centre,7.721139,9.1017,\x01\x01\x00\x00\x00\x07{\x13Cr\xE2\x1E@\xA3\x01\xBC\x05\x124\x22@,0.0,0.0,2.0,0.0,1.0,inadequate
+HF01323,Primary Health Centre,10.487941,9.914609,"\x01\x01\x00\x00\x00L\xC1\x1Ag\xD3\xF9$@)A\x7F\xA1G\xD4#@",0.0,0.0,7.0,2.0,2.0,inadequate
+HF00723,Primary Health Centre,8.678205,8.377179,\x01\x01\x00\x00\x00\xA5\xF7\x8D\xAF=[!@\xD9y\x1B\x9B\x1D\xC1 @,3.0,3.0,7.0,1.0,0.0,adequate
+HF00301,Comprehensive Health Centre,7.407445,7.785653,\x01\x01\x00\x00\x00\xC5\xAC\x17C9\xA1\x1D@d\x04T8\x82$\x1F@,1.0,0.0,5.0,0.0,0.0,inadequate
+HF01012,Health Post,10.530803,11.314902,\x01\x01\x00\x00\x00\xC5<+i\xC5\x0F%@\xD6\xE3\xBE\xD5:\xA1&@,0.0,0.0,3.0,0.0,0.0,adequate
+HF00205,General Hospital,6.853147,10.388536,\x01\x01\x00\x00\x00\xD8\xB8\xFE]\x9Fi\x1B@\x27\xA3\xCA0\xEE\xC6$@,3.0,25.0,7.0,10.0,0.0,inadequate
+HF901211,Health Post,8.894472,9.63016,"\x01\x01\x00\x00\x00\x1C`\xE6;\xF8\xC9!@\xA6~\xDET\xA4B#@",,,,,,no_personnel_record
+HF00950,Comprehensive Health Centre,8.916963,10.944127,"\x01\x01\x00\x00\x00\xBBH\xA1,|\xD5!@\x8B\x8A8\x9Dd\xE3%@",1.0,1.0,5.0,0.0,1.0,inadequate
+HF00646,Primary Health Centre,8.661667,10.69912,\x01\x01\x00\x00\x00S\xAF[\x04\xC6R!@\x84\xF5\x7F\x0E\xF3e%@,,,,,,no_personnel_record
+HF00701,Primary Health Centre,8.634443,11.522587,\x01\x01\x00\x00\x00-Z\x80\xB6\xD5D!@\x27\xA1\xF4\x85\x90\x0B\x27@,0.0,0.0,2.0,2.0,3.0,inadequate
+HF01158,Health Post,9.960877,9.197386,"\x01\x01\x00\x00\x00\x0A\xF5\xF4\x11\xF8\xEB#@c`\x1D\xC7\x0Fe\x22@",0.0,0.0,1.0,0.0,0.0,inadequate
+HF01186,Primary Health Centre,9.87019,8.952257,"\x01\x01\x00\x00\x00\xCB\x9C.\x8B\x89\xBD#@.\xC6\xC0:\x8E\xE7!@",0.0,1.0,0.0,0.0,0.0,inadequate
+HF01183,Primary Health Centre,9.594434,9.413034,"\x01\x01\x00\x00\x00\xCCB;\xA7Y0#@\xAAED1y\xD3\x22@",0.0,2.0,0.0,1.0,1.0,inadequate
+HF00665,Primary Health Centre,8.493358,10.894855,\x01\x01\x00\x00\x00\xA0pvk\x99\xFC @\xFCR?o*\xCA%@,0.0,6.0,6.0,1.0,3.0,adequate
+HF01116,Primary Health Centre,9.222171,11.236469,\x01\x01\x00\x00\x00>=\xB6e\xC0q\x22@ \x09\xFBv\x12y&@,1.0,3.0,3.0,1.0,1.0,adequate
+HF00125,Primary Health Centre,6.714454,9.255895,\x01\x01\x00\x00\x00L\xFCQ\xD4\x99\xDB\x1A@{k`\xAB\x04\x83\x22@,0.0,2.0,1.0,1.0,1.0,inadequate
+HF01093,Primary Health Centre,8.87432,11.169791,\x01\x01\x00\x00\x00:z\xFC\xDE\xA6\xBF!@nO\x90\xD8\xEEV&@,1.0,3.0,4.0,0.0,2.0,adequate
+HF01197,Primary Health Centre,10.250894,9.056913,"\x01\x01\x00\x00\x00w\x86\xA9-u\x80$@;oc\xB3#\x1D\x22@",0.0,2.0,3.0,0.0,0.0,adequate
+HF00504,Comprehensive Health Centre,7.799663,10.447606,"\x01\x01\x00\x00\x00\xF5H\x83\xDB\xDA2\x1F@\x9C\xFC\x16\x9D,\xE5$@",0.0,0.0,13.0,2.0,0.0,inadequate
+HF01090,Primary Health Centre,8.756392,11.285943,\x01\x01\x00\x00\x00}\xE9\xED\xCFE\x83!@N\x0A\xF3\x1Eg\x92&@,2.0,3.0,5.0,0.0,0.0,adequate
+HF00323,Primary Health Centre,8.002708,7.723022,\x01\x01\x00\x00\x00\x09\xE0f\xF1b\x01 @p\x27\x11\xE1_\xE4\x1E@,0.0,2.0,0.0,2.0,0.0,inadequate
+HF00640,Health Post,8.441586,10.700668,\x01\x01\x00\x00\x00/\xBEh\x8F\x17\xE2 @\x1C\xB5\xC2\xF4\xBDf%@,0.0,1.0,1.0,0.0,0.0,inadequate
+HF00104,Health Post,7.528177,9.739169,"\x01\x01\x00\x00\x00a\xFFun\xDA\x1C\x1E@\x1Eo\xF2[tz#@",0.0,1.0,3.0,0.0,0.0,adequate
+HF00732,Primary Health Centre,8.23668,8.166848,\x01\x01\x00\x00\x00\x0C<\xF7\x1E.y @W\xCE\xDE\x19mU @,0.0,4.0,4.0,1.0,1.0,adequate
+HF00447,Primary Health Centre,7.265888,8.704903,\x01\x01\x00\x00\x00l\x98\xA1\xF1D\x10\x1D@_\xB4\xC7\x0B\xE9h!@,1.0,1.0,2.0,0.0,1.0,inadequate
+HF00393,Comprehensive Health Centre,7.278764,7.992849,\x01\x01\x00\x00\x00e5]Ot\x1D\x1D@\x18w\x83h\xAD\xF8\x1F@,0.0,5.0,13.0,1.0,0.0,inadequate
+HF00297,Primary Health Centre,7.914241,7.602241,\x01\x01\x00\x00\x00;\xA6\xEE\xCA.\xA8\x1F@\xC9=]\xDD\xB1h\x1E@,2.0,2.0,3.0,0.0,1.0,adequate
+HF00571,General Hospital,7.296889,10.658045,\x01\x01\x00\x00\x00(+\x86\xAB\x030\x1D@\xB7\x974F\xEBP%@,5.0,22.0,12.0,7.0,2.0,adequate
+HF00312,Cottage Hospital,7.702842,7.568388,\x01\x01\x00\x00\x00\x5C\x051\xD0\xB5\xCF\x1E@a\xC1\xFD\x80\x07F\x1E@,3.0,16.0,0.0,6.0,2.0,inadequate
+HF00552,Comprehensive Health Centre,7.789709,9.752498,"\x01\x01\x00\x00\x00nm\xE1y\xA9(\x1F@^\x9C\xF8jG\x81#@",2.0,1.0,8.0,0.0,1.0,inadequate
+HF01286,General Hospital,10.069643,10.235692,"\x01\x01\x00\x00\x00h\xCAN?\xA8#$@\x90\xDB/\x9F\xACx$@",8.0,9.0,15.0,9.0,4.0,inadequate
+HF00326,Primary Health Centre,,,,1.0,7.0,2.0,0.0,0.0,inadequate
+HF00048,Health Post,5.874698,9.865064,"\x01\x01\x00\x00\x00\xA6\x81\x1F\xD5\xB0\x7F\x17@\xD6\xE4)\xAB\xE9\xBA#@",0.0,2.0,2.0,1.0,0.0,adequate
+HF00164,Primary Health Centre,7.49356,9.920894,"\x01\x01\x00\x00\x00~t\xEA\xCAg\xF9\x1D@N*\x1Ak\x7F\xD7#@",0.0,7.0,5.0,0.0,1.0,adequate
+HF01256,Comprehensive Health Centre,9.337844,10.003093,\x01\x01\x00\x00\x00\xB6L\x86\xE3\xF9\xAC\x22@l\xB1\xDBg\x95\x01$@,2.0,1.0,12.0,3.0,4.0,inadequate
+HF00928,Comprehensive Health Centre,8.473544,8.668456,\x01\x01\x00\x00\x00\x1Eo\xF2[t\xF2 @E\xA1e\xDD?V!@,9.0,17.0,16.0,1.0,2.0,adequate
+HF00851,Cottage Hospital,9.572852,8.426794,"\x01\x01\x00\x00\x00y\xE5z\xDBL%#@\x0FB@\xBE\x84\xDA @",0.0,15.0,15.0,2.0,5.0,inadequate
+HF01193,Primary Health Centre,10.149777,9.069331,"\x01\x01\x00\x00\x00\xD0b)\x92\xAFL$@\xAD2SZ\x7F#\x22@",1.0,1.0,2.0,0.0,0.0,inadequate
+HF00019,Health Post,6.233549,8.751762,\x01\x01\x00\x00\x00\xD4\x0D\x14x\x27\xEF\x18@H\xC0\xE8\xF2\xE6\x80!@,0.0,0.0,1.0,0.0,0.0,inadequate
+HF00766,Health Post,8.676057,7.616658,\x01\x01\x00\x00\x00\xB8v\xA2$$Z!@_D\xDB1uw\x1E@,0.0,0.0,1.0,0.0,0.0,inadequate
+HF01171,Primary Health Centre,10.229463,8.917265,"\x01\x01\x00\x00\x00\xBBH\xA1,|u$@\xE8\x87\x11\xC2\xA3\xD5!@",0.0,3.0,3.0,0.0,0.0,adequate
+HF01176,Primary Health Centre,9.509636,9.152244,"\x01\x01\x00\x00\x00\x80\xBA\x81\x02\xEF\x04#@B\x06\xF2\xEC\xF2M\x22@",1.0,4.0,4.0,1.0,0.0,adequate
+HF01279,Health Post,9.902561,10.018031,"\x01\x01\x00\x00\x00EJ\xB3y\x1C\xCE#@\xDC\xA0\xF6[;\x09$@",0.0,1.0,4.0,1.0,0.0,adequate
+HF01188,Primary Health Centre,9.825574,8.786015,"\x01\x01\x00\x00\x00\x16\xDB\xA4\xA2\xB1\xA6#@\xB5T\xDE\x8Ep\x92!@",1.0,1.0,2.0,0.0,1.0,inadequate
+HF00127,Primary Health Centre,6.788865,9.079884,\x01\x01\x00\x00\x00\x0F\xD6\xFF9\xCC\x27\x1B@\x84\xF2>\x8E\xE6(\x22@,0.0,3.0,2.0,0.0,0.0,inadequate
+HF00606,Primary Health Centre,7.41366,10.694819,\x01\x01\x00\x00\x00H\xA7\xAE|\x96\xA7\x1D@cG\xE3P\xBFc%@,1.0,3.0,7.0,1.0,0.0,adequate
+HF00418,Comprehensive Health Centre,7.708377,8.788659,\x01\x01\x00\x00\x00Q\xF4\xC0\xC7`\xD5\x1E@cd\xC9\x1C\xCB\x93!@,1.0,5.0,12.0,3.0,0.0,adequate
+HF00671,Primary Health Centre,8.860195,10.976326,\x01\x01\x00\x00\x00\x8D]\xA2zk\xB8!@\x10x`\x00\xE1\xF3%@,,,,,,no_personnel_record
+HF00018,Health Post,6.128625,8.706849,\x01\x01\x00\x00\x00\xC1\xCA\xA1E\xB6\x83\x18@\xADk\xB4\x1C\xE8i!@,0.0,0.0,1.0,0.0,0.0,inadequate
+HF00045,Primary Health Centre,5.869062,9.920266,"\x01\x01\x00\x00\x00\x10\xC9\x90c\xEBy\x17@\xD1=\xEB\x1A-\xD7#@",,,,,,no_personnel_record
+HF01072,Comprehensive Health Centre,9.957937,10.797267,"\x01\x01\x00\x00\x00\xB7A\xED\xB7v\xEA#@-\x5CVa3\x98%@",2.0,24.0,6.0,1.0,5.0,adequate
+HF00781,Health Post,8.35,7.37,\x01\x01\x00\x00\x0033333\xB3 @{\x14\xAEG\xE1z\x1D@,,,,,,no_personnel_record
+HF00480,Health Post,8.253691,10.386488,\x01\x01\x00\x00\x00>\x94h\xC9\xE3\x81 @\xC8\x97P\xC1\xE1\xC5$@,0.0,1.0,0.0,1.0,1.0,inadequate
+HF00317,Cottage Hospital,7.788964,7.669043,\x01\x01\x00\x00\x00\xA8\xE2\xC6-\xE6\x27\x1F@\x8Ex\xB2\x9B\x19\xAD\x1E@,0.0,17.0,11.0,0.0,0.0,inadequate
+HF00642,Cottage Hospital,8.661271,10.545037,\x01\x01\x00\x00\x00 \x96\xCD\x1C\x92R!@L8\xF4\x16\x0F\x17%@,3.0,8.0,29.0,2.0,6.0,adequate
+HF00800,Health Post,9.85975,8.43158,"\x01\x01\x00\x00\x00\xD5x\xE9&1\xB8#@\x227\xC3\x0D\xF8\xDC @",0.0,1.0,1.0,1.0,0.0,inadequate
+HF00530,Health Post,8.627293,9.839852,"\x01\x01\x00\x00\x00\xFB\x04P\x8C,A!@\xDC\xF5\xD2\x14\x01\xAE#@",0.0,2.0,2.0,0.0,0.0,adequate
+HF00690,Primary Health Centre,7.89026,11.130176,\x01\x01\x00\x00\x00r\xBFCQ\xA0\x8F\x1F@\xBDr\xBDm\xA6B&@,0.0,7.0,2.0,0.0,2.0,inadequate
+HF01016,Primary Health Centre,10.3954,11.35001,\x01\x01\x00\x00\x00C\xADi\xDEq\xCA$@\xC1\x8B\xBE\x824\xB3&@,0.0,0.0,3.0,2.0,0.0,inadequate
+HF00055,Primary Health Centre,6.028129,9.875043,"\x01\x01\x00\x00\x00\xD8F<\xD9\xCD\x1C\x18@\xFD/\xD7\xA2\x05\xC0#@",,,,,,no_personnel_record
+HF00742,Comprehensive Health Centre,,,,0.0,6.0,7.0,3.0,3.0,inadequate
+HF00424,Primary Health Centre,7.904786,8.508298,\x01\x01\x00\x00\x00\xBE\x83\x9F8\x80\x9E\x1F@\x92>\xAD\xA2?\x04!@,0.0,7.0,2.0,3.0,0.0,inadequate
+HF01045,Cottage Hospital,10.763168,10.409072,\x01\x01\x00\x00\x00\x1C\xB5\xC2\xF4\xBD\x86%@+k\x9B\xE2q\xD1$@,0.0,9.0,24.0,6.0,3.0,inadequate
+HF00252,Comprehensive Health Centre,7.944015,8.063994,\x01\x01\x00\x00\x00\xD8\xBB?\xDE\xAB\xC6\x1F@\xCBGR\xD2\xC3  @,1.0,7.0,3.0,5.0,2.0,inadequate
+HF00581,Primary Health Centre,7.760343,10.743219,\x01\x01\x00\x00\x00Y\xF8\xFAZ\x97\x0A\x1F@\x1A\x88e3\x87|%@,0.0,6.0,2.0,1.0,1.0,inadequate
+HF00767,Primary Health Centre,8.505608,7.653055,"\x01\x01\x00\x00\x00#1A\x0D\xDF\x02!@\x06\xF5-s\xBA\x9C\x1E@",,,,,,no_personnel_record
+HF01302,Comprehensive Health Centre,10.039107,9.771793,"\x01\x01\x00\x00\x00\xDF\x16,\xD5\x05\x14$@?\x90\xBCs(\x8B#@",0.0,13.0,12.0,2.0,2.0,inadequate
+HF00675,Health Post,8.061331,10.799394,\x01\x01\x00\x00\x00Bv\xDE\xC6f\x1F @\xBC<\x9D+J\x99%@,0.0,1.0,2.0,0.0,1.0,adequate
+HF01080,Health Post,9.347394,11.555642,\x01\x01\x00\x00\x00;\xA7Y\xA0\xDD\xB1\x22@m\x91\xB4\x1B}\x1C\x27@,0.0,1.0,0.0,0.0,0.0,inadequate
+HF00406,Comprehensive Health Centre,6.43209,8.585277,\x01\x01\x00\x00\x00\xED\xB6\x0B\xCDu\xBA\x19@\xB53Lm\xA9+!@,0.0,2.0,9.0,0.0,0.0,inadequate
+HF01169,Primary Health Centre,10.146689,8.826966,\x01\x01\x00\x00\x00\xAB]\x13\xD2\x1AK$@\xD1\xCEi\x16h\xA7!@,,,,,,no_personnel_record
+HF00661,Health Post,8.465687,11.036799,\x01\x01\x00\x00\x00?X\xC6\x86n\xEE @\x0F\x0D\x8BQ\xD7\x12&@,0.0,0.0,1.0,0.0,0.0,inadequate
+HF00806,Comprehensive Health Centre,10.102937,8.35036,\x01\x01\x00\x00\x00\xC2\x18\x91(\xB44$@3\xA7\xCBbb\xB3 @,0.0,6.0,11.0,4.0,0.0,inadequate
+HF01132,Primary Health Centre,9.917037,11.349912,"\x01\x01\x00\x00\x00\xA4q\xA8\xDF\x85\xD5#@\xB6\xF4h\xAA\x27\xB3&@",1.0,1.0,3.0,1.0,0.0,inadequate
+HF00033,Health Post,6.352672,9.806485,"\x01\x01\x00\x00\x00\x12\xDCH\xD9\x22i\x19@\xDBm\x17\x9A\xEB\x9C#@",1.0,3.0,2.0,0.0,0.0,adequate
+HF00560,Primary Health Centre,9.863227,7.646916,"\x01\x01\x00\x00\x00c\x0C\xAC\xE3\xF8\xB9#@[\x09\xDD%q\x96\x1E@",1.0,5.0,7.0,1.0,1.0,adequate
+HF00944,Comprehensive Health Centre,9.49319,11.008128,\x01\x01\x00\x00\x00\xB1mQf\x83\xFC\x22@ ]lZ)\x04&@,1.0,6.0,8.0,0.0,1.0,inadequate
+HF00764,Primary Health Centre,8.388956,7.879492,\x01\x01\x00\x00\x00|*\xA7=%\xC7 @\xE1_\x04\x8D\x99\x84\x1F@,2.0,4.0,3.0,1.0,1.0,adequate
+HF00895,Cottage Hospital,8.272792,8.783439,\x01\x01\x00\x00\x00\x8B8\x9Dd\xAB\x8B @g\xD2\xA6\xEA\x1E\x91!@,0.0,15.0,23.0,0.0,2.0,inadequate
+HF00629,Primary Health Centre,8.365846,11.231339,\x01\x01\x00\x00\x00\xAD\xBE\xBA*P\xBB @%\x94\xBE\x10rv&@,0.0,4.0,3.0,2.0,1.0,adequate
+HF00500,Primary Health Centre,7.97,10.16,\x01\x01\x00\x00\x00\xE1z\x14\xAEG\xE1\x1F@R\xB8\x1E\x85\xEBQ$@,0.0,2.0,2.0,1.0,0.0,inadequate
+HF00659,Primary Health Centre,8.256369,11.432597,\x01\x01\x00\x00\x00\x9Cj-\xCCB\x83 @\x07\xB2\x9EZ}\xDD&@,0.0,3.0,6.0,3.0,1.0,adequate
+HF00635,Health Post,8.434217,11.223627,\x01\x01\x00\x00\x00\x06\xBC\xCC\xB0Q\xDE @T\x01\xF7<\x7Fr&@,1.0,3.0,3.0,0.0,1.0,adequate
+HF00674,Primary Health Centre,8.041144,10.825541,\x01\x01\x00\x00\x00n\xDA\x8C\xD3\x10\x15 @\xA7\x03YO\xAD\xA6%@,1.0,1.0,5.0,0.0,1.0,inadequate
+HF00915,Cottage Hospital,8.560985,8.55657,\x01\x01\x00\x00\x00\xD7\x17\x09m9\x1F!@\x94\xDE7\xBE\xF6\x1C!@,,,,,,no_personnel_record
+HF00026,Health Post,6.383685,9.003897,\x01\x01\x00\x00\x00\xF0\xDC{\xB8\xE4\x88\x19@\xE3\x1A\x9F\xC9\xFE\x01\x22@,0.0,2.0,2.0,0.0,0.0,adequate
+HF00208,Comprehensive Health Centre,7.021574,10.460539,\x01\x01\x00\x00\x00\x8F\xC6\xA1~\x17\x16\x1C@\xAA\x10\x8F\xC4\xCB\xEB$@,4.0,9.0,11.0,1.0,0.0,adequate
+HF00503,Primary Health Centre,8.184064,9.952442,"\x01\x01\x00\x00\x00\xEC\xBD\xF8\xA2=^ @u\xACRz\xA6\xE7#@",,,,,,no_personnel_record
+HF00551,Primary Health Centre,7.743608,9.509261,"\x01\x01\x00\x00\x00\x06-$`t\xF9\x1E@\xABA\x98\xDB\xBD\x04#@",2.0,3.0,3.0,0.0,0.0,adequate
+HF00394,Health Post,6.839057,8.340425,\x01\x01\x00\x00\x00d\xEB\x19\xC21[\x1B@J{\x83/L\xAE @,0.0,2.0,1.0,0.0,0.0,inadequate
+HF01138,Comprehensive Health Centre,9.6847,9.144992,"\x01\x01\x00\x00\x00t$\x97\xFF\x90^#@\xFF\x5C4d<J\x22@",0.0,3.0,3.0,1.0,1.0,inadequate
+HF00364,Health Post,6.457464,8.804419,\x01\x01\x00\x00\x00\xAEc\x5Cqq\xD4\x19@\xE2\x8F\xA2\xCE\xDC\x9B!@,0.0,2.0,2.0,0.0,0.0,adequate
+HF00495,Primary Health Centre,7.837038,9.780427,"\x01\x01\x00\x00\x00x\x09N} Y\x1F@\xAE\xD4\xB3 \x94\x8F#@",2.0,5.0,2.0,0.0,1.0,inadequate
+HF00917,Primary Health Centre,8.71888,8.466546,\x01\x01\x00\x00\x009\x7F\x13\x0A\x11p!@\xC3(\x08\x1E\xDF\xEE @,0.0,4.0,11.0,0.0,0.0,adequate
+HF00369,General Hospital,6.618317,8.700354,\x01\x01\x00\x00\x00K>v\x17(y\x1A@\xDE>\xAB\xCC\x94f!@,2.0,15.0,22.0,7.0,0.0,inadequate
+HF00416,Primary Health Centre,7.217638,8.266466,\x01\x01\x00\x00\x00\xA7w\xF1~\xDC\xDE\x1C@\xEB\xFDF;n\x88 @,0.0,3.0,4.0,1.0,3.0,adequate
+HF00554,Primary Health Centre,7.82633,9.568121,"\x01\x01\x00\x00\x00\x91\xD0\x96s)N\x1F@uWv\xC1\xE0\x22#@",0.0,6.0,4.0,0.0,1.0,adequate
+HF01082,Health Post,9.38925,11.643881,\x01\x01\x00\x00\x00\x9E\xEF\xA7\xC6K\xC7\x22@\x14\x08;\xC5\xAAI\x27@,0.0,1.0,2.0,0.0,0.0,adequate
+HF00748,Comprehensive Health Centre,8.671537,7.999341,\x01\x01\x00\x00\x00\xA0\x1B\x9A\xB2\xD3W!@/5B?S\xFF\x1F@,,,,,,no_personnel_record
+HF00799,Health Post,9.780507,8.366928,"\x01\x01\x00\x00\x00 \x99\x0E\x9D\x9E\x8F#@/\xF9\x9F\xFC\xDD\xBB @",0.0,0.0,2.0,0.0,0.0,adequate
+HF01310,Primary Health Centre,10.242446,9.928757,"\x01\x01\x00\x00\x00\x8F\x17\xD2\xE1!|$@\xB5\xDC\x99\x09\x86\xDB#@",0.0,11.0,2.0,1.0,2.0,inadequate
+HF01316,Health Post,10.414329,10.315781,\x01\x01\x00\x00\x00\x9B\x91A\xEE\x22\xD4$@we\x17\x0C\xAE\xA1$@,0.0,1.0,2.0,0.0,1.0,adequate
+HF01257,Primary Health Centre,9.434616,9.925679,"\x01\x01\x00\x00\x00\xFD\xA2\x04\xFD\x85\xDE\x22@\x1F0\x0F\x99\xF2\xD9#@",3.0,4.0,5.0,0.0,2.0,adequate
+HF00698,Comprehensive Health Centre,8.546865,11.576843,\x01\x01\x00\x00\x00r\xA7t\xB0\xFE\x17!@b\xDA7\xF7W\x27\x27@,3.0,1.0,12.0,4.0,0.0,inadequate
+HF00370,Primary Health Centre,6.735484,8.539168,\x01\x01\x00\x00\x00\xD0\xEC\xBA\xB7\x22\xF1\x1A@v\x19\xFE\xD3\x0D\x14!@,0.0,0.0,3.0,1.0,2.0,inadequate
+HF00284,Comprehensive Health Centre,7.772627,7.941249,\x01\x01\x00\x00\x00\xC0\x06D\x88+\x17\x1F@!\x92!\xC7\xD6\xC3\x1F@,,,,,,no_personnel_record
+HF00961,General Hospital,9.231796,10.251417,\x01\x01\x00\x00\x00\xEE\xAF\x1E\xF7\xADv\x22@\x1EQ\xA1\xBA\xB9\x80$@,3.0,9.0,0.0,3.0,2.0,inadequate
+HF00717,Health Post,9.243735,7.777768,\x01\x01\x00\x00\x00\xF7\xC7{\xD5\xCA|\x22@V\x80\xEF6o\x1C\x1F@,1.0,0.0,2.0,1.0,0.0,adequate
+HF00710,Health Post,9.232631,7.726225,\x01\x01\x00\x00\x00Q\x12\x12i\x1Bw\x22@\x81&\xC2\x86\xA7\xE7\x1E@,0.0,3.0,1.0,1.0,0.0,inadequate
+HF01058,Primary Health Centre,10.155064,10.393141,\x01\x01\x00\x00\x00\xEA\x92q\x8CdO$@\xF8n\xF3\xC6I\xC9$@,2.0,9.0,7.0,2.0,1.0,adequate
+HF00794,Primary Health Centre,8.87,7.52,\x01\x01\x00\x00\x00=\x0A\xD7\xA3p\xBD!@\x14\xAEG\xE1z\x14\x1E@,2.0,1.0,6.0,0.0,1.0,inadequate
+HF00295,Health Post,7.86684,7.46443,\x01\x01\x00\x00\x00du\xAB\xE7\xA4w\x1F@\x08 \xB5\x89\x93\xDB\x1D@,1.0,1.0,2.0,0.0,0.0,adequate
+HF00756,Health Post,9.021645,7.982298,\x01\x01\x00\x00\x00l>\xAE\x0D\x15\x0B\x22@p\xB4\xE3\x86\xDF\xED\x1F@,,,,,,no_personnel_record
+HF00211,Health Post,6.985067,10.553885,\x01\x01\x00\x00\x00\xAFyUg\xB5\xF0\x1B@k}\x91\xD0\x96\x1B%@,0.0,2.0,1.0,0.0,0.0,inadequate
+HF01087,Cottage Hospital,9.617499,11.658015,"\x01\x01\x00\x00\x00\x1B\xA04\xD4(<#@\x0D\x8E\x92W\xE7P\x27@",6.0,1.0,15.0,2.0,0.0,inadequate
+HF01019,Primary Health Centre,10.173192,11.26131,\x01\x01\x00\x00\x00\x90\xDB/\x9F\xACX$@K<\xA0l\xCA\x85&@,2.0,1.0,7.0,2.0,2.0,inadequate
+HF00343,Primary Health Centre,6.763095,8.870277,\x01\x01\x00\x00\x00\xE8\xF6\x92\xC6h\x0D\x1B@\x07\xECj\xF2\x94\xBD!@,0.0,5.0,10.0,0.0,0.0,adequate
+HF00265,Primary Health Centre,8.207244,8.201994,\x01\x01\x00\x00\x00\x9E\x95\xB4\xE2\x1Bj @\xF8\xF9\xEF\xC1kg @,1.0,6.0,4.0,1.0,0.0,adequate
+HF00038,Primary Health Centre,6.54,9.84,"\x01\x01\x00\x00\x00)\x5C\x8F\xC2\xF5(\x1A@\xAEG\xE1z\x14\xAE#@",0.0,5.0,3.0,4.0,0.0,adequate
+HF00331,Health Post,8.230303,7.48549,"\x01\x01\x00\x00\x00dWZF\xEAu @\xE2#bJ$\xF1\x1D@",0.0,2.0,1.0,0.0,0.0,inadequate
+HF00778,Health Post,8.327864,7.60835,\x01\x01\x00\x00\x00M\x12K\xCA\xDD\xA7 @\x1E\x16jM\xF3n\x1E@,0.0,1.0,2.0,0.0,1.0,adequate
+HF01064,Health Post,9.809516,10.930568,"\x01\x01\x00\x00\x00o-\x93\xE1x\x9E#@\x83h\xADhs\xDC%@",0.0,1.0,2.0,1.0,1.0,adequate
+HF901077,Primary Health Centre,9.329922,11.639774,\x01\x01\x00\x00\x00:vP\x89\xEB\xA8\x22@\x86\xA9-u\x90G\x27@,,,,,,no_personnel_record
+HF00972,Primary Health Centre,9.860753,10.506397,"\x01\x01\x00\x00\x00\x27\xDE\x01\x9E\xB4\xB8#@\xC4\x95\xB3wF\x03%@",1.0,2.0,1.0,1.0,1.0,inadequate
+HF00888,Primary Health Centre,8.64188,9.500256,"\x01\x01\x00\x00\x00\xB8\xE9\xCF~\xA4H!@lA\xEF\x8D!\x00#@",0.0,0.0,6.0,2.0,0.0,inadequate
+HF00270,General Hospital,,,,0.0,4.0,12.0,3.0,5.0,inadequate
+HF00758,Health Post,8.272339,7.730002,\x01\x01\x00\x00\x00\xC7\xD9t\x04p\x8B @\xF1\x0E\xF0\xA4\x85\xEB\x1E@,1.0,1.0,1.0,1.0,0.0,inadequate
+HF00958,Comprehensive Health Centre,9.097046,10.324913,\x01\x01\x00\x00\x00Mjh\x03\xB01\x22@+\x17*\xFFZ\xA6$@,0.0,4.0,8.0,2.0,2.0,inadequate
+HF01263,Primary Health Centre,9.641493,10.12013,"\x01\x01\x00\x00\x00\xD29?\xC5qH#@v\x89\xEA\xAD\x81=$@",1.0,5.0,6.0,1.0,0.0,adequate
+HF00015,Health Post,5.8,9.14,\x01\x01\x00\x00\x00333333\x17@H\xE1z\x14\xAEG\x22@,0.0,1.0,2.0,1.0,0.0,adequate
+HF01109,Health Post,9.136627,11.416771,\x01\x01\x00\x00\x00N\x80a\xF9\xF3E\x22@\xAA\xD7-\x02c\xD5&@,0.0,1.0,0.0,0.0,0.0,inadequate
+HF01096,Health Post,8.972945,11.359946,\x01\x01\x00\x00\x00\x0A\x9D\xD7\xD8%\xF2!@\xEC\xA6\x94\xD7J\xB8&@,,,,,,no_personnel_record
+HF01217,Primary Health Centre,9.041771,9.476063,\x01\x01\x00\x00\x00\xAA\xD7-\x02c\x15\x22@\xDA\xAB\x8F\x87\xBE\xF3\x22@,0.0,3.0,5.0,1.0,1.0,adequate
+HF00857,Health Post,9.058125,8.672668,\x01\x01\x00\x00\x00\xF6(\x5C\x8F\xC2\x1D\x22@\xA7!\xAA\xF0gX!@,,,,,,no_personnel_record
+HF01039,Cottage Hospital,10.533387,10.645043,\x01\x01\x00\x00\x00\x1D9\xD2\x19\x18\x11%@\x07\x07{\x13CJ%@,9.0,13.0,0.0,0.0,0.0,inadequate
+HF01210,Comprehensive Health Centre,9.470118,9.360938,\x01\x01\x00\x00\x00\x98\x85vN\xB3\xF0\x22@n\xC4\x93\xDD\xCC\xB8\x22@,0.0,12.0,22.0,2.0,2.0,inadequate
+HF01292,Health Post,10.576886,10.268479,\x01\x01\x00\x00\x00_\x0A\x0F\x9A]\x27%@XSY\x14v\x89$@,0.0,2.0,2.0,0.0,0.0,adequate
+HF00452,Primary Health Centre,7.60869,8.8218,\x01\x01\x00\x00\x00\xE5\x9BmnLo\x1E@\xA2\xB47\xF8\xC2\xA4!@,0.0,4.0,4.0,0.0,0.0,adequate
+HF00643,Health Post,8.643686,10.631172,\x01\x01\x00\x00\x00?\xC9\x1D6\x91I!@DM\xF4\xF9(C%@,0.0,2.0,0.0,0.0,1.0,inadequate
+HF00520,General Hospital,8.310584,9.836605,"\x01\x01\x00\x00\x00]R\xB5\xDD\x04\x9F @\x15W\x95}W\xAC#@",7.0,22.0,13.0,1.0,7.0,inadequate
+HF00598,Primary Health Centre,7.280791,10.216623,\x01\x01\x00\x00\x00g\x0B\x08\xAD\x87\x1F\x1D@q\x1F\xB95\xE9n$@,,,,,,no_personnel_record
+HF01192,Primary Health Centre,10.199928,8.977081,\x01\x01\x00\x00\x00\x00\x1C{\xF6\x5Cf$@\x01\x16\xF9\xF5C\xF4!@,1.0,1.0,2.0,0.0,0.0,inadequate
+HF01258,Comprehensive Health Centre,9.393802,9.979997,"\x01\x01\x00\x00\x00\xE42nj\xA0\xC9\x22@1[\xB2*\xC2\xF5#@",0.0,8.0,13.0,0.0,0.0,inadequate
+HF00538,Comprehensive Health Centre,8.666693,10.397508,\x01\x01\x00\x00\x00\xBB\xF1\xEE\xC8XU!@\xF7\xCB\x27+\x86\xCB$@,2.0,7.0,7.0,0.0,0.0,inadequate
+HF00100,Health Post,7.586489,9.539469,"\x01\x01\x00\x00\x00\xE0\xDA\x89\x92\x90X\x1E@bi\xE0G5\x14#@",0.0,2.0,1.0,0.0,0.0,inadequate
+HF00113,Health Post,6.9671666666666665,10.035361111111111,\x01\x01\x00\x00\x00kuL\xF0`\xDE\x1B@~\x8B\xFF\xD9\x1A\x12$@,0.0,1.0,1.0,0.0,0.0,inadequate
+HF00005,Cottage Hospital,6.219923,9.464022,\x01\x01\x00\x00\x00\x86\x8D\xB2~3\xE1\x18@\xC0?\xA5J\x94\xED\x22@,,,,,,no_personnel_record
+HF00042,Primary Health Centre,6.549921,9.746958,"\x01\x01\x00\x00\x00\xD3\x88\x99}\x1E3\x1A@\x9C\xF8jGq~#@",0.0,2.0,2.0,2.0,1.0,inadequate
+HF00052,Primary Health Centre,6.104447,9.650465,"\x01\x01\x00\x00\x00H\xA9\x84\x27\xF4j\x18@\xA2b\x9C\xBF\x09M#@",3.0,8.0,4.0,1.0,1.0,adequate
+HF00363,Primary Health Centre,6.327128,8.744952,\x01\x01\x00\x00\x00nlv\xA4\xFAN\x19@\xF9-:Yj}!@,2.0,3.0,6.0,1.0,1.0,adequate
+HF00896,Comprehensive Health Centre,8.390438,8.815405,\x01\x01\x00\x00\x006;R}\xE7\xC7 @a\xFD\x9F\xC3|\xA1!@,3.0,0.0,18.0,3.0,0.0,inadequate
+HF00004,Health Post,6.201218,9.424269,\x01\x01\x00\x00\x00Swe\x17\x0C\xCE\x18@\xCBiO\xC99\xD9\x22@,0.0,2.0,2.0,0.0,0.0,adequate
+HF00153,Primary Health Centre,7.39,10.09,\x01\x01\x00\x00\x00\x8F\xC2\xF5(\x5C\x8F\x1D@\xAEG\xE1z\x14.$@,1.0,4.0,0.0,0.0,2.0,inadequate
+HF01170,Primary Health Centre,10.296369,8.727731,\x01\x01\x00\x00\x00\xB1\x18u\xAD\xBD\x97$@\x1D\x92Z(\x99t!@,1.0,1.0,3.0,1.0,1.0,inadequate
+HF00147,Primary Health Centre,7.076038,10.222401,\x01\x01\x00\x00\x00S\x03\xCD\xE7\xDCM\x1C@\x052;\x8B\xDEq$@,2.0,1.0,3.0,1.0,2.0,inadequate
+HF00091,Primary Health Centre,7.33846,9.544489,"\x01\x01\x00\x00\x00C\x04\x1CB\x95Z\x1D@A\x10 C\xC7\x16#@",,,,,,no_personnel_record
+HF01156,Health Post,9.846378,9.486986,"\x01\x01\x00\x00\x00\x97\x1B\x0CuX\xB1#@?8\x9F:V\xF9\x22@",0.0,1.0,0.0,0.0,0.0,inadequate
+HF00195,Cottage Hospital,6.642972222222221,10.9125,\x01\x01\x00\x00\x00:\xB9jOg\x92\x1A@33333\xD3%@,10.0,25.0,29.0,4.0,4.0,adequate
+HF01235,General Hospital,9.664444,9.539778,"\x01\x01\x00\x00\x00\xFE\x0B\x04\x012T#@Y32\xC8]\x14#@",0.0,0.0,0.0,7.0,7.0,inadequate
+HF01149,Primary Health Centre,10.454715,9.335704,\x01\x01\x00\x00\x00T\x00\x8Cg\xD0\xE8$@\xD4E\x0Ae\xE1\xAB\x22@,0.0,1.0,0.0,0.0,0.0,inadequate
+HF00862,Primary Health Centre,9.257766,8.798446,\x01\x01\x00\x00\x00\x9E\x0A\xB8\xE7\xF9\x83\x22@y>\x03\xEA\xCD\x98!@,1.0,4.0,2.0,0.0,0.0,inadequate
+HF00536,Comprehensive Health Centre,8.732364,10.241774,\x01\x01\x00\x00\x00\x16\x89\x09j\xF8v!@\xD4\x0B>\xCD\xC9{$@,,,,,,no_personnel_record
+HF00105,Health Post,7.560141,9.684515,"\x01\x01\x00\x00\x00N\x980\x9A\x95=\x1E@->\x05\xC0x^#@",0.0,1.0,1.0,0.0,0.0,inadequate
+HF00550,Comprehensive Health Centre,7.718681,9.53098,"\x01\x01\x00\x00\x00\xBC\x06}\xE9\xED\xDF\x1E@\x00\xA9M\x9C\xDC\x0F#@",3.0,2.0,6.0,0.0,4.0,inadequate
+HF00600,Primary Health Centre,7.550657,10.253187,\x01\x01\x00\x00\x00\xFF@\xB9m\xDF3\x1E@r\x8B\xF9\xB9\xA1\x81$@,3.0,2.0,5.0,2.0,0.0,adequate
+HF00566,Primary Health Centre,7.119101,10.99749,"\x01\x01\x00\x00\x00\xFF\xAE\xCF\x9C\xF5y\x1C@\x91,`\x02\xB7\xFE%@",0.0,9.0,4.0,1.0,0.0,adequate
+HF01259,Primary Health Centre,9.555371,10.111013,"\x01\x01\x00\x00\x00+Kt\x96Y\x1C#@\x98\xDC(\xB2\xD68$@",0.0,4.0,2.0,2.0,2.0,inadequate
+HF00644,Health Post,8.719519,10.689064,\x01\x01\x00\x00\x00\x85\xB3[\xCBdp!@\xAF\xB3!\xFF\xCC`%@,0.0,2.0,2.0,1.0,0.0,adequate
+HF00649,Primary Health Centre,8.787756,10.695032,\x01\x01\x00\x00\x00\x9Ft\x22\xC1T\x93!@\xD1X\xFB;\xDBc%@,0.0,6.0,8.0,3.0,0.0,adequate
+HF00255,Primary Health Centre,7.826075,8.349803,"\x01\x01\x00\x00\x00=,\xD4\x9A\xE6M\x1F@\xDB\x15\xFA`\x19\xB3 @",1.0,3.0,4.0,1.0,1.0,adequate
+HF00873,Primary Health Centre,8.109248,8.406026,\x01\x01\x00\x00\x00\x8BN\x96Z\xEF7 @\xC2\xA6\xCE\xA3\xE2\xCF @,1.0,4.0,4.0,0.0,0.0,adequate
+HF00746,Primary Health Centre,8.682355,8.102501,\x01\x01\x00\x00\x00/\x86r\xA2]]!@V\x9D\xD5\x02{4 @,2.0,8.0,4.0,0.0,1.0,adequate
+HF00311,Primary Health Centre,7.694136,7.57436,\x01\x01\x00\x00\x00\xB0\xE7k\x96\xCB\xC6\x1E@\xB2\x85 \x07%L\x1E@,1.0,3.0,3.0,1.0,0.0,adequate
+HF00774,Comprehensive Health Centre,8.572348,7.956988,\x01\x01\x00\x00\x00\xAD\xDC\x0B\xCC\x0A%!@e\xA8\x8A\xA9\xF4\xD3\x1F@,2.0,8.0,7.0,2.0,0.0,adequate
+HF00749,Primary Health Centre,8.850089,7.919349,\x01\x01\x00\x00\x00\xF2`\x8B\xDD>\xB3!@\xF4p\x02\xD3i\xAD\x1F@,0.0,8.0,5.0,1.0,1.0,adequate
+HF01206,Comprehensive Health Centre,9.368564,9.181111,\x01\x01\x00\x00\x00D\xF7\xACk\xB4\xBC\x22@G\xE4\xBB\x94\xBA\x5C\x22@,0.0,11.0,0.0,6.0,0.0,inadequate
+HF00445,Primary Health Centre,7.716927,8.49926,\x01\x01\x00\x00\x00Bz\x8A\x1C\x22\xDE\x1E@\xE4f\xB8\x01\x9F\xFF @,0.0,6.0,3.0,1.0,1.0,adequate
+HF00879,Health Post,8.458121,8.495552,\x01\x01\x00\x00\x00\xBD8\xF1\xD5\x8E\xEA @N\xEF\xE2\xFD\xB8\xFD @,0.0,0.0,3.0,1.0,0.0,adequate
+HF00930,General Hospital,8.523822,8.910009,\x01\x01\x00\x00\x00\xC2\xD9\xADe2\x0C!@\x9F!\x1C\xB3\xEC\xD1!@,11.0,11.0,25.0,6.0,5.0,adequate
+HF00978,Health Post,9.848304,11.03691,"\x01\x01\x00\x00\x00\xC9!\xE2\xE6T\xB2#@m\xCA\x15\xDE\xE5\x12&@",1.0,2.0,3.0,0.0,1.0,adequate
+HF00192,Primary Health Centre,6.552121,10.794518,\x01\x01\x00\x00\x00@\xBD\x195_5\x1A@\xAA*4\x10\xCB\x96%@,3.0,8.0,10.0,0.0,0.0,adequate
+HF00499,Health Post,7.99139,9.912396,"\x01\x01\x00\x00\x00eS\xAE\xF0.\xF7\x1F@\x9F\x00\x8A\x91%\xD3#@",0.0,1.0,3.0,0.0,1.0,adequate
+HF00747,Health Post,8.806199,7.998375,\x01\x01\x00\x00\x00\xC4\x22\x86\x1D\xC6\x9C!@u\x93\x18\x04V\xFE\x1F@,,,,,,no_personnel_record
+HF01094,Health Post,8.998953,11.399235,\x01\x01\x00\x00\x00p{\x82\xC4v\xFF!@M\xD6\xA8\x87h\xCC&@,0.0,2.0,3.0,1.0,0.0,adequate
+HF00534,Cottage Hospital,8.498951,10.387755,\x01\x01\x00\x00\x00\xED\x9Cf\x81v\xFF @\x91\xB8\xC7\xD2\x87\xC6$@,2.0,3.0,19.0,0.0,0.0,inadequate
+HF00313,Health Post,7.639672,7.535651,\x01\x01\x00\x00\x00\xEB\xAA@-\x06\x8F\x1E@^G\x1C\xB2\x81$\x1E@,1.0,1.0,0.0,0.0,0.0,inadequate
+HF01063,Cottage Hospital,9.828417,10.937464,"\x01\x01\x00\x00\x00\x9F\xE6\xE4E&\xA8#@\xCDZ\x0AH\xFB\xDF%@",6.0,0.0,2.0,0.0,3.0,inadequate
+HF00834,Primary Health Centre,9.757267,8.792874,"\x01\x01\x00\x00\x00\x19\xAE\x0E\x80\xB8\x83#@\x89\xB2\xB7\x94\xF3\x95!@",0.0,0.0,4.0,1.0,2.0,inadequate
+HF00047,Comprehensive Health Centre,5.913583,9.778972,"\x01\x01\x00\x00\x00\xED\xB9LM\x82\xA7\x17@\xDA\xFF\x00k\xD5\x8E#@",2.0,7.0,8.0,1.0,3.0,adequate
+HF00845,Primary Health Centre,9.226196,8.565027,\x01\x01\x00\x00\x00\xD7\xF8L\xF6\xCFs\x22@\xC8\xB6\x0C8K!!@,0.0,3.0,1.0,1.0,0.0,inadequate
+HF00009,Health Post,6.287578,9.305531,\x01\x01\x00\x00\x00D2\xE4\xD8z&\x19@\x0F\xD4)\x8Fn\x9C\x22@,0.0,2.0,0.0,1.0,0.0,inadequate
+HF00789,Primary Health Centre,8.5302,7.653698,\x01\x01\x00\x00\x00\xAC\xAD\xD8_v\x0F!@\xAA\xD7-\x02c\x9D\x1E@,2.0,2.0,5.0,2.0,1.0,adequate
+HF00839,Primary Health Centre,9.750554,8.734666,"\x01\x01\x00\x00\x00\x93\xC3\x27\x9DH\x80#@^\xF7V$&x!@",0.0,3.0,0.0,0.0,0.0,inadequate
+HF00090,Health Post,7.301828,9.47408,\x01\x01\x00\x00\x00\x80\x114f\x125\x1D@\x18`\x1F\x9D\xBA\xF2\x22@,,,,,,no_personnel_record
+HF00128,Health Post,6.874655,9.673279,"\x01\x01\x00\x00\x00\xAB!q\x8F\xA5\x7F\x1B@\xCC*l\x06\xB8X#@",0.0,0.0,1.0,0.0,0.0,inadequate
+HF00276,Health Post,7.544852,8.118132,\x01\x01\x00\x00\x00\x09\xA4\xC4\xAE\xED-\x1E@\xDE8)\xCC{< @,0.0,2.0,2.0,0.0,0.0,adequate
+HF00477,Primary Health Centre,7.72612,9.239025,\x01\x01\x00\x00\x00\xD6\xE2S\x00\x8C\xE7\x1E@Q\xDA\x1B|az\x22@,1.0,8.0,3.0,2.0,1.0,adequate
+HF00288,General Hospital,7.662236,7.486589,\x01\x01\x00\x00\x00x\xEF\xA81!\xA6\x1E@\x96_\x06cD\xF2\x1D@,0.0,23.0,15.0,1.0,1.0,inadequate
+HF00519,Primary Health Centre,8.357055,9.828162,"\x01\x01\x00\x00\x00\x1F\xBF\xB7\xE9\xCF\xB6 @u\x94\x83\xD9\x04\xA8#@",2.0,3.0,6.0,1.0,0.0,adequate
+HF00613,Health Post,7.550008,10.72978,\x01\x01\x00\x00\x00J\x27\x12L53\x1E@\xBD\x8Cb\xB9\xA5u%@,0.0,2.0,1.0,0.0,0.0,inadequate
+HF00501,Primary Health Centre,7.94622,10.19662,\x01\x01\x00\x00\x00\xD4HK\xE5\xED\xC8\x1F@\xA2zk`\xABd$@,0.0,1.0,6.0,1.0,2.0,inadequate
+HF00595,Primary Health Centre,,,,2.0,3.0,9.0,2.0,0.0,adequate
+HF00694,Health Post,8.459204,11.615395,\x01\x01\x00\x00\x00\x80bd\xC9\x1C\xEB @l>\xAE\x0D\x15;\x27@,1.0,1.0,1.0,0.0,0.0,inadequate
+HF00316,Health Post,7.621859,7.423601,\x01\x01\x00\x00\x00\x9F\xE4\x0E\x9B\xC8|\x1E@*6\xE6u\xC4\xB1\x1D@,0.0,2.0,1.0,0.0,0.0,inadequate
+HF00904,Health Post,9.34602,8.974446,\x01\x01\x00\x00\x00\x1A\x86\x8F\x88)\xB1\x22@\xA0o\x0B\x96\xEA\xF2!@,0.0,2.0,3.0,1.0,0.0,adequate
+HF00384,Primary Health Centre,7.035096,7.921151,"\x01\x01\x00\x00\x00\xB5\xE1\xB04\xF0#\x1C@\xF6\xB5.5B\xAF\x1F@",0.0,3.0,5.0,1.0,0.0,adequate
+HF00360,Health Post,6.666222222222222,8.04,\x01\x01\x00\x00\x00f@\x81(6\xAA\x1A@\x14\xAEG\xE1z\x14 @,0.0,1.0,3.0,0.0,0.0,adequate
+HF900899,Health Post,8.694335,9.05162,\x01\x01\x00\x00\x00\xB3\xEF\x8A\xE0\x7Fc!@\x98\xA3\xC7\xEFm\x1A\x22@,,,,,,no_personnel_record
+HF01236,Comprehensive Health Centre,9.687848,9.563436,"\x01\x01\x00\x00\x00\xEF<\xF1\x9C-`#@2\xC7\xF2\xAEz #@",0.0,15.0,13.0,0.0,3.0,inadequate
+HF00700,Primary Health Centre,8.704254,11.603649,\x01\x01\x00\x00\x00\x85\x27\xF4\xFA\x93h!@\xB6\x86R{\x115\x27@,0.0,1.0,5.0,0.0,1.0,inadequate
+HF01227,Primary Health Centre,9.261461,9.688894,"\x01\x01\x00\x00\x00\xE2[X7\xDE\x85\x22@=\xD2\xE0\xB6\xB6`#@",2.0,7.0,10.0,0.0,2.0,adequate
+HF00763,Health Post,8.428366,7.816138,\x01\x01\x00\x00\x00\xCAo\xD1\xC9R\xDB @e\x17\x0C\xAE\xB9C\x1F@,,,,,,no_personnel_record
+HF00012,Health Post,5.755545,9.381572,"\x01\x01\x00\x00\x00\x12\xA0\xA6\x96\xAD\x05\x17@}#\xBAg]\xC3\x22@",0.0,2.0,3.0,0.0,1.0,adequate
+HF00075,Primary Health Centre,6.385216,9.256285,\x01\x01\x00\x00\x00p\x95\x27\x10v\x8A\x19@%\xE9\x9A\xC97\x83\x22@,1.0,0.0,0.0,1.0,0.0,inadequate
+HF00193,Health Post,6.669691,10.941114,\x01\x01\x00\x00\x00\xC0\xB3=z\xC3\xAD\x1A@\x91\x9D\xB7\xB1\xD9\xE1%@,1.0,2.0,2.0,0.0,0.0,adequate
+HF00177,Health Post,6.184442,10.395017,\x01\x01\x00\x00\x00\x0B\x09\x18]\xDE\xBC\x18@b\xBA\x10\xAB?\xCA$@,0.0,1.0,1.0,0.0,0.0,inadequate
+HF01057,Health Post,10.01078,10.418029,\x01\x01\x00\x00\x00\xDA\xE6\xC6\xF4\x84\x05$@&\x8F\xA7\xE5\x07\xD6$@,0.0,2.0,1.0,0.0,0.0,inadequate
+HF00071,Primary Health Centre,6.013656,9.452195,\x01\x01\x00\x00\x00\xA3\x93\xA5\xD6\xFB\x0D\x18@V\xD4`\x1A\x86\xE7\x22@,0.0,6.0,2.0,1.0,2.0,inadequate
+HF01209,Health Post,9.397927,9.548282,"\x01\x01\x00\x00\x00\x0Adv\x16\xBD\xCB\x22@\x90\xF8\x15k\xB8\x18#@",1.0,0.0,3.0,1.0,0.0,adequate
+HF00175,Primary Health Centre,6.9515,10.128821,\x01\x01\x00\x00\x00u\x93\x18\x04V\xCE\x1B@w\x13|\xD3\xF4A$@,1.0,0.0,4.0,0.0,2.0,inadequate
+HF00918,Primary Health Centre,8.776158,8.561835,\x01\x01\x00\x00\x00\xBB\x0E\xD5\x94d\x8D!@\x0F\x7FM\xD6\xA8\x1F!@,1.0,0.0,7.0,2.0,0.0,inadequate
+HF01314,Primary Health Centre,10.3036,10.09922,\x01\x01\x00\x00\x00\x96!\x8Euq\x9B$@\xDF7\xBE\xF6\xCC2$@,0.0,6.0,5.0,0.0,1.0,adequate
+HF01086,Primary Health Centre,9.553317,11.586868,"\x01\x01\x00\x00\x00D\xA4\xA6]L\x1B#@K#f\xF6y,\x27@",0.0,4.0,4.0,0.0,1.0,adequate
+HF00440,Primary Health Centre,,,,0.0,3.0,3.0,0.0,2.0,adequate
+HF01202,Primary Health Centre,9.335028,9.41156,\x01\x01\x00\x00\x00\x13}>\xCA\x88\xAB\x22@\xFB\xAE\x08\xFE\xB7\xD2\x22@,0.0,3.0,5.0,2.0,1.0,adequate
+HF01221,General Hospital,9.132241,9.639112,"\x01\x01\x00\x00\x00ta\xA4\x17\xB5C\x22@Z\xF6$\xB09G#@",3.0,10.0,14.0,3.0,6.0,adequate
+HF01298,Health Post,10.814573,10.149264,\x01\x01\x00\x00\x00\xC2hV\xB6\x0F\xA1%@\xB7\xF0\xBCTlL$@,0.0,2.0,1.0,0.0,1.0,inadequate
+HF00008,Health Post,6.31174,9.306027,\x01\x01\x00\x00\x00\x90kC\xC58?\x19@\xD0b)\x92\xAF\x9C\x22@,0.0,0.0,3.0,0.0,0.0,adequate
+HF00185,Health Post,6.532454,10.528277,\x01\x01\x00\x00\x00_\x7F\x12\x9F;!\x1A@>u\xACRz\x0E%@,0.0,2.0,2.0,0.0,0.0,adequate
+HF00387,Primary Health Centre,7.121138,8.161883,\x01\x01\x00\x00\x00\x1E6\x91\x99\x0B|\x1C@\x86\x8E\x1DT\xE2R @,0.0,0.0,3.0,0.0,0.0,inadequate
+HF00847,Primary Health Centre,9.411792,8.428875,\x01\x01\x00\x00\x00E\x82\xA9f\xD6\xD2\x22@\xDD$\x06\x81\x95\xDB @,0.0,5.0,4.0,0.0,1.0,adequate
+HF00021,Primary Health Centre,6.302085,8.752193,\x01\x01\x00\x00\x00\xDAr.\xC5U5\x19@m\x8F\xDEp\x1F\x81!@,0.0,5.0,3.0,1.0,0.0,adequate
+HF01315,Primary Health Centre,10.412017,10.296785,\x01\x01\x00\x00\x00\xC5\xCAh\xE4\xF3\xD2$@\x00\xE3\x194\xF4\x97$@,3.0,5.0,0.0,1.0,1.0,inadequate
+HF01040,Primary Health Centre,10.598331,10.657604,\x01\x01\x00\x00\x00\xAF]\xDApX2%@\x04p\xB3x\xB1P%@,0.0,4.0,1.0,1.0,1.0,inadequate
+HF01140,Primary Health Centre,9.654445,8.904026,"\x01\x01\x00\x00\x00\xBB\x0F@j\x13O#@\xA7w\xF1~\xDC\xCE!@",0.0,2.0,1.0,1.0,0.0,inadequate
+HF01226,Primary Health Centre,9.324263,9.671112,"\x01\x01\x00\x00\x00\x0F\x9B\xC8\xCC\x05\xA6\x22@\x04\xE8\xF7\xFD\x9BW#@",0.0,4.0,6.0,1.0,1.0,adequate
+HF00556,Health Post,7.678294,10.061189,"\x01\x01\x00\x00\x00\xC7J\xCC\xB3\x92\xB6\x1E@\xF9\xBF#*T\x1F$@",0.0,1.0,1.0,0.0,0.0,inadequate
+HF00179,Primary Health Centre,6.1876,10.385132,\x01\x01\x00\x00\x00\x1C\xEB\xE26\x1A\xC0\x18@AI\x81\x050\xC5$@,0.0,7.0,6.0,0.0,5.0,adequate
+HF00176,Health Post,6.94361,10.311698,\x01\x01\x00\x00\x00\xD8\xB6(\xB3A\xC6\x1B@\x0CuX\xE1\x96\x9F$@,0.0,1.0,3.0,1.0,0.0,adequate
+HF01041,Comprehensive Health Centre,10.65345,10.460045,\x01\x01\x00\x00\x00t$\x97\xFF\x90N%@k`\xAB\x04\x8B\xEB$@,0.0,7.0,19.0,1.0,0.0,inadequate
+HF00138,Primary Health Centre,7.003928,9.546265,"\x01\x01\x00\x00\x00\x9E\x27\x9E\xB3\x05\x04\x1C@\x1D\xE6\xCB\x0B\xB0\x17#@",1.0,3.0,6.0,0.0,1.0,adequate
+HF00559,Health Post,7.562021,10.015408,\x01\x01\x00\x00\x00.\xA9\xDAn\x82?\x1E@\x8C1\xB0\x8E\xE3\x07$@,0.0,1.0,3.0,0.0,0.0,adequate
+HF00152,Comprehensive Health Centre,7.327791,10.127443,\x01\x01\x00\x00\x00K\xB1\xA3q\xA8O\x1D@P5z5@A$@,0.0,4.0,7.0,2.0,1.0,inadequate
+HF00381,Primary Health Centre,6.913649,7.926184,\x01\x01\x00\x00\x00\xA9\x17|\x9A\x93\xA7\x1B@YP\x18\x94i\xB4\x1F@,,,,,,no_personnel_record
+HF00526,Health Post,8.473404,9.812121,"\x01\x01\x00\x00\x00W\x97S\x02b\xF2 @%\xCA\xDER\xCE\x9F#@",1.0,2.0,2.0,0.0,0.0,adequate
+HF00993,Primary Health Centre,10.183303,10.922474,\x01\x01\x00\x00\x00s\x84\x0C\xE4\xD9]$@\x13\xD2\x1A\x83N\xD8%@,3.0,4.0,6.0,1.0,1.0,adequate
+HF00796,Primary Health Centre,10.013204,8.337604,\x01\x01\x00\x00\x00OZ\xB8\xAC\xC2\x06$@a\xFFun\xDA\xAC @,0.0,3.0,4.0,0.0,0.0,adequate
+HF00812,Primary Health Centre,8.965216,8.403839,\x01\x01\x00\x00\x00\xE1&\xA3\xCA0\xEE!@\xDD\xB2C\xFC\xC3\xCE @,1.0,7.0,0.0,0.0,2.0,inadequate
+HF00222,Primary Health Centre,6.510914,10.437259,\x01\x01\x00\x00\x000F$\x0A-\x0B\x1A@i\xC3ai\xE0\xDF$@,0.0,7.0,8.0,2.0,0.0,adequate
+HF00411,Cottage Hospital,7.12557,8.411782,\x01\x01\x00\x00\x00To\x0Dl\x95\x80\x1C@\xB7)\x1E\x17\xD5\xD2 @,3.0,16.0,11.0,0.0,3.0,inadequate
+HF00072,Primary Health Centre,6.377367,9.346238,\x01\x01\x00\x00\x00\xC8[\xAE~l\x82\x19@\xD0Cm\x1BF\xB1\x22@,,,,,,no_personnel_record
+HF00020,Primary Health Centre,6.299295,8.742118,\x01\x01\x00\x00\x00\xDFlscz2\x19@\xBD\x8B\xF7\xE3\xF6{!@,2.0,3.0,6.0,0.0,1.0,adequate
+HF00278,Primary Health Centre,7.726362,8.360954,\x01\x01\x00\x00\x00\x86:\xACp\xCB\xE7\x1E@\x84\xB8r\xF6\xCE\xB8 @,0.0,3.0,3.0,0.0,1.0,adequate
+HF00289,Health Post,7.727978,7.426917,\x01\x01\x00\x00\x00x\xD4\x98\x10s\xE9\x1E@\xFDl\xE4\xBA)\xB5\x1D@,0.0,1.0,1.0,0.0,0.0,inadequate
+HF00467,Health Post,8.005198,9.242279,\x01\x01\x00\x00\x00\x5C\x02\xF0O\xA9\x02 @\xE2\x03;\xFE\x0B|\x22@,0.0,2.0,0.0,0.0,0.0,inadequate
+HF01113,Primary Health Centre,9.1918,11.295959,"\x01\x01\x00\x00\x00\xE0\xBE\x0E\x9C3b\x22@\xEA\xE9#\xF0\x87\x97&@",1.0,4.0,6.0,2.0,0.0,adequate
+HF00859,Health Post,9.077686,8.660756,\x01\x01\x00\x00\x00\xD0\xB6\x9Au\xC6\x27\x22@\x84EE\x9CNR!@,0.0,1.0,1.0,0.0,0.0,inadequate
+HF00417,Health Post,7.888151,8.462873,\x01\x01\x00\x00\x00\x87\xA3\xABtw\x8D\x1F@\x1Fg\x9A\xB0\xFD\xEC @,0.0,3.0,0.0,0.0,0.0,inadequate
+HF00037,Primary Health Centre,6.450128,9.845145,"\x01\x01\x00\x00\x009\x0E\xBCZ\xEE\xCC\x19@\x7F\xC1n\xD8\xB6\xB0#@",0.0,2.0,6.0,2.0,0.0,adequate
+HF900052,Primary Health Centre,6.104447,9.650465,"\x01\x01\x00\x00\x00H\xA9\x84\x27\xF4j\x18@\xA2b\x9C\xBF\x09M#@",,,,,,no_personnel_record
+HF00367,Cottage Hospital,6.520543,8.651852,\x01\x01\x00\x00\x00\x9C\xA5d9\x09\x15\x1A@\x15\xAA\x9B\x8B\xBFM!@,3.0,1.0,6.0,4.0,3.0,inadequate
+HF00095,Health Post,7.438632,9.50402,"\x01\x01\x00\x00\x00\x92\xEA;\xBF(\xC1\x1D@R\x0F\xD1\xE8\x0E\x02#@",0.0,1.0,1.0,0.0,0.0,inadequate
+HF01166,Primary Health Centre,10.21,8.57,"\x01\x01\x00\x00\x00\xECQ\xB8\x1E\x85k$@\xA4p=\x0A\xD7#!@",1.0,0.0,0.0,1.0,1.0,inadequate
+HF00584,Health Post,7.802094,10.868916,\x01\x01\x00\x00\x00tE)!X5\x1F@9\xF1\xD5\x8E\xE2\xBC%@,1.0,1.0,2.0,1.0,0.0,adequate
+HF01294,Health Post,10.698088,10.233503,\x01\x01\x00\x00\x00\xC9uS\xCAke%@)\x09\x89\xB4\x8Dw$@,0.0,1.0,2.0,1.0,0.0,adequate
+HF01304,Health Post,10.155194444444446,9.771,"\x01\x01\x00\x00\x00\xCF\xD1n\xA5uO$@\x98n\x12\x83\xC0\x8A#@",0.0,1.0,2.0,0.0,0.0,adequate
+HF00771,Health Post,8.484971,7.928792,\x01\x01\x00\x00\x00O\x04q\x1EN\xF8 @N%\x03@\x15\xB7\x1F@,1.0,1.0,1.0,0.0,0.0,inadequate
+HF00691,Comprehensive Health Centre,7.9556,11.535905,"\x01\x01\x00\x00\x00\xFB:p\xCE\x88\xD2\x1F@\x98\x86\xE1#b\x12\x27@",,,,,,no_personnel_record
+HF01035,Health Post,10.405017,10.446018,\x01\x01\x00\x00\x00\xE8\xA5bc^\xCF$@\xCB\xDA\xA6x\x5C\xE4$@,0.0,2.0,3.0,1.0,0.0,adequate
+HF01324,Primary Health Centre,10.471842,9.915541,"\x01\x01\x00\x00\x00+\xC2MF\x95\xF1$@UK:\xCA\xC1\xD4#@",1.0,3.0,4.0,1.0,1.0,adequate
+HF01095,Primary Health Centre,8.932769,11.36894,\x01\x01\x00\x00\x00\xFCq\xFB\xE5\x93\xDD!@[_$\xB4\xE5\xBC&@,2.0,2.0,6.0,0.0,1.0,adequate
+HF00823,Primary Health Centre,9.305609,8.138822,\x01\x01\x00\x00\x00\xFE\xB9h\xC8x\x9C\x22@=\xEE[\xAD\x13G @,0.0,3.0,4.0,0.0,1.0,adequate
+HF00067,Health Post,5.961923,9.414439,\x01\x01\x00\x00\x00\xB1\x14\xC9W\x02\xD9\x17@\xB7_>Y1\xD4\x22@,0.0,0.0,2.0,1.0,0.0,adequate
+HF00887,Health Post,8.604787,9.504081,"\x01\x01\x00\x00\x00\x87\x17D\xA4\xA65!@\xE8\x11\xA3\xE7\x16\x02#@",1.0,0.0,1.0,0.0,0.0,inadequate
+HF00655,Primary Health Centre,8.158438,11.213725,\x01\x01\x00\x00\x00&\xE3\x18\xC9\x1EQ @\xDA\xAC\xFA\x5Cmm&@,0.0,7.0,5.0,1.0,1.0,adequate
+HF00422,Cottage Hospital,,,,4.0,3.0,11.0,4.0,0.0,inadequate
+HF01320,Primary Health Centre,10.540791,9.970152,"\x01\x01\x00\x00\x009\xF1\xD5\x8E\xE2\x14%@ILP\xC3\xB7\xF0#@",1.0,8.0,2.0,0.0,1.0,inadequate
+HF01042,Health Post,10.733492,10.628218,\x01\x01\x00\x00\x00Y\xC1oC\x8Cw%@^\x84)\xCA\xA5A%@,0.0,2.0,1.0,0.0,0.0,inadequate
+HF00625,Cottage Hospital,6.871031,10.936763,\x01\x01\x00\x00\x00n5\xEB\x8C\xEF{\x1B@\xA84bf\x9F\xDF%@,,,,,,no_personnel_record
+HF00321,Comprehensive Health Centre,7.979697,7.433514,\x01\x01\x00\x00\x00\x0E\xF5\xBB\xB05\xEB\x1F@\xBDn\x11\x18\xEB\xBB\x1D@,5.0,3.0,2.0,2.0,0.0,inadequate
+HF00064,Health Post,5.922543,9.067566,\x01\x01\x00\x00\x00k\x9D\xB8\x1C\xAF\xB0\x17@\xA0\xA4\xC0\x02\x98\x22\x22@,1.0,0.0,3.0,1.0,0.0,adequate
+HF00708,Health Post,9.117929,7.780579,\x01\x01\x00\x00\x00\xFE\x7F\x9C0a<\x22@\x0D\xC7\xF3\x19P\x1F\x1F@,0.0,0.0,1.0,0.0,0.0,inadequate
+HF00908,Primary Health Centre,8.224397,9.069231,"\x01\x01\x00\x00\x00\x1A\xA4\xE0)\xE4r @\x1F\xBD\xE1>r#\x22@",1.0,3.0,3.0,0.0,1.0,adequate
+HF01125,Health Post,9.468348,11.056699,\x01\x01\x00\x00\x00EK\x1EO\xCB\xEF\x22@\x8Bn\xBD\xA6\x07\x1D&@,1.0,1.0,2.0,0.0,0.0,adequate
+HF01145,Health Post,10.421867,9.195991,\x01\x01\x00\x00\x00\xF5\x85\x90\xF3\xFE\xD7$@\xE4\x9E\xAE\xEEXd\x22@,0.0,1.0,1.0,0.0,0.0,inadequate
+HF00820,Comprehensive Health Centre,9.181705,8.385834,\x01\x01\x00\x00\x00\x13\x0A\x11p\x08]\x22@\xA6^\xB7\x08\x8C\xC5 @,1.0,4.0,7.0,4.0,1.0,adequate
+HF00198,Health Post,6.793319,11.020406,"\x01\x01\x00\x00\x00\x84.\xE1\xD0[,\x1B@\xCBH\xBD\xA7r\x0A&@",0.0,1.0,2.0,0.0,0.0,adequate
+HF01219,Primary Health Centre,9.104586,9.573868,"\x01\x01\x00\x00\x00)=\xD3K\x8C5\x22@\x1Dq\xC8\x06\xD2%#@",2.0,6.0,1.0,3.0,1.0,inadequate
+HF00535,Primary Health Centre,8.674514,10.124574,"\x01\x01\x00\x00\x00gc%\xE6YY!@#\xDD\xCF)\xC8?$@",0.0,3.0,5.0,0.0,2.0,adequate
+HF00866,Primary Health Centre,8.940091,8.94883,"\x01\x01\x00\x00\x00#\x87\x88\x9BS\xE1!@g\xED\xB6\x0B\xCD\xE5!@",,,,,,no_personnel_record
+HF00139,Health Post,6.992913,9.328799,\x01\x01\x00\x00\x00\xCE\x17{/\xBE\xF8\x1B@>\xEA\xAFWX\xA8\x22@,0.0,1.0,2.0,0.0,0.0,adequate
+HF01200,Health Post,9.307533,9.410747,\x01\x01\x00\x00\x00\xAC\xE1\x22\xF7t\x9D\x22@8\xDCGnM\xD2\x22@,0.0,2.0,2.0,1.0,0.0,adequate
+HF00124,Primary Health Centre,6.850823,9.297858,\x01\x01\x00\x00\x00\x0A\xBD\xFE$>g\x1B@5\xB4\x01\xD8\x80\x98\x22@,0.0,7.0,4.0,1.0,1.0,adequate
+HF00868,Health Post,9.031458,9.058523,\x01\x01\x00\x00\x00(eRC\x1B\x10\x22@\xAB \x06\xBA\xF6\x1D\x22@,1.0,2.0,2.0,0.0,0.0,adequate
+HF00266,Health Post,8.122144,8.269106,\x01\x01\x00\x00\x00%\xCE\x8A\xA8\x89> @\x94P\xFAB\xC8\x89 @,0.0,0.0,1.0,0.0,0.0,inadequate
+HF01242,Health Post,9.89431,9.649259,"\x01\x01\x00\x00\x00\xB6\xF8\x14\x00\xE3\xC9#@pD\xF7\xACkL#@",1.0,1.0,1.0,1.0,1.0,inadequate
+HF00653,General Hospital,8.08452,11.39746,\x01\x01\x00\x00\x00A\xB7\x974F+ @\xB3\xEF\x8A\xE0\x7F\xCB&@,,,,,,no_personnel_record
+HF00374,Cottage Hospital,6.716886,8.756201,"\x01\x01\x00\x00\x00M\xD7\x13]\x17\xDE\x1A@\xAEg\x08\xC7,\x83!@",0.0,2.0,18.0,6.0,4.0,inadequate
+HF00678,Primary Health Centre,8.121102,10.705155,\x01\x01\x00\x00\x00\xDC\xF5\xD2\x14\x01> @\xC58\x7F\x13\x0Ai%@,0.0,3.0,5.0,1.0,0.0,adequate
+HF900565,Health Post,6.95688,10.872176,\x01\x01\x00\x00\x002\xC9\xC8Y\xD8\xD3\x1B@R\xB6H\xDA\x8D\xBE%@,,,,,,no_personnel_record
+HF00555,Health Post,7.848479,9.616096,"\x01\x01\x00\x00\x00\x03_\xD1\xAD\xD7d\x1F@\x91dV\xEFp;#@",1.0,0.0,1.0,0.0,1.0,inadequate
+HF00658,General Hospital,8.1823,11.337864,\x01\x01\x00\x00\x00!\x1F\xF4lV] @\xD2\xFD\x9C\x82\xFC\xAC&@,5.0,54.0,21.0,0.0,3.0,inadequate
+HF00802,Health Post,10.158177,8.413279,\x01\x01\x00\x00\x00s\xF5c\x93\xFCP$@F?\x1AN\x99\xD3 @,,,,,,no_personnel_record
+HF01268,Primary Health Centre,9.853549,10.032682,"\x01\x01\x00\x00\x00\x27\x11\xE1_\x04\xB5#@\xF3U\xF2\xB1\xBB\x10$@",1.0,12.0,3.0,2.0,0.0,adequate
+HF00455,Primary Health Centre,7.224104,9.034429,\x01\x01\x00\x00\x00s\x9C\xDB\x84{\xE5\x1C@f\x11\x8A\xAD\xA0\x11\x22@,1.0,0.0,6.0,1.0,1.0,inadequate
+HF00871,Primary Health Centre,8.156597,8.566049,"\x01\x01\x00\x00\x00\xADMc{-P @\xF4\xDD\xAD,\xD1!!@",2.0,3.0,6.0,0.0,0.0,adequate
+HF01003,Primary Health Centre,10.672758,10.828111,\x01\x01\x00\x00\x00\xA7>\x90\xBCsX%@l\xEA<*\xFE\xA7%@,0.0,9.0,7.0,1.0,0.0,adequate
+HF00601,Primary Health Centre,7.411315,10.269159,\x01\x01\x00\x00\x00\xBEje\xC2/\xA5\x1D@\x1F\xD9\x5C5\xCF\x89$@,0.0,4.0,0.0,1.0,0.0,inadequate
+HF00790,Primary Health Centre,8.744614,7.450122,\x01\x01\x00\x00\x00\x99I\xD4\x0B>}!@(\xD7\x14\xC8\xEC\xCC\x1D@,1.0,5.0,3.0,0.0,1.0,adequate
+HF00577,Health Post,7.685792,11.399495,\x01\x01\x00\x00\x00\x09o\x0FB@\xBE\x1E@\xBF\xD4\xCF\x9B\x8A\xCC&@,0.0,1.0,1.0,0.0,0.0,inadequate
+HF00141,Comprehensive Health Centre,7.008371,9.245351,\x01\x01\x00\x00\x00t\xF0Lh\x92\x08\x1C@\xF0\x14r\xA5\x9E}\x22@,2.0,0.0,14.0,2.0,0.0,inadequate
+HF01139,Health Post,9.749804,8.96697,"\x01\x01\x00\x00\x00\xE9\xD1TO\xE6\x7F#@\x1Em\x1C\xB1\x16\xEF!@",0.0,0.0,1.0,0.0,0.0,inadequate
+HF00561,Comprehensive Health Centre,7.688186,9.845039,"\x01\x01\x00\x00\x00\x9EB\xAE\xD4\xB3\xC0\x1E@h\xB0\xA9\xF3\xA8\xB0#@",2.0,7.0,6.0,1.0,0.0,adequate
+HF00043,Primary Health Centre,6.528414,9.726784,"\x01\x01\x00\x00\x00\x82\xFEB\x8F\x18\x1D\x1A@\x1B\x83N\x08\x1Dt#@",1.0,4.0,1.0,1.0,2.0,inadequate
+HF00174,Primary Health Centre,7.005231,10.117496,\x01\x01\x00\x00\x00\x96\xB3wF[\x05\x1C@V\xD2\x8Ao(<$@,2.0,7.0,2.0,2.0,0.0,inadequate
+HF00108,Primary Health Centre,7.506259,9.747259,"\x01\x01\x00\x00\x00\x009a\xC2h\x06\x1E@\x88HM\xBB\x98~#@",0.0,4.0,5.0,0.0,1.0,adequate
+HF00253,Health Post,8.394384,7.88658,\x01\x01\x00\x00\x00\x9F!\x1C\xB3\xEC\xC9 @\x96&\xA5\xA0\xDB\x8B\x1F@,0.0,0.0,1.0,0.0,0.0,inadequate
+HF01137,Comprehensive Health Centre,9.573365,9.108368,"\x01\x01\x00\x00\x00\x93W\xE7\x18\x90%#@\xA9\xDD\xAF\x02|7\x22@",2.0,1.0,4.0,2.0,0.0,inadequate
+HF00051,Primary Health Centre,5.921303,10.002064,\x01\x01\x00\x00\x00\xA6\xD3\xBA\x0Dj\xAF\x17@v\xFFX\x88\x0E\x01$@,0.0,0.0,9.0,1.0,1.0,inadequate
+HF00234,Comprehensive Health Centre,6.663104,10.463394,\x01\x01\x00\x00\x00\x1Bc\x27\xBC\x04\xA7\x1A@CSv\xFAA\xED$@,5.0,6.0,15.0,3.0,3.0,adequate
+HF00269,Primary Health Centre,8.142656,7.957894,"\x01\x01\x00\x00\x00\x07(\x0D5\x0AI @t#,*\xE2\xD4\x1F@",,,,,,no_personnel_record
+HF00403,Primary Health Centre,6.317395,8.68685,\x01\x01\x00\x00\x00\xDB\xA7\xE31\x03E\x19@\xE4\x83\x9E\xCD\xAA_!@,1.0,4.0,5.0,2.0,0.0,adequate
+HF01062,Health Post,10.21287,10.523734,\x01\x01\x00\x00\x00[\x99\xF0K\xFDl$@E\x9B\xE3\xDC&\x0C%@,1.0,4.0,3.0,0.0,0.0,adequate
+HF00549,Primary Health Centre,7.737099,9.584049,"\x01\x01\x00\x00\x00?\xA8\x8B\x14\xCA\xF2\x1E@\xE4\x85tx\x08+#@",0.0,3.0,3.0,1.0,1.0,adequate
+HF00398,Primary Health Centre,7.048843,8.333614,\x01\x01\x00\x00\x00\xDA\x8D>\xE6\x032\x1C@\xBA\xF9Ft\xCF\xAA @,1.0,2.0,5.0,0.0,2.0,adequate
+HF00274,Health Post,7.57,8.05,\x01\x01\x00\x00\x00H\xE1z\x14\xAEG\x1E@\x9A\x99\x99\x99\x99\x19 @,1.0,2.0,2.0,0.0,1.0,adequate
+HF01187,Primary Health Centre,9.888077,8.712628,"\x01\x01\x00\x00\x00\xDA\xA8N\x07\xB2\xC6#@\x83m\xC4\x93\xDDl!@",1.0,3.0,0.0,0.0,1.0,inadequate
+HF01112,Primary Health Centre,9.298757,11.303614,\x01\x01\x00\x00\x00\xF3\xE6p\xAD\xF6\x98\x22@*7QKs\x9B&@,1.0,3.0,4.0,0.0,1.0,adequate
+HF00498,Primary Health Centre,8.059468,9.852051,"\x01\x01\x00\x00\x00+Q\xF6\x96r\x1E @V\x0CW\x07@\xB4#@",0.0,4.0,2.0,1.0,2.0,inadequate
+HF00087,Comprehensive Health Centre,5.693857,9.785948,"\x01\x01\x00\x00\x00\x17g\x0Cs\x82\xC6\x16@\x95\xB6\xB8\xC6g\x92#@",2.0,2.0,8.0,0.0,1.0,inadequate
+HF01255,Primary Health Centre,9.385171,9.944942,"\x01\x01\x00\x00\x008\xBC \x225\xC5\x22@\xD1;\x15p\xCF\xE3#@",2.0,0.0,8.0,0.0,1.0,inadequate
+HF01325,Health Post,10.638319,9.901975,"\x01\x01\x00\x00\x00\xB2\xD4z\xBF\xD1F%@\x84\x9E\xCD\xAA\xCF\xCD#@",1.0,2.0,1.0,1.0,0.0,inadequate
+HF01261,Health Post,9.516427,10.079886,"\x01\x01\x00\x00\x00\xF4\x8A\xA7\x1Ei\x08#@\x07\xD1Z\xD1\xE6($@",1.0,0.0,3.0,0.0,0.0,adequate
+HF01005,Health Post,10.58775,11.074277777777777,"\x01\x01\x00\x00\x00\xB0rh\x91\xED,%@\x0E\xC0\xA4\xBC\x07&&@",0.0,2.0,4.0,1.0,0.0,adequate
+HF00415,Comprehensive Health Centre,7.129634,8.252513,\x01\x01\x00\x00\x00u\xCCy\xC6\xBE\x84\x1C@4\xA1IbI\x81 @,0.0,4.0,6.0,1.0,3.0,inadequate
+HF00483,Primary Health Centre,8.258281,10.403605,\x01\x01\x00\x00\x00:[@h=\x84 @\x11\x01\x87P\xA5\xCE$@,3.0,3.0,4.0,3.0,0.0,adequate
+HF00564,Primary Health Centre,6.957632,10.805009,"\x01\x01\x00\x00\x00\x8Ci\xA6{\x9D\xD4\x1B@\xA9\xF8\xBF#*\x9C%@",0.0,3.0,10.0,1.0,0.0,adequate
+HF01274,Primary Health Centre,9.84058,9.882078,"\x01\x01\x00\x00\x00\xE6Ws\x80`\xAE#@\xCC\x0AE\xBA\x9F\xC3#@",3.0,7.0,0.0,1.0,1.0,inadequate
+HF00693,Health Post,8.06598,11.13844,\x01\x01\x00\x00\x00Ral!\xC8! @\x9E\xEA\x90\x9B\xE1F&@,0.0,2.0,2.0,0.0,1.0,adequate
+HF00366,Comprehensive Health Centre,6.615772,8.634457,\x01\x01\x00\x00\x00\x88+g\xEF\x8Cv\x1A@\xC1oC\x8C\xD7D!@,1.0,7.0,2.0,1.0,1.0,inadequate
+HF00525,Comprehensive Health Centre,8.369306,9.587759,"\x01\x01\x00\x00\x00\xE3n\x10\xAD\x15\xBD @\xFD\xDBe\xBF\xEE,#@",2.0,2.0,3.0,1.0,1.0,inadequate
+HF00303,Health Post,7.45,7.87,\x01\x01\x00\x00\x00\xCD\xCC\xCC\xCC\xCC\xCC\x1D@{\x14\xAEG\xE1z\x1F@,0.0,1.0,1.0,0.0,0.0,inadequate
+HF01309,Primary Health Centre,10.349002,9.781313,"\x01\x01\x00\x00\x00)z\xE0c\xB0\xB2$@\x1A\xE1\xEDA\x08\x90#@",2.0,3.0,3.0,0.0,0.0,adequate
+HF00736,Health Post,8.336858,8.064907,\x01\x01\x00\x00\x00\xBC\xCA\xDA\xA6x\xAC @\x1D\x90\x84};! @,0.0,2.0,3.0,0.0,0.0,adequate
+HF00340,Comprehensive Health Centre,6.84398,8.905034,\x01\x01\x00\x00\x00\x8E\xE9\x09K<`\x1B@@\x89\xCF\x9D`\xCF!@,0.0,8.0,10.0,3.0,0.0,inadequate
+HF00579,Health Post,7.76356,11.402001,\x01\x01\x00\x00\x00\x92\x222\xAC\xE2\x0D\x1F@)\xEB7\x13\xD3\xCD&@,0.0,1.0,2.0,0.0,0.0,adequate
+HF00039,Health Post,6.3978,9.844214,"\x01\x01\x00\x00\x00,e\x19\xE2X\x97\x19@\x93\xA6A\xD1<\xB0#@",0.0,1.0,0.0,0.0,0.0,inadequate
+HF00609,Comprehensive Health Centre,7.494114,10.77238,\x01\x01\x00\x00\x00\xA4\xFB9\x05\xF9\xF9\x1D@A+0du\x8B%@,3.0,10.0,7.0,0.0,2.0,inadequate
+HF00380,Primary Health Centre,6.782301,7.870861,"\x01\x01\x00\x00\x00,\x83j\x83\x13!\x1B@\x8Ari\xFC\xC2{\x1F@",0.0,2.0,1.0,0.0,0.0,inadequate
+HF00491,Primary Health Centre,8.463899,10.251886,\x01\x01\x00\x00\x00QKs+\x84\xED @\xF9\xA3\xA83\xF7\x80$@,,,,,,no_personnel_record
+HF00636,Comprehensive Health Centre,8.612233,11.264857,\x01\x01\x00\x00\x00^\x10\x91\x9Av9!@\xBC;2V\x9B\x87&@,0.0,6.0,12.0,0.0,3.0,inadequate
+HF00769,Primary Health Centre,8.533387,7.987262,\x01\x01\x00\x00\x00\x1D9\xD2\x19\x18\x11!@\x8FUJ\xCF\xF4\xF2\x1F@,1.0,6.0,6.0,1.0,2.0,adequate
+HF01097,Comprehensive Health Centre,9.0,11.2,\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x22@ffffff&@,2.0,0.0,5.0,1.0,1.0,inadequate
+HF00049,Primary Health Centre,5.954722,10.033424,\x01\x01\x00\x00\x00<\x16\xDB\xA4\xA2\xD1\x17@\x92\xCDU\xF3\x1C\x11$@,3.0,3.0,3.0,4.0,1.0,adequate
+HF00932,Health Post,8.577357,8.900812,\x01\x01\x00\x00\x00\xBC;2V\x9B\x27!@O\xB0\xFF:7\xCD!@,0.0,1.0,1.0,1.0,1.0,inadequate
+HF00720,Health Post,8.627528,8.360639,\x01\x01\x00\x00\x00\x09\xA6\x9AYKA!@\x05S\xCD\xAC\xA5\xB8 @,0.0,1.0,2.0,0.0,0.0,adequate
+HF00874,Health Post,8.26993,8.632786,\x01\x01\x00\x00\x00\x27k\xD4C4\x8A @\xBA\xBB\xCE\x86\xFCC!@,0.0,1.0,3.0,0.0,0.0,adequate
+HF00901,Primary Health Centre,8.811091,9.348975,\x01\x01\x00\x00\x00\xED(\xCEQG\x9F!@B>\xE8\xD9\xAC\xB2\x22@,2.0,9.0,6.0,0.0,2.0,adequate
+HF00682,Primary Health Centre,8.094521,11.022761,\x01\x01\x00\x00\x00\x08\x92w\x0Ee0 @\x9E?mT\xA7\x0B&@,3.0,5.0,6.0,2.0,2.0,adequate
+HF00528,Comprehensive Health Centre,8.56882,9.940451,"\x01\x01\x00\x00\x00\x17\x9F\x02`<#!@\x22\xFB \xCB\x82\xE1#@",,,,,,no_personnel_record
+HF00648,Comprehensive Health Centre,8.814164,10.592617,\x01\x01\x00\x00\x00=)\x93\x1A\xDA\xA0!@v\x1B\xD4~k/%@,2.0,11.0,21.0,0.0,1.0,inadequate
+HF00397,Health Post,6.878779,8.16498,\x01\x01\x00\x00\x00v\xA5e\xA4\xDE\x83\x1B@\xF8\xFC0BxT @,1.0,3.0,1.0,0.0,0.0,inadequate
+HF00074,Primary Health Centre,6.345406,9.475665,\x01\x01\x00\x00\x00c^G\x1C\xB2a\x19@$\xB4\xE5\x5C\x8A\xF3\x22@,2.0,2.0,5.0,0.0,2.0,adequate
+HF00251,Health Post,7.849626,8.017297,\x01\x01\x00\x00\x00?S\xAF[\x04f\x1F@H\xA3\x02\x27\xDB\x08 @,0.0,1.0,1.0,0.0,0.0,inadequate
+HF00628,Comprehensive Health Centre,7.107582,11.147235,\x01\x01\x00\x00\x00\x97\x8D\xCE\xF9)n\x1C@3\xA7\xCBbbK&@,0.0,7.0,6.0,3.0,3.0,inadequate
+HF900541,Health Post,8.758937,10.43891,\x01\x01\x00\x00\x00\xDEr\xF5c\x93\x84!@T\xC6\xBF\xCF\xB8\xE0$@,,,,,,no_personnel_record
+HF00263,Primary Health Centre,8.023887,8.17409,\x01\x01\x00\x00\x00_\x99\xB7\xEA:\x0C @\x0C\x1F\x11S\x22Y @,1.0,0.0,4.0,1.0,0.0,inadequate
+HF00014,Primary Health Centre,5.698752,9.381432,\x01\x01\x00\x00\x00\xF1\x0E\xF0\xA4\x85\xCB\x16@\xB6K\x1B\x0EK\xC3\x22@,,,,,,no_personnel_record
+HF01281,Primary Health Centre,10.043838,10.184815,\x01\x01\x00\x00\x00\xE3\xA40\xEFq\x16$@\xD8\x9EY\x12\xA0^$@,0.0,4.0,5.0,0.0,3.0,adequate
+HF01241,Primary Health Centre,9.912945,9.626453,"\x01\x01\x00\x00\x00\xEC\x17\xEC\x86m\xD3#@Q\xF6\x96r\xBE@#@",,,,,,no_personnel_record
+HF00925,Cottage Hospital,8.561178,8.811937,\x01\x01\x00\x00\x00)x\x0A\xB9R\x1F!@ \xD3\xDA4\xB6\x9F!@,0.0,12.0,3.0,5.0,1.0,inadequate
+HF00803,Cottage Hospital,10.028566,8.355887,\x01\x01\x00\x00\x00\x19\x8E\xE73\xA0\x0E$@\xA2$$\xD26\xB6 @,0.0,0.0,1.0,5.0,0.0,inadequate
+HF01050,Health Post,10.142413,10.700895,\x01\x01\x00\x00\x00\xED\x0CS[\xEAH$@\x1E\xDC\x9D\xB5\xDBf%@,0.0,0.0,2.0,1.0,0.0,adequate
+HF00940,Health Post,9.37969,10.989921,\x01\x01\x00\x00\x00\x8A<I\xBAf\xC2\x22@K?\xE1\xEC\xD6\xFA%@,0.0,2.0,1.0,0.0,0.0,inadequate
+HF01017,Health Post,10.410072,11.361348,\x01\x01\x00\x00\x00\xB8\x02\x0A\xF5\xF4\xD1$@4\xF3\xE4\x9A\x02\xB9&@,0.0,3.0,1.0,1.0,1.0,inadequate
+HF00938,Health Post,9.349977,10.884026,\x01\x01\x00\x00\x00S\xB4r/0\xB3\x22@\x9D\xA0M\x0E\x9F\xC4%@,0.0,2.0,0.0,0.0,0.0,inadequate
+HF00688,Primary Health Centre,7.953908,11.569309,"\x01\x01\x00\x00\x002\x92=B\xCD\xD0\x1F@\x0E\xA3 x|#\x27@",0.0,0.0,9.0,0.0,2.0,inadequate
+HF00309,Primary Health Centre,7.574104,7.510472,"\x01\x01\x00\x00\x00\xDA\x02B\xEB\xE1K\x1E@H\x18\x06,\xB9\x0A\x1E@",1.0,2.0,0.0,1.0,1.0,inadequate
+HF01108,Health Post,9.027383,11.655609,\x01\x01\x00\x00\x00\xC8\xEE\x02%\x05\x0E\x22@1\xED\x9B\xFB\xABO\x27@,0.0,2.0,2.0,0.0,0.0,adequate
+HF00913,Health Post,8.437296,9.068528,"\x01\x01\x00\x00\x00\xDEW\xE5B\xE5\xDF @x\xB8\x1D\x1A\x16#\x22@",1.0,2.0,1.0,0.0,1.0,inadequate
+HF00923,Primary Health Centre,8.55411,8.719858,\x01\x01\x00\x00\x00\xEB\xC5PN\xB4\x1B!@\x27\x87O:\x91p!@,6.0,1.0,5.0,1.0,1.0,inadequate
+HF00821,Health Post,9.219424,8.284518,\x01\x01\x00\x00\x00>\xEA\xAFWXp\x22@%?\xE2W\xAC\x91 @,0.0,1.0,0.0,0.0,0.0,inadequate
+HF00651,Primary Health Centre,8.04,11.55,\x01\x01\x00\x00\x00\x14\xAEG\xE1z\x14 @\x9A\x99\x99\x99\x99\x19\x27@,1.0,2.0,3.0,1.0,0.0,adequate
+HF00580,Cottage Hospital,7.891742,11.207827,\x01\x01\x00\x00\x00\xE7\xE0\x99\xD0$\x91\x1F@\x9Bs\xF0Lhj&@,0.0,16.0,15.0,4.0,3.0,inadequate
+HF00576,Primary Health Centre,7.54,11.45,\x01\x01\x00\x00\x00)\x5C\x8F\xC2\xF5(\x1E@fffff\xE6&@,2.0,6.0,3.0,1.0,1.0,adequate
+HF01172,Comprehensive Health Centre,,,,2.0,4.0,2.0,1.0,2.0,inadequate
+HF01059,Cottage Hospital,10.193241,10.405481,\x01\x01\x00\x00\x00 ~\xFE{\xF0b$@{L\xA44\x9B\xCF$@,0.0,15.0,7.0,1.0,4.0,inadequate
+HF00186,Comprehensive Health Centre,6.367893,10.575492,\x01\x01\x00\x00\x00\x95\xB5M\xF1\xB8x\x19@\x228.\xE3\xA6&%@,,,,,,no_personnel_record
+HF00085,Primary Health Centre,5.792405,9.699518,"\x01\x01\x00\x00\x00]\xBF`7l+\x17@9\xED)9\x27f#@",0.0,3.0,2.0,0.0,1.0,inadequate
+HF00148,General Hospital,7.096931,10.250366,\x01\x01\x00\x00\x00\xD2\xDFK\xE1Ac\x1C@\x88\x0F\xEC\xF8/\x80$@,3.0,7.0,17.0,4.0,0.0,inadequate
+HF00755,Health Post,9.055201,7.967541,\x01\x01\x00\x00\x00\xBAi3NC\x1C\x22@\x13(b\x11\xC3\xDE\x1F@,0.0,3.0,0.0,1.0,0.0,inadequate
+HF00744,Health Post,8.388348,8.254835,\x01\x01\x00\x00\x00\x1C\xEF\x8E\x8C\xD5\xC6 @\x98\xC0\xAD\xBBy\x82 @,1.0,1.0,0.0,0.0,0.0,inadequate
+HF01290,Health Post,10.634276,10.10173,\x01\x01\x00\x00\x00\x80F\xE9\xD2\xBFD%@N\x0B^\xF4\x154$@,,,,,,no_personnel_record
+HF00362,Primary Health Centre,6.610718,7.975798,\x01\x01\x00\x00\x00jP4\x0F`q\x1A@C\x02F\x977\xE7\x1F@,1.0,2.0,4.0,0.0,1.0,adequate
+HF00965,Health Post,9.395978,10.287542,\x01\x01\x00\x00\x00\xF8\xDE\xDF\xA0\xBD\xCA\x22@\xEFs|\xB48\x93$@,0.0,1.0,1.0,0.0,0.0,inadequate
+HF01119,Comprehensive Health Centre,9.254836,11.223359,\x01\x01\x00\x00\x00\xD9\xAF;\xDDy\x82\x22@\xD7\x88`\x1C\x5Cr&@,1.0,6.0,12.0,0.0,3.0,inadequate
+HF01136,Health Post,9.574423,9.093929,"\x01\x01\x00\x00\x00\xF2#~\xC5\x1A&#@\xBEJ>v\x170\x22@",0.0,0.0,1.0,0.0,0.0,inadequate
+HF00407,Primary Health Centre,6.406447,8.389587,\x01\x01\x00\x00\x00\xB0:r\xA43\xA0\x19@\xBD\xE4\x7F\xF2w\xC7 @,,,,,,no_personnel_record
+HF00652,Primary Health Centre,8.063028,11.427013,\x01\x01\x00\x00\x00\xEEv\xBD4E  @\x07\xEF\xABr\xA1\xDA&@,2.0,0.0,4.0,1.0,1.0,inadequate
+HF00587,Primary Health Centre,7.764898,10.616426,\x01\x01\x00\x00\x00m\x1A\xDBkA\x0F\x1F@\xE6\xCEL0\x9C;%@,1.0,6.0,6.0,0.0,0.0,adequate
+HF00679,Primary Health Centre,8.084209,10.7198,\x01\x01\x00\x00\x00\xC7\x0E*q\x1D+ @TR\x27\xA0\x89p%@,0.0,8.0,2.0,4.0,1.0,inadequate
+HF00488,Health Post,8.413854,10.041296,\x01\x01\x00\x00\x008\xA3\xE6\xAB\xE4\xD3 @G\xE9\xD2\xBF$\x15$@,0.0,0.0,1.0,0.0,0.0,inadequate
+HF01083,Health Post,9.40919,11.445907,\x01\x01\x00\x00\x00S\xB3\x07Z\x81\xD1\x22@m\x1D\x1C\xECM\xE4&@,1.0,1.0,3.0,1.0,0.0,adequate
+HF00217,Primary Health Centre,6.032417,10.123064,\x01\x01\x00\x00\x00uV\x0B\xEC1!\x18@@\xA1\x9E>\x02?$@,0.0,0.0,11.0,1.0,0.0,inadequate
+HF00632,Primary Health Centre,8.343724,10.969225,\x01\x01\x00\x00\x00[\xB3\x95\x97\xFC\xAF @c\xEEZB>\xF0%@,0.0,1.0,7.0,0.0,0.0,inadequate
+HF00903,Primary Health Centre,9.006057,9.315658,\x01\x01\x00\x00\x00\xE1\xD21\xE7\x19\x03\x22@\x09q\xE5\xEC\x9D\xA1\x22@,0.0,1.0,6.0,1.0,2.0,inadequate
+HF01318,Health Post,10.491615,9.973942,"\x01\x01\x00\x00\x002r\x16\xF6\xB4\xFB$@\xD3f\x9C\x86\xA8\xF2#@",0.0,1.0,1.0,1.0,0.0,inadequate
+HF00156,Primary Health Centre,7.220702,10.013517,\x01\x01\x00\x00\x00\xAD\xA5\x80\xB4\xFF\xE1\x1C@L\xE1A\xB3\xEB\x06$@,0.0,2.0,2.0,2.0,1.0,inadequate
+HF00614,Primary Health Centre,7.635528,10.87375,\x01\x01\x00\x00\x00\xE7\xC4\x1E\xDA\xC7\x8A\x1E@\x8F\xC2\xF5(\x5C\xBF%@,2.0,4.0,4.0,1.0,1.0,adequate
+HF01028,General Hospital,10.601456,11.238738,\x01\x01\x00\x00\x00I\xF7s\x0A\xF23%@\xF9\x9F\xFC\xDD;z&@,3.0,12.0,35.0,24.0,11.0,adequate
+HF00298,Primary Health Centre,7.420777,8.011711,\x01\x01\x00\x00\x00\xCF\xA2w*\xE0\xAE\x1D@\xC5\x01\xF4\xFB\xFE\x05 @,0.0,4.0,5.0,1.0,0.0,adequate
+HF01220,Primary Health Centre,8.981233,9.572757,"\x01\x01\x00\x00\x00\x0E\x83\xF9+d\xF6!@2\x1C\xCFg@%#@",2.0,5.0,2.0,0.0,2.0,inadequate
+HF00986,Primary Health Centre,10.099949,11.433938,"\x01\x01\x00\x00\x00+\x89\xEC\x83,3$@\xB9\xFB\x1C\x1F-\xDE&@",1.0,9.0,10.0,1.0,0.0,adequate
+HF00233,Health Post,6.638614,10.448883,\x01\x01\x00\x00\x00+\x12\x13\xD4\xF0\x8D\x1A@\xF3u\x19\xFE\xD3\xE5$@,,,,,,no_personnel_record
+HF00379,Health Post,6.808917,7.764147,\x01\x01\x00\x00\x00\xB7\xB6\xF0\xBCT<\x1B@\x97X\x19\x8D|\x0E\x1F@,0.0,1.0,2.0,0.0,0.0,adequate
+HF00318,Primary Health Centre,8.191681,7.2695,\x01\x01\x00\x00\x00w\x87\x14\x03$b @\x87\x16\xD9\xCE\xF7\x13\x1D@,1.0,6.0,2.0,0.0,1.0,inadequate
+HF00428,Health Post,7.96805,8.416047,\x01\x01\x00\x00\x00:\x92\xCB\x7FH\xDF\x1F@\xA52\xC5\x1C\x04\xD5 @,0.0,0.0,1.0,1.0,0.0,inadequate
+HF00570,Primary Health Centre,7.372115,10.898618,\x01\x01\x00\x00\x00wg\xED\xB6\x0B}\x1D@\xA11\x93\xA8\x17\xCC%@,2.0,2.0,7.0,0.0,1.0,adequate
+HF00277,Primary Health Centre,7.742389,8.229237,\x01\x01\x00\x00\x00\xFD\xA3o\xD24\xF8\x1E@\xF9\x10T\x8D^u @,2.0,1.0,4.0,0.0,1.0,inadequate
+HF00068,Primary Health Centre,5.947112,9.470632,\x01\x01\x00\x00\x00\xBB\x98f\xBA\xD7\xC9\x17@\xF3\xE6p\xAD\xF6\xF0\x22@,1.0,2.0,5.0,0.0,1.0,adequate
+HF00981,Primary Health Centre,10.001704,11.135483,\x01\x01\x00\x00\x00v\x8B\xC0X\xDF\x00$@\xF4S\x1C\x07^E&@,1.0,1.0,1.0,1.0,1.0,inadequate
+HF00731,Primary Health Centre,8.325049,8.370509,\x01\x01\x00\x00\x00\xEC1\x91\xD2l\xA6 @Q\xBF\x0B[\xB3\xBD @,0.0,4.0,4.0,1.0,1.0,adequate
+HF00027,Health Post,6.421896,8.900539,\x01\x01\x00\x00\x00\xBC@I\x81\x05\xB0\x19@\x8B\x8B\xA3r\x13\xCD!@,0.0,0.0,1.0,1.0,0.0,inadequate
+HF00115,Primary Health Centre,7.188433,9.172574,\x01\x01\x00\x00\x00\xDC\xF2\x91\x94\xF4\xC0\x1C@\xA1G\x8C\x9E[X\x22@,0.0,0.0,2.0,2.0,0.0,inadequate
+HF00663,Health Post,8.50209,10.793922,\x01\x01\x00\x00\x00\x1BL\xC3\xF0\x11\x01!@[&\xC3\xF1|\x96%@,,,,,,no_personnel_record
+HF00811,Cottage Hospital,9.606225,8.221645,"\x01\x01\x00\x00\x00\x03\x09\x8A\x1Fc6#@\xD3\xA4\x14t{q @",0.0,4.0,2.0,1.0,0.0,inadequate
+HF01205,Health Post,9.416492,9.247613,\x01\x01\x00\x00\x00]\x17~p>\xD5\x22@\xFF \x92!\xC7~\x22@,0.0,3.0,2.0,1.0,0.0,adequate
+HF00204,Primary Health Centre,6.79551,10.429899,"\x01\x01\x00\x00\x00X\x90f,\x9A.\x1B@\x8D*\xC3\xB8\x1B\xDC$@",2.0,2.0,3.0,1.0,3.0,adequate
+HF01173,Cottage Hospital,9.508112,9.189691,"\x01\x01\x00\x00\x00\x0Ai\x8DA\x27\x04#@\xEA\xB0\xC2-\x1Fa\x22@",0.0,2.0,2.0,1.0,4.0,inadequate
+HF00546,Comprehensive Health Centre,8.055006,9.75661,"\x01\x01\x00\x00\x00\xE5*\x16\xBF)\x1C @3\xA7\xCBbb\x83#@",0.0,11.0,1.0,0.0,2.0,inadequate
+HF00161,Primary Health Centre,7.2496,10.079692,\x01\x01\x00\x00\x00\x8FSt$\x97\xFF\x1C@s\x81\xCBc\xCD($@,0.0,2.0,2.0,0.0,0.0,inadequate
+HF00350,Health Post,6.808364,9.050639,\x01\x01\x00\x00\x00\x13\x0E\xBD\xC5\xC3;\x1B@\xE6\xCD\xE1Z\xED\x19\x22@,0.0,1.0,2.0,0.0,0.0,adequate
+HF00216,Health Post,6.077736,10.403584,\x01\x01\x00\x00\x00.\xE3\xA6\x06\x9AO\x18@\xB3`\xE2\x8F\xA2\xCE$@,1.0,2.0,1.0,1.0,0.0,inadequate
+HF00405,Health Post,6.424085,8.53411,\x01\x01\x00\x00\x00\x8A\xE5\x96VC\xB2\x19@\xE1\xEE\xAC\xDDv\x11!@,0.0,2.0,1.0,0.0,1.0,inadequate
+HF00106,Health Post,7.442582,9.700669,"\x01\x01\x00\x00\x00n1?74\xC5\x1D@]\xA4P\x16\xBEf#@",0.0,2.0,0.0,0.0,1.0,inadequate
+HF01000,Cottage Hospital,10.493156,10.754548,\x01\x01\x00\x00\x00\x01\xA7w\xF1~\xFC$@@\x86\x8E\x1DT\x82%@,6.0,9.0,11.0,9.0,0.0,adequate
+HF00798,Comprehensive Health Centre,9.686997,8.173974,"\x01\x01\x00\x00\x00u\xE6\x1E\x12\xBE_#@g\xB5\xC0\x1E\x13Y @",,,,,,no_personnel_record
+HF01262,Primary Health Centre,9.763771,9.938692,"\x01\x01\x00\x00\x005D\x15\xFE\x0C\x87#@\x9E\x08\xE2<\x9C\xE0#@",0.0,5.0,3.0,1.0,0.0,adequate
+HF00844,Primary Health Centre,9.290389,8.464223,\x01\x01\x00\x00\x00}<\xF4\xDD\xAD\x94\x22@\x1E\x1A\x16\xA3\xAE\xED @,2.0,4.0,2.0,0.0,1.0,inadequate
+HF00119,Primary Health Centre,6.733361,9.425632,\x01\x01\x00\x00\x00\xBE\xA5\x9C/\xF6\xEE\x1A@\x1CC\x00p\xEC\xD9\x22@,0.0,1.0,4.0,1.0,0.0,inadequate
+HF01079,Comprehensive Health Centre,9.482863,11.621839,\x01\x01\x00\x00\x00\x9B\xE5\xB2\xD19\xF7\x22@3\xC1p\xAEa>\x27@,,,,,,no_personnel_record
+HF00909,Primary Health Centre,8.16768,9.122585,\x01\x01\x00\x00\x00\xF6b(\x27\xDAU @\xD8\xF5\x0Bv\xC3>\x22@,0.0,6.0,0.0,0.0,3.0,inadequate
+HF00330,Primary Health Centre,8.069302,7.431189,"\x01\x01\x00\x00\x00D\x18?\x8D{# @l\x94\xF5\x9B\x89\xB9\x1D@",0.0,1.0,0.0,1.0,1.0,inadequate
+HF00594,Primary Health Centre,7.301035,11.302627,\x01\x01\x00\x00\x001\xCE\xDF\x84B4\x1D@\xEF\xC5\x17\xED\xF1\x9A&@,1.0,3.0,0.0,1.0,1.0,inadequate
+HF00094,Primary Health Centre,7.424451,9.463961,\x01\x01\x00\x00\x00\x9B\x04oH\xA3\xB2\x1D@)=\xD3K\x8C\xED\x22@,,,,,,no_personnel_record
+HF00943,Primary Health Centre,9.324961,10.644653,\x01\x01\x00\x00\x00o\xF3\xC6Ia\xA6\x22@]\x89@\xF5\x0FJ%@,0.0,2.0,6.0,0.0,0.0,adequate
+HF00514,Primary Health Centre,8.323831,9.778981,"\x01\x01\x00\x00\x00\xA9\xDCD-\xCD\xA5 @\x27i\xFE\x98\xD6\x8E#@",1.0,3.0,6.0,1.0,1.0,adequate
+HF00029,Health Post,6.248834,9.756682,"\x01\x01\x00\x00\x00\x0E\x88\x10W\xCE\xFE\x18@\x99\xF1\xB6\xD2k\x83#@",0.0,2.0,3.0,0.0,0.0,adequate
+HF00191,Primary Health Centre,6.582052,10.778957,\x01\x01\x00\x00\x00\x1BI\x82p\x05T\x1A@\x05\xFB\xAFs\xD3\x8E%@,0.0,0.0,5.0,3.0,0.0,inadequate
+HF00388,Health Post,7.126142,8.133481,"\x01\x01\x00\x00\x00\xAE\x9BR^+\x81\x1C@VF#\x9FWD @",0.0,1.0,2.0,0.0,0.0,adequate
+HF00332,Health Post,8.177324,7.546386,\x01\x01\x00\x00\x00\x81\x97\x196\xCAZ @\x12\xF8\xC3\xCF\x7F/\x1E@,0.0,0.0,2.0,1.0,0.0,adequate
+HF00293,General Hospital,7.996485,7.360402,\x01\x01\x00\x00\x00x\xD1W\x90f\xFC\x1F@\xE7\xA6\xCD8\x0Dq\x1D@,9.0,2.0,10.0,6.0,2.0,inadequate
+HF00243,Primary Health Centre,7.256911,7.849374,\x01\x01\x00\x00\x00=\xEE[\xAD\x13\x07\x1D@sJ@L\xC2e\x1F@,1.0,3.0,3.0,1.0,0.0,adequate
+HF00531,Primary Health Centre,8.791897,10.052547,\x01\x01\x00\x00\x00\xDD\x99\x09\x86s\x95!@~\x01\xBDp\xE7\x1A$@,1.0,3.0,5.0,0.0,0.0,adequate
+HF00664,Cottage Hospital,,,,6.0,11.0,3.0,5.0,4.0,adequate
+HF00735,Health Post,8.210416,8.178031,\x01\x01\x00\x00\x00;\x1C]\xA5\xBBk @.Y\x15\xE1&[ @,1.0,2.0,1.0,0.0,0.0,inadequate
+HF00084,Health Post,5.600045,9.591785,"\x01\x01\x00\x00\x00f\x83L2rf\x16@\xD7\x86\x8Aq\xFE.#@",0.0,2.0,2.0,0.0,0.0,adequate
+HF00605,Cottage Hospital,7.50992,10.612509,\x01\x01\x00\x00\x00\x27N\xEEw(\x0A\x1E@\xE6\x02\x97\xC7\x9A9%@,2.0,7.0,4.0,5.0,0.0,adequate
+HF00475,Health Post,7.748684,9.013615,\x01\x01\x00\x00\x00c\x27\xBC\x04\xA7\xFE\x1E@Wx\x97\x8B\xF8\x06\x22@,0.0,0.0,2.0,0.0,0.0,adequate
+HF00905,Health Post,9.051375,9.211033,\x01\x01\x00\x00\x00\xFC\xA9\xF1\xD2M\x1A\x22@\xE8\xC0r\x84\x0Cl\x22@,1.0,0.0,1.0,0.0,0.0,inadequate
+HF00547,Primary Health Centre,8.030499,9.580669,"\x01\x01\x00\x00\x00\x15\x1F\x9F\x90\x9D\x0F @ \x9AyrM)#@",0.0,6.0,6.0,1.0,0.0,adequate
+HF00751,Primary Health Centre,7.834249,8.90828,\x01\x01\x00\x00\x00\x00\xE2\xAE^EV\x1F@\xC58\x7F\x13\x0A\xD1!@,0.0,0.0,3.0,1.0,0.0,inadequate
+HF00461,Primary Health Centre,7.748328,9.154166,\x01\x01\x00\x00\x00o\xB9\xFA\xB1I\xFE\x1E@nO\x90\xD8\xEEN\x22@,2.0,6.0,5.0,2.0,0.0,adequate
+HF00096,Comprehensive Health Centre,7.375313,9.39139,"\x01\x01\x00\x00\x00\xFA\x0D\x13\x0DR\x80\x1D@\x7F\xF6#Ed\xC8\x22@",4.0,2.0,7.0,0.0,0.0,inadequate
+HF00213,Primary Health Centre,7.099791,10.73505,\x01\x01\x00\x00\x00\x94\xBD\xA5\x9C/f\x1C@\x7F\xD9=yXx%@,1.0,8.0,4.0,3.0,1.0,adequate
+HF01225,Primary Health Centre,9.175806,9.60965,"\x01\x01\x00\x00\x00\x93\xE1x>\x03Z\x22@G\x03x\x0B$8#@",,,,,,no_personnel_record
+HF00429,Primary Health Centre,8.002916,8.452436,\x01\x01\x00\x00\x001E\xB94~\x01 @\xED\x10\xFF\xB0\xA5\xE7 @,0.0,5.0,3.0,2.0,1.0,adequate
+HF01265,Health Post,,,,0.0,2.0,2.0,1.0,0.0,adequate
+HF00016,Comprehensive Health Centre,5.780191,9.163391,\x01\x01\x00\x00\x00\xBE\x88\xB6c\xEA\x1E\x17@\xE6\xEB2\xFC\xA7S\x22@,,,,,,no_personnel_record
+HF01252,Primary Health Centre,9.402006,10.119449,\x01\x01\x00\x00\x00p\x97\xFD\xBA\xD3\xCD\x22@n\x14Yk(=$@,0.0,6.0,6.0,0.0,1.0,adequate
+HF01288,Primary Health Centre,10.694512,10.141298,\x01\x01\x00\x00\x00\xEE[\xAD\x13\x97c%@\xFD\xFA!6XH$@,0.0,0.0,5.0,1.0,0.0,inadequate
+HF00588,Health Post,7.838577,10.564167,\x01\x01\x00\x00\x00\x0F\xB6\xD8\xED\xB3Z\x1F@\x01\xF7<\x7F\xDA %@,0.0,1.0,0.0,0.0,0.0,inadequate
+HF00172,Comprehensive Health Centre,6.65,10.03,\x01\x01\x00\x00\x00\x9A\x99\x99\x99\x99\x99\x1A@\x8F\xC2\xF5(\x5C\x0F$@,1.0,6.0,14.0,4.0,4.0,adequate
+HF00889,Health Post,8.061199,8.80266,\x01\x01\x00\x00\x00\x87\x18\xAFyU\x1F @^\x9Dc@\xF6\x9A!@,0.0,0.0,2.0,1.0,1.0,adequate
+HF00302,Health Post,7.486105,7.814608,\x01\x01\x00\x00\x006\xB0U\x82\xC5\xF1\x1D@h=|\x99(B\x1F@,0.0,1.0,2.0,0.0,0.0,adequate
+HF00024,Health Post,6.305039,8.870696,\x01\x01\x00\x00\x00\xA7\x04\xC4$\x5C8\x19@\x1B\x84\xB9\xDD\xCB\xBD!@,0.0,2.0,2.0,0.0,0.0,adequate
+HF01124,Primary Health Centre,9.51344,11.056956,"\x01\x01\x00\x00\x00\x9E\xEA\x90\x9B\xE1\x06#@8\x9F:V)\x1D&@",0.0,5.0,2.0,0.0,0.0,inadequate
+HF00425,Health Post,8.029812,8.554622,\x01\x01\x00\x00\x00\x84\x0E\xBA\x84C\x0F @\xC3H/j\xF7\x1B!@,0.0,3.0,1.0,0.0,0.0,inadequate
+HF01070,Primary Health Centre,9.841221,10.915231,"\x01\x01\x00\x00\x00\xB6j\xD7\x84\xB4\xAE#@\x1D\x92Z(\x99\xD4%@",2.0,5.0,2.0,0.0,1.0,inadequate
+HF01038,General Hospital,10.464824,10.631041,\x01\x01\x00\x00\x00\xB4\xCALi\xFD\xED$@\xCA\xDER\xCE\x17C%@,0.0,13.0,36.0,0.0,0.0,inadequate
+HF01011,Health Post,10.203274,11.501999,\x01\x01\x00\x00\x00\x14A\x9C\x87\x13h$@\xD9?O\x03\x06\x01\x27@,0.0,2.0,3.0,1.0,0.0,adequate
+HF00466,Health Post,7.897318,9.088863,\x01\x01\x00\x00\x00\xD2r\xA0\x87\xDA\x96\x1F@\x1E\xA6}s\x7F-\x22@,1.0,3.0,0.0,0.0,0.0,inadequate
+HF00157,Primary Health Centre,7.272776,9.923672,"\x01\x01\x00\x00\x00\xE8\x88|\x97R\x17\x1D@:vP\x89\xEB\xD8#@",0.0,3.0,7.0,1.0,1.0,adequate
+HF00168,Health Post,6.454144,9.947783,"\x01\x01\x00\x00\x00\xD1\xB2\xEE\x1F\x0B\xD1\x19@\xD7h9\xD0C\xE5#@",1.0,4.0,3.0,0.0,0.0,adequate
+HF01312,Health Post,10.324519,10.185934,\x01\x01\x00\x00\x00{\xDC\xB7Z\x27\xA6$@\xCEm\xC2\xBD2_$@,0.0,1.0,1.0,0.0,1.0,inadequate
+HF00421,Primary Health Centre,7.959924,8.695468,\x01\x01\x00\x00\x00\xFF\x94*Q\xF6\xD6\x1F@=\xD4\xB6a\x14d!@,2.0,3.0,5.0,0.0,1.0,adequate
+HF00730,Primary Health Centre,8.216102,8.377509,\x01\x01\x00\x00\x00L3\xDD\xEB\xA4n @.\xE4\x11\xDCH\xC1 @,1.0,0.0,11.0,0.0,1.0,inadequate
+HF00826,Primary Health Centre,9.441944444444445,9.028777777777778,\x01\x01\x00\x00\x00X\x13\xCF\x8AF\xE2\x22@q\xD0\xFC\xF5\xBB\x0E\x22@,,,,,,no_personnel_record
+HF00489,Health Post,8.478877,10.090239,\x01\x01\x00\x00\x00\xFA\x9C\xBB]/\xF5 @\xC2\xA5c\xCE3.$@,0.0,0.0,2.0,0.0,0.0,adequate
+HF01002,Primary Health Centre,10.463872,11.098764,\x01\x01\x00\x00\x00k\x0F{\xA1\x80\xED$@V\x0B\xEC1\x912&@,2.0,4.0,9.0,2.0,0.0,adequate
+HF00271,Cottage Hospital,7.527895,8.048385,\x01\x01\x00\x00\x00?\xE3\xC2\x81\x90\x1C\x1E@\xE2;1\xEB\xC5\x18 @,1.0,2.0,4.0,2.0,2.0,inadequate
+HF01195,Comprehensive Health Centre,10.15565,9.04268,\x01\x01\x00\x00\x00\xAB>W[\xB1O$@\xF6b(\x27\xDA\x15\x22@,2.0,3.0,2.0,2.0,0.0,inadequate
+HF01273,Primary Health Centre,9.913511,10.144665,"\x01\x01\x00\x00\x00\x90\x12\xBB\xB6\xB7\xD3#@n\xC0\xE7\x87\x11J$@",0.0,3.0,4.0,0.0,2.0,adequate
+HF00468,Health Post,7.472585,8.988882,\x01\x01\x00\x00\x00\x15R~R\xED\xE3\x1D@\xC64\xD3\xBDN\xFA!@,0.0,0.0,3.0,0.0,0.0,adequate
+HF00840,General Hospital,9.648745,8.526352,"\x01\x01\x00\x00\x00\x15\xE3\xFCM(L#@N^d\x02~\x0D!@",5.0,6.0,13.0,8.0,0.0,inadequate
+HF01128,Primary Health Centre,9.760496,11.026762,"\x01\x01\x00\x00\x00FzQ\xBB_\x85#@\x15\x8D\xB5\xBF\xB3\x0D&@",0.0,6.0,6.0,0.0,0.0,adequate
+HF00912,Primary Health Centre,8.251791,9.262009,"\x01\x01\x00\x00\x00\xB2\xDA\xFC\xBF\xEA\x80 @\xED\x83,\x0B&\x86\x22@",1.0,5.0,5.0,0.0,1.0,adequate
+HF00822,Primary Health Centre,9.238341,8.444037,\x01\x01\x00\x00\x00\x85\x97\xE0\xD4\x07z\x22@\x8BmR\xD1X\xE3 @,0.0,1.0,0.0,1.0,1.0,inadequate
+HF00916,Primary Health Centre,8.656789,8.641654,\x01\x01\x00\x00\x00\xBE\xBE\xD6\xA5FP!@\xF7\xB1\x82\xDF\x86H!@,0.0,8.0,7.0,1.0,2.0,adequate
+HF00337,Primary Health Centre,,,,1.0,1.0,5.0,1.0,0.0,inadequate
+HF00077,Comprehensive Health Centre,6.538537,9.381455,\x01\x01\x00\x00\x00j\xBEJ>v\x27\x1A@\x97\xCA\xDB\x11N\xC3\x22@,1.0,4.0,4.0,1.0,2.0,adequate
+HF01276,Cottage Hospital,9.822889,9.914023,"\x01\x01\x00\x00\x00\xEEy\xFE\xB4Q\xA5#@h\x95\x99\xD2\xFA\xD3#@",0.0,10.0,16.0,2.0,4.0,inadequate
+HF00797,Comprehensive Health Centre,10.014904,8.257483,\x01\x01\x00\x00\x00\xBF(A\x7F\xA1\x07$@L\x8D\xD0\xCF\xD4\x83 @,,,,,,no_personnel_record
+HF00850,Health Post,9.574008,8.497804,"\x01\x01\x00\x00\x00\xE4Hg`\xE4%#@\xCF\xA2w*\xE0\xFE @",0.0,0.0,2.0,0.0,0.0,adequate
+HF900035,Primary Health Centre,6.30289,9.608775,"\x01\x01\x00\x00\x00J$\xD1\xCB(6\x19@\xAB>W[\xB17#@",,,,,,no_personnel_record
+HF00966,Primary Health Centre,9.562662,10.376776,"\x01\x01\x00\x00\x00fg\xD1;\x15 #@\xDC\xD5\xAB\xC8\xE8\xC0$@",1.0,3.0,3.0,0.0,1.0,adequate
+HF01048,Health Post,10.001199,10.604913,\x01\x01\x00\x00\x00h\x93\xC3\x27\x9D\x00$@\xBA\xD9\x1F(\xB75%@,0.0,3.0,3.0,0.0,0.0,adequate
+HF00849,Health Post,9.376616,8.598739,\x01\x01\x00\x00\x00\xF9L\xF6\xCF\xD3\xC0\x22@\xF3\xAD\x0F\xEB\x8D2!@,0.0,0.0,2.0,0.0,0.0,adequate
+HF01191,General Hospital,10.071297,8.936743,\x01\x01\x00\x00\x00\x17\x9BV\x0A\x81$$@\x8C\x83K\xC7\x9C\xDF!@,6.0,15.0,9.0,2.0,0.0,inadequate
+HF01014,Health Post,10.378728,11.445765,"\x01\x01\x00\x00\x00\xB3(\xEC\xA2\xE8\xC1$@#gaO;\xE4&@",1.0,3.0,4.0,0.0,0.0,adequate
+HF00093,Health Post,7.256004,9.771679,"\x01\x01\x00\x00\x00\xAB\x94\x9E\xE9%\x06\x1D@\x1D\x05\x88\x82\x19\x8B#@",0.0,0.0,1.0,0.0,0.0,inadequate
+HF00111,Primary Health Centre,6.958013,9.850584,"\x01\x01\x00\x00\x00G\x92 \x5C\x01\xD5\x1B@q\x00\xFD\xBE\x7F\xB3#@",1.0,5.0,2.0,1.0,0.0,inadequate
+HF00236,Health Post,7.335736,7.478305,\x01\x01\x00\x00\x00\x03\x5C\x90-\xCBW\x1D@\x99\x0D2\xC9\xC8\xE9\x1D@,0.0,0.0,0.0,1.0,0.0,inadequate
+HF00308,Comprehensive Health Centre,7.480383,7.786838,\x01\x01\x00\x00\x00\xAC7j\x85\xE9\xEB\x1D@\x0D\x00U\xDC\xB8%\x1F@,2.0,10.0,0.0,3.0,0.0,inadequate
+HF00870,Primary Health Centre,9.113861,9.046058,\x01\x01\x00\x00\x00h\x94.\xFDK:\x22@7p\x07\xEA\x94\x17\x22@,2.0,4.0,5.0,0.0,0.0,adequate
+HF00962,Primary Health Centre,9.204642,10.215874,\x01\x01\x00\x00\x00\xAC\xC6\x12\xD6\xC6h\x22@\x08\x1Dt\x09\x87n$@,0.0,1.0,4.0,1.0,0.0,inadequate
+HF00974,Health Post,9.867766,10.597033,"\x01\x01\x00\x00\x00V)=\xD3K\xBC#@\xFAC3O\xAE1%@",0.0,1.0,1.0,0.0,0.0,inadequate
+HF01022,Primary Health Centre,10.305186,11.051673,"\x01\x01\x00\x00\x00\xE5d\xE2VA\x9C$@#,*\xE2t\x1A&@",,,,,,no_personnel_record
+HF01034,Health Post,10.354531,10.374949,\x01\x01\x00\x00\x00\x1B\xD6T\x16\x85\xB5$@\xF8U\xB9P\xF9\xBF$@,0.0,0.0,3.0,0.0,1.0,adequate
+HF00718,Health Post,8.667394,8.173917,\x01\x01\x00\x00\x00\xDF\x17\x97\xAA\xB4U!@\xD6o&\xA6\x0BY @,0.0,3.0,2.0,0.0,0.0,adequate
+HF01198,Primary Health Centre,10.166476,9.118339,"\x01\x01\x00\x00\x00F#\x9FW<U$@\xC5\xAE\xED\xED\x96<\x22@",0.0,0.0,2.0,0.0,0.0,inadequate
+HF00548,Primary Health Centre,7.671103,9.642942,"\x01\x01\x00\x00\x00m\xFD\xF4\x9F5\xAF\x1E@\x1Ds\x9E\xB1/I#@",1.0,2.0,1.0,0.0,0.0,inadequate
+HF01157,Health Post,9.82279,9.509212,"\x01\x01\x00\x00\x00\xA1\xF3\x1A\xBBD\xA5#@%vmo\xB7\x04#@",0.0,0.0,1.0,0.0,0.0,inadequate
+HF00884,Health Post,8.46022,9.251456,\x01\x01\x00\x00\x00$\xEE\xB1\xF4\xA1\xEB @\x15\xC4@\xD7\xBE\x80\x22@,0.0,2.0,1.0,0.0,0.0,inadequate
+HF00365,Health Post,6.529803,8.777148,\x01\x01\x00\x00\x00oJy\xAD\x84\x1E\x1A@\xBAM\xB8W\xE6\x8D!@,,,,,,no_personnel_record
+HF00378,Health Post,6.806389,7.752265,\x01\x01\x00\x00\x00\xA5j\xBB\x09\xBE9\x1B@\xA7\xB3\x93\xC1Q\x02\x1F@,0.0,2.0,1.0,0.0,0.0,inadequate
+HF00813,Primary Health Centre,9.025526,8.311861,\x01\x01\x00\x00\x008en\xBE\x11\x0D\x22@\xB4\xCB\xB7>\xAC\x9F @,0.0,0.0,1.0,1.0,0.0,inadequate
+HF01009,Health Post,10.281216,11.489221,"\x01\x01\x00\x00\x00P9&\x8B\xFB\x8F$@h\x08\xC7,{\xFA&@",0.0,2.0,3.0,0.0,0.0,adequate
+HF00704,Health Post,8.706928,11.336231,\x01\x01\x00\x00\x00\xDD@\x81w\xF2i!@\x81\xCD9x&\xAC&@,0.0,0.0,2.0,0.0,1.0,adequate
+HF00102,Health Post,7.531738,9.846981,"\x01\x01\x00\x00\x00k) \xED\x7F \x1E@\xB0\xAA^~\xA7\xB1#@",0.0,1.0,1.0,0.0,0.0,inadequate
+HF01069,Primary Health Centre,9.841191,10.908481,"\x01\x01\x00\x00\x00\x0Ba5\x96\xB0\xAE#@#\x13\xF0k$\xD1%@",0.0,8.0,3.0,3.0,1.0,adequate
+HF00782,Primary Health Centre,8.36865,7.40962,\x01\x01\x00\x00\x00?W[\xB1\xBF\xBC @l&\xDFls\xA3\x1D@,1.0,8.0,6.0,1.0,0.0,adequate
+HF00221,Health Post,6.432695,10.360968,\x01\x01\x00\x00\x00%\x92\xE8e\x14\xBB\x19@\x18\xCE5\xCC\xD0\xB8$@,1.0,2.0,0.0,1.0,0.0,inadequate
+HF00669,Comprehensive Health Centre,8.665795,11.147041,\x01\x01\x00\x00\x00>\xAE\x0D\x15\xE3T!@\x9FW<\xF5HK&@,2.0,0.0,11.0,2.0,2.0,inadequate
+HF00626,Health Post,7.039971,10.97655,\x01\x01\x00\x00\x00W\x27g(\xEE(\x1C@N\xD1\x91\x5C\xFE\xF3%@,0.0,1.0,0.0,0.0,0.0,inadequate
+HF00933,Health Post,8.613455,8.853192,\x01\x01\x00\x00\x00\xA7\x22\x15\xC6\x16:!@\xECj\xF2\x94\xD5\xB4!@,0.0,1.0,3.0,1.0,0.0,adequate
+HF01130,Primary Health Centre,9.879404,11.594656,"\x01\x01\x00\x00\x00s\xF1\xB7=A\xC2#@\x88\xBDP\xC0v0\x27@",3.0,5.0,7.0,0.0,1.0,adequate
+HF01146,Primary Health Centre,10.312119,9.259469,\x01\x01\x00\x00\x00\xA2\xEB\xC2\x0F\xCE\x9F$@\xD2\xA6\xEA\x1E\xD9\x84\x22@,0.0,0.0,3.0,0.0,0.0,inadequate
+HF00070,Health Post,5.915863,9.409864,\x01\x01\x00\x00\x00>w\x82\xFD\xD7\xA9\x17@\x91\x9D\xB7\xB1\xD9\xD1\x22@,0.0,3.0,2.0,0.0,0.0,adequate
+HF00173,Health Post,6.829183,10.168736,\x01\x01\x00\x00\x00\xBF\x98-Y\x15Q\x1B@\xD3P\xA3\x90dV$@,1.0,4.0,2.0,0.0,0.0,adequate
+HF00433,Primary Health Centre,7.046457,8.808469,\x01\x01\x00\x00\x00\x5C\xAE~l\x92/\x1C@\xDF\xA8\x15\xA6\xEF\x9D!@,3.0,2.0,2.0,3.0,0.0,inadequate
+HF00150,Health Post,7.224394,10.08792,\x01\x01\x00\x00\x00\xAC\xACm\x8A\xC7\xE5\x1C@\x22T\xA9\xD9\x03-$@,1.0,1.0,2.0,0.0,0.0,adequate
+HF00482,Primary Health Centre,8.305827,10.159217,\x01\x01\x00\x00\x00\xB4wF[\x95\x9C @9\xEF\xFF\xE3\x84Q$@,1.0,1.0,3.0,0.0,2.0,inadequate
+HF00283,Health Post,7.641555,8.077032,\x01\x01\x00\x00\x00TW>\xCB\xF3\x90\x1E@\xAF}\x01\xBDp\x27 @,0.0,1.0,1.0,0.0,0.0,inadequate
+HF00386,Primary Health Centre,7.099591,8.034591,\x01\x01\x00\x00\x00\x5C\xE7\xDF.\xFBe\x1C@\xCDx[\xE9\xB5\x11 @,1.0,1.0,4.0,2.0,0.0,inadequate
+HF01313,Primary Health Centre,10.335641,10.072283,"\x01\x01\x00\x00\x00\xBBd\x1C#\xD9\xAB$@\x11\x1D\x02G\x02%$@",,,,,,no_personnel_record
+HF00210,Primary Health Centre,7.023242,10.508789,\x01\x01\x00\x00\x00\x14\x937\xC0\xCC\x17\x1C@\x0C!\xE7\xFD\x7F\x04%@,3.0,1.0,3.0,2.0,0.0,inadequate
+HF00341,Primary Health Centre,8.956983,6.803892,\x01\x01\x00\x00\x00\xEB\xA7\xFF\xAC\xF9\xE9!@k\x10\xE6v/7\x1B@,2.0,0.0,3.0,1.0,1.0,inadequate
+HF00599,Comprehensive Health Centre,7.491998,10.341278,\x01\x01\x00\x00\x00%\xCA\xDER\xCE\xF7\x1D@G\xB0q\xFD\xBB\xAE$@,0.0,4.0,4.0,2.0,6.0,inadequate
+HF01180,Comprehensive Health Centre,9.670313,9.203031,"\x01\x01\x00\x00\x00\xD4*\xFAC3W#@\xFA%\xE2\xAD\xF3g\x22@",2.0,6.0,4.0,3.0,2.0,adequate
+HF00339,Primary Health Centre,8.22584,7.654272,\x01\x01\x00\x00\x00\xDDA\xECL\xA1s @\x09\xC1\xAAz\xF9\x9D\x1E@,0.0,2.0,2.0,1.0,2.0,inadequate
+HF00522,Health Post,8.366415,9.790939,"\x01\x01\x00\x00\x00\x16\x873\xBF\x9A\xBB @\x0BC\xE4\xF4\xF5\x94#@",0.0,0.0,1.0,0.0,0.0,inadequate
+HF00390,Primary Health Centre,7.20362,7.951939,\x01\x01\x00\x00\x00\xFF>\xE3\xC2\x81\xD0\x1C@\xD5%\xE3\x18\xC9\xCE\x1F@,1.0,6.0,3.0,2.0,1.0,adequate
+HF00036,Primary Health Centre,6.338552,9.581223,"\x01\x01\x00\x00\x00H\xFB\x1F`\xADZ\x19@\xB3]\xA1\x0F\x96)#@",0.0,2.0,6.0,1.0,0.0,adequate
+HF00287,Primary Health Centre,7.813168,7.272497,\x01\x01\x00\x00\x00k\x9D\xB8\x1C\xAF@\x1F@O\x08\x1Dt\x09\x17\x1D@,,,,,,no_personnel_record
+HF00623,Comprehensive Health Centre,6.946914,11.012054,\x01\x01\x00\x00\x00\x88\x7F\xD8\xD2\xA3\xC9\x1B@l\x92\x1F\xF1+\x06&@,0.0,0.0,12.0,2.0,3.0,inadequate
+HF00315,Health Post,7.691968,7.631296,\x01\x01\x00\x00\x00\x9D\x83gB\x93\xC4\x1E@\xE9ahur\x86\x1E@,1.0,0.0,1.0,0.0,1.0,inadequate
+HF01032,Health Post,10.446583,10.531729,\x01\x01\x00\x00\x00.\xE6\xE7\x86\xA6\xE4$@i\xAB\x92\xC8>\x10%@,0.0,0.0,1.0,1.0,1.0,inadequate
+HF00319,Cottage Hospital,8.125017,7.265829,\x01\x01\x00\x00\x00X\xE3l:\x02@ @DP5z5\x10\x1D@,1.0,0.0,11.0,3.0,3.0,inadequate
+HF00775,Comprehensive Health Centre,8.608941,7.964657,\x01\x01\x00\x00\x00\x17c`\x1D\xC77!@\x0Dnk\x0B\xCF\xDB\x1F@,0.0,3.0,18.0,2.0,0.0,inadequate
+HF01114,Primary Health Centre,9.331458,11.496599,\x01\x01\x00\x00\x00\xC1\xFE\xEB\xDC\xB4\xA9\x22@\xDEs`9B\xFE&@,0.0,1.0,3.0,0.0,1.0,inadequate
+HF01118,Health Post,9.271003,11.204682,\x01\x01\x00\x00\x00\x5C<\xBC\xE7\xC0\x8A\x22@\xE5(@\x14\xCCh&@,0.0,1.0,1.0,0.0,0.0,inadequate
+HF00716,Comprehensive Health Centre,9.162223,7.853431,\x01\x01\x00\x00\x00iQ\x9F\xE4\x0ES\x22@\xFF\x91\xE9\xD0\xE9i\x1F@,,,,,,no_personnel_record
+HF01307,Health Post,10.331032,9.767527,"\x01\x01\x00\x00\x00\xE4\xDB\xBB\x06}\xA9$@\x0F\x98\x87L\xF9\x88#@",1.0,2.0,1.0,0.0,0.0,inadequate
+HF00062,Primary Health Centre,5.847472,9.075516,\x01\x01\x00\x00\x00T\x1A1\xB3\xCFc\x17@D\xA6|\x08\xAA&\x22@,0.0,4.0,3.0,1.0,0.0,adequate
+HF00453,Primary Health Centre,,,,1.0,2.0,5.0,0.0,0.0,adequate
+HF00631,Primary Health Centre,8.297274,10.988237,\x01\x01\x00\x00\x00\xF7\xE67L4\x98 @\xF1d73\xFA\xF9%@,,,,,,no_personnel_record
+HF00163,General Hospital,7.372612,9.825712,"\x01\x01\x00\x00\x00|c\x08\x00\x8E}\x1D@Z\xD4\x27\xB9\xC3\xA6#@",4.0,12.0,10.0,0.0,3.0,inadequate
+HF01010,Cottage Hospital,10.308312,11.50089,\x01\x01\x00\x00\x00\xC0\xED\x09\x12\xDB\x9D$@q\xC9q\xA7t\x00\x27@,16.0,16.0,0.0,0.0,1.0,inadequate
+HF00729,Comprehensive Health Centre,8.217868,8.365974,\x01\x01\x00\x00\x00\x9A\xB0\xFDd\x8Co @c_\xB2\xF1`\xBB @,1.0,7.0,12.0,7.0,6.0,adequate
+HF00876,Health Post,8.297465,8.620468,\x01\x01\x00\x00\x00\xC7h\x1DUM\x98 @\xD7mP\xFB\xAD=!@,0.0,2.0,3.0,0.0,1.0,adequate
+HF00358,Primary Health Centre,6.634722222222222,8.0465,\x01\x01\x00\x00\x00\x9F\xF4I\x9F\xF4\x89\x1A@+\x87\x16\xD9\xCE\x17 @,1.0,0.0,4.0,0.0,0.0,inadequate
+HF00254,Primary Health Centre,7.863119,8.300637,\x01\x01\x00\x00\x00\x939\x96w\xD5s\x1F@c\xEF\xC5\x17\xED\x99 @,0.0,0.0,2.0,1.0,0.0,inadequate
+HF00097,Health Post,7.321908,9.436841,\x01\x01\x00\x00\x00wH1@\xA2I\x1D@\x97\x1A\xA1\x9F\xA9\xDF\x22@,0.0,1.0,1.0,0.0,0.0,inadequate
+HF00245,Comprehensive Health Centre,7.396388,7.52661,\x01\x01\x00\x00\x00~\x1Bb\xBC\xE6\x95\x1D@z\xFC\xDE\xA6?\x1B\x1E@,1.0,6.0,2.0,4.0,1.0,inadequate
+HF00114,Primary Health Centre,7.073944,9.378171,\x01\x01\x00\x00\x00\x13\xF1\xD6\xF9\xB7K\x1C@[\x97\x1A\xA1\x9F\xC1\x22@,1.0,0.0,4.0,1.0,0.0,inadequate
+HF01264,Primary Health Centre,9.631287,10.053679,"\x01\x01\x00\x00\x00\xA8\xC7\xB6\x0C8C#@\xC7\xF6Z\xD0{\x1B$@",3.0,1.0,5.0,2.0,0.0,inadequate
+HF00745,Primary Health Centre,8.429242,8.148335,"\x01\x01\x00\x00\x00\xA7#\x80\x9B\xC5\xDB @N\xB4\xAB\x90\xF2K @",0.0,6.0,2.0,0.0,0.0,inadequate
+HF00137,Comprehensive Health Centre,6.875789,9.464973,\x01\x01\x00\x00\x00C\xC9\xE4\xD4\xCE\x80\x1B@\xC8\x0B\xE9\xF0\x10\xEE\x22@,0.0,6.0,7.0,1.0,2.0,inadequate
+HF00013,Primary Health Centre,5.787011,9.350461,\x01\x01\x00\x00\x00x^*6\xE6%\x17@\x02\x0C\xCB\x9Fo\xB3\x22@,1.0,7.0,0.0,0.0,1.0,inadequate
+HF00392,Primary Health Centre,7.220875,8.156061,\x01\x01\x00\x00\x00\x19\x04V\x0E-\xE2\x1C@\xB3\x5C6:\xE7O @,1.0,4.0,3.0,2.0,0.0,adequate
+HF01194,General Hospital,10.236493,9.088785,\x01\x01\x00\x00\x00BwI\x9C\x15y$@/\xC0>:u-\x22@,2.0,9.0,17.0,1.0,1.0,inadequate
+HF00506,Health Post,7.881317,10.393352,\x01\x01\x00\x00\x00\xA5\xA2\xB1\xF6w\x86\x1F@\xE4\xA1\xEFne\xC9$@,0.0,3.0,1.0,0.0,0.0,inadequate
+HF00493,Health Post,7.904155,9.88681,"\x01\x01\x00\x00\x00=\x0F\xEE\xCE\xDA\x9D\x1F@\x12\x88\xD7\xF5\x0B\xC6#@",1.0,2.0,1.0,0.0,0.0,inadequate
+HF00294,Primary Health Centre,7.846969,7.523123,\x01\x01\x00\x00\x00>\xE7n\xD7Kc\x1F@B$C\x8E\xAD\x17\x1E@,0.0,6.0,5.0,0.0,0.0,adequate
+HF00207,Health Post,6.91537,10.657512,\x01\x01\x00\x00\x00E\xF5\xD6\xC0V\xA9\x1B@\x82t\xB1i\xA5P%@,0.0,3.0,3.0,0.0,1.0,adequate
+HF00807,Comprehensive Health Centre,10.088412,8.380318,\x01\x01\x00\x00\x00\xDD%qVD-$@\x07)x\x0A\xB9\xC2 @,1.0,7.0,10.0,2.0,2.0,adequate
+HF01280,Primary Health Centre,9.983622,10.245049,"\x01\x01\x00\x00\x00\x92@\x83M\x9D\xF7#@\xC3\xD5\x01\x10w}$@",2.0,6.0,0.0,0.0,1.0,inadequate
+HF00714,Health Post,9.253637,7.75297,\x01\x01\x00\x00\x00q\x1Cx\xB5\xDC\x81\x22@\xFByS\x91\x0A\x03\x1F@,,,,,,no_personnel_record
+HF00817,Primary Health Centre,9.194847,8.295374,\x01\x01\x00\x00\x00\x8Ari\xFC\xC2c\x22@k-\xCCB;\x97 @,0.0,1.0,0.0,0.0,1.0,inadequate
+HF00080,Comprehensive Health Centre,6.551028,9.23757,\x01\x01\x00\x00\x00\x9D\xB8\x1C\xAF@4\x1A@}\x05i\xC6\xA2y\x22@,0.0,14.0,15.0,4.0,1.0,inadequate
+HF00883,Comprehensive Health Centre,8.61,9.3,\x01\x01\x00\x00\x00\xB8\x1E\x85\xEBQ8!@\x9A\x99\x99\x99\x99\x99\x22@,0.0,5.0,1.0,0.0,0.0,inadequate
+HF01026,Health Post,10.386903,11.274294,\x01\x01\x00\x00\x00\xD6rg&\x18\xC6$@a\xFA^Cp\x8C&@,0.0,2.0,2.0,1.0,1.0,adequate
+HF00401,Primary Health Centre,6.329248,8.35941,\x01\x01\x00\x00\x00\xF8\x17Ac&Q\x19@\xF2\xB5g\x96\x04\xB8 @,0.0,3.0,3.0,0.0,1.0,adequate
+HF00158,Primary Health Centre,7.32801,10.01993,\x01\x01\x00\x00\x009\x0B{\xDA\xE1O\x1D@\x27k\xD4C4\x0A$@,3.0,3.0,3.0,1.0,0.0,adequate
+HF00492,Health Post,7.896897,9.957972,"\x01\x01\x00\x00\x00\xA5\x85\xCB*l\x96\x1F@\xA9\xF7TN{\xEA#@",0.0,1.0,2.0,0.0,1.0,adequate
+HF01223,Comprehensive Health Centre,9.208669,9.582208,"\x01\x01\x00\x00\x00\xC8`\xC5\xA9\xD6j\x22@k\xF0\xBE*\x17*#@",0.0,15.0,21.0,3.0,3.0,inadequate
+HF00726,Primary Health Centre,8.768756,8.107688,\x01\x01\x00\x00\x00\x225\xEDb\x9A\x89!@\xE2W\xAC\xE1\x227 @,2.0,3.0,2.0,2.0,1.0,inadequate
+HF00681,Health Post,8.133588,11.010768,\x01\x01\x00\x00\x00\xAEFv\xA5eD @\xC9\xAF\x1Fb\x83\x05&@,1.0,4.0,2.0,0.0,0.0,adequate
+HF00402,Primary Health Centre,6.331815,8.476892,\x01\x01\x00\x00\x00\xF9I\xB5O\xC7S\x19@\xB4r/0+\xF4 @,,,,,,no_personnel_record
+HF00180,Primary Health Centre,6.180701,10.398511,\x01\x01\x00\x00\x00\x01k\xD5\xAE\x09\xB9\x18@H1@\xA2\x09\xCC$@,1.0,2.0,7.0,0.0,1.0,adequate
+HF00922,Primary Health Centre,,,,,,,,,no_personnel_record
+HF00079,Health Post,6.647426,9.207911,\x01\x01\x00\x00\x00\x05Rb\xD7\xF6\x96\x1A@\x12\xF5\x82Osj\x22@,0.0,2.0,2.0,0.0,0.0,adequate
+HF00987,Cottage Hospital,10.051964,11.442163,"\x01\x01\x00\x00\x00\x81#\x81\x06\x9B\x1A$@\xA4\x00Q0c\xE2&@",0.0,12.0,21.0,0.0,0.0,inadequate
+HF01266,Health Post,9.721704,10.285211,"\x01\x01\x00\x00\x00\xE7\xC8\xCA/\x83q#@>\xEB\x1A-\x07\x92$@",0.0,1.0,3.0,0.0,0.0,adequate
+HF01117,General Hospital,9.240381,11.194036,\x01\x01\x00\x00\x00\xD8(\xEB7\x13{\x22@J~\xC4\xAFXc&@,0.0,10.0,8.0,6.0,1.0,inadequate
+HF00737,Cottage Hospital,8.408827,7.977742,\x01\x01\x00\x00\x00\x8Fq\xC5\xC5Q\xD1 @\xD9\xB3\xE725\xE9\x1F@,8.0,22.0,18.0,5.0,2.0,adequate
+HF00695,Primary Health Centre,8.427249,11.443271,\x01\x01\x00\x00\x00V\x7F\x84a\xC0\xDA @\xCA\x87\xA0j\xF4\xE2&@,0.0,7.0,5.0,0.0,0.0,adequate
+HF00320,Primary Health Centre,8.037996,7.485179,\x01\x01\x00\x00\x00\xF4\xC126t\x13 @\xED\xD2\x86\xC3\xD2\xF0\x1D@,1.0,5.0,0.0,0.0,0.0,inadequate
+HF00485,Health Post,8.322352,10.370432,\x01\x01\x00\x00\x00\xB3\x99CR\x0B\xA5 @\xA3\xC8ZC\xA9\xBD$@,0.0,1.0,2.0,1.0,0.0,adequate
+HF00199,Health Post,6.850184,10.934481,\x01\x01\x00\x00\x00qTn\xA2\x96f\x1B@}w+Kt\xDE%@,1.0,0.0,0.0,0.0,1.0,inadequate
+HF00818,Health Post,9.064413,8.370969,\x01\x01\x00\x00\x00\xDF\xDF\xA0\xBD\xFA \x22@\xDF\xA8\x15\xA6\xEF\xBD @,0.0,0.0,1.0,0.0,0.0,inadequate
+HF00712,Primary Health Centre,9.195903,7.733946,\x01\x01\x00\x00\x00g`\xE4eMd\x22@\xBD\x1EL\x8A\x8F\xEF\x1E@,0.0,8.0,8.0,1.0,0.0,adequate
+HF00621,Primary Health Centre,6.962039,11.197645,\x01\x01\x00\x00\x00\xFB\xE7i\xC0 \xD9\x1B@\x93o\xB6\xB91e&@,2.0,2.0,3.0,2.0,0.0,adequate
+HF01047,Primary Health Centre,9.903174,10.47537,"\x01\x01\x00\x00\x00\xEC1\x91\xD2l\xCE#@\xC1\xFFV\xB2c\xF3$@",4.0,7.0,10.0,2.0,0.0,adequate
+HF00439,Primary Health Centre,7.451157,8.365148,\x01\x01\x00\x00\x00&r\xC1\x19\xFC\xCD\x1D@Mf\xBC\xAD\xF4\xBA @,1.0,3.0,5.0,1.0,1.0,adequate
+HF01303,Primary Health Centre,10.108152,9.834896,"\x01\x01\x00\x00\x00v\xFE\xED\xB2_7$@X\x1F\x0F}w\xAB#@",2.0,0.0,0.0,1.0,0.0,inadequate
+HF00134,Comprehensive Health Centre,6.720903,9.69918,"\x01\x01\x00\x00\x00hZbe4\xE2\x1A@\xD9\x08\xC4\xEB\xFAe#@",0.0,4.0,5.0,0.0,0.0,inadequate
+HF00815,Comprehensive Health Centre,9.016716,8.172384,\x01\x01\x00\x00\x00\xCF\xA3\xE2\xFF\x8E\x08\x22@\x13\xB54\xB7BX @,1.0,6.0,5.0,0.0,1.0,inadequate
+HF00647,Health Post,8.762285,10.494411,"\x01\x01\x00\x00\x00uv28J\x86!@\xB8\x90Gp#\xFD$@",1.0,2.0,2.0,1.0,0.0,adequate
+HF00863,Primary Health Centre,8.877169,8.876026,\x01\x01\x00\x00\x00K!\x90K\x1C\xC1!@2\xE4\xD8z\x86\xC0!@,2.0,5.0,6.0,1.0,1.0,adequate
+HF00900,Primary Health Centre,8.739818,9.235174,\x01\x01\x00\x00\x00\xF8\xFB\xC5l\xC9z!@0\xBD\xFD\xB9hx\x22@,3.0,5.0,5.0,1.0,0.0,adequate
+HF00408,General Hospital,6.458664,8.339632,\x01\x01\x00\x00\x00\x01i\xFF\x03\xAC\xD5\x19@\xA3Y\xD9>\xE4\xAD @,0.0,0.0,15.0,0.0,7.0,inadequate
+HF00155,Comprehensive Health Centre,7.328893,10.089911,\x01\x01\x00\x00\x00\x87\x88\x9BS\xC9P\x1D@\xF0\x19\x89\xD0\x08.$@,1.0,4.0,6.0,3.0,0.0,adequate
+HF01030,Health Post,10.557672,11.275906,\x01\x01\x00\x00\x002\xCA3/\x87\x1D%@U\x8A\x1D\x8DC\x8D&@,0.0,2.0,0.0,1.0,1.0,inadequate
+HF00279,Primary Health Centre,7.687308,8.172457,\x01\x01\x00\x00\x00\xDE\x1D\x19\xAB\xCD\xBF\x1E@\xBB\xEE\xADHLX @,0.0,2.0,3.0,2.0,0.0,adequate
+HF00795,Primary Health Centre,9.969188,8.285255,"\x01\x01\x00\x00\x00\xEFY\xD7h9\xF0#@|\x0A\x80\xF1\x0C\x92 @",1.0,4.0,4.0,1.0,0.0,adequate
+HF00116,Primary Health Centre,,,,3.0,1.0,4.0,0.0,1.0,inadequate
+HF00597,Cottage Hospital,7.289865,10.438936,\x01\x01\x00\x00\x00)\x05\xDD^\xD2(\x1D@\xF9\x12*8\xBC\xE0$@,0.0,6.0,13.0,0.0,3.0,inadequate
+HF00209,Primary Health Centre,7.064385,10.437278,\x01\x01\x00\x00\x00ni5$\xEEA\x1C@D\x85\xEA\xE6\xE2\xDF$@,1.0,5.0,4.0,3.0,2.0,adequate
+HF00719,Comprehensive Health Centre,8.632798,8.112821,\x01\x01\x00\x00\x00\xCB\xF2u\x19\xFEC!@\xA2\x9A\x92\xAC\xC39 @,2.0,4.0,12.0,0.0,2.0,inadequate
+HF00586,Primary Health Centre,7.802457,10.892201,\x01\x01\x00\x00\x00\xFC\xC8\xADI\xB75\x1F@\xC0\xEA\xC8\x91\xCE\xC8%@,0.0,7.0,6.0,2.0,1.0,adequate
+HF01033,Comprehensive Health Centre,10.424916,10.374908,\x01\x01\x00\x00\x00\x22\x18\x07\x97\x8E\xD9$@}\x04\xFE\xF0\xF3\xBF$@,,,,,,no_personnel_record
+HF00469,Health Post,7.397743,9.157751,\x01\x01\x00\x00\x00\x0A\xDA\xE4\xF0I\x97\x1D@\x95\xD23\xBD\xC4P\x22@,0.0,0.0,1.0,0.0,0.0,inadequate
+HF00540,Health Post,8.812666,10.40768,\x01\x01\x00\x00\x00l$\x09\xC2\x15\xA0!@pw\xD6n\xBB\xD0$@,0.0,0.0,0.0,1.0,0.0,inadequate
+HF00836,Primary Health Centre,9.633994,8.617211,"\x01\x01\x00\x00\x00o\xB8\x8F\xDC\x9AD#@\x81v\x87\x14\x03<!@",0.0,6.0,0.0,1.0,1.0,inadequate
+HF00529,Primary Health Centre,8.617094,9.942694,"\x01\x01\x00\x00\x00\x9B\x1D\xA9\xBE\xF3;!@VE\xB8\xC9\xA8\xE2#@",0.0,3.0,4.0,2.0,1.0,adequate
+HF00240,Comprehensive Health Centre,7.152962,7.587244,\x01\x01\x00\x00\x00}\x1F\x0E\x12\xA2\x9C\x1C@\xC2\x16\xBB}VY\x1E@,,,,,,no_personnel_record
+HF01270,Primary Health Centre,9.777677,10.31171,"\x01\x01\x00\x00\x00\xEA\xB3\x03\xAE+\x8E#@\x1D\xAC\xFFs\x98\x9F$@",1.0,0.0,6.0,2.0,1.0,inadequate
+HF901045,Cottage Hospital,10.763168,10.409072,\x01\x01\x00\x00\x00\x1C\xB5\xC2\xF4\xBD\x86%@+k\x9B\xE2q\xD1$@,,,,,,no_personnel_record
+HF00458,Primary Health Centre,7.341541,8.963465,\x01\x01\x00\x00\x00\xF9\xF8\x84\xEC\xBC]\x1D@h\xAE\xD3HK\xED!@,2.0,0.0,5.0,2.0,1.0,inadequate
+HF00420,Primary Health Centre,,,,2.0,2.0,5.0,0.0,0.0,adequate
+HF00264,Primary Health Centre,7.967791,7.894853,\x01\x01\x00\x00\x00\xDAs\x99\x9A\x04\xDF\x1F@\xF3\xE8FXT\x94\x1F@,0.0,0.0,4.0,1.0,1.0,inadequate
+HF01104,Comprehensive Health Centre,8.916813,11.497722,\x01\x01\x00\x00\x00e\x18w\x83h\xD5!@\xDA\xFF\x00k\xD5\xFE&@,,,,,,no_personnel_record
+HF00920,Health Post,8.746025,8.414476,"\x01\x01\x00\x00\x00.\xFF!\xFD\xF6}!@,\xF4\xC126\xD4 @",,,,,,no_personnel_record
+HF01084,Primary Health Centre,9.735351,11.534799,"\x01\x01\x00\x00\x00k) \xED\x7Fx#@\xF4\xDD\xAD,\xD1\x11\x27@",1.0,1.0,2.0,2.0,0.0,inadequate
+HF00947,Health Post,9.572284,10.990339,"\x01\x01\x00\x00\x00R\x0C\x90h\x02%#@\x1D\xE8\xA1\xB6\x0D\xFB%@",0.0,0.0,0.0,0.0,0.0,inadequate
+HF00906,General Hospital,9.11739,9.237454,\x01\x01\x00\x00\x00@\xC1\xC5\x8A\x1A<\x22@\xD8\x9B\x18\x92\x93y\x22@,2.0,19.0,19.0,6.0,4.0,inadequate
+HF00431,Cottage Hospital,7.906886,8.425708,"\x01\x01\x00\x00\x00\x10\xCD<\xB9\xA6\xA0\x1F@\x88J#f\xF6\xD9 @",0.0,6.0,14.0,5.0,3.0,inadequate
+HF00203,Health Post,6.759104,10.578527,\x01\x01\x00\x00\x00\x17\x0D\x19\x8FR\x09\x1B@\xBB\xB4\xE1\xB04(%@,1.0,3.0,3.0,1.0,0.0,adequate
+HF00184,Primary Health Centre,6.523993,10.49626,\x01\x01\x00\x00\x00\xEBT\xF9\x9E\x91\x18\x1A@<\xA0l\xCA\x15\xFE$@,1.0,4.0,13.0,3.0,1.0,adequate
+HF00178,Comprehensive Health Centre,6.17052,10.410985,\x01\x01\x00\x00\x00tA}\xCB\x9C\xAE\x18@\x0AK<\xA0l\xD2$@,4.0,10.0,1.0,2.0,5.0,inadequate
+HF00937,Primary Health Centre,8.729747,8.717338,\x01\x01\x00\x00\x00N\xB5\x16f\xA1u!@)[$\xEDFo!@,0.0,1.0,10.0,3.0,1.0,inadequate
+HF01271,Comprehensive Health Centre,,,,5.0,11.0,2.0,2.0,1.0,inadequate
+HF01293,General Hospital,10.706274,10.240565,\x01\x01\x00\x00\x00\xBC\x07\xE8\xBE\x9Ci%@\xDE\x1F\xEFU+{$@,0.0,0.0,17.0,12.0,8.0,inadequate
+HF00083,Comprehensive Health Centre,5.69673,9.468527,\x01\x01\x00\x00\x00}\x91\xD0\x96s\xC9\x16@\x03\x96\x5C\xC5\xE2\xEF\x22@,5.0,11.0,12.0,0.0,2.0,inadequate
+HF900507,Primary Health Centre,7.870121,10.361789,\x01\x01\x00\x00\x00S@\xDA\xFF\x00{\x1F@\xE7\x1Afh<\xB9$@,,,,,,no_personnel_record
+HF00159,Primary Health Centre,7.232863,9.979617,"\x01\x01\x00\x00\x006\xCBe\xA3s\xEE\x1C@\x156\x03\x5C\x90\xF5#@",0.0,4.0,1.0,1.0,1.0,inadequate
+HF00086,Primary Health Centre,5.772775,9.779541,"\x01\x01\x00\x00\x00e\xAA`TR\x17\x17@C\xC8y\xFF\x1F\x8F#@",0.0,4.0,8.0,2.0,1.0,adequate
+HF00154,Primary Health Centre,7.337601,10.099004,\x01\x01\x00\x00\x009c\x98\x13\xB4Y\x1D@\xACX\xFC\xA6\xB02$@,1.0,2.0,4.0,0.0,1.0,adequate
+HF00885,Primary Health Centre,8.560145,9.157302,\x01\x01\x00\x00\x00-\x09PS\xCB\x1E!@\xD70C\xE3\x89P\x22@,3.0,7.0,5.0,1.0,1.0,adequate
+HF00634,Primary Health Centre,8.371635,11.02418,\x01\x01\x00\x00\x00\x11\x19V\xF1F\xBE @?o*Ra\x0C&@,1.0,1.0,3.0,1.0,1.0,inadequate
+HF00126,Primary Health Centre,6.682408,9.132827,\x01\x01\x00\x00\x00u\x1D\xAA)\xC9\xBA\x1A@5\x0D\x8A\xE6\x01D\x22@,0.0,3.0,6.0,1.0,0.0,adequate
+HF00523,Primary Health Centre,8.339937,9.618947,"\x01\x01\x00\x00\x00\x95f\xF38\x0C\xAE @%\xEA\x05\x9F\xE6<#@",1.0,5.0,3.0,2.0,1.0,adequate
+HF00824,Cottage Hospital,9.306646,8.128605,\x01\x01\x00\x00\x00\x00\xE6Z\xB4\x00\x9D\x22@D4\xBA\x83\xD8A @,3.0,3.0,8.0,0.0,0.0,inadequate
+HF01142,Primary Health Centre,9.770981,9.088231,"\x01\x01\x00\x00\x00\xBD\xAC\x89\x05\xBE\x8A#@\x9C\xFC\x16\x9D,-\x22@",0.0,2.0,3.0,1.0,1.0,adequate
+HF00620,Health Post,7.633096,10.558365,\x01\x01\x00\x00\x00\xE6\xE9\x5CQJ\x88\x1E@Kvl\x04\xE2\x1D%@,0.0,3.0,1.0,1.0,0.0,inadequate
+HF00976,Comprehensive Health Centre,9.797223,10.381944,"\x01\x01\x00\x00\x00\xEF<\xF1\x9C-\x98#@\x8E\xCE\xF9)\x8E\xC3$@",0.0,2.0,4.0,2.0,0.0,inadequate
+HF01008,Cottage Hospital,10.291289,11.391382,"\x01\x01\x00\x00\x00}^\xF1\xD4#\x95$@t|\xB48c\xC8&@",1.0,10.0,20.0,1.0,0.0,inadequate
+HF00711,Primary Health Centre,9.188483,7.66625,\x01\x01\x00\x00\x005\xB4\x01\xD8\x80`\x22@\x0A\xD7\xA3p=\xAA\x1E@,0.0,1.0,2.0,3.0,2.0,inadequate
+HF00949,General Hospital,9.611282,10.806318,"\x01\x01\x00\x00\x00VDM\xF4\xF98#@-Z\x80\xB6\xD5\x9C%@",2.0,2.0,9.0,0.0,0.0,inadequate
+HF00739,Primary Health Centre,8.295702,8.061593,\x01\x01\x00\x00\x00=\xB9\xA6@f\x97 @7S!\x1E\x89\x1F @,1.0,1.0,0.0,1.0,1.0,inadequate
+HF00354,Comprehensive Health Centre,6.976663,8.633944,\x01\x01\x00\x00\x00^\xDApX\x1A\xE8\x1B@\xA8\xFD\xD6N\x94D!@,1.0,4.0,11.0,1.0,2.0,adequate
+HF01054,Primary Health Centre,10.115378,10.493284,\x01\x01\x00\x00\x00\x14[A\xD3\x12;$@\xB6Go\xB8\x8F\xFC$@,0.0,8.0,9.0,2.0,0.0,adequate
+HF00848,Health Post,,,,0.0,1.0,2.0,0.0,0.0,adequate
+HF00967,Comprehensive Health Centre,9.648412,10.62545,"\x01\x01\x00\x00\x00\xFC\xAA\x5C\xA8\xFCK#@\x00\x91~\xFB:@%@",0.0,6.0,3.0,0.0,0.0,inadequate
+HF00524,Comprehensive Health Centre,8.420957,9.544625,"\x01\x01\x00\x00\x00g\x0B\x08\xAD\x87\xD7 @\x02+\x87\x16\xD9\x16#@",2.0,6.0,10.0,2.0,0.0,adequate
+HF01167,Health Post,10.109794,8.527238,"\x01\x01\x00\x00\x00\x14\x98N\xEB68$@\xBAj\x9E#\xF2\x0D!@",0.0,1.0,1.0,0.0,0.0,inadequate
+HF00907,Primary Health Centre,9.108846,9.398758,\x01\x01\x00\x00\x00\xD0\x99\xB4\xA9\xBA7\x22@h\x092\x02*\xCC\x22@,2.0,0.0,3.0,0.0,0.0,inadequate
+HF01267,Health Post,9.815728,10.058363,"\x01\x01\x00\x00\x00\xEC\xDC\xB4\x19\xA7\xA1#@\xC8\x97P\xC1\xE1\x1D$@",0.0,0.0,3.0,0.0,0.0,adequate
+HF00286,Primary Health Centre,7.721971,7.363033,\x01\x01\x00\x00\x00D\xA4\xA6]L\xE3\x1E@\x9Ey9\xEC\xBEs\x1D@,1.0,1.0,2.0,0.0,1.0,inadequate
+HF00738,Primary Health Centre,8.282804,7.870243,\x01\x01\x00\x00\x00![\x96\xAF\xCB\x90 @\xAEJ\x22\xFB {\x1F@,2.0,8.0,4.0,2.0,0.0,adequate
+HF01092,Health Post,8.890092,11.167532,"\x01\x01\x00\x00\x00\xCA\xDC|#\xBA\xC7!@#\x11\x1A\xC1\xC6U&@",0.0,1.0,2.0,0.0,0.0,adequate
+HF00779,Primary Health Centre,8.391328,7.593854,\x01\x01\x00\x00\x00\xA7\x04\xC4$\x5C\xC8 @(eRC\x1B`\x1E@,0.0,6.0,3.0,2.0,1.0,adequate
+HF00484,Health Post,8.195867,10.462858,\x01\x01\x00\x00\x004\xBB\xEE\xADHd @JbI\xB9\xFB\xEC$@,1.0,1.0,2.0,0.0,0.0,adequate
+HF00837,Primary Health Centre,9.648378,8.47573,"\x01\x01\x00\x00\x00K\xE4\x823\xF8K#@\xC1s\xEF\xE1\x92\xF3 @",0.0,0.0,6.0,2.0,1.0,inadequate
+HF00964,Cottage Hospital,9.421029,10.243308,\x01\x01\x00\x00\x00\xCEU\xF3\x1C\x91\xD7\x22@\xD9\xB5\xBD\xDD\x92|$@,1.0,0.0,6.0,2.0,1.0,inadequate
+HF00376,Primary Health Centre,7.06,7.56,\x01\x01\x00\x00\x00=\x0A\xD7\xA3p=\x1C@=\x0A\xD7\xA3p=\x1E@,1.0,3.0,2.0,1.0,1.0,inadequate
+HF00842,Comprehensive Health Centre,9.896609,8.483445,"\x01\x01\x00\x00\x009\x99\xB8U\x10\xCB#@V\xD4`\x1A\x86\xF7 @",4.0,12.0,5.0,1.0,1.0,adequate
+HF00299,Primary Health Centre,7.485282,7.903418,\x01\x01\x00\x00\x00\x92Y\xBD\xC3\xED\xF0\x1D@\x8Ex\xB2\x9B\x19\x9D\x1F@,2.0,4.0,4.0,1.0,2.0,adequate
+HF00827,Comprehensive Health Centre,9.455965,8.894234,\x01\x01\x00\x00\x00\xC5=\x96>t\xE9\x22@J\xF1\xF1\x09\xD9\xC9!@,1.0,8.0,8.0,2.0,2.0,adequate
+HF00946,General Hospital,9.604945,10.891036,"\x01\x01\x00\x00\x00\xE8\xC1\xDDY\xBB5#@\x08\x1E\xDF\xDE5\xC8%@",0.0,17.0,4.0,5.0,0.0,inadequate
+HF00899,Health Post,8.694335,9.05162,\x01\x01\x00\x00\x00\xB3\xEF\x8A\xE0\x7Fc!@\x98\xA3\xC7\xEFm\x1A\x22@,0.0,1.0,2.0,0.0,0.0,adequate
+HF00306,Primary Health Centre,7.534055,7.778562,\x01\x01\x00\x00\x00\xA6\x0F]P\xDF\x22\x1E@\x27\xA2_[?\x1D\x1F@,1.0,5.0,3.0,1.0,0.0,adequate
+HF01250,Primary Health Centre,9.342473,9.818916,"\x01\x01\x00\x00\x00\xA9\x86\xFD\x9EX\xAF\x22@\x9FW<\xF5H\xA3#@",0.0,0.0,2.0,0.0,1.0,inadequate
+HF01044,Primary Health Centre,10.813933,10.433058,\x01\x01\x00\x00\x005E\x80\xD3\xBB\xA0%@\xD7\x8A6\xC7\xB9\xDD$@,0.0,2.0,7.0,2.0,1.0,adequate
+HF00044,Primary Health Centre,5.978349,9.791278,"\x01\x01\x00\x00\x00\x16L\xFCQ\xD4\xE9\x17@\xAD\x16\xD8c\x22\x95#@",2.0,4.0,0.0,1.0,1.0,inadequate
+HF00122,Health Post,6.775384,9.284507,\x01\x01\x00\x00\x00\xDD]gC\xFE\x19\x1B@U\xF7\xC8\xE6\xAA\x91\x22@,0.0,1.0,2.0,1.0,0.0,adequate
+HF01161,Primary Health Centre,9.972627,9.334659,"\x01\x01\x00\x00\x00\xC6i\x88*\xFC\xF1#@\xC7\x9F\xA8lX\xAB\x22@",0.0,1.0,2.0,1.0,0.0,inadequate
+HF01068,Health Post,9.910485,10.873512,"\x01\x01\x00\x00\x00C\xFF\x04\x17+\xD2#@\xBDS\x01\xF7<\xBF%@",0.0,0.0,1.0,0.0,1.0,inadequate
+HF00715,Health Post,9.238574,7.753521,\x01\x01\x00\x00\x00\x10Z\x0F_&z\x22@\x99eO\x02\x9B\x03\x1F@,1.0,0.0,2.0,1.0,0.0,adequate
+HF00697,Health Post,8.398191,11.523169,\x01\x01\x00\x00\x00\x82\x1F\xD5\xB0\xDF\xCB @\xE2\x8F\xA2\xCE\xDC\x0B\x27@,0.0,2.0,1.0,0.0,0.0,inadequate
+HF00574,Primary Health Centre,7.546526,11.218139,\x01\x01\x00\x00\x00\xA0\xA7\x01\x83\xA4/\x1E@\xDC\xF6=\xEA\xAFo&@,1.0,5.0,8.0,2.0,2.0,adequate
+HF01251,Comprehensive Health Centre,9.312411,9.888199,"\x01\x01\x00\x00\x00B\xD2\xA7U\xF4\x9F\x22@\x08\xAE\xF2\x04\xC2\xC6#@",4.0,6.0,14.0,0.0,0.0,inadequate
+HF00471,Cottage Hospital,7.405006,9.209063,\x01\x01\x00\x00\x000\xBC\x92\xE4\xB9\x9E\x1D@x\x9B7N\x0Ak\x22@,0.0,9.0,3.0,3.0,6.0,inadequate
+HF00292,Health Post,7.988569,7.28424,"\x01\x01\x00\x00\x00\x92[\x93nK\xF4\x1F@3\xDC\x80\xCF\x0F#\x1D@",0.0,1.0,2.0,0.0,0.0,adequate
+HF00699,Primary Health Centre,8.656894,11.580592,\x01\x01\x00\x00\x00\x93\xE0\x0DiTP!@r\xA3\xC8ZC)\x27@,0.0,7.0,11.0,1.0,1.0,adequate
+HF00624,Primary Health Centre,6.974772,10.978302,\x01\x01\x00\x00\x00\xDE9\x94\xA1*\xE6\x1B@\x089\xEF\xFF\xE3\xF4%@,1.0,3.0,1.0,0.0,0.0,inadequate
+HF00034,Cottage Hospital,6.400693,9.619628,"\x01\x01\x00\x00\x00\xCC\xF1\x0ADO\x9A\x19@-_\x97\xE1?=#@",8.0,14.0,18.0,4.0,6.0,adequate
+HF00686,Primary Health Centre,8.357013,10.860141,\x01\x01\x00\x00\x00c~nh\xCA\xB6 @\xC1\xE5\xB1fd\xB8%@,2.0,5.0,1.0,3.0,0.0,inadequate
+HF00001,Primary Health Centre,6.067307,9.559098,"\x01\x01\x00\x00\x00\xE0*O \xECD\x18@\x9D\x84\xD2\x17B\x1E#@",0.0,5.0,1.0,1.0,3.0,inadequate
+HF00939,Primary Health Centre,9.33108,10.880202,\x01\x01\x00\x00\x00(\xB8XQ\x83\xA9\x22@b\xBF\x27\xD6\xA9\xC2%@,0.0,1.0,3.0,1.0,0.0,inadequate
+HF01160,Health Post,10.049445,9.550277,"\x01\x01\x00\x00\x00\xC5\xE6\xE3\xDAP\x19$@c{-\xE8\xBD\x19#@",,,,,,no_personnel_record
+HF01328,Health Post,10.685615,9.807173,"\x01\x01\x00\x00\x00IK\xE5\xED\x08_%@\xADm\x8A\xC7E\x9D#@",0.0,2.0,0.0,0.0,0.0,inadequate
+HF00226,Comprehensive Health Centre,6.627348,10.299467,\x01\x01\x00\x00\x00\x12\xD8\x9C\x83g\x82\x1A@dv\x16\xBDS\x99$@,3.0,3.0,18.0,6.0,2.0,inadequate
+HF01215,Primary Health Centre,9.027722,9.590209,"\x01\x01\x00\x00\x00j\xC2\xF6\x931\x0E\x22@\x17\x9C\xC1\xDF/.#@",0.0,5.0,9.0,1.0,0.0,adequate
+HF01246,Primary Health Centre,9.22915,10.047339,\x01\x01\x00\x00\x00\xBE\xC1\x17&Su\x22@\x93\xA6A\xD1<\x18$@,2.0,1.0,5.0,1.0,2.0,inadequate
+HF00244,Cottage Hospital,7.272686,7.674971,\x01\x01\x00\x00\x00\xE8N\xB0\xFF:\x17\x1D@a\xFE\x0A\x99+\xB3\x1E@,0.0,3.0,11.0,1.0,3.0,inadequate
+HF00267,Primary Health Centre,8.100179,8.355854,\x01\x01\x00\x00\x00\xF2}q\xA9J3 @4M\xD8~2\xB6 @,2.0,2.0,2.0,1.0,0.0,inadequate
+HF00886,Health Post,8.607114,9.238834,\x01\x01\x00\x00\x002\xE3m\xA5\xD76!@\x82X6sHz\x22@,0.0,1.0,2.0,1.0,1.0,adequate
+HF00787,Health Post,8.518181,7.4617,\x01\x01\x00\x00\x001\xD1 \x05O\x09!@\xB8@\x82\xE2\xC7\xD8\x1D@,0.0,2.0,2.0,0.0,0.0,adequate
+HF01253,Comprehensive Health Centre,9.465921,9.884009,"\x01\x01\x00\x00\x00\x0B\x0A\x832\x8D\xEE\x22@E\xBD\xE0\xD3\x9C\xC4#@",0.0,8.0,2.0,0.0,0.0,inadequate
+HF00945,Primary Health Centre,9.527539,10.909523,"\x01\x01\x00\x00\x00\xA6\xBA\x80\x97\x19\x0E#@l\xEB\xA7\xFF\xAC\xD1%@",0.0,3.0,3.0,0.0,1.0,adequate
+HF01073,Health Post,10.122635,10.807329,\x01\x01\x00\x00\x00\x9F\xB0\xC4\x03\xCA>$@\x8A9\x08:Z\x9D%@,0.0,2.0,2.0,0.0,0.0,adequate
+HF01229,Health Post,9.593327,9.819417,"\x01\x01\x00\x00\x00\xE7\xAAy\x8E\xC8/#@\xA7\x92\x01\xA0\x8A\xA3#@",0.0,1.0,3.0,0.0,1.0,adequate
+HF01127,Comprehensive Health Centre,9.714259,11.322685,"\x01\x01\x00\x00\x00Q\xBF\x0B[\xB3m#@\xCC\xD1\xE3\xF76\xA5&@",1.0,6.0,3.0,4.0,1.0,inadequate
+HF01091,Primary Health Centre,8.869798,11.320579,\x01\x01\x00\x00\x00\x9E@\xD8)V\xBD!@\x9B\x91A\xEE\x22\xA4&@,1.0,3.0,5.0,0.0,0.0,adequate
+HF00810,Primary Health Centre,9.482032,8.012477,\x01\x01\x00\x00\x00>@\xF7\xE5\xCC\xF6\x22@\x86\xE7\xA5bc\x06 @,1.0,0.0,3.0,0.0,2.0,inadequate
+HF00023,Primary Health Centre,6.167258,9.001536,\x01\x01\x00\x00\x00<\xFA_\xAEE\xAB\x18@\x87\x88\x9BS\xC9\x00\x22@,0.0,5.0,5.0,3.0,2.0,adequate
+HF00464,Primary Health Centre,7.91,9.27,\x01\x01\x00\x00\x00\xA4p=\x0A\xD7\xA3\x1F@\x0A\xD7\xA3p=\x8A\x22@,2.0,1.0,5.0,0.0,1.0,inadequate
+HF00753,Health Post,,,,1.0,2.0,1.0,0.0,0.0,inadequate
+HF00728,Health Post,8.213559,8.337383,\x01\x01\x00\x00\x00n\x88\xF1\x9AWm @\xE7s\xEEv\xBD\xAC @,0.0,2.0,2.0,0.0,1.0,adequate
+HF00854,Health Post,8.993451,8.445017,\x01\x01\x00\x00\x00d[\x06\x9C\xA5\xFC!@\xFCS\xAAD\xD9\xE3 @,0.0,1.0,1.0,0.0,1.0,inadequate
+HF00657,Cottage Hospital,8.303582,11.318028,\x01\x01\x00\x00\x00\xFDN\x93\x19o\x9B @\xB1l\xE6\x90\xD4\xA2&@,0.0,11.0,20.0,0.0,0.0,inadequate
+HF00865,Cottage Hospital,8.885733,9.120351,\x01\x01\x00\x00\x00\xD7\xF9\xB7\xCB~\xC5!@\xF0\x14r\xA5\x9E=\x22@,0.0,0.0,18.0,3.0,4.0,inadequate
+HF00470,Comprehensive Health Centre,7.581169,9.107867,\x01\x01\x00\x00\x00\xCD\xCBa\xF7\x1DS\x1E@\xA1\xA2\xEAW:7\x22@,3.0,8.0,10.0,3.0,0.0,adequate
+HF00983,Primary Health Centre,10.003236,11.166351,\x01\x01\x00\x00\x00\xF7V$&\xA8\x01$@UPQ\xF5+U&@,2.0,3.0,8.0,4.0,1.0,adequate
+HF00162,Primary Health Centre,7.348028,9.985114,"\x01\x01\x00\x00\x00\x81^\xB8sad\x1D@\xDA\xA9\xB9\xDC`\xF8#@",2.0,4.0,3.0,1.0,1.0,adequate
+HF00877,Cottage Hospital,8.414048,8.481082,\x01\x01\x00\x00\x00\xCB\xF2u\x19\xFE\xD3 @xcAaP\xF6 @,0.0,14.0,6.0,3.0,2.0,inadequate
+HF00898,Health Post,8.458339,8.933503,\x01\x01\x00\x00\x00s\xF6\xCEh\xAB\xEA @\x8Fo\xEF\x1A\xF4\xDD!@,0.0,2.0,2.0,0.0,1.0,adequate
+HF01089,Health Post,8.794414,11.279668,\x01\x01\x00\x00\x00\x16\xF8\x8An\xBD\x96!@\xB7y\xE3\xA40\x8F&@,0.0,1.0,2.0,0.0,0.0,adequate
+HF00988,Comprehensive Health Centre,10.149578,11.295769,\x01\x01\x00\x00\x00\xF5f\xD4|\x95L$@\x5CW\xCC\x08o\x97&@,3.0,11.0,17.0,2.0,5.0,adequate
+HF00929,Health Post,8.576518,8.666571,\x01\x01\x00\x00\x00T\x1C\x07^-\x27!@\x8D\xECJ\xCBHU!@,0.0,1.0,1.0,0.0,0.0,inadequate
+HF00860,Cottage Hospital,9.211077,9.076372,\x01\x01\x00\x00\x00&\xE0\xD7H\x12l\x22@\x04\xA9\x14;\x1A\x27\x22@,1.0,2.0,4.0,6.0,1.0,inadequate
+HF00968,Primary Health Centre,9.570705,10.604011,"\x01\x01\x00\x00\x00\xCES\x1Dr3$#@8\xD9\x06\xEE@5%@",1.0,3.0,4.0,0.0,1.0,adequate
+HF01228,Comprehensive Health Centre,9.478709,9.672009,"\x01\x01\x00\x00\x00\x0B\x9A\x96X\x19\xF5\x22@><K\x90\x11X#@",4.0,2.0,13.0,2.0,3.0,inadequate
+HF00527,Primary Health Centre,8.448984,9.927491,"\x01\x01\x00\x00\x00\xC2\xDA\x18;\xE1\xE5 @.\xAB\xB0\x19\xE0\xDA#@",0.0,4.0,5.0,2.0,2.0,adequate
+HF00997,Primary Health Centre,10.133004,10.963416,\x01\x01\x00\x00\x00py\xAC\x19\x19D$@\xE3\xE2\xA8\xDCD\xED%@,2.0,0.0,4.0,2.0,1.0,inadequate
+HF01296,Health Post,10.781582,10.114646,\x01\x01\x00\x00\x00\xD8H\x12\x84+\x90%@\x04<i\xE1\xB2:$@,0.0,3.0,3.0,0.0,0.0,adequate
+HF01287,Primary Health Centre,10.101669,10.21496,\x01\x01\x00\x00\x00\xB7\x08\x8C\xF5\x0D4$@u\xE5\xB3<\x0Fn$@,,,,,,no_personnel_record
+HF01249,Primary Health Centre,9.326924,9.923061,"\x01\x01\x00\x00\x00\x15\x8E \x95b\xA7\x22@\x16m\x8Es\x9B\xD8#@",0.0,0.0,8.0,1.0,0.0,inadequate
+HF01234,Primary Health Centre,9.67,9.7,"\x01\x01\x00\x00\x00\xD7\xA3p=\x0AW#@ffffff#@",0.0,1.0,1.0,0.0,2.0,inadequate
+HF00689,Primary Health Centre,7.872916666666667,11.622805555555557,\x01\x01\x00\x00\x00\xDE\xDD\xDD\xDD\xDD}\x1F@\xA7\xC1\xA9^\xE0>\x27@,0.0,8.0,3.0,0.0,2.0,adequate
+HF00307,Health Post,7.579851,7.703338,\x01\x01\x00\x00\x00*6\xE6u\xC4Q\x1E@\xDD\x220\xD67\xD0\x1E@,0.0,2.0,1.0,1.0,0.0,inadequate
+HF00683,Primary Health Centre,8.235879,10.613119,\x01\x01\x00\x00\x00Z\xA0\xDD!\xC5x @\xC9\x1C\xCB\xBB\xEA9%@,3.0,0.0,3.0,1.0,0.0,inadequate
+HF00170,Primary Health Centre,6.348068,9.97959,"\x01\x01\x00\x00\x00\xF2\x22\x13\xF0kd\x19@/\xFA\x0A\xD2\x8C\xF5#@",0.0,0.0,7.0,1.0,1.0,inadequate
+HF00355,Cottage Hospital,6.592417,8.153481,\x01\x01\x00\x00\x00\xB3`\xE2\x8F\xA2^\x1A@`\x1D\xC7\x0F\x95N @,0.0,5.0,12.0,2.0,0.0,inadequate
+HF01305,Health Post,10.242152,9.851908,"\x01\x01\x00\x00\x00nR\xD1X\xFB{$@\xCBf\x0EI-\xB4#@",0.0,1.0,2.0,1.0,0.0,adequate
+HF00414,Primary Health Centre,7.264708,8.606866,"\x01\x01\x00\x00\x00Q\xF5+\x9D\x0F\x0F\x1D@\xD2\x1B\xEE#\xB76!@",0.0,5.0,5.0,1.0,1.0,adequate
+HF00963,Primary Health Centre,9.266074,10.220174,\x01\x01\x00\x00\x00\xBE\xA1\xF0\xD9:\x88\x22@\xE8\xDB\x82\xA5\xBAp$@,0.0,1.0,0.0,0.0,1.0,inadequate
+HF00231,Health Post,6.560783,10.437989,\x01\x01\x00\x00\x00o\x9C\x14\xE6=>\x1A@\xF7\x03\x1E\x18@\xE0$@,0.0,1.0,1.0,0.0,0.0,inadequate
+HF01071,Primary Health Centre,9.92812,10.689425,"\x01\x01\x00\x00\x00\xEC\x86m\x8B2\xDB#@\xF0\x16HP\xFC`%@",1.0,0.0,9.0,2.0,0.0,inadequate
+HF00241,Health Post,7.234529,7.487051,\x01\x01\x00\x00\x00\xB6\xDA\xC3^(\xF0\x1C@\xB7\xEFQ\x7F\xBD\xF2\x1D@,1.0,1.0,1.0,0.0,0.0,inadequate
+HF00400,Primary Health Centre,6.348738,8.372912,\x01\x01\x00\x00\x00c}\x03\x93\x1Be\x19@h\x92XR\xEE\xBE @,0.0,4.0,1.0,0.0,0.0,inadequate
+HF01272,Primary Health Centre,9.829202,10.145604,"\x01\x01\x00\x00\x00;\x8E\x1F*\x8D\xA8#@eU\x84\x9B\x8CJ$@",1.0,0.0,3.0,1.0,1.0,inadequate
+HF00206,Cottage Hospital,6.882262,10.500232,\x01\x01\x00\x00\x00\xA3\x03\x92\xB0o\x87\x1B@J\xD3\xA0h\x1E\x00%@,2.0,1.0,9.0,4.0,12.0,inadequate
+HF01133,Primary Health Centre,9.983895,11.534731,"\x01\x01\x00\x00\x00Ve\xDF\x15\xC1\xF7#@\x94P\xFAB\xC8\x11\x27@",2.0,7.0,5.0,0.0,1.0,adequate
+HF01244,Primary Health Centre,9.075668,9.905925,"\x01\x01\x00\x00\x00\x1C\xB5\xC2\xF4\xBD&\x22@\xF2A\xCFf\xD5\xCF#@",3.0,5.0,11.0,0.0,0.0,adequate
+HF01006,Health Post,10.628917,11.063166,\x01\x01\x00\x00\x00\xFF\xCB\xB5h\x01B%@3p@KW &@,0.0,3.0,3.0,1.0,0.0,adequate
+HF00291,Primary Health Centre,7.707091,7.493214,\x01\x01\x00\x00\x00\x0A/\xC1\xA9\x0F\xD4\x1E@\xA6\xB7?\x17\x0D\xF9\x1D@,,,,,,no_personnel_record
+HF00002,Health Post,6.104332,9.462132,\x01\x01\x00\x00\x00\x81\xB4\xFF\x01\xD6j\x18@\xC2\xDE\xC4\x90\x9C\xEC\x22@,0.0,2.0,2.0,0.0,0.0,adequate
+HF00329,Health Post,8.234088,7.37543,\x01\x01\x00\x00\x00\xA8\xC5\xE0a\xDAw @\xC6\xBF\xCF\xB8p\x80\x1D@,0.0,0.0,2.0,0.0,0.0,adequate
+HF01295,Primary Health Centre,10.77273,10.158074,\x01\x01\x00\x00\x00\xB2F=D\xA3\x8B%@ \xB2H\x13\xEFP$@,1.0,7.0,2.0,0.0,0.0,inadequate
+HF00927,Primary Health Centre,8.436361,8.595779,\x01\x01\x00\x00\x00\xED\x7F\x80\xB5j\xDF @\x84I\xF1\xF1\x091!@,0.0,4.0,6.0,1.0,2.0,adequate
+HF00404,Primary Health Centre,6.462139,8.548973,\x01\x01\x00\x00\x00\x17\xD3L\xF7:\xD9\x19@&\xC62\xFD\x12\x19!@,2.0,0.0,3.0,1.0,2.0,inadequate
+HF01013,Health Post,10.416009,11.413577,\x01\x01\x00\x00\x00\xEF\xAE\xB3!\xFF\xD4$@n\xC1R]\xC0\xD3&@,0.0,2.0,3.0,0.0,0.0,adequate
+HF00262,Health Post,8.061586,8.156333,\x01\x01\x00\x00\x00m\xC8?3\x88\x1F @6\x92\x04\xE1\x0AP @,0.0,2.0,2.0,1.0,0.0,adequate
+HF00389,Health Post,7.01899,8.188608,\x01\x01\x00\x00\x00\xDD\xCDS\x1Dr\x13\x1C@\x27\x87O:\x91` @,1.0,1.0,2.0,1.0,0.0,adequate
+HF00145,Health Post,7.162465,10.180213,\x01\x01\x00\x00\x00\x83\xFA\x969]\xA6\x1C@\xCB\xA0\xDA\xE0D\x5C$@,0.0,2.0,2.0,0.0,0.0,adequate
+HF00441,Health Post,7.456809,8.486524,\x01\x01\x00\x00\x00\xE8\x12\x0E\xBD\xC5\xD3\x1D@.py\xAC\x19\xF9 @,0.0,2.0,2.0,0.0,0.0,adequate
+HF00843,General Hospital,9.339622,8.626483,\x01\x01\x00\x00\x00\x15\x01N\xEF\xE2\xAD\x22@\xFC\xFF8a\xC2@!@,10.0,8.0,20.0,1.0,6.0,inadequate
+HF00641,General Hospital,8.404587,10.482297,\x01\x01\x00\x00\x00\x04\xC6\xFA\x06&\xCF @\xF7\xEA\xE3\xA1\xEF\xF6$@,,,,,,no_personnel_record
+HF00187,Primary Health Centre,6.576994,10.858141,\x01\x01\x00\x00\x00\xF1\xF3\xDF\x83\xD7N\x1A@\xA6\xB6\xD4A^\xB7%@,3.0,8.0,9.0,2.0,1.0,adequate
+HF01077,Primary Health Centre,9.329922,11.639774,\x01\x01\x00\x00\x00:vP\x89\xEB\xA8\x22@\x86\xA9-u\x90G\x27@,1.0,4.0,5.0,1.0,0.0,adequate
+HF00356,Primary Health Centre,6.633489,8.036438,\x01\x01\x00\x00\x00\xC3\x80%W\xB1\x88\x1A@\xCE\xA9d\x00\xA8\x12 @,1.0,7.0,7.0,1.0,1.0,adequate
+HF00246,Primary Health Centre,7.370933,7.550564,\x01\x01\x00\x00\x00W\x07@\xDC\xD5{\x1D@vk\x99\x0C\xC73\x1E@,0.0,1.0,1.0,0.0,0.0,inadequate
+HF00773,Primary Health Centre,8.619351,8.074893,\x01\x01\x00\x00\x00c}\x03\x93\x1B=!@\x0Ef\x13`X& @,0.0,4.0,4.0,0.0,1.0,adequate
+HF00435,Comprehensive Health Centre,7.076298,9.000465,\x01\x01\x00\x00\x007\x00\x1B\x10!N\x1C@\xD5\x95\xCF\xF2<\x00\x22@,6.0,0.0,12.0,4.0,0.0,inadequate
+HF00791,Health Post,8.932784,7.56687,\x01\x01\x00\x00\x00\xD1vL\xDD\x95\xDD!@\x86U\xBC\x91yD\x1E@,0.0,1.0,1.0,0.0,0.0,inadequate
+HF00183,Primary Health Centre,6.258932,10.663099,\x01\x01\x00\x00\x00.\x8D_x%\x09\x19@G\x05N\xB6\x81S%@,1.0,4.0,4.0,3.0,0.0,adequate
+HF900771,Health Post,8.484971,7.928792,\x01\x01\x00\x00\x00O\x04q\x1EN\xF8 @N%\x03@\x15\xB7\x1F@,,,,,,no_personnel_record
+HF00059,Health Post,6.083289,10.051627,"\x01\x01\x00\x00\x00Ww,\xB6IU\x18@b.\xA9\xDAn\x1A$@",0.0,1.0,2.0,0.0,1.0,adequate
+HF00444,Primary Health Centre,,,,1.0,3.0,6.0,2.0,1.0,adequate
+HF00361,Health Post,6.571437,7.960722,\x01\x01\x00\x00\x00\xBD\xE5\xEA\xC7&I\x1A@\xDB0\x0A\x82\xC7\xD7\x1F@,,,,,,no_personnel_record
+HF00960,Comprehensive Health Centre,9.296556,10.488674,\x01\x01\x00\x00\x00{\xDD\x220\xD6\x97\x22@\x9E\xCF\x80z3\xFA$@,2.0,7.0,4.0,3.0,3.0,adequate
+HF00050,Health Post,5.91671,10.035905,"\x01\x01\x00\x00\x00&\xAA\xB7\x06\xB6\xAA\x17@\x98\x86\xE1#b\x12$@",1.0,2.0,1.0,0.0,0.0,inadequate
+HF01162,Cottage Hospital,10.049146,9.28817,\x01\x01\x00\x00\x00\x5Cu\x1D\xAA)\x19$@k`\xAB\x04\x8B\x93\x22@,1.0,7.0,8.0,3.0,3.0,inadequate
+HF01300,Primary Health Centre,10.790242,10.269717,\x01\x01\x00\x00\x00\xEC\xD9s\x99\x9A\x94%@\xB8Y\xBCX\x18\x8A$@,1.0,0.0,0.0,1.0,0.0,inadequate
+HF00934,Primary Health Centre,8.658854,8.791822,\x01\x01\x00\x00\x00u\xAD\xBDOUQ!@\xB2\x81t\xB1i\x95!@,0.0,5.0,4.0,3.0,0.0,adequate
+HF00396,Health Post,6.791472,8.492695,\x01\x01\x00\x00\x00\x81\xCC\xCE\xA2w*\x1B@1\xCE\xDF\x84B\xFC @,,,,,,no_personnel_record
+HF00740,Comprehensive Health Centre,8.228485,8.000328,\x01\x01\x00\x00\x00\xCC@e\xFC\xFBt @\xD2\x8B\xDA\xFD*\x00 @,1.0,1.0,12.0,5.0,1.0,inadequate
+HF00130,Primary Health Centre,7.045839,9.693543,"\x01\x01\x00\x00\x00\x7F\x867k\xF0.\x1C@M\xBDn\x11\x18c#@",0.0,1.0,4.0,1.0,1.0,inadequate
+HF00215,Health Post,6.067397,10.315242,\x01\x01\x00\x00\x00\xE0d\x1B\xB8\x03E\x18@\xB9\xA6@fg\xA1$@,1.0,1.0,0.0,1.0,1.0,inadequate
+HF00275,Health Post,7.575954,8.128807,\x01\x01\x00\x00\x00e\x00\xA8\xE2\xC6M\x1E@\xE3\xFD\xB8\xFD\xF2A @,0.0,0.0,0.0,0.0,0.0,inadequate
+HF01037,Primary Health Centre,10.429811,10.615185,\x01\x01\x00\x00\x00\x10\xEC\xF8/\x10\xDC$@\xC2\xFA?\x87\xF9:%@,0.0,7.0,0.0,2.0,2.0,inadequate
+HF00633,Primary Health Centre,8.414644,10.959653,\x01\x01\x00\x00\x00\x1A\xF7\xE67L\xD4 @>\x04U\xA3W\xEB%@,0.0,8.0,4.0,0.0,1.0,adequate
+HF00893,Primary Health Centre,8.259422,8.877967,\x01\x01\x00\x00\x00\xD0\xB9\xDB\xF5\xD2\x84 @9\xEF\xFF\xE3\x84\xC1!@,1.0,4.0,9.0,0.0,1.0,adequate
+HF00235,Primary Health Centre,6.649429,10.575049,\x01\x01\x00\x00\x00\xC2Kp\xEA\x03\x99\x1A@\xEC1\x91\xD2l&%@,0.0,5.0,13.0,0.0,1.0,adequate
+HF00831,Primary Health Centre,9.519803,8.844042,"\x01\x01\x00\x00\x00\xB2\xB9j\x9E#\x0A#@\x9F\xE6\xE4E&\xB0!@",1.0,0.0,5.0,2.0,1.0,inadequate
+HF00953,Primary Health Centre,9.119074,10.632193,\x01\x01\x00\x00\x00\x99\x9BoD\xF7<\x22@/\x85\x07\xCD\xAEC%@,0.0,2.0,4.0,2.0,0.0,adequate
+HF00473,Health Post,7.60278,9.050938,\x01\x01\x00\x00\x00E\xBB\x0A)?i\x1E@O?\xA8\x8B\x14\x1A\x22@,,,,,,no_personnel_record
+HF01212,Primary Health Centre,9.07603,9.667159,"\x01\x01\x00\x00\x00\x9E\x07wg\xED&\x22@\xD1vL\xDD\x95U#@",0.0,7.0,2.0,3.0,1.0,inadequate
+HF00239,Primary Health Centre,7.165144,7.751084,\x01\x01\x00\x00\x00\xC2\x85<\x82\x1B\xA9\x1C@\x092\x02*\x1C\x01\x1F@,0.0,4.0,4.0,1.0,1.0,adequate
+HF00957,Comprehensive Health Centre,8.992825,10.444667,\x01\x01\x00\x00\x00jM\xF3\x8ES\xFC!@\x8B8\x9Dd\xAB\xE3$@,1.0,2.0,10.0,2.0,1.0,inadequate
+HF00989,Primary Health Centre,10.059389,10.96857,\x01\x01\x00\x00\x00\xFA{)<h\x1E$@\x00\xC63h\xE8\xEF%@,0.0,9.0,0.0,0.0,2.0,inadequate
+HF00734,Health Post,8.295104,8.259127,\x01\x01\x00\x00\x00k\xD6\x19\xDF\x17\x97 @l\x05MK\xAC\x84 @,,,,,,no_personnel_record
+HF00348,Primary Health Centre,6.912498,8.830274,\x01\x01\x00\x00\x00a\xA9.\xE0e\xA6\x1B@.py\xAC\x19\xA9!@,1.0,5.0,3.0,2.0,0.0,adequate
+HF00242,Health Post,7.238957,7.698078,\x01\x01\x00\x00\x00\xE1\x99\xD0$\xB1\xF4\x1C@u:\x90\xF5\xD4\xCA\x1E@,0.0,1.0,2.0,0.0,0.0,adequate
+HF01321,Primary Health Centre,10.484462,9.695909,"\x01\x01\x00\x00\x00<O<g\x0B\xF8$@\xF0\xFB7/Nd#@",4.0,2.0,6.0,0.0,1.0,adequate
+HF00572,General Hospital,7.651204,11.504004,\x01\x01\x00\x00\x00\xF8\x18\xAC8\xD5\x9A\x1E@;\x1B\xF2\xCF\x0C\x02\x27@,6.0,20.0,21.0,3.0,2.0,adequate
+HF00437,Primary Health Centre,7.416615,8.231036,\x01\x01\x00\x00\x00\x98\x17`\x1F\x9D\xAA\x1D@\xB6e\xC0YJv @,0.0,6.0,6.0,2.0,0.0,adequate
+HF00578,Primary Health Centre,7.718706,11.382789,\x01\x01\x00\x00\x00\x83\xC15w\xF4\xDF\x1E@\x7F\x89x\xEB\xFC\xC3&@,2.0,8.0,4.0,2.0,2.0,adequate
+HF01150,Health Post,10.481912,9.336207,"\x01\x01\x00\x00\x00\x93\x19o+\xBD\xF6$@__\xEBR#\xAC\x22@",,,,,,no_personnel_record
+HF00919,Primary Health Centre,8.711253,8.537559,\x01\x01\x00\x00\x00 ]lZ)l!@GW\xE9\xEE:\x13!@,0.0,0.0,6.0,1.0,0.0,inadequate
+HF00057,Primary Health Centre,6.188437,10.004447,\x01\x01\x00\x00\x00\xE8l\x01\xA1\xF5\xC0\x18@q!\x8F\xE0F\x02$@,1.0,2.0,0.0,2.0,0.0,inadequate
+HF00502,Health Post,8.144359,9.878367,"\x01\x01\x00\x00\x00;\xC4?l\xE9I @r\xC5\xC5Q\xB9\xC1#@",0.0,0.0,1.0,0.0,0.0,inadequate
+HF00639,Primary Health Centre,8.453464,10.737408,"\x01\x01\x00\x00\x00\xA2\xD3\xF3n,\xE8 @\x17\x9E\x97\x8A\x8Dy%@",0.0,2.0,0.0,2.0,0.0,inadequate
+HF00349,Primary Health Centre,6.813602,8.786855,\x01\x01\x00\x00\x00=\xD7\xF7\xE1 A\x1B@^c\x97\xA8\xDE\x92!@,1.0,5.0,1.0,1.0,2.0,inadequate
+HF00383,Health Post,7.097016,7.808336,\x01\x01\x00\x00\x00D\xC1\x8C)Xc\x1C@\xC3\xB7\xB0n\xBC;\x1F@,1.0,1.0,1.0,0.0,0.0,inadequate
