@@ -1,0 +1,1347 @@
+facility_id,raw_lga_name,raw_sen_district,raw_longitude,raw_latitude,lon_parse_method,lat_parse_method,coord_status,lga_match_method,lga_match_score,matched_lga_code,matched_lga_canonical,matched_sen_district,sen_district_agrees
+HF00260,Agbmita,Agbzatu North,7.908017,7.950908,clean,clean,included,exact,100.0,LGA008,Agbmita  ,Agbzatu North,True
+HF00805,Tamwata-South,Uzojina Central,10.148729,8.435272,clean,clean,included,exact,100.0,LGA095,Tamwata-South,Uzojina Central,True
+HF00465,Umumayi,Agbzatu South,7.805461,9.003807,clean,clean,included,exact,100.0,LGA101,Umumayi,Agbzatu South,True
+HF01015,Funkedu,Supwasa Central,10.373417,11.38859,clean,clean,included,exact,100.0,LGA038,Funkedu,Supwasa Central,True
+HF01201,Daibewo,Agbkeko Central,9.177497,9.482001,clean,clean,included,exact,100.0,LGA023,Daibewo,Agbkeko Central,True
+HF00273,Malmaba,Agbzatu North,7.565845,7.982768,clean,clean,included,exact,100.0,LGA070,Malmaba,Agbzatu North,True
+HF00627,Daidefa,Tivbetu Central,7.045256,11.00942,clean,clean,included,exact,100.0,LGA024,Daidefa,Tivbetu Central,True
+HF00670,Hanjiko,Tivbetu South,8.619,11.144178,clean,clean,included,exact,100.0,LGA042,Hanjiko Local Govt Area,Tivbetu South,True
+HF01243,Hanjile,Agbkeko Central,9.890179,9.661979,clean,clean,included,exact,100.0,LGA043,Hanjile,Agbkeko Central,True
+HF01067,Okeyoru-South,Supwasa Central,9.875497,10.846114,clean,clean,included,exact,100.0,LGA082,Okeyoru-South,Supwasa Central,True
+HF00948,Adekeni,Supwasa North,"9°38'33.6""E","10°56'19.9""N",dms,dms,included,exact,100.0,LGA001,Adekeni,Supwasa North,True
+HF00985,ZAMBANI,Supwasa Central,10.04905,11.212248,clean,clean,included,exact,100.0,LGA115,Zambani,Supwasa Central,True
+HF00573,Dutwano,Tivbetu Central,7.630692,11.172943,clean,clean,included,exact,100.0,LGA030,Dutwano,Tivbetu Central,True
+HF00512,Bauzani,Tivbetu North,8.1,10.52,clean,clean,included,exact,100.0,LGA021,Bauzani,Tivbetu North,True
+HF00003,Maltsimi,Kukrima North,6.207094,9.310755,clean,clean,included,exact,100.0,LGA071,Maltsimi,Kukrima North,True
+HF00770,Tamluni,Uzojina North,8.442248,7.967341,clean,clean,included,exact,100.0,LGA094,Tamluni,Uzojina North,True
+HF00622,Daidefa ,Tivbetu Central,6.945808,10.924193,clean,clean,included,exact,100.0,LGA024,Daidefa,Tivbetu Central,True
+HF00892,Loksayi,Uzojina South,8.376408,9.003115,clean,clean,included,exact,100.0,LGA066,Loksayi  ,Uzojina South,True
+HF00611,Ironama,Tivbetu Central,7.713948,10.9272,clean,clean,included,exact,100.0,LGA053,Ironama,Tivbetu Central,True
+HF00268,Agbmita,Agbzatu North,8.235656,8.049994,clean,clean,included,exact,100.0,LGA008,Agbmita  ,Agbzatu North,True
+HF00667,Hanjiko,Tivbetu South,8.611593,10.999355,clean,clean,included,exact,100.0,LGA042,Hanjiko Local Govt Area,Tivbetu South,True
+HF00557,Soktimi,Tivbetu North,7.585153,10.02703,clean,clean,included,exact,100.0,LGA089,Soktimi,Tivbetu North,True
+HF00890,Loksayi,Uzojina South,8.143249,8.751841,clean,clean,included,exact,100.0,LGA066,Loksayi  ,Uzojina South,True
+HF00762,Tamluni,Uzojina North,8.397973,7.799525,clean,clean,included,exact,100.0,LGA094,Tamluni,Uzojina North,True
+HF01107,Loknaba,Supwasa South,8.92082,11.504555,clean,clean,included,exact,100.0,LGA065,Loknaba,Supwasa South,True
+HF00856,Wurkota,Uzojina Central,8.980323,8.545614,clean,clean,included,exact,100.0,LGA106,Wurkota  ,Uzojina Central,True
+HF00558,Soktimi,Tivbetu North,7.570048,9.926803,clean,clean,included,exact,100.0,LGA089,Soktimi,Tivbetu North,True
+HF00814,Daishali-Central,Uzojina Central,9.13,8.13,clean,clean,included,exact,100.0,LGA026,Daishali-Central,Uzojina Central,True
+HF00438,Agbngoru,Agbzatu South,7.398021,8.406092,clean,clean,included,exact,100.0,LGA009,Agbngoru,Agbzatu South,True
+HF00054,Irolufa ,Kukrima North,6.110032,9.753453,clean,clean,included,exact,100.0,LGA051,Irolufa,Kukrima North,True
+HF00507,Bauzani ,Tivbetu North,7.870121,10.361789,clean,clean,included,exact,100.0,LGA021,Bauzani,Tivbetu North,True
+HF01185,Yeltili,Agbkeko North,9.836989,8.910924,clean,clean,included,exact,100.0,LGA110,Yeltili,Agbkeko North,True
+HF01076,Ekedeta-East,Supwasa South,9.287224,11.580015,clean,clean,included,exact,100.0,LGA032,Ekedeta-East,Supwasa South,True
+HF00980,Zambani,Supwasa Central,,,missing,missing,excluded_missing_or_unparseable,exact,100.0,LGA115,Zambani,Supwasa Central,True
+HF00135,Gwolama,Kukrima Central,6.727273,9.542573,clean,clean,included,exact,100.0,LGA041,Gwolama,Kukrima Central,True
+HF01196,Yeltili,Agbkeko North,10.180412,9.060246,clean,clean,included,exact,100.0,LGA110,Yeltili,Agbkeko North,True
+HF00521,Agbzawa-South,Tivbetu North,8.360091,9.987065,clean,clean,included,exact,100.0,LGA013,Agbzawa-South,Tivbetu North,True
+HF00109,Lokbaru ,Kukrima Central,6.640567,9.831372,clean,clean,included,exact,100.0,LGA063,Lokbaru,Kukrima Central,True
+HF00310,Josduri-South,Agbzatu North,,,missing,missing,excluded_missing_or_unparseable,exact,100.0,LGA056,Josduri-South,Agbzatu North,True
+HF00846,Adelaja-North,Uzojina Central,9.272512,8.539446,clean,clean,included,exact,100.0,LGA003,Adelaja-North,Uzojina Central,True
+HF00517,Agbzawa-South,Tivbetu North,8.206622,9.791996,clean,clean,included,exact,100.0,LGA013,Agbzawa-South,Tivbetu North,True
+HF00322,Gwodele-South,Agbzatu North,7.959599,7.670939,clean,clean,included,exact,100.0,LGA039,Gwodele-South,Agbzatu North,True
+HF00123,Agbjide,Kukrima Central,6.821893,9.21825,clean,clean,included,exact,100.0,LGA005,Agbjide,Kukrima Central,True
+HF01155,Jostile,Agbkeko North,9.908889,9.521433,clean,clean,included,exact,100.0,LGA059,Jostile,Agbkeko North,True
+HF00454,DAISHAKO,Agbzatu South,7.583417,8.784474,clean,clean,included,exact,100.0,LGA025,Daishako,Agbzatu South,True
+HF00804,Tamwata-South,Uzojina Central,10.187914,8.448977,clean,clean,included,exact,100.0,LGA095,Tamwata-South,Uzojina Central,True
+HF00516,Agbzawa-South,Tivbetu North,8.216741,9.757699,clean,clean,included,exact,100.0,LGA013,Agbzawa-South,Tivbetu North,True
+HF00589,Irongori,Tivbetu Central,7.947185,10.823491,clean,clean,included,exact,100.0,LGA054,Irongori,Tivbetu Central,True
+HF00058,Irolufa,Kukrima North,6.197444,10.015032,clean,clean,included,exact,100.0,LGA051,Irolufa,Kukrima North,True
+HF01154,Jostile,Agbkeko North,9.89696,9.515498,clean,clean,included,exact,100.0,LGA059,Jostile,Agbkeko North,True
+HF00167,WURMASHI,Kukrima Central,7.411483,9.912909,clean,clean,included,exact,100.0,LGA107,Wurmashi Local Govt Area,Kukrima Central,True
+HF00926,Zamberi-North ,Uzojina South,8.501021,8.659091,clean,clean,included,exact,100.0,LGA116,Zamberi-North,Uzojina South,True
+HF00604,Ironama ,Tivbetu Central,7.371901,10.666623,clean,clean,included,exact,100.0,LGA053,Ironama,Tivbetu Central,True
+HF00285,Malmaba,Agbzatu North,7.768586,7.92846,clean,clean,included,exact,100.0,LGA070,Malmaba,Agbzatu North,True
+HF00637,Joskeru,Tivbetu South,8.683102,11.313295,clean,clean,included,exact,100.0,LGA057,Joskeru,Tivbetu South,True
+HF01021,Funkedu ,Supwasa Central,10.252351,11.264894,clean,clean,included,exact,100.0,LGA038,Funkedu,Supwasa Central,True
+HF01182,Maljiwo,Agbkeko North,9.643656,9.264295,clean,clean,included,exact,100.0,LGA069,Maljiwo,Agbkeko North,True
+HF00325,Gwodele South,Agbzatu North,8.059011,7.773748,clean,clean,included,fuzzy,92.3076923076923,LGA039,Gwodele-South,Agbzatu North,True
+HF00110,Lokbaru ,Kukrima Central,6.969075,9.906772,clean,clean,included,exact,100.0,LGA063,Lokbaru,Kukrima Central,True
+HF01031,Josmiba,Supwasa Central,10.480188,10.41212,clean,clean,included,exact,100.0,LGA058,Josmiba,Supwasa Central,True
+HF00132,Tambemi,Kukrima Central,7.162416,9.831472,clean,clean,included,exact,100.0,LGA092,Tambemi,Kukrima Central,True
+HF00618,Tivbani,Tivbetu Central,7.536192,10.55022,clean,clean,included,exact,100.0,LGA096,Tivbani,Tivbetu Central,True
+HF00816,Daishali-Central,Uzojina Central,9.012789,8.199683,clean,clean,included,exact,100.0,LGA026,Daishali-Central,Uzojina Central,True
+HF00040,Riylude North,Kukrima North,6.511429,9.595088,clean,clean,included,fuzzy,92.3076923076923,LGA086,Riylude-North,Kukrima North,True
+HF00760,Tamluni LGA,Uzojina North,8.416999,7.909065,clean,clean,included,exact,100.0,LGA094,Tamluni,Uzojina North,True
+HF01239,Hanjile,Agbkeko Central,9.834394,9.623763,clean,clean,included,exact,100.0,LGA043,Hanjile,Agbkeko Central,True
+HF00060,Irolufa,Kukrima North,6.192201,9.933669,clean,clean,included,exact,100.0,LGA051,Irolufa,Kukrima North,True
+HF00377,Dutzama,Agbzatu Central,6.944508,7.725776,clean,clean,included,exact,100.0,LGA031,DUTZAMA,Agbzatu Central,True
+HF00792,Nassako-Central,Uzojina North,8.85898,7.509353,clean,clean,included,exact,100.0,LGA075,Nassako-Central,Uzojina North,True
+HF00954,NASRIFA,Supwasa North,"9,066455","10,724456",comma_decimal,comma_decimal,included,exact,100.0,LGA074,Nasrifa  ,Supwasa North,True
+HF00412,Iromashi,Agbzatu Central,7.093594,8.373692,clean,clean,included,exact,100.0,LGA052,Iromashi,Agbzatu Central,True
+HF00878,OlubaniSouth,Uzojina South,8.447777,8.411938,clean,clean,included,fuzzy,96.0,LGA083,OLUBANI-SOUTH,Uzojina South,True
+HF01007,Funkedu,Supwasa Central,10.260593,11.483907,clean,clean,included,exact,100.0,LGA038,Funkedu,Supwasa Central,True
+HF00612,Ironama LGA,Tivbetu Central,7.513699,10.715796,clean,clean,included,exact,100.0,LGA053,Ironama,Tivbetu Central,True
+HF00593,Irongori,Tivbetu Central,7.939329,10.562777,clean,clean,included,exact,100.0,LGA054,Irongori,Tivbetu Central,True
+HF00327,GWODELE-SOUTH,Agbzatu North,8.047543,7.748601,clean,clean,included,exact,100.0,LGA039,Gwodele-South,Agbzatu North,True
+HF00474,Ngetija,Agbzatu South,7.666383,9.058666,clean,clean,included,exact,100.0,LGA079,Ngetija,Agbzatu South,True
+HF00171,Zamtsiru,Kukrima South,6.793008,9.99931,clean,clean,included,exact,100.0,LGA121,Zamtsiru,Kukrima South,True
+HF00272,Malmaba,Agbzatu North,7.495428,7.999495,clean,clean,included,exact,100.0,LGA070,Malmaba,Agbzatu North,True
+HF00353,Zamkeri,Agbzatu Central,6.791232,8.635882,clean,clean,included,exact,100.0,LGA118,Zamkeri,Agbzatu Central,True
+HF00603,Ironama,Tivbetu Central,7.444372,10.65135,clean,clean,included,exact,100.0,LGA053,Ironama,Tivbetu Central,True
+HF00146,Wurmashi ,Kukrima Central,7.220868,10.195936,clean,clean,included,exact,100.0,LGA107,Wurmashi Local Govt Area,Kukrima Central,True
+HF01189,YELTILI,Agbkeko North,9.889611,8.750201,clean,clean,included,exact,100.0,LGA110,Yeltili,Agbkeko North,True
+HF00872,Olubani-South,Uzojina South,8.11253,8.376772,clean,clean,included,exact,100.0,LGA083,OLUBANI-SOUTH,Uzojina South,True
+HF00590,Irongori LGA,Tivbetu Central,7.910697,10.762373,clean,clean,included,exact,100.0,LGA054,Irongori,Tivbetu Central,True
+HF01233,Hanjile,Agbkeko Central,9.707219,9.752334,clean,clean,included,exact,100.0,LGA043,Hanjile,Agbkeko Central,True
+HF01184,Maljiwo,Agbkeko North,9.648737,9.487315,clean,clean,included,exact,100.0,LGA069,Maljiwo,Agbkeko North,True
+HF00696,Adekowo,Tivbetu South,8.457193,11.509368,clean,clean,included,exact,100.0,LGA002,Adekowo,Tivbetu South,True
+HF00078,Ibabani,Kukrima North,6.600693,9.210301,clean,clean,included,exact,100.0,LGA047,Ibabani,Kukrima North,True
+HF00430,Oketsifa,Agbzatu South,7.978672,8.463104,clean,clean,included,exact,100.0,LGA081,Oketsifa,Agbzatu South,True
+HF00232,Enumade-West,Kukrima South,6.669143,10.501108,clean,clean,included,exact,100.0,LGA035,Enumade-West,Kukrima South,True
+HF00280,Malmaba,Agbzatu North,7.661241,8.044617,clean,clean,included,exact,100.0,LGA070,Malmaba,Agbzatu North,True
+HF00607,Ironama LGA,Tivbetu Central,7.489896,10.816027,clean,clean,included,exact,100.0,LGA053,Ironama,Tivbetu Central,True
+HF00992,Zambani,Supwasa Central,10.124003,11.206534,clean,clean,included,exact,100.0,LGA115,Zambani,Supwasa Central,True
+HF01291,Enumija,Agbkeko South,10.596473,10.087195,clean,clean,included,exact,100.0,LGA036,Enumija,Agbkeko South,True
+HF01278,Nasnadu,Agbkeko South,9.931932,10.015632,clean,clean,included,exact,100.0,LGA073,Nasnadu  ,Agbkeko South,True
+HF00881,Uzorisa,Uzojina South,8.328645,9.375223,clean,clean,included,exact,100.0,LGA105,Uzorisa Local Govt Area,Uzojina South,True
+HF00182,DAIZADE,Kukrima South,6.388055,10.269453,clean,clean,included,exact,100.0,LGA027,Daizade,Kukrima South,True
+HF01115,Oluyofa,Supwasa South,9.269803,11.281354,clean,clean,included,exact,100.0,LGA085,Oluyofa  ,Supwasa South,True
+HF00385,Enutifa,Agbzatu Central,6.981476,8.01738,clean,clean,included,exact,100.0,LGA037,Enutifa,Agbzatu Central,True
+HF01101,Baumiru,Supwasa South,9.068453,11.071724,clean,clean,included,exact,100.0,LGA018,Baumiru,Supwasa South,True
+HF01049,Katdudu,Supwasa Central,9.91726,10.623578,clean,clean,included,exact,100.0,LGA060,Katdudu,Supwasa Central,True
+HF00259,Agbmita,Agbzatu North,7.846695,7.87948,clean,clean,included,exact,100.0,LGA008,Agbmita  ,Agbzatu North,True
+HF01078,Ekedeta-East,Supwasa South,9.41374,11.561336,clean,clean,included,exact,100.0,LGA032,Ekedeta-East,Supwasa South,True
+HF00247,Yobkosa-South,Agbzatu North,7.477367,7.60339,clean,clean,included,exact,100.0,LGA112,Yobkosa-South,Agbzatu North,True
+HF01179,Maljiwo,Agbkeko North,9.473237,9.069337,clean,clean,included,exact,100.0,LGA069,Maljiwo,Agbkeko North,True
+HF01289,Enumija,Agbkeko South,10.661686,10.066308,clean,clean,included,exact,100.0,LGA036,Enumija,Agbkeko South,True
+HF00061,Shajima LGA,Kukrima North,5.93974,9.277555,clean,clean,included,exact,100.0,LGA087,Shajima,Kukrima North,True
+HF00869,Tivngoba,Uzojina South,9.0683,9.029568,clean,clean,included,exact,100.0,LGA098,Tivngoba,Uzojina South,True
+HF00858,Wurkota,Uzojina Central,9.230096,8.697439,clean,clean,included,exact,100.0,LGA106,Wurkota  ,Uzojina Central,True
+HF00709,Tivrafa-West,Uzojina North,"9°05'15.7""E","7°51'42.8""N",dms,dms,included,fuzzy,91.66666666666666,LGA099,Tivrafa West,Uzojina North,True
+HF00768,Tamluni,Uzojina North,8.537452,7.929621,clean,clean,included,exact,100.0,LGA094,Tamluni,Uzojina North,True
+HF00007,Maltsimi,Kukrima North,6.313554,9.211712,clean,clean,included,exact,100.0,LGA071,Maltsimi,Kukrima North,True
+HF00224,ENUMADE-WEST,Kukrima South,6.609607,10.159319,clean,clean,included,exact,100.0,LGA035,Enumade-West,Kukrima South,True
+HF00324,Gwodele-South,Agbzatu North,7.964362,7.639968,clean,clean,included,exact,100.0,LGA039,Gwodele-South,Agbzatu North,True
+HF00446,Daishako,Agbzatu South,7.25048,8.964745,clean,clean,included,exact,100.0,LGA025,Daishako,Agbzatu South,True
+HF00223,EnumadeWest,Kukrima South,6.489099,10.40638,clean,clean,included,fuzzy,95.65217391304348,LGA035,Enumade-West,Kukrima South,True
+HF00346,Zamkeri ,Agbzatu Central,6.833786,8.72476,clean,clean,included,exact,100.0,LGA118,Zamkeri,Agbzatu Central,True
+HF01214,Yobrifa-West,Agbkeko Central,8.927396,9.808456,clean,clean,included,exact,100.0,LGA114,YOBRIFA-WEST,Agbkeko Central,True
+HF00426,Oketsifa,Agbzatu South,8.00421,8.651609,clean,clean,included,exact,100.0,LGA081,Oketsifa,Agbzatu South,True
+HF00338,Gwodele South,Agbzatu North,8.176598,7.734437,clean,clean,included,fuzzy,92.3076923076923,LGA039,Gwodele-South,Agbzatu North,True
+HF01046,Josmiba,Supwasa Central,10.726164,10.437667,clean,clean,included,exact,100.0,LGA058,Josmiba,Supwasa Central,True
+HF01164,Jostile,Agbkeko North,10.115462,9.28227,clean,clean,included,exact,100.0,LGA059,Jostile,Agbkeko North,True
+HF00434,Baungoshi,Agbzatu South,7.083152,8.802791,clean,clean,included,exact,100.0,LGA019,Baungoshi Local Govt Area,Agbzatu South,True
+HF00924,ZAMBERI-NORTH,Uzojina South,,,missing,missing,excluded_missing_or_unparseable,exact,100.0,LGA116,Zamberi-North,Uzojina South,True
+HF00149,WURMASHI,Kukrima Central,7.086451,10.05271,clean,clean,included,exact,100.0,LGA107,Wurmashi Local Govt Area,Kukrima Central,True
+HF00575,Dutwano LGA,Tivbetu Central,7.646875,11.256142,clean,clean,included,exact,100.0,LGA030,Dutwano,Tivbetu Central,True
+HF00238,Yobkosa-South,Agbzatu North,7.113152,7.718199,clean,clean,included,exact,100.0,LGA112,Yobkosa-South,Agbzatu North,True
+HF01001,Bautiru-West LGA,Supwasa Central,10.550529,10.988309,clean,clean,included,exact,100.0,LGA020,Bautiru-West,Supwasa Central,True
+HF00089,Yelkefa,Kukrima Central,7.273442,9.610453,clean,clean,included,exact,100.0,LGA109,Yelkefa,Kukrima Central,True
+HF01088,Ekedeta-East,Supwasa South,9.494861,11.60626,clean,clean,included,exact,100.0,LGA032,Ekedeta-East,Supwasa South,True
+HF00936,ZAMBERI-NORTH,Uzojina South,8.593943,8.710386,clean,clean,included,exact,100.0,LGA116,Zamberi-North,Uzojina South,True
+HF00680,Olujiwa,Tivbetu South,8.178418,11.053379,clean,clean,included,exact,100.0,LGA084,Olujiwa,Tivbetu South,True
+HF00427,Oketsifa,Agbzatu South,7.909573,8.602078,clean,clean,included,exact,100.0,LGA081,Oketsifa,Agbzatu South,True
+HF00228,Enumade-West,Kukrima South,6.596656,10.287104,clean,clean,included,exact,100.0,LGA035,Enumade-West,Kukrima South,True
+HF00314,Josduri-South,Agbzatu North,7.716855,7.619705,clean,clean,included,exact,100.0,LGA056,Josduri-South,Agbzatu North,True
+HF00410,Supsama South,Agbzatu Central,6.637405,8.27629,clean,clean,included,fuzzy,92.3076923076923,LGA090,Supsama-South,Agbzatu Central,True
+HF00046,Irolufa,Kukrima North,5.919656,9.891983,clean,clean,included,exact,100.0,LGA051,Irolufa,Kukrima North,True
+HF00553,Malbawo-Central,Tivbetu North,7.916049,9.535463,clean,clean,included,exact,100.0,LGA068,MALBAWO-CENTRAL,Tivbetu North,True
+HF00472,Ngetija LGA,Agbzatu South,7.751864,8.988739,clean,clean,included,exact,100.0,LGA079,Ngetija,Agbzatu South,True
+HF00864,Tivngoba,Uzojina South,8.768377,8.778616,clean,clean,included,exact,100.0,LGA098,Tivngoba,Uzojina South,True
+HF00750,Nasyotu,Uzojina North,8.949302,7.995727,clean,clean,included,exact,100.0,LGA076,Nasyotu,Uzojina North,True
+HF00706,Adekowo,Tivbetu South,,,missing,missing,excluded_missing_or_unparseable,exact,100.0,LGA002,Adekowo,Tivbetu South,True
+HF00212,Adenaja,Kukrima South,7.080229,10.451801,clean,clean,included,exact,100.0,LGA004,ADENAJA,Kukrima South,True
+HF00733,Agbkotu-South,Uzojina North,8.371076,8.225309,clean,clean,included,exact,100.0,LGA006,Agbkotu-South,Uzojina North,True
+HF00028,Riylude-North,Kukrima North,6.265556,9.779254,clean,clean,included,exact,100.0,LGA086,Riylude-North,Kukrima North,True
+HF01051,Katdudu,Supwasa Central,10.163773,10.563865,clean,clean,included,exact,100.0,LGA060,Katdudu,Supwasa Central,True
+HF00765,Tamluni,Uzojina North,8.380314,7.852321,clean,clean,included,exact,100.0,LGA094,Tamluni,Uzojina North,True
+HF00371,Lokmata,Agbzatu Central,6.740098,8.862194,clean,clean,included,exact,100.0,LGA064,Lokmata,Agbzatu Central,True
+HF01165,Jostile,Agbkeko North,10.100384,9.588139,clean,clean,included,exact,100.0,LGA059,Jostile,Agbkeko North,True
+HF00975,Wuryona,Supwasa North,9.900395,10.460292,clean,clean,included,exact,100.0,LGA108,Wuryona,Supwasa North,True
+HF01327,Gwodewo,Agbkeko South,10.588857,9.841031,clean,clean,included,exact,100.0,LGA040,Gwodewo,Agbkeko South,True
+HF00752,Nasyotu,Uzojina North,8.906137,7.945131,clean,clean,included,exact,100.0,LGA076,Nasyotu,Uzojina North,True
+HF00998,Bautiru-West,Supwasa Central,10.301712,10.82527,clean,clean,included,exact,100.0,LGA020,Bautiru-West,Supwasa Central,True
+HF00931,Zamberi-North,Uzojina South,8.529102,8.909557,clean,clean,included,exact,100.0,LGA116,Zamberi-North,Uzojina South,True
+HF00852,Adelaja-North,Uzojina Central,9.565986,8.407596,clean,clean,included,exact,100.0,LGA003,Adelaja-North,Uzojina Central,True
+HF900919,Banluwo,Uzojina South,8.711253,8.537559,clean,clean,included,exact,100.0,LGA016,Banluwo,Uzojina South,True
+HF00112,Lokbaru LGA,Kukrima Central,6.871133,10.009749,clean,clean,included,exact,100.0,LGA063,Lokbaru,Kukrima Central,True
+HF00841,Dutkeni,Uzojina Central,9.991681,8.455646,clean,clean,included,exact,100.0,LGA029,Dutkeni  ,Uzojina Central,True
+HF00352,Zamkeri,Agbzatu Central,6.913406,8.966096,clean,clean,included,exact,100.0,LGA118,Zamkeri,Agbzatu Central,True
+HF00991,Zambani,Supwasa Central,,,missing,missing,excluded_missing_or_unparseable,exact,100.0,LGA115,Zambani,Supwasa Central,True
+HF00022,Uzoluni,Kukrima North,6.21987,9.058692,clean,clean,included,exact,100.0,LGA104,Uzoluni,Kukrima North,True
+HF00357,Irosaja,Agbzatu Central,6.758515,8.12586,clean,clean,included,exact,100.0,LGA055,Irosaja,Agbzatu Central,True
+HF00261,Agbmita,Agbzatu North,8.026636,8.192502,clean,clean,included,exact,100.0,LGA008,Agbmita  ,Agbzatu North,True
+HF00829,Yeltsina,Uzojina Central,9.419292,8.688749,clean,clean,included,exact,100.0,LGA111,Yeltsina Local Govt Area,Uzojina Central,True
+HF00006,Maltsimi,Kukrima North,6.157591,9.570943,clean,clean,included,exact,100.0,LGA071,Maltsimi,Kukrima North,True
+HF00687,Nasdudu-North,Tivbetu South,7.897815,11.565997,clean,clean,included,exact,100.0,LGA072,Nasdudu-North,Tivbetu South,True
+HF00181,Daizade LGA,Kukrima South,6.279453,10.260356,clean,clean,included,exact,100.0,LGA027,Daizade,Kukrima South,True
+HF00140,Gwolama,Kukrima Central,6.97876,9.337325,clean,clean,included,exact,100.0,LGA041,Gwolama,Kukrima Central,True
+HF00432,BAUNGOSHI,Agbzatu South,7.13934,8.866435,clean,clean,included,exact,100.0,LGA019,Baungoshi Local Govt Area,Agbzatu South,True
+HF00702,Adekowo,Tivbetu South,8.687186,11.588935,clean,clean,included,exact,100.0,LGA002,Adekowo,Tivbetu South,True
+HF01075,Okeyoru-South,Supwasa Central,10.050456,10.678583,clean,clean,included,exact,100.0,LGA082,Okeyoru-South,Supwasa Central,True
+HF00334,Gwodele-South ,Agbzatu North,8.202095,7.515021,clean,clean,included,exact,100.0,LGA039,Gwodele-South,Agbzatu North,True
+HF00592,Irongori,Tivbetu Central,7.962429,10.63916,clean,clean,included,exact,100.0,LGA054,Irongori,Tivbetu Central,True
+HF00101,Yelkefa,Kukrima Central,7.493593,9.441952,clean,clean,included,exact,100.0,LGA109,Yelkefa,Kukrima Central,True
+HF01306,Ngemidu,Agbkeko South,10.376178,9.590761,clean,clean,included,exact,100.0,LGA077,Ngemidu,Agbkeko South,True
+HF00955,Nasrifa,Supwasa North,9.248863,10.8182,clean,clean,included,exact,100.0,LGA074,Nasrifa  ,Supwasa North,True
+HF01100,Baumiru,Supwasa South,9.014823,11.154474,clean,clean,included,exact,100.0,LGA018,Baumiru,Supwasa South,True
+HF01211,Yobrifa-West,Agbkeko Central,8.894472,9.63016,clean,clean,included,exact,100.0,LGA114,YOBRIFA-WEST,Agbkeko Central,True
+HF01240,Hanjile,Agbkeko Central,9.881908,9.6406,clean,clean,included,exact,100.0,LGA043,Hanjile,Agbkeko Central,True
+HF00921,Banluwo,Uzojina South,8.831699,8.673921,clean,clean,included,exact,100.0,LGA016,Banluwo,Uzojina South,True
+HF00875,Olubani-South,Uzojina South,8.293469,8.532028,clean,clean,included,exact,100.0,LGA083,OLUBANI-SOUTH,Uzojina South,True
+HF01326,Gwodewo,Agbkeko South,10.55459,9.870037,clean,clean,included,exact,100.0,LGA040,Gwodewo,Agbkeko South,True
+HF00031,Riylude-North,Kukrima North,6.253184,9.830211,clean,clean,included,exact,100.0,LGA086,Riylude-North,Kukrima North,True
+HF00197,Umumitu,Kukrima South,6.661819,10.88988,clean,clean,included,exact,100.0,LGA102,Umumitu,Kukrima South,True
+HF00685,Olujiwa,Tivbetu South,8.276554,10.800409,clean,clean,included,exact,100.0,LGA084,Olujiwa,Tivbetu South,True
+HF01319,Zammiyi,Agbkeko South,10.642577,10.033475,clean,clean,included,exact,100.0,LGA119,ZAMMIYI,Agbkeko South,True
+HF00568,Ibajija-South,Tivbetu Central,10.98254,7.147829,clean,clean,included,exact,100.0,LGA048,Ibajija-South,Tivbetu Central,True
+HF00585,Irongori,Tivbetu Central,7.789818,10.883615,clean,clean,included,exact,100.0,LGA054,Irongori,Tivbetu Central,True
+HF00443,AGBNGORU,Agbzatu South,7.65573,8.430011,clean,clean,included,exact,100.0,LGA009,Agbngoru,Agbzatu South,True
+HF01237,HANJILE,Agbkeko Central,9.658971,9.607714,clean,clean,included,exact,100.0,LGA043,Hanjile,Agbkeko Central,True
+HF00754,NASYOTU,Uzojina North,9.198542,8.028332,clean,clean,included,exact,100.0,LGA076,Nasyotu,Uzojina North,True
+HF01282,Nasnadu,Agbkeko South,10.078286,10.270813,clean,clean,included,exact,100.0,LGA073,Nasnadu  ,Agbkeko South,True
+HF00951,Nasrifa,Supwasa North,8.957197,10.87669,clean,clean,included,exact,100.0,LGA074,Nasrifa  ,Supwasa North,True
+HF01299,Enumija ,Agbkeko South,10.826209,10.227893,clean,clean,included,exact,100.0,LGA036,Enumija,Agbkeko South,True
+HF00133,Gwolama,Kukrima Central,6.729949,9.695893,clean,clean,included,exact,100.0,LGA041,Gwolama,Kukrima Central,True
+HF00786,Nassako-Central,Uzojina North,8.540909,7.439272,clean,clean,included,exact,100.0,LGA075,Nassako-Central,Uzojina North,True
+HF01216,Yobrifa West,Agbkeko Central,8.967089,9.602304,clean,clean,included,fuzzy,91.66666666666666,LGA114,YOBRIFA-WEST,Agbkeko Central,True
+HF00063,Shajima,Kukrima North,5.836909,9.041206,clean,clean,included,exact,100.0,LGA087,Shajima,Kukrima North,True
+HF00941,Adekeni,Supwasa North,9.464985,10.629006,clean,clean,included,exact,100.0,LGA001,Adekeni,Supwasa North,True
+HF00463,Umumayi,Agbzatu South,8.003522,9.339455,clean,clean,included,exact,100.0,LGA101,Umumayi,Agbzatu South,True
+HF00375,Lokmata,Agbzatu Central,6.766095,8.727617,clean,clean,included,exact,100.0,LGA064,Lokmata,Agbzatu Central,True
+HF00103,Yelkefa,Kukrima Central,"7,444181","9,87923",comma_decimal,comma_decimal,included,exact,100.0,LGA109,Yelkefa,Kukrima Central,True
+HF00359,Irosaja,Agbzatu Central,6.657077,8.081276,clean,clean,included,exact,100.0,LGA055,Irosaja,Agbzatu Central,True
+HF00131,Tambemi,Kukrima Central,7.032331,9.876326,clean,clean,included,exact,100.0,LGA092,Tambemi,Kukrima Central,True
+HF00476,Ngetija,Agbzatu South,7.753388,8.960476,clean,clean,included,exact,100.0,LGA079,Ngetija,Agbzatu South,True
+HF00703,Adekowo,Tivbetu South,8.714223,11.590589,clean,clean,included,exact,100.0,LGA002,Adekowo,Tivbetu South,True
+HF00497,Agbtsiko,Tivbetu North,7.978348,9.937524,clean,clean,included,exact,100.0,LGA012,Agbtsiko  ,Tivbetu North,True
+HF01085,Ekedeta East,Supwasa South,9.507048,11.547113,clean,clean,included,fuzzy,91.66666666666666,LGA032,Ekedeta-East,Supwasa South,True
+HF00569,Ibajija-South ,Tivbetu Central,7.189703,10.771575,clean,clean,included,exact,100.0,LGA048,Ibajija-South,Tivbetu Central,True
+HF00616,Tivbani,Tivbetu Central,7.62362,10.564237,clean,clean,included,exact,100.0,LGA096,Tivbani,Tivbetu Central,True
+HF00248,Yobkosa-South,Agbzatu North,7.494263,7.59634,clean,clean,included,exact,100.0,LGA112,Yobkosa-South,Agbzatu North,True
+HF01213,Yobrifa West,Agbkeko Central,9.070264,9.708487,clean,clean,included,fuzzy,91.66666666666666,LGA114,YOBRIFA-WEST,Agbkeko Central,True
+HF900253,Agbmita,Agbzatu North,8.394384,7.88658,clean,clean,included,exact,100.0,LGA008,Agbmita  ,Agbzatu North,True
+HF00490,Tivsano-North,Tivbetu North,8.463749,10.277329,clean,clean,included,exact,100.0,LGA100,Tivsano-North,Tivbetu Central,False
+HF00894,LOKSAYI,Uzojina South,8.315355,8.89229,clean,clean,included,exact,100.0,LGA066,Loksayi  ,Uzojina South,True
+HF00743,Agbkotu-South,Uzojina North,8.495016,8.147641,clean,clean,included,exact,100.0,LGA006,Agbkotu-South,Uzojina North,True
+HF00994,ZAMBANI,Supwasa Central,10.279417,10.901836,clean,clean,included,exact,100.0,LGA115,Zambani,Supwasa Central,True
+HF00459,Umumayi,Agbzatu South,7.633257,9.456743,clean,clean,included,exact,100.0,LGA101,Umumayi,Agbzatu South,True
+HF00638,Tamlufa-East LGA,Tivbetu South,8.553245,10.719561,clean,clean,included,exact,100.0,LGA093,Tamlufa-East Local Govt Area,Tivbetu South,True
+HF00496,AGBTSIKO,Tivbetu North,7.973203,9.695171,clean,clean,included,exact,100.0,LGA012,Agbtsiko  ,Tivbetu North,True
+HF00160,Wurmashi,Kukrima Central,7.277172,9.966112,clean,clean,included,exact,100.0,LGA107,Wurmashi Local Govt Area,Kukrima Central,True
+HF00780,Nassako-Central,Uzojina North,7.409559,8.275578,clean,clean,included,exact,100.0,LGA075,Nassako-Central,Uzojina North,True
+HF00256,Agbmita,Agbzatu North,7.921323,8.365892,clean,clean,included,exact,100.0,LGA008,Agbmita  ,Agbzatu North,True
+HF00630,Joskeru,Tivbetu South,8.390897,11.339983,clean,clean,included,exact,100.0,LGA057,Joskeru,Tivbetu South,True
+HF01147,Lokshasa,Agbkeko North,10.550423,9.439153,clean,clean,included,exact,100.0,LGA067,Lokshasa  ,Agbkeko North,True
+HF00218,Banluta,Kukrima South,6.100463,10.150814,clean,clean,included,exact,100.0,LGA015,Banluta,Kukrima South,True
+HF00707,Tivrafa-West ,Uzojina North,8.955445,7.646671,clean,clean,included,fuzzy,91.66666666666666,LGA099,Tivrafa West,Uzojina North,True
+HF01204,DAIBEWO,Agbkeko Central,9.339605,9.420845,clean,clean,included,exact,100.0,LGA023,Daibewo,Agbkeko Central,True
+HF00543,Uzoberi,Tivbetu North,8.841955,10.126361,clean,clean,included,exact,100.0,LGA103,Uzoberi,Tivbetu North,True
+HF00143,Gwolama,Kukrima Central,6.915991,9.185069,clean,clean,included,exact,100.0,LGA041,Gwolama,Kukrima Central,True
+HF00136,Gwolama,Kukrima Central,6.817994,9.514545,clean,clean,included,exact,100.0,LGA041,Gwolama,Kukrima Central,True
+HF01098,Baumiru,Supwasa South,9.02877,11.115224,clean,clean,included,exact,100.0,LGA018,Baumiru,Supwasa South,True
+HF01177,Maljiwo,Agbkeko North,9.497099,9.123282,clean,clean,included,exact,100.0,LGA069,Maljiwo,Agbkeko North,True
+HF01245,Daibama,Agbkeko Central,9.154912,9.910187,clean,clean,included,exact,100.0,LGA022,Daibama,Agbkeko Central,True
+HF00282,Malmaba,Agbzatu North,7.744936,8.14884,clean,clean,included,exact,100.0,LGA070,Malmaba,Agbzatu North,True
+HF00788,Nassako-Central,Uzojina North,8.580784,7.497792,clean,clean,included,exact,100.0,LGA075,Nassako-Central,Uzojina North,True
+HF00305,Hanraja,Agbzatu North,7.501431,7.908779,clean,clean,included,exact,100.0,LGA044,Hanraja,Agbzatu North,True
+HF01027,Funkedu,Supwasa Central,10.577629,11.270131,clean,clean,included,exact,100.0,LGA038,Funkedu,Supwasa Central,True
+HF00539,Uzoberi,Tivbetu North,8.849711,10.173867,clean,clean,included,exact,100.0,LGA103,Uzoberi,Tivbetu North,True
+HF00342,Zamkeri ,Agbzatu Central,6.760362,8.967704,clean,clean,included,exact,100.0,LGA118,Zamkeri,Agbzatu Central,True
+HF00662,Hanjiko,Tivbetu South,8.516601,11.019014,clean,clean,included,exact,100.0,LGA042,Hanjiko Local Govt Area,Tivbetu South,True
+HF01074,Okeyoru-South,Supwasa Central,9.975258,10.731835,clean,clean,included,exact,100.0,LGA082,Okeyoru-South,Supwasa Central,True
+HF00258,Agbmita,Agbzatu North,7.91,7.81,clean,clean,included,exact,100.0,LGA008,Agbmita  ,Agbzatu North,True
+HF00098,Yelkefa,Kukrima Central,7.339431,9.436547,clean,clean,included,exact,100.0,LGA109,Yelkefa,Kukrima Central,True
+HF00861,Wurkota,Uzojina Central,9.282455,9.087383,clean,clean,included,exact,100.0,LGA106,Wurkota  ,Uzojina Central,True
+HF00081,EKEJISA-NORTH,Kukrima North,5.699544,9.729066,clean,clean,included,exact,100.0,LGA034,Ekejisa-North Local Govt Area,Kukrima North,True
+HF01123,Tivmama,Supwasa South,9.64695,11.091215,clean,clean,included,exact,100.0,LGA097,Tivmama,Supwasa South,True
+HF00982,Zambani ,Supwasa Central,9.910613,11.210663,clean,clean,included,exact,100.0,LGA115,Zambani,Supwasa Central,True
+HF00099,Yelkefa,Kukrima Central,7.5895,9.428368,clean,clean,included,exact,100.0,LGA109,Yelkefa,Kukrima Central,True
+HF00118,Agbjide,Kukrima Central,6.572116,9.523416,clean,clean,included,exact,100.0,LGA005,Agbjide,Kukrima Central,True
+HF01081,Ekedeta-East,Supwasa South,9.488061,11.604106,clean,clean,included,exact,100.0,LGA032,Ekedeta-East,Supwasa South,True
+HF00056,Irolufa,Kukrima North,6.131007,9.973242,clean,clean,included,exact,100.0,LGA051,Irolufa,Kukrima North,True
+HF01317,Zammiyi,Agbkeko South,10.46656,10.186012,clean,clean,included,exact,100.0,LGA119,ZAMMIYI,Agbkeko South,True
+HF01056,Katdudu,Supwasa Central,10.114072,10.505125,clean,clean,included,exact,100.0,LGA060,Katdudu,Supwasa Central,True
+HF00935,Zamberi-North LGA,Uzojina South,8.680263,8.751563,clean,clean,included,exact,100.0,LGA116,Zamberi-North,Uzojina South,True
+HF00956,Nasrifa,Supwasa North,9.243193,10.648005,clean,clean,included,exact,100.0,LGA074,Nasrifa  ,Supwasa North,True
+HF00996,ZAMBANI,Supwasa Central,10.246834,10.87804,clean,clean,included,exact,100.0,LGA115,Zambani,Supwasa Central,True
+HF01297,Enumija,Agbkeko South,10.863171,10.078358,clean,clean,included,exact,100.0,LGA036,Enumija,Agbkeko South,True
+HF00120,Agbjide,Kukrima Central,6.704085,9.374498,clean,clean,included,exact,100.0,LGA005,Agbjide,Kukrima Central,True
+HF01143,Sokmiri,Agbkeko North,9.746433,8.988746,clean,clean,included,exact,100.0,LGA088,Sokmiri,Agbkeko North,True
+HF00973,Wuryona,Supwasa North,9.811489,10.578971,clean,clean,included,exact,100.0,LGA108,Wuryona,Supwasa North,True
+HF00230,Enumade-West,Kukrima South,6.527888,10.282229,clean,clean,included,exact,100.0,LGA035,Enumade-West,Kukrima South,True
+HF01275,Nasnadu,Agbkeko South,9.941365,9.886431,clean,clean,included,exact,100.0,LGA073,Nasnadu  ,Agbkeko South,True
+HF00065,SHAJIMA,Kukrima North,6.135081,9.231325,clean,clean,included,exact,100.0,LGA087,Shajima,Kukrima North,True
+HF00772,Tamluni,Uzojina North,8.525022,7.911056,clean,clean,included,exact,100.0,LGA094,Tamluni,Uzojina North,True
+HF00544,Uzoberi,Tivbetu North,8.967805,10.154681,clean,clean,included,exact,100.0,LGA103,Uzoberi,Tivbetu North,True
+HF01284,Nasnadu,Agbkeko South,10.045463,10.105296,clean,clean,included,exact,100.0,LGA073,Nasnadu  ,Agbkeko South,True
+HF00200,Umumitu,Kukrima South,6.864166,10.900675,clean,clean,included,exact,100.0,LGA102,Umumitu,Kukrima South,True
+HF00494,Agbtsiko,Tivbetu North,7.99,9.78,clean,clean,included,exact,100.0,LGA012,Agbtsiko  ,Tivbetu North,True
+HF00880,Olubani-South,Uzojina South,8.333424,8.594569,clean,clean,included,exact,100.0,LGA083,OLUBANI-SOUTH,Uzojina South,True
+HF01131,Tivmama,Supwasa South,10.008208,11.477596,clean,clean,included,exact,100.0,LGA097,Tivmama,Supwasa South,True
+HF00619,Tivbani,Tivbetu Central,7.568924,10.550798,clean,clean,included,exact,100.0,LGA096,Tivbani,Tivbetu Central,True
+HF00082,Ekejisa-North,Kukrima North,5.655149,9.628072,clean,clean,included,exact,100.0,LGA034,Ekejisa-North Local Govt Area,Kukrima North,True
+HF00413,Iromashi,Agbzatu Central,7.069807,8.492966,clean,clean,included,exact,100.0,LGA052,Iromashi,Agbzatu Central,True
+HF00201,Adenaja,Kukrima South,6.738118,10.610027,clean,clean,included,exact,100.0,LGA004,ADENAJA,Kukrima South,True
+HF00229,Enumade-West,Kukrima South,6.495369,10.279602,clean,clean,included,exact,100.0,LGA035,Enumade-West,Kukrima South,True
+HF00855,WURKOTA,Uzojina Central,8.954704,8.513525,clean,clean,included,exact,100.0,LGA106,Wurkota  ,Uzojina Central,True
+HF00344,Zamkeri,Agbzatu Central,6.95,8.7,clean,clean,included,exact,100.0,LGA118,Zamkeri,Agbzatu Central,True
+HF01260,ZAMJIDU,Agbkeko Central,9.508888,10.03343,clean,clean,included,exact,100.0,LGA117,Zamjidu  ,Agbkeko Central,True
+HF00784,Nassako-Central,Uzojina North,8.317521,7.294495,clean,clean,included,exact,100.0,LGA075,Nassako-Central,Uzojina North,True
+HF00505,Bauzani,Tivbetu North,7.890172,10.501407,clean,clean,included,exact,100.0,LGA021,Bauzani,Tivbetu North,True
+HF01099,Baumiru,Supwasa South,9.07046,11.200216,clean,clean,included,exact,100.0,LGA018,Baumiru,Supwasa South,True
+HF01163,Jostile,Agbkeko North,10.143697,9.414559,clean,clean,included,exact,100.0,LGA059,Jostile,Agbkeko North,True
+HF00010,Katmaba,Kukrima North,5.701687,9.161474,clean,clean,included,exact,100.0,LGA061,Katmaba,Kukrima North,True
+HF00838,Dutkeni ,Uzojina Central,9.696847,8.418326,clean,clean,included,exact,100.0,LGA029,Dutkeni  ,Uzojina Central,True
+HF01174,Maljiwo ,Agbkeko North,9.4965,9.130317,clean,clean,included,exact,100.0,LGA069,Maljiwo,Agbkeko North,True
+HF01065,OKEYORU-SOUTH,Supwasa Central,9.796443,10.791494,clean,clean,included,exact,100.0,LGA082,Okeyoru-South,Supwasa Central,True
+HF00583,Irongori,Tivbetu Central,7.702457,10.737229,clean,clean,included,exact,100.0,LGA054,Irongori,Tivbetu Central,True
+HF00304,Hanraja,Agbzatu North,7.425182,7.864777,clean,clean,included,exact,100.0,LGA044,Hanraja,Agbzatu North,True
+HF00214,Adenaja,Kukrima South,7.041731,10.641934,clean,clean,included,exact,100.0,LGA004,ADENAJA,Kukrima South,True
+HF00911,Agbridu-West,Uzojina South,8.208013,9.211652,clean,clean,included,exact,100.0,LGA011,Agbridu-West,Uzojina South,True
+HF00088,Ekejisa-North,Kukrima North,5.938353,9.729836,clean,clean,included,exact,100.0,LGA034,Ekejisa-North Local Govt Area,Kukrima North,True
+HF00582,Irongori,Tivbetu Central,7.654234,10.685819,clean,clean,included,exact,100.0,LGA054,Irongori,Tivbetu Central,True
+HF00672,Hanjiko,Tivbetu South,8.724419,10.909656,clean,clean,included,exact,100.0,LGA042,Hanjiko Local Govt Area,Tivbetu South,True
+HF01043,Josmiba,Supwasa Central,10.650835,10.628476,clean,clean,included,exact,100.0,LGA058,Josmiba,Supwasa Central,True
+HF00591,Irongori,Tivbetu Central,7.87,10.66,clean,clean,included,exact,100.0,LGA054,Irongori,Tivbetu Central,True
+HF01285,Nasnadu,Agbkeko South,10.203595,10.229631,clean,clean,included,exact,100.0,LGA073,Nasnadu  ,Agbkeko South,True
+HF00910,AGBRIDU-WEST,Uzojina South,8.189422,9.08186,clean,clean,included,exact,100.0,LGA011,Agbridu-West,Uzojina South,True
+HF00391,Enutifa,Agbzatu Central,7.168547,7.926887,clean,clean,included,exact,100.0,LGA037,Enutifa,Agbzatu Central,True
+HF00721,Dutjiri LGA,Uzojina North,8.706286,8.311258,clean,clean,included,exact,100.0,LGA028,Dutjiri,Uzojina North,True
+HF01269,Nasnadu,Agbkeko South,9.888763,10.18315,clean,clean,included,exact,100.0,LGA073,Nasnadu  ,Agbkeko South,True
+HF00567,Ibajija-South,Tivbetu Central,7.2,10.91,clean,clean,included,exact,100.0,LGA048,Ibajija-South,Tivbetu Central,True
+HF00368,Lokmata,Agbzatu Central,6.626039,8.736826,clean,clean,included,exact,100.0,LGA064,Lokmata,Agbzatu Central,True
+HF00336,Gwodele-South,Agbzatu North,8.289558,7.658991,clean,clean,included,exact,100.0,LGA039,Gwodele-South,Agbzatu North,True
+HF00684,Olujiwa,Tivbetu South,8.30342,10.611765,clean,clean,included,exact,100.0,LGA084,Olujiwa,Tivbetu South,True
+HF00608,Ironama,Tivbetu Central,7.45021,10.762142,clean,clean,included,exact,100.0,LGA053,Ironama,Tivbetu Central,True
+HF00793,Nassako-Central,Uzojina North,8.89048,7.503743,clean,clean,included,exact,100.0,LGA075,Nassako-Central,Uzojina North,True
+HF00462,Umumayi,Agbzatu South,7.862228,9.412381,clean,clean,included,exact,100.0,LGA101,Umumayi,Agbzatu South,True
+HF00654,Ibamide,Tivbetu South,8.246522,11.477482,clean,clean,included,exact,100.0,LGA049,Ibamide,Tivbetu South,True
+HF00761,Tamluni,Uzojina North,8.464619,7.839465,clean,clean,included,exact,100.0,LGA094,Tamluni,Uzojina North,True
+HF00069,Shajima,Kukrima North,5.991622,9.45229,clean,clean,included,exact,100.0,LGA087,Shajima,Kukrima North,True
+HF00515,Agbzawa-South,Tivbetu North,8.273164,9.774455,clean,clean,included,exact,100.0,LGA013,Agbzawa-South,Tivbetu North,True
+HF01102,Loknaba,Supwasa South,8.877646,11.39921,clean,clean,included,exact,100.0,LGA065,Loknaba,Supwasa South,True
+HF01152,Lokshasa,Agbkeko North,10.507394,9.386771,clean,clean,included,exact,100.0,LGA067,Lokshasa  ,Agbkeko North,True
+HF00979,Zambani,Supwasa Central,9.8651,11.012778,clean,clean,included,exact,100.0,LGA115,Zambani,Supwasa Central,True
+HF00617,Tivbani,Tivbetu Central,,,missing,missing,excluded_missing_or_unparseable,exact,100.0,LGA096,Tivbani,Tivbetu Central,True
+HF00995,Zambani,Supwasa Central,10.160937,10.926222,clean,clean,included,exact,100.0,LGA115,Zambani,Supwasa Central,True
+HF00692,NASDUDU-NORTH,Tivbetu South,8.057355,11.155358,clean,clean,included,exact,100.0,LGA072,Nasdudu-North,Tivbetu South,True
+HF00825,Daishali-Central,Uzojina Central,9.230967,8.23195,clean,clean,included,exact,100.0,LGA026,Daishali-Central,Uzojina Central,True
+HF00151,Wurmashi,Kukrima Central,7.36,10.14,clean,clean,included,exact,100.0,LGA107,Wurmashi Local Govt Area,Kukrima Central,True
+HF00660,Hanjiko,Tivbetu South,8.503773,10.984919,clean,clean,included,exact,100.0,LGA042,Hanjiko Local Govt Area,Tivbetu South,True
+HF900014,Katmaba,Kukrima North,"5,698752","9,381432",comma_decimal,comma_decimal,included,exact,100.0,LGA061,Katmaba,Kukrima North,True
+HF01129,Tivmama,Supwasa South,10.182685,11.552551,clean,clean,included,exact,100.0,LGA097,Tivmama,Supwasa South,True
+HF00281,Malmaba,Agbzatu North,7.765756,8.140065,clean,clean,included,exact,100.0,LGA070,Malmaba,Agbzatu North,True
+HF00121,Agbjide,Kukrima Central,,,missing,missing,excluded_missing_or_unparseable,exact,100.0,LGA005,Agbjide,Kukrima Central,True
+HF00902,Hansatu,Uzojina South,8.822596,9.452789,clean,clean,included,exact,100.0,LGA046,Hansatu  ,Uzojina South,True
+HF00290,Supyoshi-East,Agbzatu North,7.788012,7.394021,clean,clean,included,exact,100.0,LGA091,Supyoshi-East  ,Agbzatu North,True
+HF00479,Ngetija,Agbzatu South,7.657602,9.11469,clean,clean,included,exact,100.0,LGA079,Ngetija,Agbzatu South,True
+HF01178,Maljiwo,Agbkeko North,9.544469,9.059718,clean,clean,included,exact,100.0,LGA069,Maljiwo,Agbkeko North,True
+HF00833,Yeltsina,Uzojina Central,9.539544,8.899281,clean,clean,included,exact,100.0,LGA111,Yeltsina Local Govt Area,Uzojina Central,True
+HF00832,Yeltsina,Uzojina Central,9.579981,8.969575,clean,clean,included,exact,100.0,LGA111,Yeltsina Local Govt Area,Uzojina Central,True
+HF00510,Bauzani LGA,Tivbetu North,8.031191,10.374378,clean,clean,included,exact,100.0,LGA021,Bauzani,Tivbetu North,True
+HF01055,Katdudu,Supwasa Central,10.012807,10.446536,clean,clean,included,exact,100.0,LGA060,Katdudu,Supwasa Central,True
+HF00785,Nassako Central,Uzojina North,8.533487,7.371664,clean,clean,included,fuzzy,93.33333333333333,LGA075,Nassako-Central,Uzojina North,True
+HF00092,YELKEFA,Kukrima Central,7.377988,9.715044,clean,clean,included,exact,100.0,LGA109,Yelkefa,Kukrima Central,True
+HF00835,Dutkeni,Uzojina Central,9.596073,8.626605,clean,clean,included,exact,100.0,LGA029,Dutkeni  ,Uzojina Central,True
+HF00776,TAMLUNI,Uzojina North,8.748026,7.721966,clean,clean,included,exact,100.0,LGA094,Tamluni,Uzojina North,True
+HF00423,Oketsifa,Agbzatu South,7.959241,8.730055,clean,clean,included,exact,100.0,LGA081,Oketsifa,Agbzatu South,True
+HF00615,Ironama,Tivbetu Central,7.601149,10.788938,clean,clean,included,exact,100.0,LGA053,Ironama,Tivbetu Central,True
+HF00257,Agbmita,Agbzatu North,8.028324,8.318118,clean,clean,included,exact,100.0,LGA008,Agbmita  ,Agbzatu North,True
+HF901326,Gwodewo ,Agbkeko South,10.55459,9.870037,clean,clean,included,exact,100.0,LGA040,Gwodewo,Agbkeko South,True
+HF00487,Tivsano-North,Tivbetu North,8.416361,10.051751,clean,clean,included,exact,100.0,LGA100,Tivsano-North,Tivbetu Central,False
+HF900254,Agbmita,Agbzatu North,7.863119,8.300637,clean,clean,included,exact,100.0,LGA008,Agbmita  ,Agbzatu North,True
+HF01277,Nasnadu,Agbkeko South,9.906101,9.89263,clean,clean,included,exact,100.0,LGA073,Nasnadu  ,Agbkeko South,True
+HF00450,Daishako,Agbzatu South,7.399633,8.90719,clean,clean,included,exact,100.0,LGA025,Daishako,Agbzatu South,True
+HF00335,Gwodele-South,Agbzatu North,8.282042,7.689059,clean,clean,included,exact,100.0,LGA039,Gwodele-South,Agbzatu North,True
+HF00673,Hanjiko,Tivbetu South,8.780939,11.127303,clean,clean,included,exact,100.0,LGA042,Hanjiko Local Govt Area,Tivbetu South,True
+HF00030,Riylude-North,Kukrima North,6.2699,9.78267,clean,clean,included,exact,100.0,LGA086,Riylude-North,Kukrima North,True
+HF01151,Lokshasa,Agbkeko North,10.559593,9.358575,clean,clean,included,exact,100.0,LGA067,Lokshasa  ,Agbkeko North,True
+HF00970,Wuryona,Supwasa North,9.721687,10.423517,clean,clean,included,exact,100.0,LGA108,Wuryona,Supwasa North,True
+HF00518,Agbzawa-South,Tivbetu North,8.192224,9.639157,clean,clean,included,exact,100.0,LGA013,Agbzawa-South,Tivbetu North,True
+HF900512,Bauzani,Tivbetu North,8.1,10.52,clean,clean,included,exact,100.0,LGA021,Bauzani,Tivbetu North,True
+HF900825,Daishali Central,Uzojina Central,9.230967,8.23195,clean,clean,included,fuzzy,93.75,LGA026,Daishali-Central,Uzojina Central,True
+HF00676,Olujiwa,Tivbetu South,7.898121,10.954963,clean,clean,included,exact,100.0,LGA084,Olujiwa,Tivbetu South,True
+HF00041,Riylude-North LGA,Kukrima North,6.473236,9.61267,clean,clean,included,exact,100.0,LGA086,Riylude-North,Kukrima North,True
+HF00017,Uzoluni,Kukrima North,5.866775,8.909237,clean,clean,included,exact,100.0,LGA104,Uzoluni,Kukrima North,True
+HF01322,Gwodewo,Agbkeko South,10.481587,9.86026,clean,clean,included,exact,100.0,LGA040,Gwodewo,Agbkeko South,True
+HF00990,Zambani LGA,Supwasa Central,,,missing,missing,excluded_missing_or_unparseable,exact,100.0,LGA115,Zambani,Supwasa Central,True
+HF01121,Oluyofa,Supwasa South,9.336942,11.105304,clean,clean,included,exact,100.0,LGA085,Oluyofa  ,Supwasa South,True
+HF01105,Loknaba,Supwasa South,9.026423,11.494417,clean,clean,included,exact,100.0,LGA065,Loknaba,Supwasa South,True
+HF00542,Uzoberi,Tivbetu North,8.907795,10.389694,clean,clean,included,exact,100.0,LGA103,Uzoberi,Tivbetu North,True
+HF00668,Hanjiko,Tivbetu South,10.779479,8.691083,clean,clean,included,exact,100.0,LGA042,Hanjiko Local Govt Area,Tivbetu South,True
+HF00645,TAMLUFA-EAST,Tivbetu South,8.74827,10.749672,clean,clean,included,exact,100.0,LGA093,Tamlufa-East Local Govt Area,Tivbetu South,True
+HF00541,Uzoberi LGA,Tivbetu North,8.758937,10.43891,clean,clean,included,exact,100.0,LGA103,Uzoberi,Tivbetu North,True
+HF00545,Uzoberi,Tivbetu North,8.91,10.15,clean,clean,included,exact,100.0,LGA103,Uzoberi,Tivbetu North,True
+HF01061,Katdudu,Supwasa Central,10.26702,10.634883,clean,clean,included,exact,100.0,LGA060,Katdudu,Supwasa Central,True
+HF00897,Loksayi,Uzojina South,8.426733,9.025432,clean,clean,included,exact,100.0,LGA066,Loksayi  ,Uzojina South,True
+HF00451,Daishako,Agbzatu South,7.470794,8.702362,clean,clean,included,exact,100.0,LGA025,Daishako,Agbzatu South,True
+HF00250,Agbmita,Agbzatu North,7.82337,8.006812,clean,clean,included,exact,100.0,LGA008,Agbmita  ,Agbzatu North,True
+HF01203,Daibewo,Agbkeko Central,9.38731,9.419656,clean,clean,included,exact,100.0,LGA023,Daibewo,Agbkeko Central,True
+HF00602,Agblasa,Tivbetu Central,7.521693,10.210758,clean,clean,included,exact,100.0,LGA007,Agblasa,Tivbetu Central,True
+HF00610,Ironama,Tivbetu Central,7.580064,10.90938,clean,clean,included,exact,100.0,LGA053,Ironama,Tivbetu Central,True
+HF00011,Katmaba,Kukrima North,5.648793,9.306261,clean,clean,included,exact,100.0,LGA061,Katmaba,Kukrima North,True
+HF00757,Tamluni,Uzojina North,8.312096,7.821255,clean,clean,included,exact,100.0,LGA094,Tamluni,Uzojina North,True
+HF01025,Funkedu,Supwasa Central,10.495448,11.155514,clean,clean,included,exact,100.0,LGA038,Funkedu,Supwasa Central,True
+HF00891,Loksayi ,Uzojina South,8.19065,8.941948,clean,clean,included,exact,100.0,LGA066,Loksayi  ,Uzojina South,True
+HF00066,SHAJIMA,Kukrima North,,,missing,missing,excluded_missing_or_unparseable,exact,100.0,LGA087,Shajima,Kukrima North,True
+HF00999,Bautiru-West,Supwasa Central,10.431509,10.793258,clean,clean,included,exact,100.0,LGA020,Bautiru-West,Supwasa Central,True
+HF01120,Oluyofa,Supwasa South,9.393041,11.200785,clean,clean,included,exact,100.0,LGA085,Oluyofa  ,Supwasa South,True
+HF00828,Yeltsina,Uzojina Central,9.572571,8.68425,clean,clean,included,exact,100.0,LGA111,Yeltsina Local Govt Area,Uzojina Central,True
+HF00783,Nassako-Central,Uzojina North,8.428234,7.480305,clean,clean,included,exact,100.0,LGA075,Nassako-Central,Uzojina North,True
+HF01023,FUNKEDU,Supwasa Central,10.360787,11.059269,clean,clean,included,exact,100.0,LGA038,Funkedu,Supwasa Central,True
+HF00724,Dutjiri LGA,Uzojina North,0.687961,8.400106,clean,clean,excluded_out_of_bounds,exact,100.0,LGA028,Dutjiri,Uzojina North,True
+HF00169,Zamtsiru,Kukrima South,6.39998,9.862026,clean,clean,included,exact,100.0,LGA121,Zamtsiru,Kukrima South,True
+HF00227,Enumade-West,Kukrima South,6.591324,10.344154,clean,clean,included,exact,100.0,LGA035,Enumade-West,Kukrima South,True
+HF00914,Agbridu-West,Uzojina South,8.385701,9.11997,clean,clean,included,exact,100.0,LGA011,Agbridu-West,Uzojina South,True
+HF00194,Umumitu,Kukrima South,6.721752,10.892784,clean,clean,included,exact,100.0,LGA102,Umumitu,Kukrima South,True
+HF00372,Lokmata,Agbzatu Central,6.746916,8.790428,clean,clean,included,exact,100.0,LGA064,Lokmata,Agbzatu Central,True
+HF00971,Wuryona,Supwasa North,,,missing,missing,excluded_missing_or_unparseable,exact,100.0,LGA108,Wuryona,Supwasa North,True
+HF00509,Bauzani,Tivbetu North,7.725137,10.236117,clean,clean,included,exact,100.0,LGA021,Bauzani,Tivbetu North,True
+HF00296,Supyoshi-East,Agbzatu North,7.808796,7.565334,clean,clean,included,exact,100.0,LGA091,Supyoshi-East  ,Agbzatu North,True
+HF00666,Hanjiko,Tivbetu South,8.618799,10.905515,clean,clean,included,exact,100.0,LGA042,Hanjiko Local Govt Area,Tivbetu South,True
+HF00819,Daishali-Central,Uzojina Central,9.204815,8.263696,clean,clean,included,exact,100.0,LGA026,Daishali-Central,Uzojina Central,True
+HF00830,Yeltsina,Uzojina Central,9.54,8.81,clean,clean,included,exact,100.0,LGA111,Yeltsina Local Govt Area,Uzojina Central,True
+HF01144,LOKSHASA,Agbkeko North,10.396754,9.058442,clean,clean,included,exact,100.0,LGA067,Lokshasa  ,Agbkeko North,True
+HF01301,Enumija,Agbkeko South,10.819718,10.313852,clean,clean,included,exact,100.0,LGA036,Enumija,Agbkeko South,True
+HF01066,Okeyoru-South,Supwasa Central,9.926922,10.841498,clean,clean,included,exact,100.0,LGA082,Okeyoru-South,Supwasa Central,True
+HF01141,Sokmiri,Agbkeko North,9.758325,9.207863,clean,clean,included,exact,100.0,LGA088,Sokmiri,Agbkeko North,True
+HF01111,Oluyofa LGA,Supwasa South,9.150012,11.448473,clean,clean,included,exact,100.0,LGA085,Oluyofa  ,Supwasa South,True
+HF00144,Wurmashi,Kukrima Central,7.110716,10.161562,clean,clean,included,exact,100.0,LGA107,Wurmashi Local Govt Area,Kukrima Central,True
+HF01207,DAIBEWO,Agbkeko Central,9.33712,9.26231,clean,clean,included,exact,100.0,LGA023,Daibewo,Agbkeko Central,True
+HF00727,DUTJIRI,Uzojina North,8.806673,8.208086,clean,clean,included,exact,100.0,LGA028,Dutjiri,Uzojina North,True
+HF00035,Riylude-North,Kukrima North,6.30289,9.608775,clean,clean,included,exact,100.0,LGA086,Riylude-North,Kukrima North,True
+HF00142,Gwolama,Kukrima Central,6.991348,9.183805,clean,clean,included,exact,100.0,LGA041,Gwolama,Kukrima Central,True
+HF00333,Gwodele-South LGA,Agbzatu North,8.194767,7.602103,clean,clean,included,exact,100.0,LGA039,Gwodele-South,Agbzatu North,True
+HF01168,Ngenuta-Central,Agbkeko North,10.225214,8.529901,clean,clean,included,exact,100.0,LGA078,Ngenuta-Central Local Govt Area,Agbkeko North,True
+HF00419,Oketsifa,Agbzatu South,7.904583,8.697773,clean,clean,included,exact,100.0,LGA081,Oketsifa,Agbzatu South,True
+HF01175,Maljiwo,Agbkeko North,"9°33'05.6""E","9°10'20.9""N",dms,dms,included,exact,100.0,LGA069,Maljiwo,Agbkeko North,True
+HF00399,Katrini,Agbzatu Central,7.013449,8.422234,clean,clean,included,exact,100.0,LGA062,KATRINI,Agbzatu Central,True
+HF00189,Umumitu,Kukrima South,6.600439,10.953746,clean,clean,included,exact,100.0,LGA102,Umumitu,Kukrima South,True
+HF01254,DAIBAMA,Agbkeko Central,9.513872,9.954761,clean,clean,included,exact,100.0,LGA022,Daibama,Agbkeko Central,True
+HF00249,Yobkosa-South,Agbzatu North,7.455173,7.636999,clean,clean,included,exact,100.0,LGA112,Yobkosa-South,Agbzatu North,True
+HF900431,Oketsifa,Agbzatu South,7.906886,8.425708,clean,clean,included,exact,100.0,LGA081,Oketsifa,Agbzatu South,True
+HF01218,Yobrifa-West,Agbkeko Central,8.979999,9.5144,clean,clean,included,exact,100.0,LGA114,YOBRIFA-WEST,Agbkeko Central,True
+HF01311,Zammiyi,Agbkeko South,10.334917,10.116757,clean,clean,included,exact,100.0,LGA119,ZAMMIYI,Agbkeko South,True
+HF00801,Tamwata-South,Uzojina Central,9.819443,8.27934,clean,clean,included,exact,100.0,LGA095,Tamwata-South,Uzojina Central,True
+HF00984,Zambani,Supwasa Central,10.038169,11.125108,clean,clean,included,exact,100.0,LGA115,Zambani,Supwasa Central,True
+HF01029,Funkedu,Supwasa Central,10.584043,11.178806,clean,clean,included,exact,100.0,LGA038,Funkedu,Supwasa Central,True
+HF01020,Funkedu,Supwasa Central,10.271422,11.190023,clean,clean,included,exact,100.0,LGA038,Funkedu,Supwasa Central,True
+HF01106,Loknaba,Supwasa South,8.994841,11.638533,clean,clean,included,exact,100.0,LGA065,Loknaba,Supwasa South,True
+HF00166,Wurmashi,Kukrima Central,7.448197,9.986495,clean,clean,included,exact,100.0,LGA107,Wurmashi Local Govt Area,Kukrima Central,True
+HF01224,Yobrifa-West,Agbkeko Central,9.260962,9.548068,clean,clean,included,exact,100.0,LGA114,YOBRIFA-WEST,Agbkeko Central,True
+HF00952,Nasrifa,Supwasa North,8.96997,10.806687,clean,clean,included,exact,100.0,LGA074,Nasrifa  ,Supwasa North,True
+HF00722,Dutjiri,Uzojina North,8.631305,8.292382,clean,clean,included,exact,100.0,LGA028,Dutjiri,Uzojina North,True
+HF00436,Agbngoru,Agbzatu South,7.357893,8.479517,clean,clean,included,exact,100.0,LGA009,Agbngoru,Agbzatu South,True
+HF00188,Umumitu,Kukrima South,6.494048,10.859272,clean,clean,included,exact,100.0,LGA102,Umumitu,Kukrima South,True
+HF01232,Hanjile,Agbkeko Central,9.47114,9.49912,clean,clean,included,exact,100.0,LGA043,Hanjile,Agbkeko Central,True
+HF01199,Daibewo,Agbkeko Central,9.295288,9.483579,clean,clean,included,exact,100.0,LGA023,Daibewo,Agbkeko Central,True
+HF01052,Katdudu,Supwasa Central,10.095227,10.658858,clean,clean,included,exact,100.0,LGA060,Katdudu,Supwasa Central,True
+HF00478,NGETIJA,Agbzatu South,7.775339,9.250912,clean,clean,included,exact,100.0,LGA079,Ngetija,Agbzatu South,True
+HF00395,Katrini,Agbzatu Central,6.83,8.31,clean,clean,included,exact,100.0,LGA062,KATRINI,Agbzatu Central,True
+HF00073,Ibabani,Kukrima North,6.463764,9.383134,clean,clean,included,exact,100.0,LGA047,Ibabani,Kukrima North,True
+HF01122,Oluyofa,Supwasa South,9.380897,11.124742,clean,clean,included,exact,100.0,LGA085,Oluyofa  ,Supwasa South,True
+HF00345,ZAMKERI,Agbzatu Central,6.919506,8.771637,clean,clean,included,exact,100.0,LGA118,Zamkeri,Agbzatu Central,True
+HF00532,Hansaba,Tivbetu North,8.684833,10.030608,clean,clean,included,exact,100.0,LGA045,Hansaba,Tivbetu North,True
+HF01024,Funkedu,Supwasa Central,10.383265,11.282978,clean,clean,included,exact,100.0,LGA038,Funkedu,Supwasa Central,True
+HF00565,IbajijaSouth,Tivbetu Central,6.95688,10.872176,clean,clean,included,fuzzy,96.0,LGA048,Ibajija-South,Tivbetu Central,True
+HF00165,Wurmashi,Kukrima Central,7.463128,9.989509,clean,clean,included,exact,100.0,LGA107,Wurmashi Local Govt Area,Kukrima Central,True
+HF00563,Soktimi,Tivbetu North,7.743905,10.059836,clean,clean,included,exact,100.0,LGA089,Soktimi,Tivbetu North,True
+HF00969,Wuryona ,Supwasa North,9.525729,10.561765,clean,clean,included,exact,100.0,LGA108,Wuryona,Supwasa North,True
+HF00705,Adekowo,Tivbetu South,8.632523,11.445939,clean,clean,included,exact,100.0,LGA002,Adekowo,Tivbetu South,True
+HF00409,Supsama South,Agbzatu Central,6.614101,8.260232,clean,clean,included,fuzzy,92.3076923076923,LGA090,Supsama-South,Agbzatu Central,True
+HF00190,Umumitu,Kukrima South,6.64806,10.956638,clean,clean,included,exact,100.0,LGA102,Umumitu,Kukrima South,True
+HF00882,UZORISA,Uzojina South,8.311822,9.347545,clean,clean,included,exact,100.0,LGA105,Uzorisa Local Govt Area,Uzojina South,True
+HF00513,Bauzani,Tivbetu North,8.163622,10.377385,clean,clean,included,exact,100.0,LGA021,Bauzani,Tivbetu North,True
+HF00596,Okerano Central,Tivbetu Central,7.389057,11.103716,clean,clean,included,fuzzy,93.33333333333333,LGA080,Okerano-Central  ,Tivbetu Central,True
+HF01308,Ngemidu,Agbkeko South,10.411658,9.913495,clean,clean,included,exact,100.0,LGA077,Ngemidu,Agbkeko South,True
+HF00809,Ekedewo,Uzojina Central,9.301706,7.974502,clean,clean,included,exact,100.0,LGA033,Ekedewo  ,Uzojina Central,True
+HF01181,Maljiwo,Agbkeko North,9.695107,9.237374,clean,clean,included,exact,100.0,LGA069,Maljiwo,Agbkeko North,True
+HF01126,Tivmama,Supwasa South,9.573211,11.020342,clean,clean,included,exact,100.0,LGA097,Tivmama,Supwasa South,True
+HF00237,Yobkosa-South ,Agbzatu North,7.422977,7.414021,clean,clean,included,exact,100.0,LGA112,Yobkosa-South,Agbzatu North,True
+HF00351,Zamkeri,Agbzatu Central,6.815043,9.044583,clean,clean,included,exact,100.0,LGA118,Zamkeri,Agbzatu Central,True
+HF00959,Yobmija,Supwasa North,9.151993,10.279802,clean,clean,included,exact,100.0,LGA113,Yobmija,Supwasa North,True
+HF00741,Agbkotu-South,Uzojina North,8.351182,7.952004,clean,clean,included,exact,100.0,LGA006,Agbkotu-South,Uzojina North,True
+HF01247,Daibama,Agbkeko Central,9.143997,10.083407,clean,clean,included,exact,100.0,LGA022,Daibama,Agbkeko Central,True
+HF00511,Bauzani,Tivbetu North,8.07,10.21,clean,clean,included,exact,100.0,LGA021,Bauzani,Tivbetu North,True
+HF00347,Zamkeri LGA,Agbzatu Central,6.928157,8.671094,clean,clean,included,exact,100.0,LGA118,Zamkeri,Agbzatu Central,True
+HF01231,Hanjile ,Agbkeko Central,9.464037,9.545713,clean,clean,included,exact,100.0,LGA043,Hanjile,Agbkeko Central,True
+HF00032,Riylude-North,Kukrima North,6.254289,9.755742,clean,clean,included,exact,100.0,LGA086,Riylude-North,Kukrima North,True
+HF01053,Katdudu,Supwasa Central,10.132632,10.416126,clean,clean,included,exact,100.0,LGA060,Katdudu,Supwasa Central,True
+HF01222,Yobrifa-West,Agbkeko Central,9.169447,9.814013,clean,clean,included,exact,100.0,LGA114,YOBRIFA-WEST,Agbkeko Central,True
+HF01036,Josmiba,Supwasa Central,10.36,10.39,clean,clean,included,exact,100.0,LGA058,Josmiba,Supwasa Central,True
+HF00449,Daishako,Agbzatu South,7.254636,8.735905,clean,clean,included,exact,100.0,LGA025,Daishako,Agbzatu South,True
+HF00808,Ekedewo,Uzojina Central,9.34822,7.990621,clean,clean,included,exact,100.0,LGA033,Ekedewo  ,Uzojina Central,True
+HF00457,BANNGONO,Agbzatu South,7.271787,9.09629,clean,clean,included,exact,100.0,LGA017,Banngono,Agbzatu South,True
+HF00076,Ibabani,Kukrima North,,,missing,missing,excluded_missing_or_unparseable,exact,100.0,LGA047,Ibabani,Kukrima North,True
+HF01153,Jostile,Agbkeko North,,,missing,missing,excluded_missing_or_unparseable,exact,100.0,LGA059,Jostile,Agbkeko North,True
+HF01208,Daibewo,Agbkeko Central,9.295321,9.50515,clean,clean,included,exact,100.0,LGA023,Daibewo,Agbkeko Central,True
+HF01148,Lokshasa,Agbkeko North,10.535799,9.429962,clean,clean,included,exact,100.0,LGA067,Lokshasa  ,Agbkeko North,True
+HF00725,Dutjiri,Uzojina North,8.886652,8.207274,clean,clean,included,exact,100.0,LGA028,Dutjiri,Uzojina North,True
+HF00562,Soktimi,Tivbetu North,7.667972,9.844426,clean,clean,included,exact,100.0,LGA089,Soktimi,Tivbetu North,True
+HF01103,Loknaba LGA,Supwasa South,8.759997,11.433778,clean,clean,included,exact,100.0,LGA065,Loknaba,Supwasa South,True
+HF01134,Tivmama,Supwasa South,10.003927,11.502357,clean,clean,included,exact,100.0,LGA097,Tivmama,Supwasa South,True
+HF00977,Zambani,Supwasa Central,9.919522,11.099155,clean,clean,included,exact,100.0,LGA115,Zambani,Supwasa Central,True
+HF00202,Adenaja,Kukrima South,6.741082,10.618374,clean,clean,included,exact,100.0,LGA004,ADENAJA,Kukrima South,True
+HF00853,Wurkota,Uzojina Central,8.967566,8.444522,clean,clean,included,exact,100.0,LGA106,Wurkota  ,Uzojina Central,True
+HF00481,Tivsano-North,Tivbetu North,8.212088,10.281884,clean,clean,included,exact,100.0,LGA100,Tivsano-North,Tivbetu Central,False
+HF00225,Enumade West,Kukrima South,6.499245,10.12354,clean,clean,included,fuzzy,91.66666666666666,LGA035,Enumade-West,Kukrima South,True
+HF00129,Tambemi,Kukrima Central,6.832433,9.706995,clean,clean,included,exact,100.0,LGA092,Tambemi,Kukrima Central,True
+HF00117,Agbjide,Kukrima Central,6.626353,9.627134,clean,clean,included,exact,100.0,LGA005,Agbjide,Kukrima Central,True
+HF00382,Dutzama,Agbzatu Central,7.021155,7.869011,clean,clean,included,exact,100.0,LGA031,DUTZAMA,Agbzatu Central,True
+HF00456,Banngono,Agbzatu South,7.217766,9.111637,clean,clean,included,exact,100.0,LGA017,Banngono,Agbzatu South,True
+HF00650,Ibamide,Tivbetu South,8.012237,11.519807,clean,clean,included,exact,100.0,LGA049,Ibamide,Tivbetu South,True
+HF00220,Banluta,Kukrima South,6.171554,10.277902,clean,clean,included,exact,100.0,LGA015,Banluta,Kukrima South,True
+HF00219,Banluta,Kukrima South,6.11841,10.186953,clean,clean,included,exact,100.0,LGA015,Banluta,Kukrima South,True
+HF00537,Uzoberi,Tivbetu North,8.709088,10.373727,clean,clean,included,exact,100.0,LGA103,Uzoberi,Tivbetu North,True
+HF00777,Tamluni,Uzojina North,8.716494,7.7319,clean,clean,included,exact,100.0,LGA094,Tamluni,Uzojina North,True
+HF00867,Tivngoba,Uzojina South,8.891956,8.983104,clean,clean,included,exact,100.0,LGA098,Tivngoba,Uzojina South,True
+HF00107,Yelkefa,Kukrima Central,7.459896,9.665336,clean,clean,included,exact,100.0,LGA109,Yelkefa,Kukrima Central,True
+HF01190,Yeltili,Agbkeko North,10.107482,8.911105,clean,clean,included,exact,100.0,LGA110,Yeltili,Agbkeko North,True
+HF00328,Gwodele South,Agbzatu North,8.069758,7.640847,clean,clean,included,fuzzy,92.3076923076923,LGA039,Gwodele-South,Agbzatu North,True
+HF00373,Lokmata,Agbzatu Central,6.771099,8.76038,clean,clean,included,exact,100.0,LGA064,Lokmata,Agbzatu Central,True
+HF00533,Hansaba,Tivbetu North,8.710153,9.952871,clean,clean,included,exact,100.0,LGA045,Hansaba,Tivbetu North,True
+HF01018,Funkedu,Supwasa Central,10.415712,11.400667,clean,clean,included,exact,100.0,LGA038,Funkedu,Supwasa Central,True
+HF00759,Tamluni,Uzojina North,8.274203,7.795146,clean,clean,included,exact,100.0,LGA094,Tamluni,Uzojina North,True
+HF01110,Oluyofa,Supwasa South,9.13005,11.488819,clean,clean,included,exact,100.0,LGA085,Oluyofa  ,Supwasa South,True
+HF01283,Nasnadu,Agbkeko South,9.920291,10.294765,clean,clean,included,exact,100.0,LGA073,Nasnadu  ,Agbkeko South,True
+HF00053,Irolufa,Kukrima North,6.135046,9.788586,clean,clean,included,exact,100.0,LGA051,Irolufa,Kukrima North,True
+HF01230,Hanjile,Agbkeko Central,9.561203,9.790795,clean,clean,included,exact,100.0,LGA043,Hanjile,Agbkeko Central,True
+HF00656,Ibamide,Tivbetu South,"8,164714","11,256375",comma_decimal,comma_decimal,included,exact,100.0,LGA049,Ibamide,Tivbetu South,True
+HF00713,Tivrafa-West,Uzojina North,9.115763,7.689633,clean,clean,included,fuzzy,91.66666666666666,LGA099,Tivrafa West,Uzojina North,True
+HF01238,Hanjile,Agbkeko Central,"9,773458","9,793496",comma_decimal,comma_decimal,included,exact,100.0,LGA043,Hanjile,Agbkeko Central,True
+HF00508,Bauzani,Tivbetu North,7.801673,10.179489,clean,clean,included,exact,100.0,LGA021,Bauzani,Tivbetu North,True
+HF00196,Umumitu,Kukrima South,6.585774,10.841617,clean,clean,included,exact,100.0,LGA102,Umumitu,Kukrima South,True
+HF00448,Daishako,Agbzatu South,7.229764,8.75965,clean,clean,included,exact,100.0,LGA025,Daishako,Agbzatu South,True
+HF00442,Agbngoru LGA,Agbzatu South,7.448374,8.456653,clean,clean,included,exact,100.0,LGA009,Agbngoru,Agbzatu South,True
+HF00300,HANRAJA,Agbzatu North,7.459246,7.992608,clean,clean,included,exact,100.0,LGA044,Hanraja,Agbzatu North,True
+HF00025,Uzoluni,Kukrima North,6.170968,8.856011,clean,clean,included,exact,100.0,LGA104,Uzoluni,Kukrima North,True
+HF01135,Sokmiri,Agbkeko North,9.684933,9.121296,clean,clean,included,exact,100.0,LGA088,Sokmiri,Agbkeko North,True
+HF00486,Tivsano-North LGA,Tivbetu North,8.405129,10.300582,clean,clean,included,exact,100.0,LGA100,Tivsano-North,Tivbetu Central,False
+HF01248,Daibama,Agbkeko Central,9.257016,10.040717,clean,clean,included,exact,100.0,LGA022,Daibama,Agbkeko Central,True
+HF00942,Adekeni,Supwasa North,9.375986,10.579926,clean,clean,included,exact,100.0,LGA001,Adekeni,Supwasa North,True
+HF01004,Bautiru West,Supwasa Central,10.581101,10.885448,clean,clean,included,fuzzy,91.66666666666666,LGA020,Bautiru-West,Supwasa Central,True
+HF01060,Katdudu,Supwasa Central,10.256319,10.591651,clean,clean,included,exact,100.0,LGA060,Katdudu,Supwasa Central,True
+HF00677,Olujiwa,Tivbetu South,7.936897,10.99264,clean,clean,included,exact,100.0,LGA084,Olujiwa,Tivbetu South,True
+HF01159,Jostile,Agbkeko North,9.945147,9.154065,clean,clean,included,exact,100.0,LGA059,Jostile,Agbkeko North,True
+HF00460,Umumayi,Agbzatu South,7.721139,9.1017,clean,clean,included,exact,100.0,LGA101,Umumayi,Agbzatu South,True
+HF01323,Gwodewo,Agbkeko South,10.487941,9.914609,clean,clean,included,exact,100.0,LGA040,Gwodewo,Agbkeko South,True
+HF00723,Dutjiri,Uzojina North,8.678205,8.377179,clean,clean,included,exact,100.0,LGA028,Dutjiri,Uzojina North,True
+HF00301,Hanraja LGA,Agbzatu North,7.407445,7.785653,clean,clean,included,exact,100.0,LGA044,Hanraja,Agbzatu North,True
+HF01012,Funkedu,Supwasa Central,10.530803,11.314902,clean,clean,included,exact,100.0,LGA038,Funkedu,Supwasa Central,True
+HF00205,Adenaja ,Kukrima South,6.853147,10.388536,clean,clean,included,exact,100.0,LGA004,ADENAJA,Kukrima South,True
+HF901211,Yobrifa-West,Agbkeko Central,8.894472,9.63016,clean,clean,included,exact,100.0,LGA114,YOBRIFA-WEST,Agbkeko Central,True
+HF00950,Nasrifa,Supwasa North,8.916963,10.944127,clean,clean,included,exact,100.0,LGA074,Nasrifa  ,Supwasa North,True
+HF00646,Tamlufa-East,Tivbetu South,8.661667,10.69912,clean,clean,included,exact,100.0,LGA093,Tamlufa-East Local Govt Area,Tivbetu South,True
+HF00701,Adekowo,Tivbetu South,8.634443,11.522587,clean,clean,included,exact,100.0,LGA002,Adekowo,Tivbetu South,True
+HF01158,Jostile,Agbkeko North,9.960877,9.197386,clean,clean,included,exact,100.0,LGA059,Jostile,Agbkeko North,True
+HF01186,Yeltili,Agbkeko North,9.87019,8.952257,clean,clean,included,exact,100.0,LGA110,Yeltili,Agbkeko North,True
+HF01183,Maljiwo,Agbkeko North,9.594434,9.413034,clean,clean,included,exact,100.0,LGA069,Maljiwo,Agbkeko North,True
+HF00665,Hanjiko LGA,Tivbetu South,8.493358,10.894855,clean,clean,included,exact,100.0,LGA042,Hanjiko Local Govt Area,Tivbetu South,True
+HF01116,Oluyofa,Supwasa South,9.222171,11.236469,clean,clean,included,exact,100.0,LGA085,Oluyofa  ,Supwasa South,True
+HF00125,Agbjide,Kukrima Central,6.714454,9.255895,clean,clean,included,exact,100.0,LGA005,Agbjide,Kukrima Central,True
+HF01093,Baumiru,Supwasa South,8.87432,11.169791,clean,clean,included,exact,100.0,LGA018,Baumiru,Supwasa South,True
+HF01197,Yeltili,Agbkeko North,10.250894,9.056913,clean,clean,included,exact,100.0,LGA110,Yeltili,Agbkeko North,True
+HF00504,Bauzani,Tivbetu North,7.799663,10.447606,clean,clean,included,exact,100.0,LGA021,Bauzani,Tivbetu North,True
+HF01090,BAUMIRU,Supwasa South,8.756392,11.285943,clean,clean,included,exact,100.0,LGA018,Baumiru,Supwasa South,True
+HF00323,Gwodele-South,Agbzatu North,8.002708,7.723022,clean,clean,included,exact,100.0,LGA039,Gwodele-South,Agbzatu North,True
+HF00640,Tamlufa-East,Tivbetu South,8.441586,10.700668,clean,clean,included,exact,100.0,LGA093,Tamlufa-East Local Govt Area,Tivbetu South,True
+HF00104,Yelkefa ,Kukrima Central,7.528177,9.739169,clean,clean,included,exact,100.0,LGA109,Yelkefa,Kukrima Central,True
+HF00732,Agbkotu-South,Uzojina North,8.23668,8.166848,clean,clean,included,exact,100.0,LGA006,Agbkotu-South,Uzojina North,True
+HF00447,DAISHAKO,Agbzatu South,7.265888,8.704903,clean,clean,included,exact,100.0,LGA025,Daishako,Agbzatu South,True
+HF00393,Enutifa,Agbzatu Central,7.278764,7.992849,clean,clean,included,exact,100.0,LGA037,Enutifa,Agbzatu Central,True
+HF00297,SUPYOSHI-EAST,Agbzatu North,7.914241,7.602241,clean,clean,included,exact,100.0,LGA091,Supyoshi-East  ,Agbzatu North,True
+HF00571,Ibajija-South,Tivbetu Central,7.296889,10.658045,clean,clean,included,exact,100.0,LGA048,Ibajija-South,Tivbetu Central,True
+HF00312,Josduri-South ,Agbzatu North,7.702842,7.568388,clean,clean,included,exact,100.0,LGA056,Josduri-South,Agbzatu North,True
+HF00552,Malbawo-Central LGA,Tivbetu North,7.789709,9.752498,clean,clean,included,exact,100.0,LGA068,MALBAWO-CENTRAL,Tivbetu North,True
+HF01286,Nasnadu,Agbkeko South,10.069643,10.235692,clean,clean,included,exact,100.0,LGA073,Nasnadu  ,Agbkeko South,True
+HF00326,Gwodele-South,Agbzatu North,,,missing,missing,excluded_missing_or_unparseable,exact,100.0,LGA039,Gwodele-South,Agbzatu North,True
+HF00048,Irolufa,Kukrima North,5.874698,9.865064,clean,clean,included,exact,100.0,LGA051,Irolufa,Kukrima North,True
+HF00164,Wurmashi,Kukrima Central,7.49356,9.920894,clean,clean,included,exact,100.0,LGA107,Wurmashi Local Govt Area,Kukrima Central,True
+HF01256,Daibama,Agbkeko Central,9.337844,10.003093,clean,clean,included,exact,100.0,LGA022,Daibama,Agbkeko Central,True
+HF00928,Zamberi-North,Uzojina South,8.473544,8.668456,clean,clean,included,exact,100.0,LGA116,Zamberi-North,Uzojina South,True
+HF00851,Adelaja North,Uzojina Central,9.572852,8.426794,clean,clean,included,fuzzy,92.3076923076923,LGA003,Adelaja-North,Uzojina Central,True
+HF01193,Yeltili,Agbkeko North,10.149777,9.069331,clean,clean,included,exact,100.0,LGA110,Yeltili,Agbkeko North,True
+HF00019,Uzoluni,Kukrima North,6.233549,8.751762,clean,clean,included,exact,100.0,LGA104,Uzoluni,Kukrima North,True
+HF00766,TAMLUNI,Uzojina North,8.676057,7.616658,clean,clean,included,exact,100.0,LGA094,Tamluni,Uzojina North,True
+HF01171,Ngenuta-Central,Agbkeko North,10.229463,8.917265,clean,clean,included,exact,100.0,LGA078,Ngenuta-Central Local Govt Area,Agbkeko North,True
+HF01176,Maljiwo,Agbkeko North,9.509636,9.152244,clean,clean,included,exact,100.0,LGA069,Maljiwo,Agbkeko North,True
+HF01279,Nasnadu,Agbkeko South,9.902561,10.018031,clean,clean,included,exact,100.0,LGA073,Nasnadu  ,Agbkeko South,True
+HF01188,YELTILI,Agbkeko North,9.825574,8.786015,clean,clean,included,exact,100.0,LGA110,Yeltili,Agbkeko North,True
+HF00127,Agbjide,Kukrima Central,6.788865,9.079884,clean,clean,included,exact,100.0,LGA005,Agbjide,Kukrima Central,True
+HF00606,Ironama,Tivbetu Central,7.41366,10.694819,clean,clean,included,exact,100.0,LGA053,Ironama,Tivbetu Central,True
+HF00418,Oketsifa,Agbzatu South,7.708377,8.788659,clean,clean,included,exact,100.0,LGA081,Oketsifa,Agbzatu South,True
+HF00671,Hanjiko ,Tivbetu South,8.860195,10.976326,clean,clean,included,exact,100.0,LGA042,Hanjiko Local Govt Area,Tivbetu South,True
+HF00018,Uzoluni,Kukrima North,6.128625,8.706849,clean,clean,included,exact,100.0,LGA104,Uzoluni,Kukrima North,True
+HF00045,Irolufa,Kukrima North,5.869062,9.920266,clean,clean,included,exact,100.0,LGA051,Irolufa,Kukrima North,True
+HF01072,Okeyoru-South,Supwasa Central,9.957937,10.797267,clean,clean,included,exact,100.0,LGA082,Okeyoru-South,Supwasa Central,True
+HF00781,Nassako-Central,Uzojina North,8.35,7.37,clean,clean,included,exact,100.0,LGA075,Nassako-Central,Uzojina North,True
+HF00480,Tivsano-North,Tivbetu North,8.253691,10.386488,clean,clean,included,exact,100.0,LGA100,Tivsano-North,Tivbetu Central,False
+HF00317,Josduri-South,Agbzatu North,7.788964,7.669043,clean,clean,included,exact,100.0,LGA056,Josduri-South,Agbzatu North,True
+HF00642,Tamlufa-East,Tivbetu South,8.661271,10.545037,clean,clean,included,exact,100.0,LGA093,Tamlufa-East Local Govt Area,Tivbetu South,True
+HF00800,Tamwata-South,Uzojina Central,9.85975,8.43158,clean,clean,included,exact,100.0,LGA095,Tamwata-South,Uzojina Central,True
+HF00530,HANSABA,Tivbetu North,8.627293,9.839852,clean,clean,included,exact,100.0,LGA045,Hansaba,Tivbetu North,True
+HF00690,Nasdudu North,Tivbetu South,7.89026,11.130176,clean,clean,included,fuzzy,92.3076923076923,LGA072,Nasdudu-North,Tivbetu South,True
+HF01016,Funkedu,Supwasa Central,10.3954,11.35001,clean,clean,included,exact,100.0,LGA038,Funkedu,Supwasa Central,True
+HF00055,Irolufa,Kukrima North,6.028129,9.875043,clean,clean,included,exact,100.0,LGA051,Irolufa,Kukrima North,True
+HF00742,AgbkotuSouth,Uzojina North,,,missing,missing,excluded_missing_or_unparseable,fuzzy,96.0,LGA006,Agbkotu-South,Uzojina North,True
+HF00424,Oketsifa,Agbzatu South,7.904786,8.508298,clean,clean,included,exact,100.0,LGA081,Oketsifa,Agbzatu South,True
+HF01045,Josmiba,Supwasa Central,10.763168,10.409072,clean,clean,included,exact,100.0,LGA058,Josmiba,Supwasa Central,True
+HF00252,Agbmita,Agbzatu North,7.944015,8.063994,clean,clean,included,exact,100.0,LGA008,Agbmita  ,Agbzatu North,True
+HF00581,IRONGORI,Tivbetu Central,7.760343,10.743219,clean,clean,included,exact,100.0,LGA054,Irongori,Tivbetu Central,True
+HF00767,Tamluni,Uzojina North,8.505608,7.653055,clean,clean,included,exact,100.0,LGA094,Tamluni,Uzojina North,True
+HF01302,Ngemidu,Agbkeko South,10.039107,9.771793,clean,clean,included,exact,100.0,LGA077,Ngemidu,Agbkeko South,True
+HF00675,OLUJIWA,Tivbetu South,8.061331,10.799394,clean,clean,included,exact,100.0,LGA084,Olujiwa,Tivbetu South,True
+HF01080,Ekedeta-East,Supwasa South,9.347394,11.555642,clean,clean,included,exact,100.0,LGA032,Ekedeta-East,Supwasa South,True
+HF00406,Supsama-South,Agbzatu Central,6.43209,8.585277,clean,clean,included,exact,100.0,LGA090,Supsama-South,Agbzatu Central,True
+HF01169,Ngenuta-Central,Agbkeko North,10.146689,8.826966,clean,clean,included,exact,100.0,LGA078,Ngenuta-Central Local Govt Area,Agbkeko North,True
+HF00661,Hanjiko,Tivbetu South,8.465687,11.036799,clean,clean,included,exact,100.0,LGA042,Hanjiko Local Govt Area,Tivbetu South,True
+HF00806,Tamwata-South,Uzojina Central,10.102937,8.35036,clean,clean,included,exact,100.0,LGA095,Tamwata-South,Uzojina Central,True
+HF01132,Tivmama,Supwasa South,9.917037,11.349912,clean,clean,included,exact,100.0,LGA097,Tivmama,Supwasa South,True
+HF00033,Riylude-North ,Kukrima North,6.352672,9.806485,clean,clean,included,exact,100.0,LGA086,Riylude-North,Kukrima North,True
+HF00560,Soktimi,Tivbetu North,9.863227,7.646916,clean,clean,included,exact,100.0,LGA089,Soktimi,Tivbetu North,True
+HF00944,Adekeni LGA,Supwasa North,9.49319,11.008128,clean,clean,included,exact,100.0,LGA001,Adekeni,Supwasa North,True
+HF00764,Tamluni,Uzojina North,8.388956,7.879492,clean,clean,included,exact,100.0,LGA094,Tamluni,Uzojina North,True
+HF00895,Loksayi,Uzojina South,8.272792,8.783439,clean,clean,included,exact,100.0,LGA066,Loksayi  ,Uzojina South,True
+HF00629,Joskeru,Tivbetu South,8.365846,11.231339,clean,clean,included,exact,100.0,LGA057,Joskeru,Tivbetu South,True
+HF00500,Agbtsiko,Tivbetu North,7.97,10.16,clean,clean,included,exact,100.0,LGA012,Agbtsiko  ,Tivbetu North,True
+HF00659,Ibamide,Tivbetu South,8.256369,11.432597,clean,clean,included,exact,100.0,LGA049,Ibamide,Tivbetu South,True
+HF00635,Joskeru,Tivbetu South,8.434217,11.223627,clean,clean,included,exact,100.0,LGA057,Joskeru,Tivbetu South,True
+HF00674,Olujiwa LGA,Tivbetu South,8.041144,10.825541,clean,clean,included,exact,100.0,LGA084,Olujiwa,Tivbetu South,True
+HF00915,Banluwo,Uzojina South,8.560985,8.55657,clean,clean,included,exact,100.0,LGA016,Banluwo,Uzojina South,True
+HF00026,Uzoluni,Kukrima North,6.383685,9.003897,clean,clean,included,exact,100.0,LGA104,Uzoluni,Kukrima North,True
+HF00208,Adenaja LGA,Kukrima South,7.021574,10.460539,clean,clean,included,exact,100.0,LGA004,ADENAJA,Kukrima South,True
+HF00503,Agbtsiko,Tivbetu North,8.184064,9.952442,clean,clean,included,exact,100.0,LGA012,Agbtsiko  ,Tivbetu North,True
+HF00551,Malbawo-Central,Tivbetu North,7.743608,9.509261,clean,clean,included,exact,100.0,LGA068,MALBAWO-CENTRAL,Tivbetu North,True
+HF00394,Katrini,Agbzatu Central,6.839057,8.340425,clean,clean,included,exact,100.0,LGA062,KATRINI,Agbzatu Central,True
+HF01138,Sokmiri,Agbkeko North,9.6847,9.144992,clean,clean,included,exact,100.0,LGA088,Sokmiri,Agbkeko North,True
+HF00364,Lokmata,Agbzatu Central,6.457464,8.804419,clean,clean,included,exact,100.0,LGA064,Lokmata,Agbzatu Central,True
+HF00495,Agbtsiko,Tivbetu North,7.837038,9.780427,clean,clean,included,exact,100.0,LGA012,Agbtsiko  ,Tivbetu North,True
+HF00917,Banluwo,Uzojina South,8.71888,8.466546,clean,clean,included,exact,100.0,LGA016,Banluwo,Uzojina South,True
+HF00369,Lokmata,Agbzatu Central,6.618317,8.700354,clean,clean,included,exact,100.0,LGA064,Lokmata,Agbzatu Central,True
+HF00416,Iromashi,Agbzatu Central,7.217638,8.266466,clean,clean,included,exact,100.0,LGA052,Iromashi,Agbzatu Central,True
+HF00554,MALBAWO-CENTRAL,Tivbetu North,7.82633,9.568121,clean,clean,included,exact,100.0,LGA068,MALBAWO-CENTRAL,Tivbetu North,True
+HF01082,Ekedeta-East,Supwasa South,9.38925,11.643881,clean,clean,included,exact,100.0,LGA032,Ekedeta-East,Supwasa South,True
+HF00748,Nasyotu LGA,Uzojina North,8.671537,7.999341,clean,clean,included,exact,100.0,LGA076,Nasyotu,Uzojina North,True
+HF00799,Tamwata-South,Uzojina Central,9.780507,8.366928,clean,clean,included,exact,100.0,LGA095,Tamwata-South,Uzojina Central,True
+HF01310,Zammiyi,Agbkeko South,10.242446,9.928757,clean,clean,included,exact,100.0,LGA119,ZAMMIYI,Agbkeko South,True
+HF01316,Zammiyi,Agbkeko South,10.414329,10.315781,clean,clean,included,exact,100.0,LGA119,ZAMMIYI,Agbkeko South,True
+HF01257,Daibama,Agbkeko Central,9.434616,9.925679,clean,clean,included,exact,100.0,LGA022,Daibama,Agbkeko Central,True
+HF00698,Adekowo,Tivbetu South,8.546865,11.576843,clean,clean,included,exact,100.0,LGA002,Adekowo,Tivbetu South,True
+HF00370,Lokmata,Agbzatu Central,6.735484,8.539168,clean,clean,included,exact,100.0,LGA064,Lokmata,Agbzatu Central,True
+HF00284,Malmaba LGA,Agbzatu North,"7,772627","7,941249",comma_decimal,comma_decimal,included,exact,100.0,LGA070,Malmaba,Agbzatu North,True
+HF00961,Yobmija,Supwasa North,9.231796,10.251417,clean,clean,included,exact,100.0,LGA113,Yobmija,Supwasa North,True
+HF00717,Tivrafa-West,Uzojina North,9.243735,7.777768,clean,clean,included,fuzzy,91.66666666666666,LGA099,Tivrafa West,Uzojina North,True
+HF00710,Tivrafa-West,Uzojina North,9.232631,7.726225,clean,clean,included,fuzzy,91.66666666666666,LGA099,Tivrafa West,Uzojina North,True
+HF01058,Katdudu,Supwasa Central,10.155064,10.393141,clean,clean,included,exact,100.0,LGA060,Katdudu,Supwasa Central,True
+HF00794,NASSAKO-CENTRAL,Uzojina North,8.87,7.52,clean,clean,included,exact,100.0,LGA075,Nassako-Central,Uzojina North,True
+HF00295,Supyoshi-East,Agbzatu North,7.86684,7.46443,clean,clean,included,exact,100.0,LGA091,Supyoshi-East  ,Agbzatu North,True
+HF00756,Nasyotu,Uzojina North,9.021645,7.982298,clean,clean,included,exact,100.0,LGA076,Nasyotu,Uzojina North,True
+HF00211,ADENAJA,Kukrima South,6.985067,10.553885,clean,clean,included,exact,100.0,LGA004,ADENAJA,Kukrima South,True
+HF01087,Ekedeta-East,Supwasa South,9.617499,11.658015,clean,clean,included,exact,100.0,LGA032,Ekedeta-East,Supwasa South,True
+HF01019,Funkedu,Supwasa Central,10.173192,11.26131,clean,clean,included,exact,100.0,LGA038,Funkedu,Supwasa Central,True
+HF00343,Zamkeri,Agbzatu Central,6.763095,8.870277,clean,clean,included,exact,100.0,LGA118,Zamkeri,Agbzatu Central,True
+HF00265,AGBMITA,Agbzatu North,8.207244,8.201994,clean,clean,included,exact,100.0,LGA008,Agbmita  ,Agbzatu North,True
+HF00038,Riylude-North,Kukrima North,6.54,9.84,clean,clean,included,exact,100.0,LGA086,Riylude-North,Kukrima North,True
+HF00331,Gwodele-South ,Agbzatu North,8.230303,7.48549,clean,clean,included,exact,100.0,LGA039,Gwodele-South,Agbzatu North,True
+HF00778,Nassako-Central,Uzojina North,8.327864,7.60835,clean,clean,included,exact,100.0,LGA075,Nassako-Central,Uzojina North,True
+HF01064,Okeyoru-South,Supwasa Central,9.809516,10.930568,clean,clean,included,exact,100.0,LGA082,Okeyoru-South,Supwasa Central,True
+HF901077,Ekedeta-East,Supwasa South,9.329922,11.639774,clean,clean,included,exact,100.0,LGA032,Ekedeta-East,Supwasa South,True
+HF00972,Wuryona,Supwasa North,9.860753,10.506397,clean,clean,included,exact,100.0,LGA108,Wuryona,Supwasa North,True
+HF00888,Uzorisa,Uzojina South,8.64188,9.500256,clean,clean,included,exact,100.0,LGA105,Uzorisa Local Govt Area,Uzojina South,True
+HF00270,Agbmita,Agbzatu North,-3.871829,7.849982,clean,clean,excluded_out_of_bounds,exact,100.0,LGA008,Agbmita  ,Agbzatu North,True
+HF00758,TAMLUNI,Uzojina North,8.272339,7.730002,clean,clean,included,exact,100.0,LGA094,Tamluni,Uzojina North,True
+HF00958,Yobmija,Supwasa North,9.097046,10.324913,clean,clean,included,exact,100.0,LGA113,Yobmija,Supwasa North,True
+HF01263,Zamjidu,Agbkeko Central,9.641493,10.12013,clean,clean,included,exact,100.0,LGA117,Zamjidu  ,Agbkeko Central,True
+HF00015,Katmaba,Kukrima North,5.8,9.14,clean,clean,included,exact,100.0,LGA061,Katmaba,Kukrima North,True
+HF01109,Oluyofa,Supwasa South,9.136627,11.416771,clean,clean,included,exact,100.0,LGA085,Oluyofa  ,Supwasa South,True
+HF01096,Baumiru,Supwasa South,8.972945,11.359946,clean,clean,included,exact,100.0,LGA018,Baumiru,Supwasa South,True
+HF01217,Yobrifa-West LGA,Agbkeko Central,9.041771,9.476063,clean,clean,included,exact,100.0,LGA114,YOBRIFA-WEST,Agbkeko Central,True
+HF00857,Wurkota,Uzojina Central,9.058125,8.672668,clean,clean,included,exact,100.0,LGA106,Wurkota  ,Uzojina Central,True
+HF01039,Josmiba,Supwasa Central,10.533387,10.645043,clean,clean,included,exact,100.0,LGA058,Josmiba,Supwasa Central,True
+HF01210,Daibewo,Agbkeko Central,9.470118,9.360938,clean,clean,included,exact,100.0,LGA023,Daibewo,Agbkeko Central,True
+HF01292,Enumija,Agbkeko South,10.576886,10.268479,clean,clean,included,exact,100.0,LGA036,Enumija,Agbkeko South,True
+HF00452,Daishako,Agbzatu South,7.60869,8.8218,clean,clean,included,exact,100.0,LGA025,Daishako,Agbzatu South,True
+HF00643,Tamlufa-East,Tivbetu South,8.643686,10.631172,clean,clean,included,exact,100.0,LGA093,Tamlufa-East Local Govt Area,Tivbetu South,True
+HF00520,Agbzawa-South LGA,Tivbetu North,8.310584,9.836605,clean,clean,included,exact,100.0,LGA013,Agbzawa-South,Tivbetu North,True
+HF00598,Agblasa,Tivbetu Central,7.280791,10.216623,clean,clean,included,exact,100.0,LGA007,Agblasa,Tivbetu Central,True
+HF01192,Yeltili,Agbkeko North,10.199928,8.977081,clean,clean,included,exact,100.0,LGA110,Yeltili,Agbkeko North,True
+HF01258,Daibama LGA,Agbkeko Central,9.393802,9.979997,clean,clean,included,exact,100.0,LGA022,Daibama,Agbkeko Central,True
+HF00538,Uzoberi,Tivbetu North,8.666693,10.397508,clean,clean,included,exact,100.0,LGA103,Uzoberi,Tivbetu North,True
+HF00100,Yelkefa,Kukrima Central,7.586489,9.539469,clean,clean,included,exact,100.0,LGA109,Yelkefa,Kukrima Central,True
+HF00113,Lokbaru,Kukrima Central,"6°58'01.8""E","10°02'07.3""N",dms,dms,included,exact,100.0,LGA063,Lokbaru,Kukrima Central,True
+HF00005,Maltsimi,Kukrima North,6.219923,9.464022,clean,clean,included,exact,100.0,LGA071,Maltsimi,Kukrima North,True
+HF00042,Riylude-North LGA,Kukrima North,6.549921,9.746958,clean,clean,included,exact,100.0,LGA086,Riylude-North,Kukrima North,True
+HF00052,Irolufa LGA,Kukrima North,6.104447,9.650465,clean,clean,included,exact,100.0,LGA051,Irolufa,Kukrima North,True
+HF00363,Lokmata,Agbzatu Central,6.327128,8.744952,clean,clean,included,exact,100.0,LGA064,Lokmata,Agbzatu Central,True
+HF00896,LOKSAYI,Uzojina South,8.390438,8.815405,clean,clean,included,exact,100.0,LGA066,Loksayi  ,Uzojina South,True
+HF00004,Maltsimi,Kukrima North,6.201218,9.424269,clean,clean,included,exact,100.0,LGA071,Maltsimi,Kukrima North,True
+HF00153,Wurmashi,Kukrima Central,7.39,10.09,clean,clean,included,exact,100.0,LGA107,Wurmashi Local Govt Area,Kukrima Central,True
+HF01170,Ngenuta-Central,Agbkeko North,10.296369,8.727731,clean,clean,included,exact,100.0,LGA078,Ngenuta-Central Local Govt Area,Agbkeko North,True
+HF00147,Wurmashi,Kukrima Central,7.076038,10.222401,clean,clean,included,exact,100.0,LGA107,Wurmashi Local Govt Area,Kukrima Central,True
+HF00091,Yelkefa ,Kukrima Central,7.33846,9.544489,clean,clean,included,exact,100.0,LGA109,Yelkefa,Kukrima Central,True
+HF01156,Jostile ,Agbkeko North,9.846378,9.486986,clean,clean,included,exact,100.0,LGA059,Jostile,Agbkeko North,True
+HF00195,Umumitu,Kukrima South,"6°38'34.7""E","10°54'45.0""N",dms,dms,included,exact,100.0,LGA102,Umumitu,Kukrima South,True
+HF01235,Hanjile,Agbkeko Central,9.664444,9.539778,clean,clean,included,exact,100.0,LGA043,Hanjile,Agbkeko Central,True
+HF01149,Lokshasa,Agbkeko North,10.454715,9.335704,clean,clean,included,exact,100.0,LGA067,Lokshasa  ,Agbkeko North,True
+HF00862,Wurkota,Uzojina Central,9.257766,8.798446,clean,clean,included,exact,100.0,LGA106,Wurkota  ,Uzojina Central,True
+HF00536,Uzoberi,Tivbetu North,8.732364,10.241774,clean,clean,included,exact,100.0,LGA103,Uzoberi,Tivbetu North,True
+HF00105,Yelkefa,Kukrima Central,7.560141,9.684515,clean,clean,included,exact,100.0,LGA109,Yelkefa,Kukrima Central,True
+HF00550,Malbawo-Central,Tivbetu North,7.718681,9.53098,clean,clean,included,exact,100.0,LGA068,MALBAWO-CENTRAL,Tivbetu North,True
+HF00600,Agblasa,Tivbetu Central,7.550657,10.253187,clean,clean,included,exact,100.0,LGA007,Agblasa,Tivbetu Central,True
+HF00566,Ibajija-South,Tivbetu Central,7.119101,10.99749,clean,clean,included,exact,100.0,LGA048,Ibajija-South,Tivbetu Central,True
+HF01259,Zamjidu ,Agbkeko Central,9.555371,10.111013,clean,clean,included,exact,100.0,LGA117,Zamjidu  ,Agbkeko Central,True
+HF00644,Tamlufa-East,Tivbetu South,8.719519,10.689064,clean,clean,included,exact,100.0,LGA093,Tamlufa-East Local Govt Area,Tivbetu South,True
+HF00649,Tamlufa-East,Tivbetu South,8.787756,10.695032,clean,clean,included,exact,100.0,LGA093,Tamlufa-East Local Govt Area,Tivbetu South,True
+HF00255,Agbmita,Agbzatu North,7.826075,8.349803,clean,clean,included,exact,100.0,LGA008,Agbmita  ,Agbzatu North,True
+HF00873,Olubani-South,Uzojina South,8.109248,8.406026,clean,clean,included,exact,100.0,LGA083,OLUBANI-SOUTH,Uzojina South,True
+HF00746,NASYOTU,Uzojina North,8.682355,8.102501,clean,clean,included,exact,100.0,LGA076,Nasyotu,Uzojina North,True
+HF00311,Josduri-South,Agbzatu North,7.694136,7.57436,clean,clean,included,exact,100.0,LGA056,Josduri-South,Agbzatu North,True
+HF00774,Tamluni,Uzojina North,8.572348,7.956988,clean,clean,included,exact,100.0,LGA094,Tamluni,Uzojina North,True
+HF00749,Nasyotu,Uzojina North,8.850089,7.919349,clean,clean,included,exact,100.0,LGA076,Nasyotu,Uzojina North,True
+HF01206,Daibewo,Agbkeko Central,9.368564,9.181111,clean,clean,included,exact,100.0,LGA023,Daibewo,Agbkeko Central,True
+HF00445,Agbngoru,Agbzatu South,7.716927,8.49926,clean,clean,included,exact,100.0,LGA009,Agbngoru,Agbzatu South,True
+HF00879,Olubani-South ,Uzojina South,8.458121,8.495552,clean,clean,included,exact,100.0,LGA083,OLUBANI-SOUTH,Uzojina South,True
+HF00930,Zamberi-North,Uzojina South,8.523822,8.910009,clean,clean,included,exact,100.0,LGA116,Zamberi-North,Uzojina South,True
+HF00978,Zambani,Supwasa Central,9.848304,11.03691,clean,clean,included,exact,100.0,LGA115,Zambani,Supwasa Central,True
+HF00192,Umumitu,Kukrima South,6.552121,10.794518,clean,clean,included,exact,100.0,LGA102,Umumitu,Kukrima South,True
+HF00499,Agbtsiko,Tivbetu North,7.99139,9.912396,clean,clean,included,exact,100.0,LGA012,Agbtsiko  ,Tivbetu North,True
+HF00747,Nasyotu,Uzojina North,8.806199,7.998375,clean,clean,included,exact,100.0,LGA076,Nasyotu,Uzojina North,True
+HF01094,Baumiru,Supwasa South,8.998953,11.399235,clean,clean,included,exact,100.0,LGA018,Baumiru,Supwasa South,True
+HF00534,Uzoberi,Tivbetu North,8.498951,10.387755,clean,clean,included,exact,100.0,LGA103,Uzoberi,Tivbetu North,True
+HF00313,Josduri-South LGA,Agbzatu North,7.639672,7.535651,clean,clean,included,exact,100.0,LGA056,Josduri-South,Agbzatu North,True
+HF01063,Okeyoru-South,Supwasa Central,9.828417,10.937464,clean,clean,included,exact,100.0,LGA082,Okeyoru-South,Supwasa Central,True
+HF00834,Yeltsina LGA,Uzojina Central,9.757267,8.792874,clean,clean,included,exact,100.0,LGA111,Yeltsina Local Govt Area,Uzojina Central,True
+HF00047,Irolufa,Kukrima North,5.913583,9.778972,clean,clean,included,exact,100.0,LGA051,Irolufa,Kukrima North,True
+HF00845,Adelaja North,Uzojina Central,9.226196,8.565027,clean,clean,included,fuzzy,92.3076923076923,LGA003,Adelaja-North,Uzojina Central,True
+HF00009,Maltsimi ,Kukrima North,6.287578,9.305531,clean,clean,included,exact,100.0,LGA071,Maltsimi,Kukrima North,True
+HF00789,Nassako-Central,Uzojina North,8.5302,7.653698,clean,clean,included,exact,100.0,LGA075,Nassako-Central,Uzojina North,True
+HF00839,Dutkeni,Uzojina Central,9.750554,8.734666,clean,clean,included,exact,100.0,LGA029,Dutkeni  ,Uzojina Central,True
+HF00090,Yelkefa,Kukrima Central,7.301828,9.47408,clean,clean,included,exact,100.0,LGA109,Yelkefa,Kukrima Central,True
+HF00128,Tambemi,Kukrima Central,6.874655,9.673279,clean,clean,included,exact,100.0,LGA092,Tambemi,Kukrima Central,True
+HF00276,Malmaba,Agbzatu North,7.544852,8.118132,clean,clean,included,exact,100.0,LGA070,Malmaba,Agbzatu North,True
+HF00477,Ngetija,Agbzatu South,7.72612,9.239025,clean,clean,included,exact,100.0,LGA079,Ngetija,Agbzatu South,True
+HF00288,Supyoshi-East,Agbzatu North,7.662236,7.486589,clean,clean,included,exact,100.0,LGA091,Supyoshi-East  ,Agbzatu North,True
+HF00519,Agbzawa-South,Tivbetu North,8.357055,9.828162,clean,clean,included,exact,100.0,LGA013,Agbzawa-South,Tivbetu North,True
+HF00613,Ironama,Tivbetu Central,7.550008,10.72978,clean,clean,included,exact,100.0,LGA053,Ironama,Tivbetu Central,True
+HF00501,Agbtsiko,Tivbetu North,7.94622,10.19662,clean,clean,included,exact,100.0,LGA012,Agbtsiko  ,Tivbetu North,True
+HF00595,Okerano-Central,Tivbetu Central,-4.374758,11.376683,clean,clean,excluded_out_of_bounds,exact,100.0,LGA080,Okerano-Central  ,Tivbetu Central,True
+HF00694,Adekowo,Tivbetu South,8.459204,11.615395,clean,clean,included,exact,100.0,LGA002,Adekowo,Tivbetu South,True
+HF00316,Josduri-South,Agbzatu North,7.621859,7.423601,clean,clean,included,exact,100.0,LGA056,Josduri-South,Agbzatu North,True
+HF00904,Hansatu,Uzojina South,9.34602,8.974446,clean,clean,included,exact,100.0,LGA046,Hansatu  ,Uzojina South,True
+HF00384,Enutifa,Agbzatu Central,7.035096,7.921151,clean,clean,included,exact,100.0,LGA037,Enutifa,Agbzatu Central,True
+HF00360,IROSAJA,Agbzatu Central,"6°39'58.4""E","8°02'24.0""N",dms,dms,included,exact,100.0,LGA055,Irosaja,Agbzatu Central,True
+HF900899,Hansatu,Uzojina South,8.694335,9.05162,clean,clean,included,exact,100.0,LGA046,Hansatu  ,Uzojina South,True
+HF01236,Hanjile,Agbkeko Central,9.687848,9.563436,clean,clean,included,exact,100.0,LGA043,Hanjile,Agbkeko Central,True
+HF00700,Adekowo,Tivbetu South,8.704254,11.603649,clean,clean,included,exact,100.0,LGA002,Adekowo,Tivbetu South,True
+HF01227,Yobrifa-West,Agbkeko Central,9.261461,9.688894,clean,clean,included,exact,100.0,LGA114,YOBRIFA-WEST,Agbkeko Central,True
+HF00763,Tamluni,Uzojina North,8.428366,7.816138,clean,clean,included,exact,100.0,LGA094,Tamluni,Uzojina North,True
+HF00012,Katmaba,Kukrima North,5.755545,9.381572,clean,clean,included,exact,100.0,LGA061,Katmaba,Kukrima North,True
+HF00075,Ibabani,Kukrima North,6.385216,9.256285,clean,clean,included,exact,100.0,LGA047,Ibabani,Kukrima North,True
+HF00193,Umumitu,Kukrima South,6.669691,10.941114,clean,clean,included,exact,100.0,LGA102,Umumitu,Kukrima South,True
+HF00177,DAIZADE,Kukrima South,6.184442,10.395017,clean,clean,included,exact,100.0,LGA027,Daizade,Kukrima South,True
+HF01057,KATDUDU,Supwasa Central,10.01078,10.418029,clean,clean,included,exact,100.0,LGA060,Katdudu,Supwasa Central,True
+HF00071,Shajima,Kukrima North,6.013656,9.452195,clean,clean,included,exact,100.0,LGA087,Shajima,Kukrima North,True
+HF01209,Daibewo,Agbkeko Central,9.397927,9.548282,clean,clean,included,exact,100.0,LGA023,Daibewo,Agbkeko Central,True
+HF00175,Zamnuni-North,Kukrima South,6.9515,10.128821,clean,clean,included,exact,100.0,LGA120,Zamnuni-North,Kukrima South,True
+HF00918,Banluwo,Uzojina South,8.776158,8.561835,clean,clean,included,exact,100.0,LGA016,Banluwo,Uzojina South,True
+HF01314,Zammiyi,Agbkeko South,10.3036,10.09922,clean,clean,included,exact,100.0,LGA119,ZAMMIYI,Agbkeko South,True
+HF01086,Ekedeta-East,Supwasa South,9.553317,11.586868,clean,clean,included,exact,100.0,LGA032,Ekedeta-East,Supwasa South,True
+HF00440,Agbngoru,Agbzatu South,,,missing,missing,excluded_missing_or_unparseable,exact,100.0,LGA009,Agbngoru,Agbzatu South,True
+HF01202,Daibewo,Agbkeko Central,9.335028,9.41156,clean,clean,included,exact,100.0,LGA023,Daibewo,Agbkeko Central,True
+HF01221,Yobrifa-West,Agbkeko Central,9.132241,9.639112,clean,clean,included,exact,100.0,LGA114,YOBRIFA-WEST,Agbkeko Central,True
+HF01298,Enumija,Agbkeko South,10.814573,10.149264,clean,clean,included,exact,100.0,LGA036,Enumija,Agbkeko South,True
+HF00008,Maltsimi,Kukrima North,6.31174,9.306027,clean,clean,included,exact,100.0,LGA071,Maltsimi,Kukrima North,True
+HF00185,Daizade,Kukrima South,6.532454,10.528277,clean,clean,included,exact,100.0,LGA027,Daizade,Kukrima South,True
+HF00387,Enutifa ,Agbzatu Central,7.121138,8.161883,clean,clean,included,exact,100.0,LGA037,Enutifa,Agbzatu Central,True
+HF00847,Adelaja-North,Uzojina Central,9.411792,8.428875,clean,clean,included,exact,100.0,LGA003,Adelaja-North,Uzojina Central,True
+HF00021,Uzoluni,Kukrima North,6.302085,8.752193,clean,clean,included,exact,100.0,LGA104,Uzoluni,Kukrima North,True
+HF01315,Zammiyi,Agbkeko South,10.412017,10.296785,clean,clean,included,exact,100.0,LGA119,ZAMMIYI,Agbkeko South,True
+HF01040,Josmiba,Supwasa Central,10.598331,10.657604,clean,clean,included,exact,100.0,LGA058,Josmiba,Supwasa Central,True
+HF01140,Sokmiri,Agbkeko North,9.654445,8.904026,clean,clean,included,exact,100.0,LGA088,Sokmiri,Agbkeko North,True
+HF01226,Yobrifa-West,Agbkeko Central,9.324263,9.671112,clean,clean,included,exact,100.0,LGA114,YOBRIFA-WEST,Agbkeko Central,True
+HF00556,Soktimi,Tivbetu North,7.678294,10.061189,clean,clean,included,exact,100.0,LGA089,Soktimi,Tivbetu North,True
+HF00179,Daizade,Kukrima South,6.1876,10.385132,clean,clean,included,exact,100.0,LGA027,Daizade,Kukrima South,True
+HF00176,Zamnuni North,Kukrima South,6.94361,10.311698,clean,clean,included,fuzzy,92.3076923076923,LGA120,Zamnuni-North,Kukrima South,True
+HF01041,Josmiba,Supwasa Central,10.65345,10.460045,clean,clean,included,exact,100.0,LGA058,Josmiba,Supwasa Central,True
+HF00138,Gwolama,Kukrima Central,7.003928,9.546265,clean,clean,included,exact,100.0,LGA041,Gwolama,Kukrima Central,True
+HF00559,Soktimi,Tivbetu North,7.562021,10.015408,clean,clean,included,exact,100.0,LGA089,Soktimi,Tivbetu North,True
+HF00152,Wurmashi,Kukrima Central,7.327791,10.127443,clean,clean,included,exact,100.0,LGA107,Wurmashi Local Govt Area,Kukrima Central,True
+HF00381,Dutzama,Agbzatu Central,6.913649,7.926184,clean,clean,included,exact,100.0,LGA031,DUTZAMA,Agbzatu Central,True
+HF00526,Hansaba ,Tivbetu North,8.473404,9.812121,clean,clean,included,exact,100.0,LGA045,Hansaba,Tivbetu North,True
+HF00993,Zambani,Supwasa Central,10.183303,10.922474,clean,clean,included,exact,100.0,LGA115,Zambani,Supwasa Central,True
+HF00796,Tamwata-South,Uzojina Central,10.013204,8.337604,clean,clean,included,exact,100.0,LGA095,Tamwata-South,Uzojina Central,True
+HF00812,DAISHALI-CENTRAL,Uzojina Central,8.965216,8.403839,clean,clean,included,exact,100.0,LGA026,Daishali-Central,Uzojina Central,True
+HF00222,Enumade-West,Kukrima South,6.510914,10.437259,clean,clean,included,exact,100.0,LGA035,Enumade-West,Kukrima South,True
+HF00411,Iromashi,Agbzatu Central,7.12557,8.411782,clean,clean,included,exact,100.0,LGA052,Iromashi,Agbzatu Central,True
+HF00072,Ibabani,Kukrima North,6.377367,9.346238,clean,clean,included,exact,100.0,LGA047,Ibabani,Kukrima North,True
+HF00020,Uzoluni,Kukrima North,6.299295,8.742118,clean,clean,included,exact,100.0,LGA104,Uzoluni,Kukrima North,True
+HF00278,Malmaba,Agbzatu North,7.726362,8.360954,clean,clean,included,exact,100.0,LGA070,Malmaba,Agbzatu North,True
+HF00289,Supyoshi-East,Agbzatu North,7.727978,7.426917,clean,clean,included,exact,100.0,LGA091,Supyoshi-East  ,Agbzatu North,True
+HF00467,UMUMAYI,Agbzatu South,8.005198,9.242279,clean,clean,included,exact,100.0,LGA101,Umumayi,Agbzatu South,True
+HF01113,Oluyofa,Supwasa South,9.1918,11.295959,clean,clean,included,exact,100.0,LGA085,Oluyofa  ,Supwasa South,True
+HF00859,Wurkota ,Uzojina Central,9.077686,8.660756,clean,clean,included,exact,100.0,LGA106,Wurkota  ,Uzojina Central,True
+HF00417,Oketsifa,Agbzatu South,7.888151,8.462873,clean,clean,included,exact,100.0,LGA081,Oketsifa,Agbzatu South,True
+HF00037,Riylude-North,Kukrima North,6.450128,9.845145,clean,clean,included,exact,100.0,LGA086,Riylude-North,Kukrima North,True
+HF900052,Irolufa,Kukrima North,6.104447,9.650465,clean,clean,included,exact,100.0,LGA051,Irolufa,Kukrima North,True
+HF00367,Lokmata,Agbzatu Central,6.520543,8.651852,clean,clean,included,exact,100.0,LGA064,Lokmata,Agbzatu Central,True
+HF00095,Yelkefa LGA,Kukrima Central,7.438632,9.50402,clean,clean,included,exact,100.0,LGA109,Yelkefa,Kukrima Central,True
+HF01166,NGENUTA-CENTRAL,Agbkeko North,10.21,8.57,clean,clean,included,exact,100.0,LGA078,Ngenuta-Central Local Govt Area,Agbkeko North,True
+HF00584,Irongori,Tivbetu Central,7.802094,10.868916,clean,clean,included,exact,100.0,LGA054,Irongori,Tivbetu Central,True
+HF01294,Enumija,Agbkeko South,10.698088,10.233503,clean,clean,included,exact,100.0,LGA036,Enumija,Agbkeko South,True
+HF01304,Ngemidu,Agbkeko South,"10°09'18.7""E","9°46'15.6""N",dms,dms,included,exact,100.0,LGA077,Ngemidu,Agbkeko South,True
+HF00771,Tamluni,Uzojina North,8.484971,7.928792,clean,clean,included,exact,100.0,LGA094,Tamluni,Uzojina North,True
+HF00691,Nasdudu-North,Tivbetu South,7.9556,11.535905,clean,clean,included,exact,100.0,LGA072,Nasdudu-North,Tivbetu South,True
+HF01035,Josmiba,Supwasa Central,10.405017,10.446018,clean,clean,included,exact,100.0,LGA058,Josmiba,Supwasa Central,True
+HF01324,Gwodewo,Agbkeko South,10.471842,9.915541,clean,clean,included,exact,100.0,LGA040,Gwodewo,Agbkeko South,True
+HF01095,Baumiru,Supwasa South,8.932769,11.36894,clean,clean,included,exact,100.0,LGA018,Baumiru,Supwasa South,True
+HF00823,DaishaliCentral,Uzojina Central,9.305609,8.138822,clean,clean,included,fuzzy,96.7741935483871,LGA026,Daishali-Central,Uzojina Central,True
+HF00067,Shajima,Kukrima North,5.961923,9.414439,clean,clean,included,exact,100.0,LGA087,Shajima,Kukrima North,True
+HF00887,Uzorisa,Uzojina South,8.604787,9.504081,clean,clean,included,exact,100.0,LGA105,Uzorisa Local Govt Area,Uzojina South,True
+HF00655,Ibamide LGA,Tivbetu South,8.158438,11.213725,clean,clean,included,exact,100.0,LGA049,Ibamide,Tivbetu South,True
+HF00422,Oketsifa,Agbzatu South,-3.607123,8.644565,clean,clean,excluded_out_of_bounds,exact,100.0,LGA081,Oketsifa,Agbzatu South,True
+HF01320,Zammiyi,Agbkeko South,10.540791,9.970152,clean,clean,included,exact,100.0,LGA119,ZAMMIYI,Agbkeko South,True
+HF01042,Josmiba,Supwasa Central,10.733492,10.628218,clean,clean,included,exact,100.0,LGA058,Josmiba,Supwasa Central,True
+HF00625,Daidefa,Tivbetu Central,6.871031,10.936763,clean,clean,included,exact,100.0,LGA024,Daidefa,Tivbetu Central,True
+HF00321,Gwodele-South,Agbzatu North,7.979697,7.433514,clean,clean,included,exact,100.0,LGA039,Gwodele-South,Agbzatu North,True
+HF00064,Shajima,Kukrima North,5.922543,9.067566,clean,clean,included,exact,100.0,LGA087,Shajima,Kukrima North,True
+HF00708,Tivrafa-West,Uzojina North,9.117929,7.780579,clean,clean,included,fuzzy,91.66666666666666,LGA099,Tivrafa West,Uzojina North,True
+HF00908,Agbridu West,Uzojina South,"8,224397","9,069231",comma_decimal,comma_decimal,included,fuzzy,91.66666666666666,LGA011,Agbridu-West,Uzojina South,True
+HF01125,Tivmama,Supwasa South,9.468348,11.056699,clean,clean,included,exact,100.0,LGA097,Tivmama,Supwasa South,True
+HF01145,Lokshasa,Agbkeko North,10.421867,9.195991,clean,clean,included,exact,100.0,LGA067,Lokshasa  ,Agbkeko North,True
+HF00820,Daishali-Central,Uzojina Central,9.181705,8.385834,clean,clean,included,exact,100.0,LGA026,Daishali-Central,Uzojina Central,True
+HF00198,Umumitu,Kukrima South,6.793319,11.020406,clean,clean,included,exact,100.0,LGA102,Umumitu,Kukrima South,True
+HF01219,YOBRIFA-WEST,Agbkeko Central,9.104586,9.573868,clean,clean,included,exact,100.0,LGA114,YOBRIFA-WEST,Agbkeko Central,True
+HF00535,Uzoberi,Tivbetu North,8.674514,10.124574,clean,clean,included,exact,100.0,LGA103,Uzoberi,Tivbetu North,True
+HF00866,Tivngoba,Uzojina South,8.940091,8.94883,clean,clean,included,exact,100.0,LGA098,Tivngoba,Uzojina South,True
+HF00139,Gwolama,Kukrima Central,6.992913,9.328799,clean,clean,included,exact,100.0,LGA041,Gwolama,Kukrima Central,True
+HF01200,Daibewo,Agbkeko Central,9.307533,9.410747,clean,clean,included,exact,100.0,LGA023,Daibewo,Agbkeko Central,True
+HF00124,Agbjide,Kukrima Central,6.850823,9.297858,clean,clean,included,exact,100.0,LGA005,Agbjide,Kukrima Central,True
+HF00868,Tivngoba,Uzojina South,9.031458,9.058523,clean,clean,included,exact,100.0,LGA098,Tivngoba,Uzojina South,True
+HF00266,Agbmita,Agbzatu North,8.122144,8.269106,clean,clean,included,exact,100.0,LGA008,Agbmita  ,Agbzatu North,True
+HF01242,Hanjile,Agbkeko Central,9.89431,9.649259,clean,clean,included,exact,100.0,LGA043,Hanjile,Agbkeko Central,True
+HF00653,Ibamide,Tivbetu South,8.08452,11.39746,clean,clean,included,exact,100.0,LGA049,Ibamide,Tivbetu South,True
+HF00374,Lokmata,Agbzatu Central,6.716886,8.756201,clean,clean,included,exact,100.0,LGA064,Lokmata,Agbzatu Central,True
+HF00678,Olujiwa ,Tivbetu South,8.121102,10.705155,clean,clean,included,exact,100.0,LGA084,Olujiwa,Tivbetu South,True
+HF900565,Ibajija-South,Tivbetu Central,6.95688,10.872176,clean,clean,included,exact,100.0,LGA048,Ibajija-South,Tivbetu Central,True
+HF00555,Malbawo-Central,Tivbetu North,7.848479,9.616096,clean,clean,included,exact,100.0,LGA068,MALBAWO-CENTRAL,Tivbetu North,True
+HF00658,Ibamide,Tivbetu South,8.1823,11.337864,clean,clean,included,exact,100.0,LGA049,Ibamide,Tivbetu South,True
+HF00802,Tamwata-South,Uzojina Central,10.158177,8.413279,clean,clean,included,exact,100.0,LGA095,Tamwata-South,Uzojina Central,True
+HF01268,Zamjidu,Agbkeko Central,9.853549,10.032682,clean,clean,included,exact,100.0,LGA117,Zamjidu  ,Agbkeko Central,True
+HF00455,Banngono,Agbzatu South,7.224104,9.034429,clean,clean,included,exact,100.0,LGA017,Banngono,Agbzatu South,True
+HF00871,Olubani-South,Uzojina South,8.156597,8.566049,clean,clean,included,exact,100.0,LGA083,OLUBANI-SOUTH,Uzojina South,True
+HF01003,BAUTIRU-WEST,Supwasa Central,10.672758,10.828111,clean,clean,included,exact,100.0,LGA020,Bautiru-West,Supwasa Central,True
+HF00601,Agblasa LGA,Tivbetu Central,7.411315,10.269159,clean,clean,included,exact,100.0,LGA007,Agblasa,Tivbetu Central,True
+HF00790,NASSAKO-CENTRAL,Uzojina North,8.744614,7.450122,clean,clean,included,exact,100.0,LGA075,Nassako-Central,Uzojina North,True
+HF00577,Dutwano,Tivbetu Central,7.685792,11.399495,clean,clean,included,exact,100.0,LGA030,Dutwano,Tivbetu Central,True
+HF00141,Gwolama,Kukrima Central,7.008371,9.245351,clean,clean,included,exact,100.0,LGA041,Gwolama,Kukrima Central,True
+HF01139,Sokmiri LGA,Agbkeko North,9.749804,8.96697,clean,clean,included,exact,100.0,LGA088,Sokmiri,Agbkeko North,True
+HF00561,Soktimi,Tivbetu North,7.688186,9.845039,clean,clean,included,exact,100.0,LGA089,Soktimi,Tivbetu North,True
+HF00043,Riylude-North,Kukrima North,6.528414,9.726784,clean,clean,included,exact,100.0,LGA086,Riylude-North,Kukrima North,True
+HF00174,ZamnuniNorth,Kukrima South,7.005231,10.117496,clean,clean,included,fuzzy,96.0,LGA120,Zamnuni-North,Kukrima South,True
+HF00108,Yelkefa LGA,Kukrima Central,7.506259,9.747259,clean,clean,included,exact,100.0,LGA109,Yelkefa,Kukrima Central,True
+HF00253,Agbmita,Agbzatu North,8.394384,7.88658,clean,clean,included,exact,100.0,LGA008,Agbmita  ,Agbzatu North,True
+HF01137,Sokmiri,Agbkeko North,9.573365,9.108368,clean,clean,included,exact,100.0,LGA088,Sokmiri,Agbkeko North,True
+HF00051,Irolufa,Kukrima North,5.921303,10.002064,clean,clean,included,exact,100.0,LGA051,Irolufa,Kukrima North,True
+HF00234,Enumade-West,Kukrima South,6.663104,10.463394,clean,clean,included,exact,100.0,LGA035,Enumade-West,Kukrima South,True
+HF00269,Agbmita,Agbzatu North,8.142656,7.957894,clean,clean,included,exact,100.0,LGA008,Agbmita  ,Agbzatu North,True
+HF00403,Supsama-South,Agbzatu Central,6.317395,8.68685,clean,clean,included,exact,100.0,LGA090,Supsama-South,Agbzatu Central,True
+HF01062,Katdudu,Supwasa Central,10.21287,10.523734,clean,clean,included,exact,100.0,LGA060,Katdudu,Supwasa Central,True
+HF00549,Malbawo-Central LGA,Tivbetu North,7.737099,9.584049,clean,clean,included,exact,100.0,LGA068,MALBAWO-CENTRAL,Tivbetu North,True
+HF00398,Katrini,Agbzatu Central,7.048843,8.333614,clean,clean,included,exact,100.0,LGA062,KATRINI,Agbzatu Central,True
+HF00274,Malmaba,Agbzatu North,7.57,8.05,clean,clean,included,exact,100.0,LGA070,Malmaba,Agbzatu North,True
+HF01187,Yeltili ,Agbkeko North,9.888077,8.712628,clean,clean,included,exact,100.0,LGA110,Yeltili,Agbkeko North,True
+HF01112,Oluyofa,Supwasa South,9.298757,11.303614,clean,clean,included,exact,100.0,LGA085,Oluyofa  ,Supwasa South,True
+HF00498,Agbtsiko,Tivbetu North,8.059468,9.852051,clean,clean,included,exact,100.0,LGA012,Agbtsiko  ,Tivbetu North,True
+HF00087,Ekejisa-North,Kukrima North,5.693857,9.785948,clean,clean,included,exact,100.0,LGA034,Ekejisa-North Local Govt Area,Kukrima North,True
+HF01255,Daibama,Agbkeko Central,9.385171,9.944942,clean,clean,included,exact,100.0,LGA022,Daibama,Agbkeko Central,True
+HF01325,Gwodewo,Agbkeko South,10.638319,9.901975,clean,clean,included,exact,100.0,LGA040,Gwodewo,Agbkeko South,True
+HF01261,Zamjidu,Agbkeko Central,9.516427,10.079886,clean,clean,included,exact,100.0,LGA117,Zamjidu  ,Agbkeko Central,True
+HF01005,Bautiru-West,Supwasa Central,"10°35'15.9""E","11°04'27.4""N",dms,dms,included,exact,100.0,LGA020,Bautiru-West,Supwasa Central,True
+HF00415,IROMASHI,Agbzatu Central,7.129634,8.252513,clean,clean,included,exact,100.0,LGA052,Iromashi,Agbzatu Central,True
+HF00483,Tivsano-North,Tivbetu North,8.258281,10.403605,clean,clean,included,exact,100.0,LGA100,Tivsano-North,Tivbetu Central,False
+HF00564,Ibajija-South,Tivbetu Central,6.957632,10.805009,clean,clean,included,exact,100.0,LGA048,Ibajija-South,Tivbetu Central,True
+HF01274,Nasnadu,Agbkeko South,9.84058,9.882078,clean,clean,included,exact,100.0,LGA073,Nasnadu  ,Agbkeko South,True
+HF00693,Nasdudu-North,Tivbetu South,8.06598,11.13844,clean,clean,included,exact,100.0,LGA072,Nasdudu-North,Tivbetu South,True
+HF00366,Lokmata,Agbzatu Central,6.615772,8.634457,clean,clean,included,exact,100.0,LGA064,Lokmata,Agbzatu Central,True
+HF00525,AGBZAWA-SOUTH,Tivbetu North,8.369306,9.587759,clean,clean,included,exact,100.0,LGA013,Agbzawa-South,Tivbetu North,True
+HF00303,Hanraja,Agbzatu North,7.45,7.87,clean,clean,included,exact,100.0,LGA044,Hanraja,Agbzatu North,True
+HF01309,Ngemidu,Agbkeko South,10.349002,9.781313,clean,clean,included,exact,100.0,LGA077,Ngemidu,Agbkeko South,True
+HF00736,Agbkotu-South,Uzojina North,8.336858,8.064907,clean,clean,included,exact,100.0,LGA006,Agbkotu-South,Uzojina North,True
+HF00340,Zamkeri,Agbzatu Central,6.84398,8.905034,clean,clean,included,exact,100.0,LGA118,Zamkeri,Agbzatu Central,True
+HF00579,Dutwano,Tivbetu Central,7.76356,11.402001,clean,clean,included,exact,100.0,LGA030,Dutwano,Tivbetu Central,True
+HF00039,Riylude-North,Kukrima North,6.3978,9.844214,clean,clean,included,exact,100.0,LGA086,Riylude-North,Kukrima North,True
+HF00609,Ironama,Tivbetu Central,7.494114,10.77238,clean,clean,included,exact,100.0,LGA053,Ironama,Tivbetu Central,True
+HF00380,DUTZAMA,Agbzatu Central,6.782301,7.870861,clean,clean,included,exact,100.0,LGA031,DUTZAMA,Agbzatu Central,True
+HF00491,Tivsano-North,Tivbetu North,8.463899,10.251886,clean,clean,included,exact,100.0,LGA100,Tivsano-North,Tivbetu Central,False
+HF00636,Joskeru,Tivbetu South,8.612233,11.264857,clean,clean,included,exact,100.0,LGA057,Joskeru,Tivbetu South,True
+HF00769,Tamluni,Uzojina North,8.533387,7.987262,clean,clean,included,exact,100.0,LGA094,Tamluni,Uzojina North,True
+HF01097,Baumiru,Supwasa South,9.0,11.2,clean,clean,included,exact,100.0,LGA018,Baumiru,Supwasa South,True
+HF00049,Irolufa,Kukrima North,5.954722,10.033424,clean,clean,included,exact,100.0,LGA051,Irolufa,Kukrima North,True
+HF00932,Zamberi-North,Uzojina South,8.577357,8.900812,clean,clean,included,exact,100.0,LGA116,Zamberi-North,Uzojina South,True
+HF00720,Dutjiri,Uzojina North,8.627528,8.360639,clean,clean,included,exact,100.0,LGA028,Dutjiri,Uzojina North,True
+HF00874,Olubani-South,Uzojina South,8.26993,8.632786,clean,clean,included,exact,100.0,LGA083,OLUBANI-SOUTH,Uzojina South,True
+HF00901,Hansatu,Uzojina South,8.811091,9.348975,clean,clean,included,exact,100.0,LGA046,Hansatu  ,Uzojina South,True
+HF00682,Olujiwa,Tivbetu South,8.094521,11.022761,clean,clean,included,exact,100.0,LGA084,Olujiwa,Tivbetu South,True
+HF00528,Hansaba,Tivbetu North,8.56882,9.940451,clean,clean,included,exact,100.0,LGA045,Hansaba,Tivbetu North,True
+HF00648,Tamlufa-East,Tivbetu South,8.814164,10.592617,clean,clean,included,exact,100.0,LGA093,Tamlufa-East Local Govt Area,Tivbetu South,True
+HF00397,Katrini,Agbzatu Central,6.878779,8.16498,clean,clean,included,exact,100.0,LGA062,KATRINI,Agbzatu Central,True
+HF00074,Ibabani,Kukrima North,6.345406,9.475665,clean,clean,included,exact,100.0,LGA047,Ibabani,Kukrima North,True
+HF00251,Agbmita,Agbzatu North,7.849626,8.017297,clean,clean,included,exact,100.0,LGA008,Agbmita  ,Agbzatu North,True
+HF00628,Daidefa,Tivbetu Central,7.107582,11.147235,clean,clean,included,exact,100.0,LGA024,Daidefa,Tivbetu Central,True
+HF900541,Uzoberi,Tivbetu North,8.758937,10.43891,clean,clean,included,exact,100.0,LGA103,Uzoberi,Tivbetu North,True
+HF00263,Agbmita,Agbzatu North,8.023887,8.17409,clean,clean,included,exact,100.0,LGA008,Agbmita  ,Agbzatu North,True
+HF00014,Katmaba,Kukrima North,"5,698752","9,381432",comma_decimal,comma_decimal,included,exact,100.0,LGA061,Katmaba,Kukrima North,True
+HF01281,Nasnadu,Agbkeko South,10.043838,10.184815,clean,clean,included,exact,100.0,LGA073,Nasnadu  ,Agbkeko South,True
+HF01241,HANJILE,Agbkeko Central,9.912945,9.626453,clean,clean,included,exact,100.0,LGA043,Hanjile,Agbkeko Central,True
+HF00925,Zamberi-North,Uzojina South,8.561178,8.811937,clean,clean,included,exact,100.0,LGA116,Zamberi-North,Uzojina South,True
+HF00803,Tamwata-South,Uzojina Central,10.028566,8.355887,clean,clean,included,exact,100.0,LGA095,Tamwata-South,Uzojina Central,True
+HF01050,KATDUDU,Supwasa Central,10.142413,10.700895,clean,clean,included,exact,100.0,LGA060,Katdudu,Supwasa Central,True
+HF00940,Adekeni,Supwasa North,9.37969,10.989921,clean,clean,included,exact,100.0,LGA001,Adekeni,Supwasa North,True
+HF01017,Funkedu,Supwasa Central,10.410072,11.361348,clean,clean,included,exact,100.0,LGA038,Funkedu,Supwasa Central,True
+HF00938,Adekeni,Supwasa North,9.349977,10.884026,clean,clean,included,exact,100.0,LGA001,Adekeni,Supwasa North,True
+HF00688,Nasdudu-North,Tivbetu South,7.953908,11.569309,clean,clean,included,exact,100.0,LGA072,Nasdudu-North,Tivbetu South,True
+HF00309,Josduri-South ,Agbzatu North,7.574104,7.510472,clean,clean,included,exact,100.0,LGA056,Josduri-South,Agbzatu North,True
+HF01108,Loknaba,Supwasa South,9.027383,11.655609,clean,clean,included,exact,100.0,LGA065,Loknaba,Supwasa South,True
+HF00913,Agbridu-West,Uzojina South,8.437296,9.068528,clean,clean,included,exact,100.0,LGA011,Agbridu-West,Uzojina South,True
+HF00923,ZAMBERI-NORTH,Uzojina South,8.55411,8.719858,clean,clean,included,exact,100.0,LGA116,Zamberi-North,Uzojina South,True
+HF00821,Daishali Central,Uzojina Central,9.219424,8.284518,clean,clean,included,fuzzy,93.75,LGA026,Daishali-Central,Uzojina Central,True
+HF00651,Ibamide,Tivbetu South,8.04,11.55,clean,clean,included,exact,100.0,LGA049,Ibamide,Tivbetu South,True
+HF00580,Dutwano,Tivbetu Central,7.891742,11.207827,clean,clean,included,exact,100.0,LGA030,Dutwano,Tivbetu Central,True
+HF00576,Dutwano,Tivbetu Central,7.54,11.45,clean,clean,included,exact,100.0,LGA030,Dutwano,Tivbetu Central,True
+HF01172,Maljiwo,Agbkeko North,,,missing,missing,excluded_missing_or_unparseable,exact,100.0,LGA069,Maljiwo,Agbkeko North,True
+HF01059,Katdudu,Supwasa Central,10.193241,10.405481,clean,clean,included,exact,100.0,LGA060,Katdudu,Supwasa Central,True
+HF00186,Daizade,Kukrima South,6.367893,10.575492,clean,clean,included,exact,100.0,LGA027,Daizade,Kukrima South,True
+HF00085,Ekejisa-North,Kukrima North,5.792405,9.699518,clean,clean,included,exact,100.0,LGA034,Ekejisa-North Local Govt Area,Kukrima North,True
+HF00148,Wurmashi,Kukrima Central,7.096931,10.250366,clean,clean,included,exact,100.0,LGA107,Wurmashi Local Govt Area,Kukrima Central,True
+HF00755,Nasyotu,Uzojina North,9.055201,7.967541,clean,clean,included,exact,100.0,LGA076,Nasyotu,Uzojina North,True
+HF00744,Agbkotu-South,Uzojina North,8.388348,8.254835,clean,clean,included,exact,100.0,LGA006,Agbkotu-South,Uzojina North,True
+HF01290,Enumija,Agbkeko South,10.634276,10.10173,clean,clean,included,exact,100.0,LGA036,Enumija,Agbkeko South,True
+HF00362,Irosaja,Agbzatu Central,6.610718,7.975798,clean,clean,included,exact,100.0,LGA055,Irosaja,Agbzatu Central,True
+HF00965,Ibangosa,Supwasa North,9.395978,10.287542,clean,clean,included,exact,100.0,LGA050,Ibangosa,Supwasa North,True
+HF01119,Oluyofa,Supwasa South,9.254836,11.223359,clean,clean,included,exact,100.0,LGA085,Oluyofa  ,Supwasa South,True
+HF01136,Sokmiri,Agbkeko North,9.574423,9.093929,clean,clean,included,exact,100.0,LGA088,Sokmiri,Agbkeko North,True
+HF00407,Supsama-South,Agbzatu Central,6.406447,8.389587,clean,clean,included,exact,100.0,LGA090,Supsama-South,Agbzatu Central,True
+HF00652,Ibamide,Tivbetu South,8.063028,11.427013,clean,clean,included,exact,100.0,LGA049,Ibamide,Tivbetu South,True
+HF00587,Irongori,Tivbetu Central,7.764898,10.616426,clean,clean,included,exact,100.0,LGA054,Irongori,Tivbetu Central,True
+HF00679,Olujiwa,Tivbetu South,8.084209,10.7198,clean,clean,included,exact,100.0,LGA084,Olujiwa,Tivbetu South,True
+HF00488,Tivsano-North,Tivbetu North,8.413854,10.041296,clean,clean,included,exact,100.0,LGA100,Tivsano-North,Tivbetu Central,False
+HF01083,Ekedeta-East,Supwasa South,9.40919,11.445907,clean,clean,included,exact,100.0,LGA032,Ekedeta-East,Supwasa South,True
+HF00217,Banluta,Kukrima South,6.032417,10.123064,clean,clean,included,exact,100.0,LGA015,Banluta,Kukrima South,True
+HF00632,Joskeru,Tivbetu South,8.343724,10.969225,clean,clean,included,exact,100.0,LGA057,Joskeru,Tivbetu South,True
+HF00903,Hansatu,Uzojina South,9.006057,9.315658,clean,clean,included,exact,100.0,LGA046,Hansatu  ,Uzojina South,True
+HF01318,ZAMMIYI,Agbkeko South,10.491615,9.973942,clean,clean,included,exact,100.0,LGA119,ZAMMIYI,Agbkeko South,True
+HF00156,Wurmashi,Kukrima Central,7.220702,10.013517,clean,clean,included,exact,100.0,LGA107,Wurmashi Local Govt Area,Kukrima Central,True
+HF00614,Ironama,Tivbetu Central,7.635528,10.87375,clean,clean,included,exact,100.0,LGA053,Ironama,Tivbetu Central,True
+HF01028,Funkedu,Supwasa Central,10.601456,11.238738,clean,clean,included,exact,100.0,LGA038,Funkedu,Supwasa Central,True
+HF00298,Hanraja,Agbzatu North,7.420777,8.011711,clean,clean,included,exact,100.0,LGA044,Hanraja,Agbzatu North,True
+HF01220,Yobrifa-West,Agbkeko Central,8.981233,9.572757,clean,clean,included,exact,100.0,LGA114,YOBRIFA-WEST,Agbkeko Central,True
+HF00986,Zambani,Supwasa Central,10.099949,11.433938,clean,clean,included,exact,100.0,LGA115,Zambani,Supwasa Central,True
+HF00233,Enumade West,Kukrima South,6.638614,10.448883,clean,clean,included,fuzzy,91.66666666666666,LGA035,Enumade-West,Kukrima South,True
+HF00379,Dutzama,Agbzatu Central,6.808917,7.764147,clean,clean,included,exact,100.0,LGA031,DUTZAMA,Agbzatu Central,True
+HF00318,Gwodele-South,Agbzatu North,8.191681,7.2695,clean,clean,included,exact,100.0,LGA039,Gwodele-South,Agbzatu North,True
+HF00428,Oketsifa,Agbzatu South,7.96805,8.416047,clean,clean,included,exact,100.0,LGA081,Oketsifa,Agbzatu South,True
+HF00570,Ibajija-South,Tivbetu Central,7.372115,10.898618,clean,clean,included,exact,100.0,LGA048,Ibajija-South,Tivbetu Central,True
+HF00277,Malmaba,Agbzatu North,7.742389,8.229237,clean,clean,included,exact,100.0,LGA070,Malmaba,Agbzatu North,True
+HF00068,Shajima,Kukrima North,5.947112,9.470632,clean,clean,included,exact,100.0,LGA087,Shajima,Kukrima North,True
+HF00981,Zambani,Supwasa Central,10.001704,11.135483,clean,clean,included,exact,100.0,LGA115,Zambani,Supwasa Central,True
+HF00731,Agbkotu-South,Uzojina North,8.325049,8.370509,clean,clean,included,exact,100.0,LGA006,Agbkotu-South,Uzojina North,True
+HF00027,Uzoluni,Kukrima North,6.421896,8.900539,clean,clean,included,exact,100.0,LGA104,Uzoluni,Kukrima North,True
+HF00115,Agbnumi,Kukrima Central,7.188433,9.172574,clean,clean,included,exact,100.0,LGA010,Agbnumi,Kukrima Central,True
+HF00663,Hanjiko,Tivbetu South,8.50209,10.793922,clean,clean,included,exact,100.0,LGA042,Hanjiko Local Govt Area,Tivbetu South,True
+HF00811,Ekedewo,Uzojina Central,9.606225,8.221645,clean,clean,included,exact,100.0,LGA033,Ekedewo  ,Uzojina Central,True
+HF01205,Daibewo,Agbkeko Central,9.416492,9.247613,clean,clean,included,exact,100.0,LGA023,Daibewo,Agbkeko Central,True
+HF00204,Adenaja,Kukrima South,6.79551,10.429899,clean,clean,included,exact,100.0,LGA004,ADENAJA,Kukrima South,True
+HF01173,Maljiwo LGA,Agbkeko North,9.508112,9.189691,clean,clean,included,exact,100.0,LGA069,Maljiwo,Agbkeko North,True
+HF00546,Bandede-North,Tivbetu North,8.055006,9.75661,clean,clean,included,exact,100.0,LGA014,Bandede-North,Tivbetu North,True
+HF00161,Wurmashi,Kukrima Central,7.2496,10.079692,clean,clean,included,exact,100.0,LGA107,Wurmashi Local Govt Area,Kukrima Central,True
+HF00350,Zamkeri,Agbzatu Central,6.808364,9.050639,clean,clean,included,exact,100.0,LGA118,Zamkeri,Agbzatu Central,True
+HF00216,Banluta,Kukrima South,6.077736,10.403584,clean,clean,included,exact,100.0,LGA015,Banluta,Kukrima South,True
+HF00405,SUPSAMA-SOUTH,Agbzatu Central,6.424085,8.53411,clean,clean,included,exact,100.0,LGA090,Supsama-South,Agbzatu Central,True
+HF00106,Yelkefa,Kukrima Central,7.442582,9.700669,clean,clean,included,exact,100.0,LGA109,Yelkefa,Kukrima Central,True
+HF01000,Bautiru-West,Supwasa Central,10.493156,10.754548,clean,clean,included,exact,100.0,LGA020,Bautiru-West,Supwasa Central,True
+HF00798,Tamwata-South,Uzojina Central,9.686997,8.173974,clean,clean,included,exact,100.0,LGA095,Tamwata-South,Uzojina Central,True
+HF01262,Zamjidu,Agbkeko Central,9.763771,9.938692,clean,clean,included,exact,100.0,LGA117,Zamjidu  ,Agbkeko Central,True
+HF00844,Adelaja-North,Uzojina Central,9.290389,8.464223,clean,clean,included,exact,100.0,LGA003,Adelaja-North,Uzojina Central,True
+HF00119,Agbjide,Kukrima Central,6.733361,9.425632,clean,clean,included,exact,100.0,LGA005,Agbjide,Kukrima Central,True
+HF01079,Ekedeta-East ,Supwasa South,9.482863,11.621839,clean,clean,included,exact,100.0,LGA032,Ekedeta-East,Supwasa South,True
+HF00909,AGBRIDU-WEST,Uzojina South,8.16768,9.122585,clean,clean,included,exact,100.0,LGA011,Agbridu-West,Uzojina South,True
+HF00330,Gwodele-South,Agbzatu North,8.069302,7.431189,clean,clean,included,exact,100.0,LGA039,Gwodele-South,Agbzatu North,True
+HF00594,Okerano-Central,Tivbetu Central,7.301035,11.302627,clean,clean,included,exact,100.0,LGA080,Okerano-Central  ,Tivbetu Central,True
+HF00094,Yelkefa ,Kukrima Central,7.424451,9.463961,clean,clean,included,exact,100.0,LGA109,Yelkefa,Kukrima Central,True
+HF00943,Adekeni,Supwasa North,9.324961,10.644653,clean,clean,included,exact,100.0,LGA001,Adekeni,Supwasa North,True
+HF00514,Agbzawa-South,Tivbetu North,8.323831,9.778981,clean,clean,included,exact,100.0,LGA013,Agbzawa-South,Tivbetu North,True
+HF00029,Riylude-North,Kukrima North,6.248834,9.756682,clean,clean,included,exact,100.0,LGA086,Riylude-North,Kukrima North,True
+HF00191,Umumitu,Kukrima South,6.582052,10.778957,clean,clean,included,exact,100.0,LGA102,Umumitu,Kukrima South,True
+HF00388,Enutifa,Agbzatu Central,7.126142,8.133481,clean,clean,included,exact,100.0,LGA037,Enutifa,Agbzatu Central,True
+HF00332,Gwodele-South,Agbzatu North,8.177324,7.546386,clean,clean,included,exact,100.0,LGA039,Gwodele-South,Agbzatu North,True
+HF00293,Supyoshi-East,Agbzatu North,7.996485,7.360402,clean,clean,included,exact,100.0,LGA091,Supyoshi-East  ,Agbzatu North,True
+HF00243,Yobkosa-South,Agbzatu North,7.256911,7.849374,clean,clean,included,exact,100.0,LGA112,Yobkosa-South,Agbzatu North,True
+HF00531,HANSABA,Tivbetu North,8.791897,10.052547,clean,clean,included,exact,100.0,LGA045,Hansaba,Tivbetu North,True
+HF00664,Hanjiko,Tivbetu South,,,missing,missing,excluded_missing_or_unparseable,exact,100.0,LGA042,Hanjiko Local Govt Area,Tivbetu South,True
+HF00735,Agbkotu-South,Uzojina North,8.210416,8.178031,clean,clean,included,exact,100.0,LGA006,Agbkotu-South,Uzojina North,True
+HF00084,Ekejisa-North,Kukrima North,5.600045,9.591785,clean,clean,included,exact,100.0,LGA034,Ekejisa-North Local Govt Area,Kukrima North,True
+HF00605,Ironama,Tivbetu Central,7.50992,10.612509,clean,clean,included,exact,100.0,LGA053,Ironama,Tivbetu Central,True
+HF00475,Ngetija,Agbzatu South,7.748684,9.013615,clean,clean,included,exact,100.0,LGA079,Ngetija,Agbzatu South,True
+HF00905,HANSATU,Uzojina South,9.051375,9.211033,clean,clean,included,exact,100.0,LGA046,Hansatu  ,Uzojina South,True
+HF00547,Bandede-North,Tivbetu North,8.030499,9.580669,clean,clean,included,exact,100.0,LGA014,Bandede-North,Tivbetu North,True
+HF00751,Nasyotu,Uzojina North,7.834249,8.90828,clean,clean,included,exact,100.0,LGA076,Nasyotu,Uzojina North,True
+HF00461,Umumayi,Agbzatu South,7.748328,9.154166,clean,clean,included,exact,100.0,LGA101,Umumayi,Agbzatu South,True
+HF00096,Yelkefa,Kukrima Central,7.375313,9.39139,clean,clean,included,exact,100.0,LGA109,Yelkefa,Kukrima Central,True
+HF00213,Adenaja,Kukrima South,7.099791,10.73505,clean,clean,included,exact,100.0,LGA004,ADENAJA,Kukrima South,True
+HF01225,Yobrifa-West,Agbkeko Central,9.175806,9.60965,clean,clean,included,exact,100.0,LGA114,YOBRIFA-WEST,Agbkeko Central,True
+HF00429,Oketsifa ,Agbzatu South,8.002916,8.452436,clean,clean,included,exact,100.0,LGA081,Oketsifa,Agbzatu South,True
+HF01265,Zamjidu,Agbkeko Central,17.762571,10.127099,clean,clean,excluded_out_of_bounds,exact,100.0,LGA117,Zamjidu  ,Agbkeko Central,True
+HF00016,Katmaba,Kukrima North,5.780191,9.163391,clean,clean,included,exact,100.0,LGA061,Katmaba,Kukrima North,True
+HF01252,Daibama,Agbkeko Central,9.402006,10.119449,clean,clean,included,exact,100.0,LGA022,Daibama,Agbkeko Central,True
+HF01288,Enumija,Agbkeko South,10.694512,10.141298,clean,clean,included,exact,100.0,LGA036,Enumija,Agbkeko South,True
+HF00588,Irongori,Tivbetu Central,7.838577,10.564167,clean,clean,included,exact,100.0,LGA054,Irongori,Tivbetu Central,True
+HF00172,Zamtsiru,Kukrima South,6.65,10.03,clean,clean,included,exact,100.0,LGA121,Zamtsiru,Kukrima South,True
+HF00889,Loksayi,Uzojina South,8.061199,8.80266,clean,clean,included,exact,100.0,LGA066,Loksayi  ,Uzojina South,True
+HF00302,Hanraja,Agbzatu North,7.486105,7.814608,clean,clean,included,exact,100.0,LGA044,Hanraja,Agbzatu North,True
+HF00024,Uzoluni,Kukrima North,6.305039,8.870696,clean,clean,included,exact,100.0,LGA104,Uzoluni,Kukrima North,True
+HF01124,Tivmama,Supwasa South,9.51344,11.056956,clean,clean,included,exact,100.0,LGA097,Tivmama,Supwasa South,True
+HF00425,Oketsifa,Agbzatu South,8.029812,8.554622,clean,clean,included,exact,100.0,LGA081,Oketsifa,Agbzatu South,True
+HF01070,Okeyoru-South,Supwasa Central,9.841221,10.915231,clean,clean,included,exact,100.0,LGA082,Okeyoru-South,Supwasa Central,True
+HF01038,Josmiba ,Supwasa Central,10.464824,10.631041,clean,clean,included,exact,100.0,LGA058,Josmiba,Supwasa Central,True
+HF01011,Funkedu ,Supwasa Central,10.203274,11.501999,clean,clean,included,exact,100.0,LGA038,Funkedu,Supwasa Central,True
+HF00466,Umumayi,Agbzatu South,7.897318,9.088863,clean,clean,included,exact,100.0,LGA101,Umumayi,Agbzatu South,True
+HF00157,Wurmashi,Kukrima Central,7.272776,9.923672,clean,clean,included,exact,100.0,LGA107,Wurmashi Local Govt Area,Kukrima Central,True
+HF00168,Zamtsiru,Kukrima South,6.454144,9.947783,clean,clean,included,exact,100.0,LGA121,Zamtsiru,Kukrima South,True
+HF01312,Zammiyi,Agbkeko South,10.324519,10.185934,clean,clean,included,exact,100.0,LGA119,ZAMMIYI,Agbkeko South,True
+HF00421,Oketsifa,Agbzatu South,7.959924,8.695468,clean,clean,included,exact,100.0,LGA081,Oketsifa,Agbzatu South,True
+HF00730,Agbkotu-South,Uzojina North,8.216102,8.377509,clean,clean,included,exact,100.0,LGA006,Agbkotu-South,Uzojina North,True
+HF00826,Yeltsina,Uzojina Central,"9°26'31.0""E","9°01'43.6""N",dms,dms,included,exact,100.0,LGA111,Yeltsina Local Govt Area,Uzojina Central,True
+HF00489,Tivsano-North,Tivbetu North,8.478877,10.090239,clean,clean,included,exact,100.0,LGA100,Tivsano-North,Tivbetu Central,False
+HF01002,BautiruWest,Supwasa Central,10.463872,11.098764,clean,clean,included,fuzzy,95.65217391304348,LGA020,Bautiru-West,Supwasa Central,True
+HF00271,Malmaba,Agbzatu North,7.527895,8.048385,clean,clean,included,exact,100.0,LGA070,Malmaba,Agbzatu North,True
+HF01195,Yeltili,Agbkeko North,10.15565,9.04268,clean,clean,included,exact,100.0,LGA110,Yeltili,Agbkeko North,True
+HF01273,Nasnadu,Agbkeko South,9.913511,10.144665,clean,clean,included,exact,100.0,LGA073,Nasnadu  ,Agbkeko South,True
+HF00468,Ngetija,Agbzatu South,7.472585,8.988882,clean,clean,included,exact,100.0,LGA079,Ngetija,Agbzatu South,True
+HF00840,Dutkeni,Uzojina Central,9.648745,8.526352,clean,clean,included,exact,100.0,LGA029,Dutkeni  ,Uzojina Central,True
+HF01128,Tivmama,Supwasa South,9.760496,11.026762,clean,clean,included,exact,100.0,LGA097,Tivmama,Supwasa South,True
+HF00912,Agbridu-West,Uzojina South,8.251791,9.262009,clean,clean,included,exact,100.0,LGA011,Agbridu-West,Uzojina South,True
+HF00822,Daishali-Central,Uzojina Central,9.238341,8.444037,clean,clean,included,exact,100.0,LGA026,Daishali-Central,Uzojina Central,True
+HF00916,Banluwo,Uzojina South,8.656789,8.641654,clean,clean,included,exact,100.0,LGA016,Banluwo,Uzojina South,True
+HF00337,GwodeleSouth,Agbzatu North,,,missing,missing,excluded_missing_or_unparseable,fuzzy,96.0,LGA039,Gwodele-South,Agbzatu North,True
+HF00077,Ibabani,Kukrima North,6.538537,9.381455,clean,clean,included,exact,100.0,LGA047,Ibabani,Kukrima North,True
+HF01276,Nasnadu,Agbkeko South,9.822889,9.914023,clean,clean,included,exact,100.0,LGA073,Nasnadu  ,Agbkeko South,True
+HF00797,Tamwata-South,Uzojina Central,10.014904,8.257483,clean,clean,included,exact,100.0,LGA095,Tamwata-South,Uzojina Central,True
+HF00850,Adelaja-North,Uzojina Central,9.574008,8.497804,clean,clean,included,exact,100.0,LGA003,Adelaja-North,Uzojina Central,True
+HF900035,Riylude-North,Kukrima North,6.30289,9.608775,clean,clean,included,exact,100.0,LGA086,Riylude-North,Kukrima North,True
+HF00966,IBANGOSA,Supwasa North,9.562662,10.376776,clean,clean,included,exact,100.0,LGA050,Ibangosa,Supwasa North,True
+HF01048,Katdudu,Supwasa Central,10.001199,10.604913,clean,clean,included,exact,100.0,LGA060,Katdudu,Supwasa Central,True
+HF00849,Adelaja-North,Uzojina Central,9.376616,8.598739,clean,clean,included,exact,100.0,LGA003,Adelaja-North,Uzojina Central,True
+HF01191,Yeltili,Agbkeko North,10.071297,8.936743,clean,clean,included,exact,100.0,LGA110,Yeltili,Agbkeko North,True
+HF01014,Funkedu LGA,Supwasa Central,10.378728,11.445765,clean,clean,included,exact,100.0,LGA038,Funkedu,Supwasa Central,True
+HF00093,Yelkefa,Kukrima Central,"7,256004","9,771679",comma_decimal,comma_decimal,included,exact,100.0,LGA109,Yelkefa,Kukrima Central,True
+HF00111,Lokbaru,Kukrima Central,6.958013,9.850584,clean,clean,included,exact,100.0,LGA063,Lokbaru,Kukrima Central,True
+HF00236,Yobkosa-South,Agbzatu North,7.335736,7.478305,clean,clean,included,exact,100.0,LGA112,Yobkosa-South,Agbzatu North,True
+HF00308,Hanraja,Agbzatu North,7.480383,7.786838,clean,clean,included,exact,100.0,LGA044,Hanraja,Agbzatu North,True
+HF00870,Tivngoba,Uzojina South,9.113861,9.046058,clean,clean,included,exact,100.0,LGA098,Tivngoba,Uzojina South,True
+HF00962,Yobmija,Supwasa North,9.204642,10.215874,clean,clean,included,exact,100.0,LGA113,Yobmija,Supwasa North,True
+HF00974,Wuryona,Supwasa North,9.867766,10.597033,clean,clean,included,exact,100.0,LGA108,Wuryona,Supwasa North,True
+HF01022,Funkedu,Supwasa Central,10.305186,11.051673,clean,clean,included,exact,100.0,LGA038,Funkedu,Supwasa Central,True
+HF01034,Josmiba,Supwasa Central,10.354531,10.374949,clean,clean,included,exact,100.0,LGA058,Josmiba,Supwasa Central,True
+HF00718,Dutjiri,Uzojina North,8.667394,8.173917,clean,clean,included,exact,100.0,LGA028,Dutjiri,Uzojina North,True
+HF01198,Yeltili,Agbkeko North,10.166476,9.118339,clean,clean,included,exact,100.0,LGA110,Yeltili,Agbkeko North,True
+HF00548,Malbawo Central,Tivbetu North,7.671103,9.642942,clean,clean,included,fuzzy,93.33333333333333,LGA068,MALBAWO-CENTRAL,Tivbetu North,True
+HF01157,Jostile,Agbkeko North,9.82279,9.509212,clean,clean,included,exact,100.0,LGA059,Jostile,Agbkeko North,True
+HF00884,Uzorisa,Uzojina South,8.46022,9.251456,clean,clean,included,exact,100.0,LGA105,Uzorisa Local Govt Area,Uzojina South,True
+HF00365,Lokmata,Agbzatu Central,6.529803,8.777148,clean,clean,included,exact,100.0,LGA064,Lokmata,Agbzatu Central,True
+HF00378,Dutzama,Agbzatu Central,6.806389,7.752265,clean,clean,included,exact,100.0,LGA031,DUTZAMA,Agbzatu Central,True
+HF00813,Daishali-Central,Uzojina Central,9.025526,8.311861,clean,clean,included,exact,100.0,LGA026,Daishali-Central,Uzojina Central,True
+HF01009,Funkedu,Supwasa Central,10.281216,11.489221,clean,clean,included,exact,100.0,LGA038,Funkedu,Supwasa Central,True
+HF00704,Adekowo ,Tivbetu South,8.706928,11.336231,clean,clean,included,exact,100.0,LGA002,Adekowo,Tivbetu South,True
+HF00102,Yelkefa,Kukrima Central,7.531738,9.846981,clean,clean,included,exact,100.0,LGA109,Yelkefa,Kukrima Central,True
+HF01069,Okeyoru-South,Supwasa Central,9.841191,10.908481,clean,clean,included,exact,100.0,LGA082,Okeyoru-South,Supwasa Central,True
+HF00782,Nassako-Central,Uzojina North,8.36865,7.40962,clean,clean,included,exact,100.0,LGA075,Nassako-Central,Uzojina North,True
+HF00221,Enumade-West,Kukrima South,6.432695,10.360968,clean,clean,included,exact,100.0,LGA035,Enumade-West,Kukrima South,True
+HF00669,Hanjiko,Tivbetu South,8.665795,11.147041,clean,clean,included,exact,100.0,LGA042,Hanjiko Local Govt Area,Tivbetu South,True
+HF00626,Daidefa,Tivbetu Central,7.039971,10.97655,clean,clean,included,exact,100.0,LGA024,Daidefa,Tivbetu Central,True
+HF00933,Zamberi-North,Uzojina South,8.613455,8.853192,clean,clean,included,exact,100.0,LGA116,Zamberi-North,Uzojina South,True
+HF01130,Tivmama,Supwasa South,9.879404,11.594656,clean,clean,included,exact,100.0,LGA097,Tivmama,Supwasa South,True
+HF01146,Lokshasa,Agbkeko North,10.312119,9.259469,clean,clean,included,exact,100.0,LGA067,Lokshasa  ,Agbkeko North,True
+HF00070,Shajima,Kukrima North,5.915863,9.409864,clean,clean,included,exact,100.0,LGA087,Shajima,Kukrima North,True
+HF00173,Zamnuni-North,Kukrima South,6.829183,10.168736,clean,clean,included,exact,100.0,LGA120,Zamnuni-North,Kukrima South,True
+HF00433,Baungoshi,Agbzatu South,7.046457,8.808469,clean,clean,included,exact,100.0,LGA019,Baungoshi Local Govt Area,Agbzatu South,True
+HF00150,WURMASHI,Kukrima Central,7.224394,10.08792,clean,clean,included,exact,100.0,LGA107,Wurmashi Local Govt Area,Kukrima Central,True
+HF00482,Tivsano-North,Tivbetu North,8.305827,10.159217,clean,clean,included,exact,100.0,LGA100,Tivsano-North,Tivbetu Central,False
+HF00283,Malmaba,Agbzatu North,7.641555,8.077032,clean,clean,included,exact,100.0,LGA070,Malmaba,Agbzatu North,True
+HF00386,Enutifa ,Agbzatu Central,7.099591,8.034591,clean,clean,included,exact,100.0,LGA037,Enutifa,Agbzatu Central,True
+HF01313,Zammiyi,Agbkeko South,10.335641,10.072283,clean,clean,included,exact,100.0,LGA119,ZAMMIYI,Agbkeko South,True
+HF00210,Adenaja,Kukrima South,7.023242,10.508789,clean,clean,included,exact,100.0,LGA004,ADENAJA,Kukrima South,True
+HF00341,Zamkeri,Agbzatu Central,8.956983,6.803892,clean,clean,included,exact,100.0,LGA118,Zamkeri,Agbzatu Central,True
+HF00599,Agblasa,Tivbetu Central,"7,491998","10,341278",comma_decimal,comma_decimal,included,exact,100.0,LGA007,Agblasa,Tivbetu Central,True
+HF01180,Maljiwo,Agbkeko North,9.670313,9.203031,clean,clean,included,exact,100.0,LGA069,Maljiwo,Agbkeko North,True
+HF00339,Gwodele-South,Agbzatu North,8.22584,7.654272,clean,clean,included,exact,100.0,LGA039,Gwodele-South,Agbzatu North,True
+HF00522,Agbzawa-South,Tivbetu North,8.366415,9.790939,clean,clean,included,exact,100.0,LGA013,Agbzawa-South,Tivbetu North,True
+HF00390,ENUTIFA,Agbzatu Central,7.20362,7.951939,clean,clean,included,exact,100.0,LGA037,Enutifa,Agbzatu Central,True
+HF00036,Riylude-North,Kukrima North,6.338552,9.581223,clean,clean,included,exact,100.0,LGA086,Riylude-North,Kukrima North,True
+HF00287,Supyoshi-East ,Agbzatu North,7.813168,7.272497,clean,clean,included,exact,100.0,LGA091,Supyoshi-East  ,Agbzatu North,True
+HF00623,Daidefa ,Tivbetu Central,6.946914,11.012054,clean,clean,included,exact,100.0,LGA024,Daidefa,Tivbetu Central,True
+HF00315,Josduri-South,Agbzatu North,7.691968,7.631296,clean,clean,included,exact,100.0,LGA056,Josduri-South,Agbzatu North,True
+HF01032,Josmiba,Supwasa Central,10.446583,10.531729,clean,clean,included,exact,100.0,LGA058,Josmiba,Supwasa Central,True
+HF00319,GwodeleSouth,Agbzatu North,8.125017,7.265829,clean,clean,included,fuzzy,96.0,LGA039,Gwodele-South,Agbzatu North,True
+HF00775,Tamluni,Uzojina North,8.608941,7.964657,clean,clean,included,exact,100.0,LGA094,Tamluni,Uzojina North,True
+HF01114,Oluyofa,Supwasa South,9.331458,11.496599,clean,clean,included,exact,100.0,LGA085,Oluyofa  ,Supwasa South,True
+HF01118,Oluyofa LGA,Supwasa South,9.271003,11.204682,clean,clean,included,exact,100.0,LGA085,Oluyofa  ,Supwasa South,True
+HF00716,Tivrafa-West,Uzojina North,9.162223,7.853431,clean,clean,included,fuzzy,91.66666666666666,LGA099,Tivrafa West,Uzojina North,True
+HF01307,Ngemidu,Agbkeko South,10.331032,9.767527,clean,clean,included,exact,100.0,LGA077,Ngemidu,Agbkeko South,True
+HF00062,Shajima,Kukrima North,5.847472,9.075516,clean,clean,included,exact,100.0,LGA087,Shajima,Kukrima North,True
+HF00453,Daishako,Agbzatu South,,,missing,missing,excluded_missing_or_unparseable,exact,100.0,LGA025,Daishako,Agbzatu South,True
+HF00631,Joskeru,Tivbetu South,8.297274,10.988237,clean,clean,included,exact,100.0,LGA057,Joskeru,Tivbetu South,True
+HF00163,Wurmashi,Kukrima Central,7.372612,9.825712,clean,clean,included,exact,100.0,LGA107,Wurmashi Local Govt Area,Kukrima Central,True
+HF01010,Funkedu,Supwasa Central,10.308312,11.50089,clean,clean,included,exact,100.0,LGA038,Funkedu,Supwasa Central,True
+HF00729,Agbkotu-South LGA,Uzojina North,8.217868,8.365974,clean,clean,included,exact,100.0,LGA006,Agbkotu-South,Uzojina North,True
+HF00876,Olubani-South,Uzojina South,8.297465,8.620468,clean,clean,included,exact,100.0,LGA083,OLUBANI-SOUTH,Uzojina South,True
+HF00358,Irosaja,Agbzatu Central,"6°38'05.0""E","8°02'47.4""N",dms,dms,included,exact,100.0,LGA055,Irosaja,Agbzatu Central,True
+HF00254,Agbmita ,Agbzatu North,7.863119,8.300637,clean,clean,included,exact,100.0,LGA008,Agbmita  ,Agbzatu North,True
+HF00097,Yelkefa ,Kukrima Central,7.321908,9.436841,clean,clean,included,exact,100.0,LGA109,Yelkefa,Kukrima Central,True
+HF00245,Yobkosa-South ,Agbzatu North,7.396388,7.52661,clean,clean,included,exact,100.0,LGA112,Yobkosa-South,Agbzatu North,True
+HF00114,Agbnumi,Kukrima Central,7.073944,9.378171,clean,clean,included,exact,100.0,LGA010,Agbnumi,Kukrima Central,True
+HF01264,Zamjidu,Agbkeko Central,9.631287,10.053679,clean,clean,included,exact,100.0,LGA117,Zamjidu  ,Agbkeko Central,True
+HF00745,Agbkotu-South,Uzojina North,8.429242,8.148335,clean,clean,included,exact,100.0,LGA006,Agbkotu-South,Uzojina North,True
+HF00137,Gwolama,Kukrima Central,6.875789,9.464973,clean,clean,included,exact,100.0,LGA041,Gwolama,Kukrima Central,True
+HF00013,Katmaba,Kukrima North,5.787011,9.350461,clean,clean,included,exact,100.0,LGA061,Katmaba,Kukrima North,True
+HF00392,Enutifa,Agbzatu Central,7.220875,8.156061,clean,clean,included,exact,100.0,LGA037,Enutifa,Agbzatu Central,True
+HF01194,Yeltili,Agbkeko North,10.236493,9.088785,clean,clean,included,exact,100.0,LGA110,Yeltili,Agbkeko North,True
+HF00506,Bauzani,Tivbetu North,7.881317,10.393352,clean,clean,included,exact,100.0,LGA021,Bauzani,Tivbetu North,True
+HF00493,Agbtsiko,Tivbetu North,7.904155,9.88681,clean,clean,included,exact,100.0,LGA012,Agbtsiko  ,Tivbetu North,True
+HF00294,Supyoshi East,Agbzatu North,7.846969,7.523123,clean,clean,included,fuzzy,92.3076923076923,LGA091,Supyoshi-East  ,Agbzatu North,True
+HF00207,Adenaja,Kukrima South,6.91537,10.657512,clean,clean,included,exact,100.0,LGA004,ADENAJA,Kukrima South,True
+HF00807,Tamwata-South,Uzojina Central,10.088412,8.380318,clean,clean,included,exact,100.0,LGA095,Tamwata-South,Uzojina Central,True
+HF01280,Nasnadu,Agbkeko South,9.983622,10.245049,clean,clean,included,exact,100.0,LGA073,Nasnadu  ,Agbkeko South,True
+HF00714,Tivrafa-West,Uzojina North,9.253637,7.75297,clean,clean,included,fuzzy,91.66666666666666,LGA099,Tivrafa West,Uzojina North,True
+HF00817,Daishali-Central,Uzojina Central,9.194847,8.295374,clean,clean,included,exact,100.0,LGA026,Daishali-Central,Uzojina Central,True
+HF00080,Ibabani,Kukrima North,6.551028,9.23757,clean,clean,included,exact,100.0,LGA047,Ibabani,Kukrima North,True
+HF00883,Uzorisa,Uzojina South,8.61,9.3,clean,clean,included,exact,100.0,LGA105,Uzorisa Local Govt Area,Uzojina South,True
+HF01026,Funkedu,Supwasa Central,10.386903,11.274294,clean,clean,included,exact,100.0,LGA038,Funkedu,Supwasa Central,True
+HF00401,Supsama-South,Agbzatu Central,6.329248,8.35941,clean,clean,included,exact,100.0,LGA090,Supsama-South,Agbzatu Central,True
+HF00158,WURMASHI,Kukrima Central,"7,32801","10,01993",comma_decimal,comma_decimal,included,exact,100.0,LGA107,Wurmashi Local Govt Area,Kukrima Central,True
+HF00492,Agbtsiko,Tivbetu North,7.896897,9.957972,clean,clean,included,exact,100.0,LGA012,Agbtsiko  ,Tivbetu North,True
+HF01223,Yobrifa-West,Agbkeko Central,9.208669,9.582208,clean,clean,included,exact,100.0,LGA114,YOBRIFA-WEST,Agbkeko Central,True
+HF00726,Dutjiri,Uzojina North,8.768756,8.107688,clean,clean,included,exact,100.0,LGA028,Dutjiri,Uzojina North,True
+HF00681,Olujiwa,Tivbetu South,8.133588,11.010768,clean,clean,included,exact,100.0,LGA084,Olujiwa,Tivbetu South,True
+HF00402,Supsama-South,Agbzatu Central,6.331815,8.476892,clean,clean,included,exact,100.0,LGA090,Supsama-South,Agbzatu Central,True
+HF00180,Daizade,Kukrima South,6.180701,10.398511,clean,clean,included,exact,100.0,LGA027,Daizade,Kukrima South,True
+HF00922,Zamberi-North,Uzojina South,,,missing,missing,excluded_missing_or_unparseable,exact,100.0,LGA116,Zamberi-North,Uzojina South,True
+HF00079,Ibabani,Kukrima North,6.647426,9.207911,clean,clean,included,exact,100.0,LGA047,Ibabani,Kukrima North,True
+HF00987,Zambani,Supwasa Central,10.051964,11.442163,clean,clean,included,exact,100.0,LGA115,Zambani,Supwasa Central,True
+HF01266,ZAMJIDU,Agbkeko Central,9.721704,10.285211,clean,clean,included,exact,100.0,LGA117,Zamjidu  ,Agbkeko Central,True
+HF01117,Oluyofa,Supwasa South,9.240381,11.194036,clean,clean,included,exact,100.0,LGA085,Oluyofa  ,Supwasa South,True
+HF00737,Agbkotu-South,Uzojina North,8.408827,7.977742,clean,clean,included,exact,100.0,LGA006,Agbkotu-South,Uzojina North,True
+HF00695,Adekowo,Tivbetu South,8.427249,11.443271,clean,clean,included,exact,100.0,LGA002,Adekowo,Tivbetu South,True
+HF00320,Gwodele South,Agbzatu North,8.037996,7.485179,clean,clean,included,fuzzy,92.3076923076923,LGA039,Gwodele-South,Agbzatu North,True
+HF00485,Tivsano-North,Tivbetu North,8.322352,10.370432,clean,clean,included,exact,100.0,LGA100,Tivsano-North,Tivbetu Central,False
+HF00199,UMUMITU,Kukrima South,6.850184,10.934481,clean,clean,included,exact,100.0,LGA102,Umumitu,Kukrima South,True
+HF00818,Daishali-Central,Uzojina Central,9.064413,8.370969,clean,clean,included,exact,100.0,LGA026,Daishali-Central,Uzojina Central,True
+HF00712,Tivrafa-West,Uzojina North,9.195903,7.733946,clean,clean,included,fuzzy,91.66666666666666,LGA099,Tivrafa West,Uzojina North,True
+HF00621,Daidefa,Tivbetu Central,6.962039,11.197645,clean,clean,included,exact,100.0,LGA024,Daidefa,Tivbetu Central,True
+HF01047,KATDUDU,Supwasa Central,9.903174,10.47537,clean,clean,included,exact,100.0,LGA060,Katdudu,Supwasa Central,True
+HF00439,Agbngoru,Agbzatu South,7.451157,8.365148,clean,clean,included,exact,100.0,LGA009,Agbngoru,Agbzatu South,True
+HF01303,Ngemidu,Agbkeko South,10.108152,9.834896,clean,clean,included,exact,100.0,LGA077,Ngemidu,Agbkeko South,True
+HF00134,Gwolama,Kukrima Central,6.720903,9.69918,clean,clean,included,exact,100.0,LGA041,Gwolama,Kukrima Central,True
+HF00815,Daishali-Central,Uzojina Central,9.016716,8.172384,clean,clean,included,exact,100.0,LGA026,Daishali-Central,Uzojina Central,True
+HF00647,Tamlufa-East,Tivbetu South,8.762285,10.494411,clean,clean,included,exact,100.0,LGA093,Tamlufa-East Local Govt Area,Tivbetu South,True
+HF00863,Tivngoba,Uzojina South,8.877169,8.876026,clean,clean,included,exact,100.0,LGA098,Tivngoba,Uzojina South,True
+HF00900,Hansatu,Uzojina South,8.739818,9.235174,clean,clean,included,exact,100.0,LGA046,Hansatu  ,Uzojina South,True
+HF00408,Supsama-South,Agbzatu Central,6.458664,8.339632,clean,clean,included,exact,100.0,LGA090,Supsama-South,Agbzatu Central,True
+HF00155,Wurmashi,Kukrima Central,7.328893,10.089911,clean,clean,included,exact,100.0,LGA107,Wurmashi Local Govt Area,Kukrima Central,True
+HF01030,Funkedu,Supwasa Central,10.557672,11.275906,clean,clean,included,exact,100.0,LGA038,Funkedu,Supwasa Central,True
+HF00279,Malmaba,Agbzatu North,7.687308,8.172457,clean,clean,included,exact,100.0,LGA070,Malmaba,Agbzatu North,True
+HF00795,Tamwata-South,Uzojina Central,9.969188,8.285255,clean,clean,included,exact,100.0,LGA095,Tamwata-South,Uzojina Central,True
+HF00116,Agbnumi,Kukrima Central,,,missing,missing,excluded_missing_or_unparseable,exact,100.0,LGA010,Agbnumi,Kukrima Central,True
+HF00597,Agblasa,Tivbetu Central,7.289865,10.438936,clean,clean,included,exact,100.0,LGA007,Agblasa,Tivbetu Central,True
+HF00209,Adenaja,Kukrima South,7.064385,10.437278,clean,clean,included,exact,100.0,LGA004,ADENAJA,Kukrima South,True
+HF00719,Dutjiri,Uzojina North,8.632798,8.112821,clean,clean,included,exact,100.0,LGA028,Dutjiri,Uzojina North,True
+HF00586,Irongori,Tivbetu Central,7.802457,10.892201,clean,clean,included,exact,100.0,LGA054,Irongori,Tivbetu Central,True
+HF01033,Josmiba,Supwasa Central,10.424916,10.374908,clean,clean,included,exact,100.0,LGA058,Josmiba,Supwasa Central,True
+HF00469,NGETIJA,Agbzatu South,7.397743,9.157751,clean,clean,included,exact,100.0,LGA079,Ngetija,Agbzatu South,True
+HF00540,Uzoberi,Tivbetu North,8.812666,10.40768,clean,clean,included,exact,100.0,LGA103,Uzoberi,Tivbetu North,True
+HF00836,Dutkeni,Uzojina Central,9.633994,8.617211,clean,clean,included,exact,100.0,LGA029,Dutkeni  ,Uzojina Central,True
+HF00529,Hansaba,Tivbetu North,8.617094,9.942694,clean,clean,included,exact,100.0,LGA045,Hansaba,Tivbetu North,True
+HF00240,Yobkosa-South,Agbzatu North,7.152962,7.587244,clean,clean,included,exact,100.0,LGA112,Yobkosa-South,Agbzatu North,True
+HF01270,Nasnadu,Agbkeko South,9.777677,10.31171,clean,clean,included,exact,100.0,LGA073,Nasnadu  ,Agbkeko South,True
+HF901045,Josmiba,Supwasa Central,10.763168,10.409072,clean,clean,included,exact,100.0,LGA058,Josmiba,Supwasa Central,True
+HF00458,BANNGONO,Agbzatu South,7.341541,8.963465,clean,clean,included,exact,100.0,LGA017,Banngono,Agbzatu South,True
+HF00420,Oketsifa,Agbzatu South,,,missing,missing,excluded_missing_or_unparseable,exact,100.0,LGA081,Oketsifa,Agbzatu South,True
+HF00264,Agbmita,Agbzatu North,7.967791,7.894853,clean,clean,included,exact,100.0,LGA008,Agbmita  ,Agbzatu North,True
+HF01104,Loknaba,Supwasa South,8.916813,11.497722,clean,clean,included,exact,100.0,LGA065,Loknaba,Supwasa South,True
+HF00920,Banluwo,Uzojina South,8.746025,8.414476,clean,clean,included,exact,100.0,LGA016,Banluwo,Uzojina South,True
+HF01084,Ekedeta-East ,Supwasa South,9.735351,11.534799,clean,clean,included,exact,100.0,LGA032,Ekedeta-East,Supwasa South,True
+HF00947,Adekeni ,Supwasa North,9.572284,10.990339,clean,clean,included,exact,100.0,LGA001,Adekeni,Supwasa North,True
+HF00906,Hansatu,Uzojina South,9.11739,9.237454,clean,clean,included,exact,100.0,LGA046,Hansatu  ,Uzojina South,True
+HF00431,Oketsifa ,Agbzatu South,7.906886,8.425708,clean,clean,included,exact,100.0,LGA081,Oketsifa,Agbzatu South,True
+HF00203,Adenaja,Kukrima South,6.759104,10.578527,clean,clean,included,exact,100.0,LGA004,ADENAJA,Kukrima South,True
+HF00184,Daizade LGA,Kukrima South,6.523993,10.49626,clean,clean,included,exact,100.0,LGA027,Daizade,Kukrima South,True
+HF00178,Daizade,Kukrima South,6.17052,10.410985,clean,clean,included,exact,100.0,LGA027,Daizade,Kukrima South,True
+HF00937,Zamberi-North,Uzojina South,8.729747,8.717338,clean,clean,included,exact,100.0,LGA116,Zamberi-North,Uzojina South,True
+HF01271,Nasnadu,Agbkeko South,19.692101,10.283345,clean,clean,excluded_out_of_bounds,exact,100.0,LGA073,Nasnadu  ,Agbkeko South,True
+HF01293,ENUMIJA,Agbkeko South,10.706274,10.240565,clean,clean,included,exact,100.0,LGA036,Enumija,Agbkeko South,True
+HF00083,Ekejisa-North,Kukrima North,5.69673,9.468527,clean,clean,included,exact,100.0,LGA034,Ekejisa-North Local Govt Area,Kukrima North,True
+HF900507,Bauzani,Tivbetu North,7.870121,10.361789,clean,clean,included,exact,100.0,LGA021,Bauzani,Tivbetu North,True
+HF00159,Wurmashi,Kukrima Central,7.232863,9.979617,clean,clean,included,exact,100.0,LGA107,Wurmashi Local Govt Area,Kukrima Central,True
+HF00086,Ekejisa-North,Kukrima North,5.772775,9.779541,clean,clean,included,exact,100.0,LGA034,Ekejisa-North Local Govt Area,Kukrima North,True
+HF00154,Wurmashi LGA,Kukrima Central,7.337601,10.099004,clean,clean,included,exact,100.0,LGA107,Wurmashi Local Govt Area,Kukrima Central,True
+HF00885,Uzorisa,Uzojina South,8.560145,9.157302,clean,clean,included,exact,100.0,LGA105,Uzorisa Local Govt Area,Uzojina South,True
+HF00634,Joskeru,Tivbetu South,8.371635,11.02418,clean,clean,included,exact,100.0,LGA057,Joskeru,Tivbetu South,True
+HF00126,Agbjide,Kukrima Central,6.682408,9.132827,clean,clean,included,exact,100.0,LGA005,Agbjide,Kukrima Central,True
+HF00523,Agbzawa-South,Tivbetu North,8.339937,9.618947,clean,clean,included,exact,100.0,LGA013,Agbzawa-South,Tivbetu North,True
+HF00824,Daishali Central,Uzojina Central,9.306646,8.128605,clean,clean,included,fuzzy,93.75,LGA026,Daishali-Central,Uzojina Central,True
+HF01142,Sokmiri,Agbkeko North,9.770981,9.088231,clean,clean,included,exact,100.0,LGA088,Sokmiri,Agbkeko North,True
+HF00620,Tivbani,Tivbetu Central,7.633096,10.558365,clean,clean,included,exact,100.0,LGA096,Tivbani,Tivbetu Central,True
+HF00976,WURYONA,Supwasa North,9.797223,10.381944,clean,clean,included,exact,100.0,LGA108,Wuryona,Supwasa North,True
+HF01008,Funkedu,Supwasa Central,10.291289,11.391382,clean,clean,included,exact,100.0,LGA038,Funkedu,Supwasa Central,True
+HF00711,Tivrafa-West,Uzojina North,9.188483,7.66625,clean,clean,included,fuzzy,91.66666666666666,LGA099,Tivrafa West,Uzojina North,True
+HF00949,Adekeni,Supwasa North,"9,611282","10,806318",comma_decimal,comma_decimal,included,exact,100.0,LGA001,Adekeni,Supwasa North,True
+HF00739,Agbkotu-South,Uzojina North,8.295702,8.061593,clean,clean,included,exact,100.0,LGA006,Agbkotu-South,Uzojina North,True
+HF00354,Zamkeri,Agbzatu Central,6.976663,8.633944,clean,clean,included,exact,100.0,LGA118,Zamkeri,Agbzatu Central,True
+HF01054,Katdudu,Supwasa Central,10.115378,10.493284,clean,clean,included,exact,100.0,LGA060,Katdudu,Supwasa Central,True
+HF00848,Adelaja-North LGA,Uzojina Central,-2.025305,8.528982,clean,clean,excluded_out_of_bounds,exact,100.0,LGA003,Adelaja-North,Uzojina Central,True
+HF00967,Wuryona,Supwasa North,9.648412,10.62545,clean,clean,included,exact,100.0,LGA108,Wuryona,Supwasa North,True
+HF00524,AgbzawaSouth,Tivbetu North,8.420957,9.544625,clean,clean,included,fuzzy,96.0,LGA013,Agbzawa-South,Tivbetu North,True
+HF01167,Ngenuta-Central,Agbkeko North,10.109794,8.527238,clean,clean,included,exact,100.0,LGA078,Ngenuta-Central Local Govt Area,Agbkeko North,True
+HF00907,Hansatu,Uzojina South,9.108846,9.398758,clean,clean,included,exact,100.0,LGA046,Hansatu  ,Uzojina South,True
+HF01267,Zamjidu,Agbkeko Central,9.815728,10.058363,clean,clean,included,exact,100.0,LGA117,Zamjidu  ,Agbkeko Central,True
+HF00286,Supyoshi East,Agbzatu North,7.721971,7.363033,clean,clean,included,fuzzy,92.3076923076923,LGA091,Supyoshi-East  ,Agbzatu North,True
+HF00738,Agbkotu-South,Uzojina North,8.282804,7.870243,clean,clean,included,exact,100.0,LGA006,Agbkotu-South,Uzojina North,True
+HF01092,Baumiru LGA,Supwasa South,8.890092,11.167532,clean,clean,included,exact,100.0,LGA018,Baumiru,Supwasa South,True
+HF00779,Nassako-Central ,Uzojina North,8.391328,7.593854,clean,clean,included,exact,100.0,LGA075,Nassako-Central,Uzojina North,True
+HF00484,Tivsano-North,Tivbetu North,8.195867,10.462858,clean,clean,included,exact,100.0,LGA100,Tivsano-North,Tivbetu Central,False
+HF00837,Dutkeni,Uzojina Central,9.648378,8.47573,clean,clean,included,exact,100.0,LGA029,Dutkeni  ,Uzojina Central,True
+HF00964,Ibangosa,Supwasa North,9.421029,10.243308,clean,clean,included,exact,100.0,LGA050,Ibangosa,Supwasa North,True
+HF00376,Dutzama,Agbzatu Central,7.06,7.56,clean,clean,included,exact,100.0,LGA031,DUTZAMA,Agbzatu Central,True
+HF00842,Dutkeni,Uzojina Central,9.896609,8.483445,clean,clean,included,exact,100.0,LGA029,Dutkeni  ,Uzojina Central,True
+HF00299,Hanraja,Agbzatu North,7.485282,7.903418,clean,clean,included,exact,100.0,LGA044,Hanraja,Agbzatu North,True
+HF00827,Yeltsina LGA,Uzojina Central,9.455965,8.894234,clean,clean,included,exact,100.0,LGA111,Yeltsina Local Govt Area,Uzojina Central,True
+HF00946,Adekeni,Supwasa North,9.604945,10.891036,clean,clean,included,exact,100.0,LGA001,Adekeni,Supwasa North,True
+HF00899,Hansatu,Uzojina South,8.694335,9.05162,clean,clean,included,exact,100.0,LGA046,Hansatu  ,Uzojina South,True
+HF00306,Hanraja,Agbzatu North,7.534055,7.778562,clean,clean,included,exact,100.0,LGA044,Hanraja,Agbzatu North,True
+HF01250,Daibama,Agbkeko Central,9.342473,9.818916,clean,clean,included,exact,100.0,LGA022,Daibama,Agbkeko Central,True
+HF01044,JOSMIBA,Supwasa Central,10.813933,10.433058,clean,clean,included,exact,100.0,LGA058,Josmiba,Supwasa Central,True
+HF00044,Irolufa,Kukrima North,5.978349,9.791278,clean,clean,included,exact,100.0,LGA051,Irolufa,Kukrima North,True
+HF00122,AGBJIDE,Kukrima Central,6.775384,9.284507,clean,clean,included,exact,100.0,LGA005,Agbjide,Kukrima Central,True
+HF01161,Jostile,Agbkeko North,9.972627,9.334659,clean,clean,included,exact,100.0,LGA059,Jostile,Agbkeko North,True
+HF01068,Okeyoru-South,Supwasa Central,9.910485,10.873512,clean,clean,included,exact,100.0,LGA082,Okeyoru-South,Supwasa Central,True
+HF00715,Tivrafa-West ,Uzojina North,9.238574,7.753521,clean,clean,included,fuzzy,91.66666666666666,LGA099,Tivrafa West,Uzojina North,True
+HF00697,Adekowo,Tivbetu South,8.398191,11.523169,clean,clean,included,exact,100.0,LGA002,Adekowo,Tivbetu South,True
+HF00574,Dutwano,Tivbetu Central,7.546526,11.218139,clean,clean,included,exact,100.0,LGA030,Dutwano,Tivbetu Central,True
+HF01251,Daibama,Agbkeko Central,9.312411,9.888199,clean,clean,included,exact,100.0,LGA022,Daibama,Agbkeko Central,True
+HF00471,Ngetija,Agbzatu South,7.405006,9.209063,clean,clean,included,exact,100.0,LGA079,Ngetija,Agbzatu South,True
+HF00292,Supyoshi-East,Agbzatu North,7.988569,7.28424,clean,clean,included,exact,100.0,LGA091,Supyoshi-East  ,Agbzatu North,True
+HF00699,Adekowo,Tivbetu South,8.656894,11.580592,clean,clean,included,exact,100.0,LGA002,Adekowo,Tivbetu South,True
+HF00624,Daidefa,Tivbetu Central,6.974772,10.978302,clean,clean,included,exact,100.0,LGA024,Daidefa,Tivbetu Central,True
+HF00034,Riylude-North,Kukrima North,6.400693,9.619628,clean,clean,included,exact,100.0,LGA086,Riylude-North,Kukrima North,True
+HF00686,Olujiwa,Tivbetu South,8.357013,10.860141,clean,clean,included,exact,100.0,LGA084,Olujiwa,Tivbetu South,True
+HF00001,Maltsimi,Kukrima North,6.067307,9.559098,clean,clean,included,exact,100.0,LGA071,Maltsimi,Kukrima North,True
+HF00939,ADEKENI,Supwasa North,9.33108,10.880202,clean,clean,included,exact,100.0,LGA001,Adekeni,Supwasa North,True
+HF01160,Jostile,Agbkeko North,10.049445,9.550277,clean,clean,included,exact,100.0,LGA059,Jostile,Agbkeko North,True
+HF01328,Gwodewo,Agbkeko South,10.685615,9.807173,clean,clean,included,exact,100.0,LGA040,Gwodewo,Agbkeko South,True
+HF00226,Enumade-West LGA,Kukrima South,6.627348,10.299467,clean,clean,included,exact,100.0,LGA035,Enumade-West,Kukrima South,True
+HF01215,Yobrifa-West,Agbkeko Central,9.027722,9.590209,clean,clean,included,exact,100.0,LGA114,YOBRIFA-WEST,Agbkeko Central,True
+HF01246,Daibama,Agbkeko Central,9.22915,10.047339,clean,clean,included,exact,100.0,LGA022,Daibama,Agbkeko Central,True
+HF00244,Yobkosa South,Agbzatu North,7.272686,7.674971,clean,clean,included,fuzzy,92.3076923076923,LGA112,Yobkosa-South,Agbzatu North,True
+HF00267,Agbmita,Agbzatu North,8.100179,8.355854,clean,clean,included,exact,100.0,LGA008,Agbmita  ,Agbzatu North,True
+HF00886,Uzorisa,Uzojina South,8.607114,9.238834,clean,clean,included,exact,100.0,LGA105,Uzorisa Local Govt Area,Uzojina South,True
+HF00787,Nassako-Central,Uzojina North,8.518181,7.4617,clean,clean,included,exact,100.0,LGA075,Nassako-Central,Uzojina North,True
+HF01253,Daibama,Agbkeko Central,9.465921,9.884009,clean,clean,included,exact,100.0,LGA022,Daibama,Agbkeko Central,True
+HF00945,Adekeni,Supwasa North,9.527539,10.909523,clean,clean,included,exact,100.0,LGA001,Adekeni,Supwasa North,True
+HF01073,Okeyoru-South,Supwasa Central,10.122635,10.807329,clean,clean,included,exact,100.0,LGA082,Okeyoru-South,Supwasa Central,True
+HF01229,Hanjile,Agbkeko Central,9.593327,9.819417,clean,clean,included,exact,100.0,LGA043,Hanjile,Agbkeko Central,True
+HF01127,Tivmama,Supwasa South,9.714259,11.322685,clean,clean,included,exact,100.0,LGA097,Tivmama,Supwasa South,True
+HF01091,Baumiru,Supwasa South,8.869798,11.320579,clean,clean,included,exact,100.0,LGA018,Baumiru,Supwasa South,True
+HF00810,Ekedewo,Uzojina Central,9.482032,8.012477,clean,clean,included,exact,100.0,LGA033,Ekedewo  ,Uzojina Central,True
+HF00023,Uzoluni ,Kukrima North,6.167258,9.001536,clean,clean,included,exact,100.0,LGA104,Uzoluni,Kukrima North,True
+HF00464,Umumayi,Agbzatu South,7.91,9.27,clean,clean,included,exact,100.0,LGA101,Umumayi,Agbzatu South,True
+HF00753,Nasyotu,Uzojina North,,,missing,missing,excluded_missing_or_unparseable,exact,100.0,LGA076,Nasyotu,Uzojina North,True
+HF00728,Agbkotu-South,Uzojina North,8.213559,8.337383,clean,clean,included,exact,100.0,LGA006,Agbkotu-South,Uzojina North,True
+HF00854,Wurkota,Uzojina Central,8.993451,8.445017,clean,clean,included,exact,100.0,LGA106,Wurkota  ,Uzojina Central,True
+HF00657,Ibamide,Tivbetu South,8.303582,11.318028,clean,clean,included,exact,100.0,LGA049,Ibamide,Tivbetu South,True
+HF00865,Tivngoba,Uzojina South,8.885733,9.120351,clean,clean,included,exact,100.0,LGA098,Tivngoba,Uzojina South,True
+HF00470,Ngetija,Agbzatu South,7.581169,9.107867,clean,clean,included,exact,100.0,LGA079,Ngetija,Agbzatu South,True
+HF00983,Zambani,Supwasa Central,10.003236,11.166351,clean,clean,included,exact,100.0,LGA115,Zambani,Supwasa Central,True
+HF00162,Wurmashi,Kukrima Central,7.348028,9.985114,clean,clean,included,exact,100.0,LGA107,Wurmashi Local Govt Area,Kukrima Central,True
+HF00877,OLUBANI-SOUTH,Uzojina South,8.414048,8.481082,clean,clean,included,exact,100.0,LGA083,OLUBANI-SOUTH,Uzojina South,True
+HF00898,Loksayi,Uzojina South,8.458339,8.933503,clean,clean,included,exact,100.0,LGA066,Loksayi  ,Uzojina South,True
+HF01089,Baumiru,Supwasa South,8.794414,11.279668,clean,clean,included,exact,100.0,LGA018,Baumiru,Supwasa South,True
+HF00988,Zambani,Supwasa Central,10.149578,11.295769,clean,clean,included,exact,100.0,LGA115,Zambani,Supwasa Central,True
+HF00929,Zamberi-North,Uzojina South,8.576518,8.666571,clean,clean,included,exact,100.0,LGA116,Zamberi-North,Uzojina South,True
+HF00860,Wurkota,Uzojina Central,9.211077,9.076372,clean,clean,included,exact,100.0,LGA106,Wurkota  ,Uzojina Central,True
+HF00968,Wuryona,Supwasa North,9.570705,10.604011,clean,clean,included,exact,100.0,LGA108,Wuryona,Supwasa North,True
+HF01228,Hanjile,Agbkeko Central,9.478709,9.672009,clean,clean,included,exact,100.0,LGA043,Hanjile,Agbkeko Central,True
+HF00527,Hansaba,Tivbetu North,8.448984,9.927491,clean,clean,included,exact,100.0,LGA045,Hansaba,Tivbetu North,True
+HF00997,Zambani,Supwasa Central,10.133004,10.963416,clean,clean,included,exact,100.0,LGA115,Zambani,Supwasa Central,True
+HF01296,Enumija,Agbkeko South,10.781582,10.114646,clean,clean,included,exact,100.0,LGA036,Enumija,Agbkeko South,True
+HF01287,Nasnadu,Agbkeko South,10.101669,10.21496,clean,clean,included,exact,100.0,LGA073,Nasnadu  ,Agbkeko South,True
+HF01249,Daibama,Agbkeko Central,9.326924,9.923061,clean,clean,included,exact,100.0,LGA022,Daibama,Agbkeko Central,True
+HF01234,Hanjile,Agbkeko Central,9.67,9.7,clean,clean,included,exact,100.0,LGA043,Hanjile,Agbkeko Central,True
+HF00689,Nasdudu-North,Tivbetu South,"7°52'22.5""E","11°37'22.1""N",dms,dms,included,exact,100.0,LGA072,Nasdudu-North,Tivbetu South,True
+HF00307,Hanraja,Agbzatu North,7.579851,7.703338,clean,clean,included,exact,100.0,LGA044,Hanraja,Agbzatu North,True
+HF00683,Olujiwa ,Tivbetu South,8.235879,10.613119,clean,clean,included,exact,100.0,LGA084,Olujiwa,Tivbetu South,True
+HF00170,Zamtsiru LGA,Kukrima South,6.348068,9.97959,clean,clean,included,exact,100.0,LGA121,Zamtsiru,Kukrima South,True
+HF00355,Irosaja,Agbzatu Central,6.592417,8.153481,clean,clean,included,exact,100.0,LGA055,Irosaja,Agbzatu Central,True
+HF01305,Ngemidu,Agbkeko South,10.242152,9.851908,clean,clean,included,exact,100.0,LGA077,Ngemidu,Agbkeko South,True
+HF00414,Iromashi,Agbzatu Central,7.264708,8.606866,clean,clean,included,exact,100.0,LGA052,Iromashi,Agbzatu Central,True
+HF00963,Yobmija,Supwasa North,9.266074,10.220174,clean,clean,included,exact,100.0,LGA113,Yobmija,Supwasa North,True
+HF00231,Enumade-West LGA,Kukrima South,6.560783,10.437989,clean,clean,included,exact,100.0,LGA035,Enumade-West,Kukrima South,True
+HF01071,Okeyoru-South,Supwasa Central,9.92812,10.689425,clean,clean,included,exact,100.0,LGA082,Okeyoru-South,Supwasa Central,True
+HF00241,Yobkosa-South,Agbzatu North,7.234529,7.487051,clean,clean,included,exact,100.0,LGA112,Yobkosa-South,Agbzatu North,True
+HF00400,Supsama-South,Agbzatu Central,6.348738,8.372912,clean,clean,included,exact,100.0,LGA090,Supsama-South,Agbzatu Central,True
+HF01272,Nasnadu,Agbkeko South,9.829202,10.145604,clean,clean,included,exact,100.0,LGA073,Nasnadu  ,Agbkeko South,True
+HF00206,Adenaja,Kukrima South,6.882262,10.500232,clean,clean,included,exact,100.0,LGA004,ADENAJA,Kukrima South,True
+HF01133,Tivmama,Supwasa South,"9,983895","11,534731",comma_decimal,comma_decimal,included,exact,100.0,LGA097,Tivmama,Supwasa South,True
+HF01244,Daibama,Agbkeko Central,9.075668,9.905925,clean,clean,included,exact,100.0,LGA022,Daibama,Agbkeko Central,True
+HF01006,BAUTIRU-WEST,Supwasa Central,10.628917,11.063166,clean,clean,included,exact,100.0,LGA020,Bautiru-West,Supwasa Central,True
+HF00291,Supyoshi-East,Agbzatu North,7.707091,7.493214,clean,clean,included,exact,100.0,LGA091,Supyoshi-East  ,Agbzatu North,True
+HF00002,Maltsimi,Kukrima North,6.104332,9.462132,clean,clean,included,exact,100.0,LGA071,Maltsimi,Kukrima North,True
+HF00329,Gwodele-South,Agbzatu North,8.234088,7.37543,clean,clean,included,exact,100.0,LGA039,Gwodele-South,Agbzatu North,True
+HF01295,Enumija,Agbkeko South,10.77273,10.158074,clean,clean,included,exact,100.0,LGA036,Enumija,Agbkeko South,True
+HF00927,Zamberi-North,Uzojina South,8.436361,8.595779,clean,clean,included,exact,100.0,LGA116,Zamberi-North,Uzojina South,True
+HF00404,Supsama-South,Agbzatu Central,6.462139,8.548973,clean,clean,included,exact,100.0,LGA090,Supsama-South,Agbzatu Central,True
+HF01013,Funkedu,Supwasa Central,10.416009,11.413577,clean,clean,included,exact,100.0,LGA038,Funkedu,Supwasa Central,True
+HF00262,Agbmita,Agbzatu North,8.061586,8.156333,clean,clean,included,exact,100.0,LGA008,Agbmita  ,Agbzatu North,True
+HF00389,Enutifa,Agbzatu Central,7.01899,8.188608,clean,clean,included,exact,100.0,LGA037,Enutifa,Agbzatu Central,True
+HF00145,Wurmashi,Kukrima Central,7.162465,10.180213,clean,clean,included,exact,100.0,LGA107,Wurmashi Local Govt Area,Kukrima Central,True
+HF00441,Agbngoru,Agbzatu South,7.456809,8.486524,clean,clean,included,exact,100.0,LGA009,Agbngoru,Agbzatu South,True
+HF00843,Adelaja North,Uzojina Central,9.339622,8.626483,clean,clean,included,fuzzy,92.3076923076923,LGA003,Adelaja-North,Uzojina Central,True
+HF00641,TamlufaEast,Tivbetu South,8.404587,10.482297,clean,clean,included,fuzzy,95.65217391304348,LGA093,Tamlufa-East Local Govt Area,Tivbetu South,True
+HF00187,UMUMITU,Kukrima South,6.576994,10.858141,clean,clean,included,exact,100.0,LGA102,Umumitu,Kukrima South,True
+HF01077,Ekedeta East,Supwasa South,9.329922,11.639774,clean,clean,included,fuzzy,91.66666666666666,LGA032,Ekedeta-East,Supwasa South,True
+HF00356,Irosaja,Agbzatu Central,6.633489,8.036438,clean,clean,included,exact,100.0,LGA055,Irosaja,Agbzatu Central,True
+HF00246,Yobkosa-South,Agbzatu North,7.370933,7.550564,clean,clean,included,exact,100.0,LGA112,Yobkosa-South,Agbzatu North,True
+HF00773,Tamluni,Uzojina North,8.619351,8.074893,clean,clean,included,exact,100.0,LGA094,Tamluni,Uzojina North,True
+HF00435,Baungoshi,Agbzatu South,7.076298,9.000465,clean,clean,included,exact,100.0,LGA019,Baungoshi Local Govt Area,Agbzatu South,True
+HF00791,Nassako Central,Uzojina North,8.932784,7.56687,clean,clean,included,fuzzy,93.33333333333333,LGA075,Nassako-Central,Uzojina North,True
+HF00183,Daizade,Kukrima South,6.258932,10.663099,clean,clean,included,exact,100.0,LGA027,Daizade,Kukrima South,True
+HF900771,Tamluni,Uzojina North,8.484971,7.928792,clean,clean,included,exact,100.0,LGA094,Tamluni,Uzojina North,True
+HF00059,Irolufa,Kukrima North,6.083289,10.051627,clean,clean,included,exact,100.0,LGA051,Irolufa,Kukrima North,True
+HF00444,Agbngoru,Agbzatu South,,,missing,missing,excluded_missing_or_unparseable,exact,100.0,LGA009,Agbngoru,Agbzatu South,True
+HF00361,Irosaja,Agbzatu Central,6.571437,7.960722,clean,clean,included,exact,100.0,LGA055,Irosaja,Agbzatu Central,True
+HF00960,Yobmija,Supwasa North,9.296556,10.488674,clean,clean,included,exact,100.0,LGA113,Yobmija,Supwasa North,True
+HF00050,IROLUFA,Kukrima North,5.91671,10.035905,clean,clean,included,exact,100.0,LGA051,Irolufa,Kukrima North,True
+HF01162,Jostile,Agbkeko North,"10,049146","9,28817",comma_decimal,comma_decimal,included,exact,100.0,LGA059,Jostile,Agbkeko North,True
+HF01300,Enumija,Agbkeko South,10.790242,10.269717,clean,clean,included,exact,100.0,LGA036,Enumija,Agbkeko South,True
+HF00934,Zamberi-North,Uzojina South,8.658854,8.791822,clean,clean,included,exact,100.0,LGA116,Zamberi-North,Uzojina South,True
+HF00396,Katrini,Agbzatu Central,6.791472,8.492695,clean,clean,included,exact,100.0,LGA062,KATRINI,Agbzatu Central,True
+HF00740,Agbkotu-South,Uzojina North,8.228485,8.000328,clean,clean,included,exact,100.0,LGA006,Agbkotu-South,Uzojina North,True
+HF00130,Tambemi ,Kukrima Central,7.045839,9.693543,clean,clean,included,exact,100.0,LGA092,Tambemi,Kukrima Central,True
+HF00215,Banluta,Kukrima South,6.067397,10.315242,clean,clean,included,exact,100.0,LGA015,Banluta,Kukrima South,True
+HF00275,Malmaba LGA,Agbzatu North,7.575954,8.128807,clean,clean,included,exact,100.0,LGA070,Malmaba,Agbzatu North,True
+HF01037,Josmiba,Supwasa Central,10.429811,10.615185,clean,clean,included,exact,100.0,LGA058,Josmiba,Supwasa Central,True
+HF00633,JOSKERU,Tivbetu South,8.414644,10.959653,clean,clean,included,exact,100.0,LGA057,Joskeru,Tivbetu South,True
+HF00893,Loksayi,Uzojina South,8.259422,8.877967,clean,clean,included,exact,100.0,LGA066,Loksayi  ,Uzojina South,True
+HF00235,Enumade-West,Kukrima South,6.649429,10.575049,clean,clean,included,exact,100.0,LGA035,Enumade-West,Kukrima South,True
+HF00831,Yeltsina,Uzojina Central,9.519803,8.844042,clean,clean,included,exact,100.0,LGA111,Yeltsina Local Govt Area,Uzojina Central,True
+HF00953,Nasrifa,Supwasa North,9.119074,10.632193,clean,clean,included,exact,100.0,LGA074,Nasrifa  ,Supwasa North,True
+HF00473,Ngetija ,Agbzatu South,7.60278,9.050938,clean,clean,included,exact,100.0,LGA079,Ngetija,Agbzatu South,True
+HF01212,YobrifaWest,Agbkeko Central,9.07603,9.667159,clean,clean,included,fuzzy,95.65217391304348,LGA114,YOBRIFA-WEST,Agbkeko Central,True
+HF00239,YobkosaSouth,Agbzatu North,7.165144,7.751084,clean,clean,included,fuzzy,96.0,LGA112,Yobkosa-South,Agbzatu North,True
+HF00957,Yobmija LGA,Supwasa North,8.992825,10.444667,clean,clean,included,exact,100.0,LGA113,Yobmija,Supwasa North,True
+HF00989,Zambani,Supwasa Central,10.059389,10.96857,clean,clean,included,exact,100.0,LGA115,Zambani,Supwasa Central,True
+HF00734,Agbkotu-South,Uzojina North,8.295104,8.259127,clean,clean,included,exact,100.0,LGA006,Agbkotu-South,Uzojina North,True
+HF00348,Zamkeri,Agbzatu Central,6.912498,8.830274,clean,clean,included,exact,100.0,LGA118,Zamkeri,Agbzatu Central,True
+HF00242,Yobkosa-South,Agbzatu North,7.238957,7.698078,clean,clean,included,exact,100.0,LGA112,Yobkosa-South,Agbzatu North,True
+HF01321,Gwodewo,Agbkeko South,10.484462,9.695909,clean,clean,included,exact,100.0,LGA040,Gwodewo,Agbkeko South,True
+HF00572,Dutwano,Tivbetu Central,7.651204,11.504004,clean,clean,included,exact,100.0,LGA030,Dutwano,Tivbetu Central,True
+HF00437,Agbngoru,Agbzatu South,7.416615,8.231036,clean,clean,included,exact,100.0,LGA009,Agbngoru,Agbzatu South,True
+HF00578,Dutwano,Tivbetu Central,7.718706,11.382789,clean,clean,included,exact,100.0,LGA030,Dutwano,Tivbetu Central,True
+HF01150,Lokshasa,Agbkeko North,10.481912,9.336207,clean,clean,included,exact,100.0,LGA067,Lokshasa  ,Agbkeko North,True
+HF00919,Banluwo,Uzojina South,8.711253,8.537559,clean,clean,included,exact,100.0,LGA016,Banluwo,Uzojina South,True
+HF00057,Irolufa,Kukrima North,6.188437,10.004447,clean,clean,included,exact,100.0,LGA051,Irolufa,Kukrima North,True
+HF00502,Agbtsiko,Tivbetu North,8.144359,9.878367,clean,clean,included,exact,100.0,LGA012,Agbtsiko  ,Tivbetu North,True
+HF00639,Tamlufa-East,Tivbetu South,8.453464,10.737408,clean,clean,included,exact,100.0,LGA093,Tamlufa-East Local Govt Area,Tivbetu South,True
+HF00349,Zamkeri,Agbzatu Central,6.813602,8.786855,clean,clean,included,exact,100.0,LGA118,Zamkeri,Agbzatu Central,True
+HF00383,Dutzama,Agbzatu Central,7.097016,7.808336,clean,clean,included,exact,100.0,LGA031,DUTZAMA,Agbzatu Central,True
