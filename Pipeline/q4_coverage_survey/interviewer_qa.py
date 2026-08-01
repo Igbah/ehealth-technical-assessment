@@ -8,7 +8,7 @@ and sampling_frame.csv are available at DATA_DIR.
 import numpy as np
 import pandas as pd
 
-DATA_DIR = "/mnt/user-data/uploads"
+DATA_DIR = r"C:\Users\Administrator\Desktop\e-health_assessment\Data\Part2_Q4_Coverage_Survey"
 
 
 def interviewer_outliers():
@@ -58,7 +58,8 @@ def interviewer_outliers():
     print("\n=== MISSINGNESS PATTERN ===")
     cr["missing_dose"] = cr["dose_received"].isna()
     print("Missingness by interviewer (via household link):")
-    miss_by_int = cr_i.assign(missing=cr_i["dose_yes"].isna()).groupby("interviewer_id")["missing"].mean() * 100
+    cr_i2 = cr[["household_id", "missing_dose"]].merge(completed, on="household_id", how="inner")
+    miss_by_int = cr_i2.groupby("interviewer_id")["missing_dose"].mean() * 100
     print(miss_by_int.sort_values(ascending=False).to_string())
 
 
