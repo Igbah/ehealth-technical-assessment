@@ -88,3 +88,103 @@ reverse, or leaving both duplicate rows unresolved — was mine, made after
 reviewing the underlying evidence (independent corroboration from two
 sources vs. one unverified citation) rather than defaulting to whichever
 looked more official.
+
+## 2026-08-01 — Build 02_load_db.py: DuckDB loading + cross-source validation
+
+**Commit:** [fill in after commit]
+**Files:** Pipeline/02_load_db.py, Pipeline/check_mismatch.py
+
+**What AI assisted with:**
+- Wrote the DuckDB loading pipeline: facilities_clean.csv, all four layers
+  of admin_boundaries.gpkg (states, senatorial_districts, lgas, wards),
+  minimum_staffing_norms.csv, road_network.geojson, and a custom parser
+  for facility_personnel_scores.mid/.mif (a MapInfo pair with no shared
+  key column — the two files must be joined purely by row order, and the
+  parser explicitly errors out rather than silently misaligning data if
+  row counts ever don't match).
+- Identified that ward_population.csv's population figures are fully
+  redundant with (and less complete than) the 'wards' layer in
+  admin_boundaries.gpkg — the gpkg agrees with the CSV on every value the
+  CSV has, and additionally has real values for all 14 wards the CSV is
+  missing. Decided to load population from the gpkg as authoritative and
+  use the CSV only for its extra population_source metadata column.
+- Added an automated coordinate cross-check between facility_personnel_
+  scores' own point geometry and facilities_clean.csv's independently-
+  cleaned coordinates, as a sanity check that facility_id joins were
+  actually joining the same real-world facility.
+- That cross-check surfaced 8 facilities where facility_personnel_
+  scores.mif has longitude and latitude transposed. AI helped confirm
+  this by comparing the swapped values and matching facility names
+  directly (Pipeline/check_mismatch.py) rather than assuming from the
+  aggregate count alone.
+
+**What I verified independently:**
+- Ran the full load script against the real dataset and confirmed all
+  row counts (1,346 facilities / 1,315 with geometry; 6 states / 18
+  senatorial districts / 121 LGAs / 620 wards; 1,222 personnel records
+  after dropping 9 junk rows, 100% facility_id match rate).
+- Ran check_mismatch.py myself and confirmed all 8 transposition cases:
+  facility_name matches personnel_facility_name in every case (same real
+  facility, not an ID collision across different facilities), and the
+  values are a clean lon/lat swap, not random noise.
+- Confirmed the pipeline design means this bug can't propagate: facility_
+  personnel_scores is joined to facilities by facility_id, and downstream
+  spatial work uses facilities.geom (built from facilities_clean.csv),
+  never the .mif file's own coordinates directly.
+
+**Judgment retained:** the decision to trust admin_boundaries.gpkg over
+ward_population.csv for population figures, and the decision that the
+lon/lat transposition finding was safe to leave as a documented note
+(rather than something requiring a code fix, since it doesn't feed into
+the analysis) were both mine, based on reviewing the actual join logic
+and confirming nothing downstream depends on the affected coordinates.
+
+## 2026-08-01 — Build 02_load_db.py: DuckDB loading + cross-source validation
+
+**Commit:** f77a011
+**Files:** Pipeline/02_load_db.py, Pipeline/check_mismatch.py
+
+**What AI assisted with:**
+- Wrote the DuckDB loading pipeline: facilities_clean.csv, all four layers
+  of admin_boundaries.gpkg (states, senatorial_districts, lgas, wards),
+  minimum_staffing_norms.csv, road_network.geojson, and a custom parser
+  for facility_personnel_scores.mid/.mif (a MapInfo pair with no shared
+  key column — the two files must be joined purely by row order, and the
+  parser explicitly errors out rather than silently misaligning data if
+  row counts ever don't match).
+- Identified that ward_population.csv's population figures are fully
+  redundant with (and less complete than) the 'wards' layer in
+  admin_boundaries.gpkg — the gpkg agrees with the CSV on every value the
+  CSV has, and additionally has real values for all 14 wards the CSV is
+  missing. Decided to load population from the gpkg as authoritative and
+  use the CSV only for its extra population_source metadata column.
+- Added an automated coordinate cross-check between facility_personnel_
+  scores' own point geometry and facilities_clean.csv's independently-
+  cleaned coordinates, as a sanity check that facility_id joins were
+  actually joining the same real-world facility.
+- That cross-check surfaced 8 facilities where facility_personnel_
+  scores.mif has longitude and latitude transposed. AI helped confirm
+  this by comparing the swapped values and matching facility names
+  directly (Pipeline/check_mismatch.py) rather than assuming from the
+  aggregate count alone.
+
+**What I verified independently:**
+- Ran the full load script against the real dataset and confirmed all
+  row counts (1,346 facilities / 1,315 with geometry; 6 states / 18
+  senatorial districts / 121 LGAs / 620 wards; 1,222 personnel records
+  after dropping 9 junk rows, 100% facility_id match rate).
+- Ran check_mismatch.py myself and confirmed all 8 transposition cases:
+  facility_name matches personnel_facility_name in every case (same real
+  facility, not an ID collision across different facilities), and the
+  values are a clean lon/lat swap, not random noise.
+- Confirmed the pipeline design means this bug can't propagate: facility_
+  personnel_scores is joined to facilities by facility_id, and downstream
+  spatial work uses facilities.geom (built from facilities_clean.csv),
+  never the .mif file's own coordinates directly.
+
+**Judgment retained:** the decision to trust admin_boundaries.gpkg over
+ward_population.csv for population figures, and the decision that the
+lon/lat transposition finding was safe to leave as a documented note
+(rather than something requiring a code fix, since it doesn't feed into
+the analysis) were both mine, based on reviewing the actual join logic
+and confirming nothing downstream depends on the affected coordinates.
