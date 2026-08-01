@@ -45,3 +45,46 @@ what I verified independently, and where judgment calls were mine alone.
 represent a real, reportable data-quality finding (rather than a residual
 bug) was made by me after reviewing the underlying facility IDs and
 cross-referencing the reference table's remarks column myself.
+
+
+## 2026-08-01 — Resolve duplicate LGA codes using spatial boundaries as tiebreaker
+
+**Commit:** 3e1ade5
+**Files:** Pipeline/01_clean.py, Outputs/facilities_clean.csv, Outputs/reconciliation_log.csv
+
+**What AI assisted with:**
+- After the previous fix, 12/1,346 facilities still disagreed with the
+  reference table on senatorial district, all traced to 3 LGA codes with
+  duplicate/conflicting rows in LGA_SEN_Districts.xlsx. The prior resolution
+  rule preferred whichever duplicate row cited a "gazette" transfer notice
+  in its Remarks column.
+- AI proposed cross-checking this against admin_boundaries.gpkg (the
+  spatial boundary polygons) once it was available, and inspecting it
+  directly revealed that for LGA100 (Tivsano-North), the gazette-cited row
+  ("Tivbetu Central") actually disagreed with both the spatial boundary
+  file AND all 8 facilities' self-reported values (all "Tivbetu North").
+- AI recommended switching the duplicate-resolution rule: prefer the
+  reference-table row whose senatorial_district matches the independent
+  spatial boundaries file, falling back to the gazette-citation heuristic
+  only when the spatial file can't resolve the tie. Rationale: a citation
+  string in a spreadsheet is unverified text, while the spatial boundary
+  file and the facility registry are two independent sources that
+  corroborate each other.
+- Implemented and unit-tested the fix against synthetic data reproducing
+  the conflict before applying it to the real dataset.
+
+**What I verified independently:**
+- Confirmed via fiona that admin_boundaries.gpkg's lgas layer has 121
+  features across 6 states, 18 senatorial districts, and 620 wards, all
+  in EPSG:4326 — checked LGA100, LGA023, and LGA032 directly.
+- Re-ran the full pipeline against the real dataset and confirmed the
+  senatorial-district conflict count dropped to 0/1,346, with all three
+  duplicate LGA codes resolved without disturbing the two (LGA023, LGA032)
+  that were already correct under the old rule.
+
+**Judgment retained:** the decision to trust the spatial boundary file
+over a "cites a gazette" text string as the tiebreaker — rather than the
+reverse, or leaving both duplicate rows unresolved — was mine, made after
+reviewing the underlying evidence (independent corroboration from two
+sources vs. one unverified citation) rather than defaulting to whichever
+looked more official.
