@@ -7,3 +7,6 @@ __pycache__/
 *.duckdb
 Outputs/*.duckdb
 
+Deliverables/
+Deliverables.zip
+.vscode/
