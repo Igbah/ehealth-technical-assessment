@@ -2,3 +2,8 @@ venv/
 __pycache__/
 *.pyc
 .DS_Store
+
+# Generated database files (regenerate via Pipeline/02_load_db.py)
+*.duckdb
+Outputs/*.duckdb
+
